@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GearErrorHelper
+build_property.ProjectDir = C:\Users\Benjamin Fehr\Documents\GitHub\GearErrorHelper\GearErrorHelper\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/Views/BoschErrorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Views.BoschErrorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BoschErrorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BoschErrorPage.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/Views/InternalErrorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Views.InternalErrorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\InternalErrorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\InternalErrorPage.xaml
