@@ -10,23 +10,17 @@ public static class MauiProgram
 			.UseMauiCommunityToolkit()
 			.ConfigureFonts(fonts =>
 			{
-				fonts.AddFont("FontAwesome6FreeBrands.otf", "FontAwesomeBrands");
-				fonts.AddFont("FontAwesome6FreeRegular.otf", "FontAwesomeRegular");
-				fonts.AddFont("FontAwesome6FreeSolid.otf", "FontAwesomeSolid");
 				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+				fonts.AddFont("MaterialIcons-Regular.ttf", "GoogleMaterialFont");
 			});
 
 		builder.Services.AddSingleton<HomeViewModel>();
-
-		builder.Services.AddSingleton<HomePage>();
-
 		builder.Services.AddSingleton<InternalErrorViewModel>();
-
-		builder.Services.AddSingleton<InternalErrorPage>();
-
 		builder.Services.AddSingleton<BoschErrorViewModel>();
 
+		builder.Services.AddSingleton<HomePage>();
+		builder.Services.AddSingleton<InternalErrorPage>();
 		builder.Services.AddSingleton<BoschErrorPage>();
 
 		return builder.Build();
