@@ -59,5 +59,50 @@ namespace GearErrorHelper.Resources.Strings {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die F0001 ähnelt.
+        /// </summary>
+        internal static string F0001 {
+            get {
+                return ResourceManager.GetString("F0001", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die testdescription ähnelt.
+        /// </summary>
+        internal static string F0001Description {
+            get {
+                return ResourceManager.GetString("F0001Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die testhandling ähnelt.
+        /// </summary>
+        internal static string F0001Handling {
+            get {
+                return ResourceManager.GetString("F0001Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die testtext ähnelt.
+        /// </summary>
+        internal static string F0001Text {
+            get {
+                return ResourceManager.GetString("F0001Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die testtitle ähnelt.
+        /// </summary>
+        internal static string F0001Title {
+            get {
+                return ResourceManager.GetString("F0001Title", resourceCulture);
+            }
+        }
     }
 }

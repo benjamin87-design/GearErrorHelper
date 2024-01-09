@@ -6,5 +6,10 @@
 			 xmlns:vm="clr-namespace:GearErrorHelper.ViewModels"
 			 x:Class="GearErrorHelper.Views.InternalErrorPage"
 			 x:DataType="vm:InternalErrorViewModel">
-
+    
+    <StackLayout Orientation="Horizontal">
+        <Picker ItemsSource="{Binding ErrorTypes}" WidthRequest="100" HeightRequest="50" ItemDisplayBinding="{Binding Display}" SelectedItem="{Binding SelectedErrorType}"/>
+        <SearchBar Text="{Binding ErrorSearch, Mode=TwoWay}" WidthRequest="300" HeightRequest="50" SearchCommand="{Binding ErrorSearchChangedCommand}"/>
+    </StackLayout>
+    
 </ContentPage>
