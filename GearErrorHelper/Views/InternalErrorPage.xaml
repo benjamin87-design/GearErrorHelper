@@ -24,8 +24,16 @@
         </StackLayout>
         <StackLayout Margin="0,20,0,0" Orientation="Vertical">
             <StackLayout Orientation="Horizontal">
-                <Label Margin="10" Text="{Binding ErrorTitle}" FontSize="Subtitle" FontAttributes="Bold"/>
-                <Label Margin="10" Text="{Binding ErrorText}" FontSize="Subtitle" FontAttributes="Bold"/>
+                <Label
+                    Margin="10"
+                    FontAttributes="Bold"
+                    FontSize="Subtitle"
+                    Text="{Binding ErrorTitle}" />
+                <Label
+                    Margin="10"
+                    FontAttributes="Bold"
+                    FontSize="Subtitle"
+                    Text="{Binding ErrorText}" />
             </StackLayout>
             <Grid>
                 <Grid.ColumnDefinitions>

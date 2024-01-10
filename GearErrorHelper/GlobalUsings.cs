@@ -1,6 +1,8 @@
 ﻿global using CommunityToolkit.Maui;
 global using CommunityToolkit.Mvvm.ComponentModel;
 global using CommunityToolkit.Mvvm.Input;
+global using GearErrorHelper.Resources.Strings;
+global using GearErrorHelper.Models;
 global using GearErrorHelper.ViewModels;
 global using GearErrorHelper.Views;
 global using System.Collections.ObjectModel;

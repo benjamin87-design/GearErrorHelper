@@ -1,7 +1,4 @@
-﻿using GearErrorHelper.Models;
-using GearErrorHelper.Resources.Strings;
-
-namespace GearErrorHelper.ViewModels;
+﻿namespace GearErrorHelper.ViewModels;
 
 public partial class InternalErrorViewModel : BaseViewModel
 {
