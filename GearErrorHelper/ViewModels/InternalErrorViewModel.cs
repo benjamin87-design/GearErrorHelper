@@ -10,6 +10,8 @@ public partial class InternalErrorViewModel : BaseViewModel
 	[ObservableProperty]
 	private string errorType;
 	[ObservableProperty]
+	private string value;
+	[ObservableProperty]
 	private string display;
 
 	//Error Properties
@@ -62,11 +64,6 @@ public partial class InternalErrorViewModel : BaseViewModel
 			ErrorText = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Text")?.ToString() ?? "";
 			ErrorDescription = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Description")?.ToString() ?? "";
 			ErrorHandling = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Handling")?.ToString() ?? "";
-
-			Debug.WriteLine("error title: " + ErrorTitle);
-			Debug.WriteLine("error text: " + ErrorText);
-			Debug.WriteLine("error description: " + ErrorDescription);
-			Debug.WriteLine("error handling: " + ErrorHandling);
 		}
 	}
 }
