@@ -594,6 +594,9 @@
   <data name="E30Title" xml:space="preserve">
     <value>E30</value>
   </data>
+  <data name="301Text" xml:space="preserve">
+    <value>Axis transfer from the loader faulty</value>
+  </data>
   <data name="36Title" xml:space="preserve">
     <value>E36</value>
   </data>
@@ -1431,6 +1434,288 @@
   <data name="E299Title" xml:space="preserve">
     <value>E299</value>
   </data>
+  <data name="E301Description" xml:space="preserve">
+    <value>Both IF-statements in NC-Program 2Honing not obtained</value>
+  </data>
+  <data name="E301Handling" xml:space="preserve">
+    <value>Check NC-Program-run.</value>
+  </data>
+  <data name="E301Internal" xml:space="preserve">
+    <value>E301Internal</value>
+  </data>
+  <data name="E301Title" xml:space="preserve">
+    <value>E301</value>
+  </data>
+  <data name="E302Description" xml:space="preserve">
+    <value>Variable SD.NCProgSub has no valid value</value>
+  </data>
+  <data name="E302Handling" xml:space="preserve">
+    <value>Check NC-Program-run.</value>
+  </data>
+  <data name="E302Internal" xml:space="preserve">
+    <value>E302Internal</value>
+  </data>
+  <data name="E302Text" xml:space="preserve">
+    <value>No valid value for Sub program-selection</value>
+  </data>
+  <data name="E302Title" xml:space="preserve">
+    <value>E302</value>
+  </data>
+  <data name="E303Description" xml:space="preserve">
+    <value>By Hon Ring- or work piece-measurement can in 3 attempts no valid result obtained</value>
+  </data>
+  <data name="E303Handling" xml:space="preserve">
+    <value>Check parameterization for Hon Ring etc. work piece.</value>
+  </data>
+  <data name="E303Internal" xml:space="preserve">
+    <value>E303Internal</value>
+  </data>
+  <data name="E303Text" xml:space="preserve">
+    <value>3 measurements on one point incorrect</value>
+  </data>
+  <data name="E303Title" xml:space="preserve">
+    <value>E303</value>
+  </data>
+  <data name="E304Description" xml:space="preserve">
+    <value>No Gear dresser on Spindle to the right</value>
+  </data>
+  <data name="E304Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E304Internal" xml:space="preserve">
+    <value>E304Internal</value>
+  </data>
+  <data name="E304Text" xml:space="preserve">
+    <value>Plausibility measurement of the teeth</value>
+  </data>
+  <data name="E304Title" xml:space="preserve">
+    <value>E304</value>
+  </data>
+  <data name="E305Description" xml:space="preserve">
+    <value>No Gear dresser on Spindle to the left</value>
+  </data>
+  <data name="E305Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E305Internal" xml:space="preserve">
+    <value>E305Internal</value>
+  </data>
+  <data name="E305Text" xml:space="preserve">
+    <value>Plausibility measurement of the teeth</value>
+  </data>
+  <data name="E305Title" xml:space="preserve">
+    <value>E305</value>
+  </data>
+  <data name="E306Description" xml:space="preserve">
+    <value>No Head dresser on Spindle to the right</value>
+  </data>
+  <data name="E306Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E306Internal" xml:space="preserve">
+    <value>E306Internal</value>
+  </data>
+  <data name="E306Text" xml:space="preserve">
+    <value>Plausibility measurement the head circle</value>
+  </data>
+  <data name="E306TItle" xml:space="preserve">
+    <value>E306</value>
+  </data>
+  <data name="E307Description" xml:space="preserve">
+    <value>No Head dresser on Spindle to the left</value>
+  </data>
+  <data name="E307Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E307Internal" xml:space="preserve">
+    <value>E307Internal</value>
+  </data>
+  <data name="E307Text" xml:space="preserve">
+    <value>Plausibility measurement the head circle</value>
+  </data>
+  <data name="E307Title" xml:space="preserve">
+    <value>E307</value>
+  </data>
+  <data name="E308Description" xml:space="preserve">
+    <value>No Raw part on Spindle to the right</value>
+  </data>
+  <data name="E308Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E308Internal" xml:space="preserve">
+    <value>E308Internal</value>
+  </data>
+  <data name="E308Text" xml:space="preserve">
+    <value>Plausibility measurement of the teeth</value>
+  </data>
+  <data name="E308Title" xml:space="preserve">
+    <value>E308</value>
+  </data>
+  <data name="E309Description" xml:space="preserve">
+    <value>No Raw part on Spindle to the left</value>
+  </data>
+  <data name="E309Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E309Internal" xml:space="preserve">
+    <value>E309Internal</value>
+  </data>
+  <data name="E309Text" xml:space="preserve">
+    <value>Plausibility measurement of the teeth</value>
+  </data>
+  <data name="E309Title" xml:space="preserve">
+    <value>E309</value>
+  </data>
+  <data name="E310Description" xml:space="preserve">
+    <value>No Raw part on Spindle to the right</value>
+  </data>
+  <data name="E310Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E310Internal" xml:space="preserve">
+    <value>E310Internal</value>
+  </data>
+  <data name="E310Text" xml:space="preserve">
+    <value>Plausibility Honing</value>
+  </data>
+  <data name="E310Title" xml:space="preserve">
+    <value>E310</value>
+  </data>
+  <data name="E311Description" xml:space="preserve">
+    <value>No Raw part on Spindle to the left</value>
+  </data>
+  <data name="E311Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E311Internal" xml:space="preserve">
+    <value>E311Internal</value>
+  </data>
+  <data name="E311Text" xml:space="preserve">
+    <value>Plausibility Honing</value>
+  </data>
+  <data name="E311Title" xml:space="preserve">
+    <value>E311</value>
+  </data>
+  <data name="E312Description" xml:space="preserve">
+    <value>No valid data available</value>
+  </data>
+  <data name="E312Handling" xml:space="preserve">
+    <value>Defective determination initiator or distance to the calculating initiator not OK.</value>
+  </data>
+  <data name="E312Internal" xml:space="preserve">
+    <value>E312Internal</value>
+  </data>
+  <data name="E312Text" xml:space="preserve">
+    <value>Results from the single central initiator right spindle incorrect</value>
+  </data>
+  <data name="E312Title" xml:space="preserve">
+    <value>E312</value>
+  </data>
+  <data name="E313Description" xml:space="preserve">
+    <value>No valid Data available</value>
+  </data>
+  <data name="E313Handling" xml:space="preserve">
+    <value>Calculating initiator defect or distance to determination initiator not OK.</value>
+  </data>
+  <data name="E313Internal" xml:space="preserve">
+    <value>E313Internal</value>
+  </data>
+  <data name="E313Text" xml:space="preserve">
+    <value>Results from calculating initiator left Spindle faulty</value>
+  </data>
+  <data name="E313Title" xml:space="preserve">
+    <value>E313</value>
+  </data>
+  <data name="E314Description" xml:space="preserve">
+    <value>No Gear dresser on Spindle to the right</value>
+  </data>
+  <data name="E314Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E314Internal" xml:space="preserve">
+    <value>E314Internal</value>
+  </data>
+  <data name="E314Text" xml:space="preserve">
+    <value>Plausibility dressing teeth</value>
+  </data>
+  <data name="E314Title" xml:space="preserve">
+    <value>E314</value>
+  </data>
+  <data name="E315Description" xml:space="preserve">
+    <value>No Gear dresser on Spindle to the left</value>
+  </data>
+  <data name="E315Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E315Internal" xml:space="preserve">
+    <value>E315Internal</value>
+  </data>
+  <data name="E315Text" xml:space="preserve">
+    <value>Plausibility dressing teeth</value>
+  </data>
+  <data name="E315Title" xml:space="preserve">
+    <value>E315</value>
+  </data>
+  <data name="E316Description" xml:space="preserve">
+    <value>No Gear dresser on Spindle to the right</value>
+  </data>
+  <data name="E316Handling" xml:space="preserve">
+    <value>Control the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E316Internal" xml:space="preserve">
+    <value>E316Internal</value>
+  </data>
+  <data name="E316Text" xml:space="preserve">
+    <value>Plausibility profiling teeth</value>
+  </data>
+  <data name="E316TItle" xml:space="preserve">
+    <value>E316</value>
+  </data>
+  <data name="E317Description" xml:space="preserve">
+    <value>No Gear dresser on Spindle to the left</value>
+  </data>
+  <data name="E317Handling" xml:space="preserve">
+    <value>Check the Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E317Internal" xml:space="preserve">
+    <value>E317Internal</value>
+  </data>
+  <data name="E317Text" xml:space="preserve">
+    <value>Plausibility profiling teeth</value>
+  </data>
+  <data name="E317Title" xml:space="preserve">
+    <value>E317</value>
+  </data>
+  <data name="E318Description" xml:space="preserve">
+    <value>No Head dresser on Spindle to the right</value>
+  </data>
+  <data name="E318Handling" xml:space="preserve">
+    <value>Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E318Internal" xml:space="preserve">
+    <value>E318Internal</value>
+  </data>
+  <data name="E318Text" xml:space="preserve">
+    <value>Plausibility profiling head</value>
+  </data>
+  <data name="E318Title" xml:space="preserve">
+    <value>E318</value>
+  </data>
+  <data name="E319Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E319Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E319Internal" xml:space="preserve">
+    <value>E319Internal</value>
+  </data>
+  <data name="E319Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E319Title" xml:space="preserve">
+    <value>E319</value>
+  </data>
   <data name="E31Description" xml:space="preserve">
     <value>Spring slide Z2 axis triggered</value>
   </data>
@@ -1445,6 +1730,156 @@
   </data>
   <data name="E31Title" xml:space="preserve">
     <value>E31</value>
+  </data>
+  <data name="E320Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E320Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E320Internal" xml:space="preserve">
+    <value>E320Internal</value>
+  </data>
+  <data name="E320Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E320Title" xml:space="preserve">
+    <value>E320</value>
+  </data>
+  <data name="E321Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E321Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E321Internal" xml:space="preserve">
+    <value>E321Internal</value>
+  </data>
+  <data name="E321Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E321Title" xml:space="preserve">
+    <value>E321</value>
+  </data>
+  <data name="E322Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E322Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E322Internal" xml:space="preserve">
+    <value>E322Internal</value>
+  </data>
+  <data name="E322Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E322Title" xml:space="preserve">
+    <value>E322</value>
+  </data>
+  <data name="E323Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E323Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E323Internal" xml:space="preserve">
+    <value>E323Internal</value>
+  </data>
+  <data name="E323Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E323Title" xml:space="preserve">
+    <value>E323</value>
+  </data>
+  <data name="E324Drescription" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E324Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E324Internal" xml:space="preserve">
+    <value>E324Internal</value>
+  </data>
+  <data name="E324Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E324Title" xml:space="preserve">
+    <value>E324</value>
+  </data>
+  <data name="E325Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E325Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E325Internal" xml:space="preserve">
+    <value>E325Internal</value>
+  </data>
+  <data name="E325Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E325Title" xml:space="preserve">
+    <value>E325</value>
+  </data>
+  <data name="E326Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E326Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E326Internal" xml:space="preserve">
+    <value>E326Internal</value>
+  </data>
+  <data name="E326Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E326Title" xml:space="preserve">
+    <value>E326</value>
+  </data>
+  <data name="E327Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E327Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E327Internal" xml:space="preserve">
+    <value>E327Internal</value>
+  </data>
+  <data name="E327Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E327Title" xml:space="preserve">
+    <value>E327</value>
+  </data>
+  <data name="E328Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E328Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E328Internal" xml:space="preserve">
+    <value>E328Internal</value>
+  </data>
+  <data name="E328Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E328Title" xml:space="preserve">
+    <value>E328</value>
+  </data>
+  <data name="E329Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E329Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E329Internal" xml:space="preserve">
+    <value>E329Internal</value>
+  </data>
+  <data name="E329Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E329Title" xml:space="preserve">
+    <value>E329</value>
   </data>
   <data name="E32Description" xml:space="preserve">
     <value>Spring slide Y5 axis triggered</value>
@@ -1461,6 +1896,156 @@
   <data name="E32Title" xml:space="preserve">
     <value>E32</value>
   </data>
+  <data name="E330Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E330Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E330Internal" xml:space="preserve">
+    <value>E330Internal</value>
+  </data>
+  <data name="E330Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E330Title" xml:space="preserve">
+    <value>E330</value>
+  </data>
+  <data name="E331Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E331Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E331Internal" xml:space="preserve">
+    <value>E331Internal</value>
+  </data>
+  <data name="E331Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E331Title" xml:space="preserve">
+    <value>E331</value>
+  </data>
+  <data name="E332Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E332Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E332Internal" xml:space="preserve">
+    <value>E332Internal</value>
+  </data>
+  <data name="E332Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E332Title" xml:space="preserve">
+    <value>E332</value>
+  </data>
+  <data name="E333Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E333Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E333Internal" xml:space="preserve">
+    <value>E333Internal</value>
+  </data>
+  <data name="E333Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E333Title" xml:space="preserve">
+    <value>E333</value>
+  </data>
+  <data name="E334Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E334Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E334Internal" xml:space="preserve">
+    <value>E334Internal</value>
+  </data>
+  <data name="E334Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E334Title" xml:space="preserve">
+    <value>E334</value>
+  </data>
+  <data name="E335Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E335Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E335Internal" xml:space="preserve">
+    <value>E335Internal</value>
+  </data>
+  <data name="E335Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E335Title" xml:space="preserve">
+    <value>E335</value>
+  </data>
+  <data name="E336Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E336Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E336Internal" xml:space="preserve">
+    <value>E336Internal</value>
+  </data>
+  <data name="E336Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E336Title" xml:space="preserve">
+    <value>E336</value>
+  </data>
+  <data name="E337Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E337Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E337Internal" xml:space="preserve">
+    <value>E337Internal</value>
+  </data>
+  <data name="E337Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E337Title" xml:space="preserve">
+    <value>E337</value>
+  </data>
+  <data name="E338Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E338Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E338Internal" xml:space="preserve">
+    <value>E338Internal</value>
+  </data>
+  <data name="E338Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E338Title" xml:space="preserve">
+    <value>E338</value>
+  </data>
+  <data name="E339Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E339Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E339Internal" xml:space="preserve">
+    <value>E339Internal</value>
+  </data>
+  <data name="E339Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E339Title" xml:space="preserve">
+    <value>E339</value>
+  </data>
   <data name="E33Description" xml:space="preserve">
     <value>Pressure switch high pressure signal is missing after 30s</value>
   </data>
@@ -1475,6 +2060,21 @@
   </data>
   <data name="E33Title" xml:space="preserve">
     <value>E33</value>
+  </data>
+  <data name="E340Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E340Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E340Internal" xml:space="preserve">
+    <value>E340Internal</value>
+  </data>
+  <data name="E340Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E340Title" xml:space="preserve">
+    <value>E340</value>
   </data>
   <data name="E34Description" xml:space="preserve">
     <value>Center sleeve position not equal to the output signal</value>
@@ -1517,6 +2117,21 @@
   </data>
   <data name="E36Text" xml:space="preserve">
     <value>Reference of absolut scale motor not unknown</value>
+  </data>
+  <data name="E399Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E399Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E399Internal" xml:space="preserve">
+    <value>E399Internal</value>
+  </data>
+  <data name="E399Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E399Title" xml:space="preserve">
+    <value>E399</value>
   </data>
   <data name="E39Description" xml:space="preserve">
     <value>One or more pre-sets of load type unknown</value>
