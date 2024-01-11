@@ -747,6 +747,690 @@
   <data name="E113Title" xml:space="preserve">
     <value>E113</value>
   </data>
+  <data name="E114Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E114Handling" xml:space="preserve">
+    <value>Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler</value>
+  </data>
+  <data name="E114Internal" xml:space="preserve">
+    <value>E114Internal</value>
+  </data>
+  <data name="E114Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der X1-Achse hat einen Laufzeitfehler</value>
+  </data>
+  <data name="E114Title" xml:space="preserve">
+    <value>E114</value>
+  </data>
+  <data name="E115Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E115Handling" xml:space="preserve">
+    <value>Antriebsdaten wiederherstellen oder Präwema-Service verständigen.</value>
+  </data>
+  <data name="E115Internal" xml:space="preserve">
+    <value>E115Internal</value>
+  </data>
+  <data name="E115Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der X1-Achse hat kein Projekt geladen</value>
+  </data>
+  <data name="E115Title" xml:space="preserve">
+    <value>E115</value>
+  </data>
+  <data name="E116Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E116Handling" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN).</value>
+  </data>
+  <data name="E116Internal" xml:space="preserve">
+    <value>E116Internal</value>
+  </data>
+  <data name="E116Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z1-Achse nicht im RUN-Mode</value>
+  </data>
+  <data name="E116Title" xml:space="preserve">
+    <value>E116</value>
+  </data>
+  <data name="E117Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt</value>
+  </data>
+  <data name="E117Handling" xml:space="preserve">
+    <value>Breakpoint löschen oder IndraLogic Offline schalten.</value>
+  </data>
+  <data name="E117Internal" xml:space="preserve">
+    <value>E117Internal</value>
+  </data>
+  <data name="E117Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z1-Achse steht auf einem Breakpoint</value>
+  </data>
+  <data name="E117Title" xml:space="preserve">
+    <value>E117</value>
+  </data>
+  <data name="E118Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E118Internal" xml:space="preserve">
+    <value>E118Internal</value>
+  </data>
+  <data name="E118Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z1-Achse hat einen Laufzeitfehler</value>
+  </data>
+  <data name="E118Title" xml:space="preserve">
+    <value>E118</value>
+  </data>
+  <data name="E119Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E119Handling" xml:space="preserve">
+    <value>Antriebsdaten wiederherstellen oder Präwema-Service verständigen.</value>
+  </data>
+  <data name="E119Internal" xml:space="preserve">
+    <value>E119Internal</value>
+  </data>
+  <data name="E119Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z1-Achse hat kein Projekt geladen</value>
+  </data>
+  <data name="E119Title" xml:space="preserve">
+    <value>E119</value>
+  </data>
+  <data name="E120Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E120Handling" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN).</value>
+  </data>
+  <data name="E120Internal" xml:space="preserve">
+    <value>E120Internal</value>
+  </data>
+  <data name="E120Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der X2-Achse nicht im RUN-Mode</value>
+  </data>
+  <data name="E120Title" xml:space="preserve">
+    <value>E120</value>
+  </data>
+  <data name="E121Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt</value>
+  </data>
+  <data name="E121Handling" xml:space="preserve">
+    <value>Breakpoint löschen oder IndraLogic Offline schalten.</value>
+  </data>
+  <data name="E121Internal" xml:space="preserve">
+    <value>E121Internal</value>
+  </data>
+  <data name="E121Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der X2-Achse steht auf einem Breakpoint</value>
+  </data>
+  <data name="E121Title" xml:space="preserve">
+    <value>E121</value>
+  </data>
+  <data name="E122Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E122Handling" xml:space="preserve">
+    <value>Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler</value>
+  </data>
+  <data name="E122Internal" xml:space="preserve">
+    <value>E122Internal</value>
+  </data>
+  <data name="E122Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der X2-Achse hat einen Laufzeitfehler</value>
+  </data>
+  <data name="E122Title" xml:space="preserve">
+    <value>E122</value>
+  </data>
+  <data name="E123Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E123Handling" xml:space="preserve">
+    <value>Antriebsdaten wiederherstellen oder Präwema-Service verständigen.</value>
+  </data>
+  <data name="E123Internal" xml:space="preserve">
+    <value>E123Internal</value>
+  </data>
+  <data name="E123Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der X2-Achse hat kein Projekt geladen</value>
+  </data>
+  <data name="E123Title" xml:space="preserve">
+    <value>E123</value>
+  </data>
+  <data name="E124Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E124Handling" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN).</value>
+  </data>
+  <data name="E124Internal" xml:space="preserve">
+    <value>E124Internal</value>
+  </data>
+  <data name="E124Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z2-Achse nicht im RUN-Mode</value>
+  </data>
+  <data name="E124Title" xml:space="preserve">
+    <value>E124</value>
+  </data>
+  <data name="E125Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt</value>
+  </data>
+  <data name="E125Handling" xml:space="preserve">
+    <value>Breakpoint löschen oder IndraLogic Offline schalten.</value>
+  </data>
+  <data name="E125Internal" xml:space="preserve">
+    <value>E125Internal</value>
+  </data>
+  <data name="E125Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z2-Achse steht auf einem Breakpoint</value>
+  </data>
+  <data name="E125Title" xml:space="preserve">
+    <value>E125</value>
+  </data>
+  <data name="E126Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E126Handling" xml:space="preserve">
+    <value>Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler</value>
+  </data>
+  <data name="E126Internal" xml:space="preserve">
+    <value>E126Internal</value>
+  </data>
+  <data name="E126Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z2-Achse hat einen Laufzeitfehler</value>
+  </data>
+  <data name="E126Title" xml:space="preserve">
+    <value>E126</value>
+  </data>
+  <data name="E127Description" xml:space="preserve">
+    <value>MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min</value>
+  </data>
+  <data name="E127Handling" xml:space="preserve">
+    <value>Antriebsdaten wiederherstellen oder Präwema-Service verständigen.</value>
+  </data>
+  <data name="E127Internal" xml:space="preserve">
+    <value>E127Internal</value>
+  </data>
+  <data name="E127Text" xml:space="preserve">
+    <value>Antriebs-SPS (MLD) der Z2-Achse hat kein Projekt geladen</value>
+  </data>
+  <data name="E127Title" xml:space="preserve">
+    <value>E127</value>
+  </data>
+  <data name="E133Description" xml:space="preserve">
+    <value>Das maximal zulässige Moment während des Honens wurde überschritten</value>
+  </data>
+  <data name="E133Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen.</value>
+  </data>
+  <data name="E133Internal" xml:space="preserve">
+    <value>E133Internal</value>
+  </data>
+  <data name="E133Text" xml:space="preserve">
+    <value>Honring-Überwachung der C1-Achse hat ausgelöst</value>
+  </data>
+  <data name="E133Title" xml:space="preserve">
+    <value>E133</value>
+  </data>
+  <data name="E134Description" xml:space="preserve">
+    <value>Das maximal zulässige Moment während des Honens wurde überschritten</value>
+  </data>
+  <data name="E134Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen.</value>
+  </data>
+  <data name="E134Internal" xml:space="preserve">
+    <value>E134Internal</value>
+  </data>
+  <data name="E134Text" xml:space="preserve">
+    <value>Honring-Überwachung der C2-Achse hat ausgelöst</value>
+  </data>
+  <data name="E134Title" xml:space="preserve">
+    <value>E134</value>
+  </data>
+  <data name="E135Description" xml:space="preserve">
+    <value>Das maximal zulässige Moment während des Honens wurde überschritten</value>
+  </data>
+  <data name="E135Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen.</value>
+  </data>
+  <data name="E135Internal" xml:space="preserve">
+    <value>E135Internal</value>
+  </data>
+  <data name="E135Text" xml:space="preserve">
+    <value>Honring-Überwachung der X1-Achse hat ausgelöst</value>
+  </data>
+  <data name="E135Title" xml:space="preserve">
+    <value>E135</value>
+  </data>
+  <data name="E136Description" xml:space="preserve">
+    <value>Das maximal zulässige Moment während des Honens wurde überschritten</value>
+  </data>
+  <data name="E136Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen.</value>
+  </data>
+  <data name="E136Internal" xml:space="preserve">
+    <value>E136Internal</value>
+  </data>
+  <data name="E136Text" xml:space="preserve">
+    <value>Honring-Überwachung der Z1-Achse hat ausgelöst</value>
+  </data>
+  <data name="E136Title" xml:space="preserve">
+    <value>E136</value>
+  </data>
+  <data name="E137Description" xml:space="preserve">
+    <value>Das maximal zulässige Moment während des Honens wurde überschritten</value>
+  </data>
+  <data name="E137Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen.</value>
+  </data>
+  <data name="E137Internal" xml:space="preserve">
+    <value>E137Internal</value>
+  </data>
+  <data name="E137Text" xml:space="preserve">
+    <value>Honring-Überwachung der X2-Achse hat ausgelöst</value>
+  </data>
+  <data name="E137Title" xml:space="preserve">
+    <value>E137</value>
+  </data>
+  <data name="E138Description" xml:space="preserve">
+    <value>Das maximal zulässige Moment während des Honens wurde überschritten</value>
+  </data>
+  <data name="E138Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen.</value>
+  </data>
+  <data name="E138Internal" xml:space="preserve">
+    <value>E138Internal</value>
+  </data>
+  <data name="E138Text" xml:space="preserve">
+    <value>Honring-Überwachung der Z2-Achse hat ausgelöst</value>
+  </data>
+  <data name="E138Title" xml:space="preserve">
+    <value>E138</value>
+  </data>
+  <data name="E140Description" xml:space="preserve">
+    <value>Die Pinole drückte während des Honens nicht mit der erforderlichen Kraft gegen die Z1-Achse</value>
+  </data>
+  <data name="E140Handling" xml:space="preserve">
+    <value>Pinolen-Einstellung überprüfen; Einstellung der Anlagekontrolle überprüfen.</value>
+  </data>
+  <data name="E140Internal" xml:space="preserve">
+    <value>E140Internal</value>
+  </data>
+  <data name="E140Text" xml:space="preserve">
+    <value>Anlagekontrolle Pinole der Z1-Achse hat ausgelöst</value>
+  </data>
+  <data name="E140Title" xml:space="preserve">
+    <value>E140</value>
+  </data>
+  <data name="E141Description" xml:space="preserve">
+    <value>Die Pinole drückte während des Honens nicht mit der erforderlichen Kraft gegen die Z2-Achse</value>
+  </data>
+  <data name="E141Handling" xml:space="preserve">
+    <value>Pinolen-Einstellung überprüfen; Einstellung der Anlagekontrolle überprüfen.</value>
+  </data>
+  <data name="E141Internal" xml:space="preserve">
+    <value>E141Internal</value>
+  </data>
+  <data name="E141Text" xml:space="preserve">
+    <value>Anlagekontrolle Pinole der Z2-Achse hat ausgelöst</value>
+  </data>
+  <data name="E141Title" xml:space="preserve">
+    <value>E141</value>
+  </data>
+  <data name="E142Description" xml:space="preserve">
+    <value>Das minimal zulässige Moment während des Honens wurde unterschritten</value>
+  </data>
+  <data name="E142Handling" xml:space="preserve">
+    <value>Honring überprüfen; Einstellung der Honring-Überwachung überprüfen.</value>
+  </data>
+  <data name="E142Internal" xml:space="preserve">
+    <value>E142Internal</value>
+  </data>
+  <data name="E142Text" xml:space="preserve">
+    <value>Drehmoment der X1-Achse bei Honbearbeitung zu gering</value>
+  </data>
+  <data name="E142Title" xml:space="preserve">
+    <value>E142</value>
+  </data>
+  <data name="E143Description" xml:space="preserve">
+    <value>Das minimal zulässige Moment während des Honens wurde unterschritten</value>
+  </data>
+  <data name="E143Handling" xml:space="preserve">
+    <value>Honring überprüfen; Einstellung der Honring-Überwachung überprüfen.</value>
+  </data>
+  <data name="E143Internal" xml:space="preserve">
+    <value>E143Internal</value>
+  </data>
+  <data name="E143Text" xml:space="preserve">
+    <value>Drehmoment der X2-Achse bei Honbearbeitung zu gering</value>
+  </data>
+  <data name="E150Description" xml:space="preserve">
+    <value>Externe Schwingungsanalyse hat einen Honringbruch erkannt</value>
+  </data>
+  <data name="E150Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen.</value>
+  </data>
+  <data name="E150Internal" xml:space="preserve">
+    <value>E150Internal</value>
+  </data>
+  <data name="E150Text" xml:space="preserve">
+    <value>Sensor - Werkstückspindel: Stoßalarm - Hinweis auf Honringbruch C1-Achse</value>
+  </data>
+  <data name="E150Title" xml:space="preserve">
+    <value>E150</value>
+  </data>
+  <data name="E151Description" xml:space="preserve">
+    <value>Externe Schwingungsanalyse hat einen Honringbruch erkannt</value>
+  </data>
+  <data name="E151Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen.</value>
+  </data>
+  <data name="E151Internal" xml:space="preserve">
+    <value>E151Internal</value>
+  </data>
+  <data name="E151Text" xml:space="preserve">
+    <value>Sensor - Werkstückspindel: Stoßalarm - Hinweis auf Honringbruch C2-Achse</value>
+  </data>
+  <data name="E151Title" xml:space="preserve">
+    <value>E151</value>
+  </data>
+  <data name="E152Description" xml:space="preserve">
+    <value>Externe Schwingungsanalyse hat einen Honringbruch erkannt</value>
+  </data>
+  <data name="E152Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen.</value>
+  </data>
+  <data name="E152Internal" xml:space="preserve">
+    <value>E152Internal</value>
+  </data>
+  <data name="E152Text" xml:space="preserve">
+    <value>Sensor - Reitstock: Stoßalarm - Hinweis auf Honringbruch Reitstock(Pinole)</value>
+  </data>
+  <data name="E152Title" xml:space="preserve">
+    <value>E152</value>
+  </data>
+  <data name="E153Description" xml:space="preserve">
+    <value>Externe Schwingungsanalyse hat einen Honringbruch erkannt</value>
+  </data>
+  <data name="E153Handling" xml:space="preserve">
+    <value>Werkstück und Honring überprüfen.</value>
+  </data>
+  <data name="E153Internal" xml:space="preserve">
+    <value>E153Internal</value>
+  </data>
+  <data name="E153Text" xml:space="preserve">
+    <value>Sensor - Honkopf: Stoßalarm - Hinweis auf Honringbruch B-Achse</value>
+  </data>
+  <data name="E153Title" xml:space="preserve">
+    <value>E153</value>
+  </data>
+  <data name="E201Description" xml:space="preserve">
+    <value>Konstantabtrag nicht angewählt/verfügbar</value>
+  </data>
+  <data name="E201Handling" xml:space="preserve">
+    <value>Konstantabtrag anwählen falls Prüfrad vorhanden.</value>
+  </data>
+  <data name="E201Internal" xml:space="preserve">
+    <value>E201Internal</value>
+  </data>
+  <data name="E201Text" xml:space="preserve">
+    <value>Prüfrad Kalibrieren nicht möglich</value>
+  </data>
+  <data name="E201Title" xml:space="preserve">
+    <value>E201</value>
+  </data>
+  <data name="E202Description" xml:space="preserve">
+    <value>Variable SD.NCProgCmd hat keinen gültigen Wert</value>
+  </data>
+  <data name="E202Handling" xml:space="preserve">
+    <value>Hauptprogramm wählen.</value>
+  </data>
+  <data name="E202Internal" xml:space="preserve">
+    <value>E202Internal</value>
+  </data>
+  <data name="E202Text" xml:space="preserve">
+    <value>Kein gültiger Wert für Hauptprogramm-Anwahl</value>
+  </data>
+  <data name="E202Title" xml:space="preserve">
+    <value>E202</value>
+  </data>
+  <data name="E203Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E203Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E203Internal" xml:space="preserve">
+    <value>E203Internal</value>
+  </data>
+  <data name="E203Text" xml:space="preserve">
+    <value>Drehmoment der B-Achse nicht OK</value>
+  </data>
+  <data name="E203Title" xml:space="preserve">
+    <value>E203</value>
+  </data>
+  <data name="E204Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschalaen</value>
+  </data>
+  <data name="E204Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E204Internal" xml:space="preserve">
+    <value>E204Internal</value>
+  </data>
+  <data name="E204Text" xml:space="preserve">
+    <value>Drehmoment der U-Achse nicht OK</value>
+  </data>
+  <data name="E204Title" xml:space="preserve">
+    <value>E204</value>
+  </data>
+  <data name="E205Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E205Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E205Internal" xml:space="preserve">
+    <value>E205Internal</value>
+  </data>
+  <data name="E205Text" xml:space="preserve">
+    <value>Drehmoment der C1-Achse nicht OK</value>
+  </data>
+  <data name="E205Title" xml:space="preserve">
+    <value>E205</value>
+  </data>
+  <data name="E206Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E206Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E206Internal" xml:space="preserve">
+    <value>E206Internal</value>
+  </data>
+  <data name="E206Text" xml:space="preserve">
+    <value>Drehmoment der X1-Achse nicht OK</value>
+  </data>
+  <data name="E206Title" xml:space="preserve">
+    <value>E206</value>
+  </data>
+  <data name="E207Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E207Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E207Internal" xml:space="preserve">
+    <value>E207Internal</value>
+  </data>
+  <data name="E207Text" xml:space="preserve">
+    <value>Drehmoment der Z1-Achse nicht OK</value>
+  </data>
+  <data name="E207Title" xml:space="preserve">
+    <value>E207</value>
+  </data>
+  <data name="E208Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E208Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E208Internal" xml:space="preserve">
+    <value>E208Internal</value>
+  </data>
+  <data name="E208Text" xml:space="preserve">
+    <value>Drehmoment der C2-Achse nicht OK</value>
+  </data>
+  <data name="E208Title" xml:space="preserve">
+    <value>E208</value>
+  </data>
+  <data name="E209Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E209Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E209Internal" xml:space="preserve">
+    <value>E209Internal</value>
+  </data>
+  <data name="E209Text" xml:space="preserve">
+    <value>Drehmoment der X2-Achse nicht OK</value>
+  </data>
+  <data name="E209Title" xml:space="preserve">
+    <value>E209</value>
+  </data>
+  <data name="E210Description" xml:space="preserve">
+    <value>Umschalten vom Drehmoment fehlgeschlagen</value>
+  </data>
+  <data name="E210Handling" xml:space="preserve">
+    <value>Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten</value>
+  </data>
+  <data name="E210Internal" xml:space="preserve">
+    <value>E210Internal</value>
+  </data>
+  <data name="E210Text" xml:space="preserve">
+    <value>Drehmoment der Z2-Achse nicht OK</value>
+  </data>
+  <data name="E210Title" xml:space="preserve">
+    <value>E210</value>
+  </data>
+  <data name="E211Description" xml:space="preserve">
+    <value>Position außerhalb des programmierbaren Bereiches</value>
+  </data>
+  <data name="E211Handling" xml:space="preserve">
+    <value>Position überprüfen ggf. neu einrichten</value>
+  </data>
+  <data name="E211Internal" xml:space="preserve">
+    <value>E211Internal</value>
+  </data>
+  <data name="E211Text" xml:space="preserve">
+    <value>Position Einmittelsensor X1-Achse NIO</value>
+  </data>
+  <data name="E211Title" xml:space="preserve">
+    <value>E211</value>
+  </data>
+  <data name="E212Description" xml:space="preserve">
+    <value>Position außerhalb des programmierbaren Bereiches</value>
+  </data>
+  <data name="E212Handling" xml:space="preserve">
+    <value>Position überprüfen ggf. neu einrichten</value>
+  </data>
+  <data name="E212Internal" xml:space="preserve">
+    <value>E212Internal</value>
+  </data>
+  <data name="E212Text" xml:space="preserve">
+    <value>Position Einmittelsensor Z1-Achse NIO</value>
+  </data>
+  <data name="E212Title" xml:space="preserve">
+    <value>E212</value>
+  </data>
+  <data name="E213Description" xml:space="preserve">
+    <value>Position außerhalb des programmierbaren Bereiches</value>
+  </data>
+  <data name="E213Handling" xml:space="preserve">
+    <value>Position überprüfen ggf. neu einrichten</value>
+  </data>
+  <data name="E213Internal" xml:space="preserve">
+    <value>E213Internal</value>
+  </data>
+  <data name="E213Text" xml:space="preserve">
+    <value>Position Einmittelsensor X2-Achse NIO</value>
+  </data>
+  <data name="E213Title" xml:space="preserve">
+    <value>E213</value>
+  </data>
+  <data name="E214Description" xml:space="preserve">
+    <value>Position außerhalb des programmierbaren Bereiches</value>
+  </data>
+  <data name="E214Handling" xml:space="preserve">
+    <value>Position überprüfen ggf. neu einrichten</value>
+  </data>
+  <data name="E214Internal" xml:space="preserve">
+    <value>E214Internal</value>
+  </data>
+  <data name="E214Text" xml:space="preserve">
+    <value>Position Einmittelsensor Z2-Achse NIO</value>
+  </data>
+  <data name="E214Title" xml:space="preserve">
+    <value>E214</value>
+  </data>
+  <data name="E215Description" xml:space="preserve">
+    <value>Abritcher anstatt VSD angewählt</value>
+  </data>
+  <data name="E215Handling" xml:space="preserve">
+    <value>Spindel oder Abrichtgreiferbelegung prüfen</value>
+  </data>
+  <data name="E215Internal" xml:space="preserve">
+    <value>E215Internal</value>
+  </data>
+  <data name="E215Text" xml:space="preserve">
+    <value>Plausibilität VSD Handling rechts</value>
+  </data>
+  <data name="E215Title" xml:space="preserve">
+    <value>E215</value>
+  </data>
+  <data name="E216Description" xml:space="preserve">
+    <value>Abritcher anstatt VSD angewählt</value>
+  </data>
+  <data name="E216Handling" xml:space="preserve">
+    <value>Spindel oder Abrichtgreiferbelegung prüfen</value>
+  </data>
+  <data name="E216Internal" xml:space="preserve">
+    <value>E216Internal</value>
+  </data>
+  <data name="E216Text" xml:space="preserve">
+    <value>Plausibilität VSD Handling links</value>
+  </data>
+  <data name="E216Title" xml:space="preserve">
+    <value>E216</value>
+  </data>
+  <data name="E217Description" xml:space="preserve">
+    <value>VSD selected instead of DDG</value>
+  </data>
+  <data name="E217Handling" xml:space="preserve">
+    <value>Check spindle or dresser gripper status.</value>
+  </data>
+  <data name="E217Internal" xml:space="preserve">
+    <value>E217Internal</value>
+  </data>
+  <data name="E217Text" xml:space="preserve">
+    <value>Plausibility dresser handling right</value>
+  </data>
+  <data name="E217Title" xml:space="preserve">
+    <value>E217</value>
+  </data>
+  <data name="E299Description" xml:space="preserve">
+    <value>Programm wurde mit M32 abgebrochen ohne genaue NC-Diagnose</value>
+  </data>
+  <data name="E299Handling" xml:space="preserve">
+    <value>Check the NC-Program or restart it.</value>
+  </data>
+  <data name="E299Internal" xml:space="preserve">
+    <value>E299Internal</value>
+  </data>
+  <data name="E299Text" xml:space="preserve">
+    <value>Stop NC-Program with M32</value>
+  </data>
+  <data name="E299Title" xml:space="preserve">
+    <value>E299</value>
+  </data>
   <data name="E31Description" xml:space="preserve">
     <value>Spring slide Z2 axis triggered</value>
   </data>
@@ -1508,5 +2192,8 @@
   </data>
   <data name="E89Title" xml:space="preserve">
     <value>E89</value>
+  </data>
+  <data name="EE118Handling" xml:space="preserve">
+    <value>Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler</value>
   </data>
 </root>

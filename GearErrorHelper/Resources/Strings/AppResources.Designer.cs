@@ -646,6 +646,267 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E114Description {
+            get {
+                return ResourceManager.GetString("E114Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E114Handling {
+            get {
+                return ResourceManager.GetString("E114Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E114Internal ähnelt.
+        /// </summary>
+        internal static string E114Internal {
+            get {
+                return ResourceManager.GetString("E114Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X1-Achse hat einen Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E114Text {
+            get {
+                return ResourceManager.GetString("E114Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E114 ähnelt.
+        /// </summary>
+        internal static string E114Title {
+            get {
+                return ResourceManager.GetString("E114Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E115Description {
+            get {
+                return ResourceManager.GetString("E115Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        /// </summary>
+        internal static string E115Handling {
+            get {
+                return ResourceManager.GetString("E115Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E115Internal ähnelt.
+        /// </summary>
+        internal static string E115Internal {
+            get {
+                return ResourceManager.GetString("E115Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X1-Achse hat kein Projekt geladen ähnelt.
+        /// </summary>
+        internal static string E115Text {
+            get {
+                return ResourceManager.GetString("E115Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E115 ähnelt.
+        /// </summary>
+        internal static string E115Title {
+            get {
+                return ResourceManager.GetString("E115Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E116Description {
+            get {
+                return ResourceManager.GetString("E116Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN). ähnelt.
+        /// </summary>
+        internal static string E116Handling {
+            get {
+                return ResourceManager.GetString("E116Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E116Internal ähnelt.
+        /// </summary>
+        internal static string E116Internal {
+            get {
+                return ResourceManager.GetString("E116Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse nicht im RUN-Mode ähnelt.
+        /// </summary>
+        internal static string E116Text {
+            get {
+                return ResourceManager.GetString("E116Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E116 ähnelt.
+        /// </summary>
+        internal static string E116Title {
+            get {
+                return ResourceManager.GetString("E116Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt ähnelt.
+        /// </summary>
+        internal static string E117Description {
+            get {
+                return ResourceManager.GetString("E117Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Breakpoint löschen oder IndraLogic Offline schalten. ähnelt.
+        /// </summary>
+        internal static string E117Handling {
+            get {
+                return ResourceManager.GetString("E117Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E117Internal ähnelt.
+        /// </summary>
+        internal static string E117Internal {
+            get {
+                return ResourceManager.GetString("E117Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse steht auf einem Breakpoint ähnelt.
+        /// </summary>
+        internal static string E117Text {
+            get {
+                return ResourceManager.GetString("E117Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E117 ähnelt.
+        /// </summary>
+        internal static string E117Title {
+            get {
+                return ResourceManager.GetString("E117Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E118Description {
+            get {
+                return ResourceManager.GetString("E118Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E118Internal ähnelt.
+        /// </summary>
+        internal static string E118Internal {
+            get {
+                return ResourceManager.GetString("E118Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse hat einen Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E118Text {
+            get {
+                return ResourceManager.GetString("E118Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E118 ähnelt.
+        /// </summary>
+        internal static string E118Title {
+            get {
+                return ResourceManager.GetString("E118Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E119Description {
+            get {
+                return ResourceManager.GetString("E119Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        /// </summary>
+        internal static string E119Handling {
+            get {
+                return ResourceManager.GetString("E119Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E119Internal ähnelt.
+        /// </summary>
+        internal static string E119Internal {
+            get {
+                return ResourceManager.GetString("E119Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse hat kein Projekt geladen ähnelt.
+        /// </summary>
+        internal static string E119Text {
+            get {
+                return ResourceManager.GetString("E119Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E119 ähnelt.
+        /// </summary>
+        internal static string E119Title {
+            get {
+                return ResourceManager.GetString("E119Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Proximity switch splash guard is not present ähnelt.
         /// </summary>
         internal static string E11Description {
@@ -687,6 +948,366 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E11Title {
             get {
                 return ResourceManager.GetString("E11Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E120Description {
+            get {
+                return ResourceManager.GetString("E120Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN). ähnelt.
+        /// </summary>
+        internal static string E120Handling {
+            get {
+                return ResourceManager.GetString("E120Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E120Internal ähnelt.
+        /// </summary>
+        internal static string E120Internal {
+            get {
+                return ResourceManager.GetString("E120Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse nicht im RUN-Mode ähnelt.
+        /// </summary>
+        internal static string E120Text {
+            get {
+                return ResourceManager.GetString("E120Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E120 ähnelt.
+        /// </summary>
+        internal static string E120Title {
+            get {
+                return ResourceManager.GetString("E120Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt ähnelt.
+        /// </summary>
+        internal static string E121Description {
+            get {
+                return ResourceManager.GetString("E121Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Breakpoint löschen oder IndraLogic Offline schalten. ähnelt.
+        /// </summary>
+        internal static string E121Handling {
+            get {
+                return ResourceManager.GetString("E121Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E121Internal ähnelt.
+        /// </summary>
+        internal static string E121Internal {
+            get {
+                return ResourceManager.GetString("E121Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse steht auf einem Breakpoint ähnelt.
+        /// </summary>
+        internal static string E121Text {
+            get {
+                return ResourceManager.GetString("E121Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E121 ähnelt.
+        /// </summary>
+        internal static string E121Title {
+            get {
+                return ResourceManager.GetString("E121Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E122Description {
+            get {
+                return ResourceManager.GetString("E122Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E122Handling {
+            get {
+                return ResourceManager.GetString("E122Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E122Internal ähnelt.
+        /// </summary>
+        internal static string E122Internal {
+            get {
+                return ResourceManager.GetString("E122Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse hat einen Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E122Text {
+            get {
+                return ResourceManager.GetString("E122Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E122 ähnelt.
+        /// </summary>
+        internal static string E122Title {
+            get {
+                return ResourceManager.GetString("E122Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E123Description {
+            get {
+                return ResourceManager.GetString("E123Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        /// </summary>
+        internal static string E123Handling {
+            get {
+                return ResourceManager.GetString("E123Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E123Internal ähnelt.
+        /// </summary>
+        internal static string E123Internal {
+            get {
+                return ResourceManager.GetString("E123Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse hat kein Projekt geladen ähnelt.
+        /// </summary>
+        internal static string E123Text {
+            get {
+                return ResourceManager.GetString("E123Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E123 ähnelt.
+        /// </summary>
+        internal static string E123Title {
+            get {
+                return ResourceManager.GetString("E123Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E124Description {
+            get {
+                return ResourceManager.GetString("E124Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN). ähnelt.
+        /// </summary>
+        internal static string E124Handling {
+            get {
+                return ResourceManager.GetString("E124Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E124Internal ähnelt.
+        /// </summary>
+        internal static string E124Internal {
+            get {
+                return ResourceManager.GetString("E124Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse nicht im RUN-Mode ähnelt.
+        /// </summary>
+        internal static string E124Text {
+            get {
+                return ResourceManager.GetString("E124Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E124 ähnelt.
+        /// </summary>
+        internal static string E124Title {
+            get {
+                return ResourceManager.GetString("E124Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt ähnelt.
+        /// </summary>
+        internal static string E125Description {
+            get {
+                return ResourceManager.GetString("E125Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Breakpoint löschen oder IndraLogic Offline schalten. ähnelt.
+        /// </summary>
+        internal static string E125Handling {
+            get {
+                return ResourceManager.GetString("E125Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E125Internal ähnelt.
+        /// </summary>
+        internal static string E125Internal {
+            get {
+                return ResourceManager.GetString("E125Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse steht auf einem Breakpoint ähnelt.
+        /// </summary>
+        internal static string E125Text {
+            get {
+                return ResourceManager.GetString("E125Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E125 ähnelt.
+        /// </summary>
+        internal static string E125Title {
+            get {
+                return ResourceManager.GetString("E125Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E126Description {
+            get {
+                return ResourceManager.GetString("E126Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E126Handling {
+            get {
+                return ResourceManager.GetString("E126Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E126Internal ähnelt.
+        /// </summary>
+        internal static string E126Internal {
+            get {
+                return ResourceManager.GetString("E126Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse hat einen Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string E126Text {
+            get {
+                return ResourceManager.GetString("E126Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E126 ähnelt.
+        /// </summary>
+        internal static string E126Title {
+            get {
+                return ResourceManager.GetString("E126Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        /// </summary>
+        internal static string E127Description {
+            get {
+                return ResourceManager.GetString("E127Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        /// </summary>
+        internal static string E127Handling {
+            get {
+                return ResourceManager.GetString("E127Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E127Internal ähnelt.
+        /// </summary>
+        internal static string E127Internal {
+            get {
+                return ResourceManager.GetString("E127Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse hat kein Projekt geladen ähnelt.
+        /// </summary>
+        internal static string E127Text {
+            get {
+                return ResourceManager.GetString("E127Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E127 ähnelt.
+        /// </summary>
+        internal static string E127Title {
+            get {
+                return ResourceManager.GetString("E127Title", resourceCulture);
             }
         }
         
@@ -736,6 +1357,276 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        /// </summary>
+        internal static string E133Description {
+            get {
+                return ResourceManager.GetString("E133Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        /// </summary>
+        internal static string E133Handling {
+            get {
+                return ResourceManager.GetString("E133Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E133Internal ähnelt.
+        /// </summary>
+        internal static string E133Internal {
+            get {
+                return ResourceManager.GetString("E133Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der C1-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E133Text {
+            get {
+                return ResourceManager.GetString("E133Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E133 ähnelt.
+        /// </summary>
+        internal static string E133Title {
+            get {
+                return ResourceManager.GetString("E133Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        /// </summary>
+        internal static string E134Description {
+            get {
+                return ResourceManager.GetString("E134Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        /// </summary>
+        internal static string E134Handling {
+            get {
+                return ResourceManager.GetString("E134Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E134Internal ähnelt.
+        /// </summary>
+        internal static string E134Internal {
+            get {
+                return ResourceManager.GetString("E134Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der C2-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E134Text {
+            get {
+                return ResourceManager.GetString("E134Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E134 ähnelt.
+        /// </summary>
+        internal static string E134Title {
+            get {
+                return ResourceManager.GetString("E134Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        /// </summary>
+        internal static string E135Description {
+            get {
+                return ResourceManager.GetString("E135Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        /// </summary>
+        internal static string E135Handling {
+            get {
+                return ResourceManager.GetString("E135Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E135Internal ähnelt.
+        /// </summary>
+        internal static string E135Internal {
+            get {
+                return ResourceManager.GetString("E135Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der X1-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E135Text {
+            get {
+                return ResourceManager.GetString("E135Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E135 ähnelt.
+        /// </summary>
+        internal static string E135Title {
+            get {
+                return ResourceManager.GetString("E135Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        /// </summary>
+        internal static string E136Description {
+            get {
+                return ResourceManager.GetString("E136Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        /// </summary>
+        internal static string E136Handling {
+            get {
+                return ResourceManager.GetString("E136Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E136Internal ähnelt.
+        /// </summary>
+        internal static string E136Internal {
+            get {
+                return ResourceManager.GetString("E136Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der Z1-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E136Text {
+            get {
+                return ResourceManager.GetString("E136Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E136 ähnelt.
+        /// </summary>
+        internal static string E136Title {
+            get {
+                return ResourceManager.GetString("E136Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        /// </summary>
+        internal static string E137Description {
+            get {
+                return ResourceManager.GetString("E137Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        /// </summary>
+        internal static string E137Handling {
+            get {
+                return ResourceManager.GetString("E137Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E137Internal ähnelt.
+        /// </summary>
+        internal static string E137Internal {
+            get {
+                return ResourceManager.GetString("E137Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der X2-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E137Text {
+            get {
+                return ResourceManager.GetString("E137Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E137 ähnelt.
+        /// </summary>
+        internal static string E137Title {
+            get {
+                return ResourceManager.GetString("E137Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        /// </summary>
+        internal static string E138Description {
+            get {
+                return ResourceManager.GetString("E138Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        /// </summary>
+        internal static string E138Handling {
+            get {
+                return ResourceManager.GetString("E138Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E138Internal ähnelt.
+        /// </summary>
+        internal static string E138Internal {
+            get {
+                return ResourceManager.GetString("E138Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der Z2-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E138Text {
+            get {
+                return ResourceManager.GetString("E138Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E138 ähnelt.
+        /// </summary>
+        internal static string E138Title {
+            get {
+                return ResourceManager.GetString("E138Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Pressure switch reports falling pressure ähnelt.
         /// </summary>
         internal static string E13Description {
@@ -781,6 +1672,177 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Die Pinole drückte während des Honens nicht mit der erforderlichen Kraft gegen die Z1-Achse ähnelt.
+        /// </summary>
+        internal static string E140Description {
+            get {
+                return ResourceManager.GetString("E140Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Pinolen-Einstellung überprüfen; Einstellung der Anlagekontrolle überprüfen. ähnelt.
+        /// </summary>
+        internal static string E140Handling {
+            get {
+                return ResourceManager.GetString("E140Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E140Internal ähnelt.
+        /// </summary>
+        internal static string E140Internal {
+            get {
+                return ResourceManager.GetString("E140Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Anlagekontrolle Pinole der Z1-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E140Text {
+            get {
+                return ResourceManager.GetString("E140Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E140 ähnelt.
+        /// </summary>
+        internal static string E140Title {
+            get {
+                return ResourceManager.GetString("E140Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Die Pinole drückte während des Honens nicht mit der erforderlichen Kraft gegen die Z2-Achse ähnelt.
+        /// </summary>
+        internal static string E141Description {
+            get {
+                return ResourceManager.GetString("E141Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Pinolen-Einstellung überprüfen; Einstellung der Anlagekontrolle überprüfen. ähnelt.
+        /// </summary>
+        internal static string E141Handling {
+            get {
+                return ResourceManager.GetString("E141Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E141Internal ähnelt.
+        /// </summary>
+        internal static string E141Internal {
+            get {
+                return ResourceManager.GetString("E141Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Anlagekontrolle Pinole der Z2-Achse hat ausgelöst ähnelt.
+        /// </summary>
+        internal static string E141Text {
+            get {
+                return ResourceManager.GetString("E141Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E141 ähnelt.
+        /// </summary>
+        internal static string E141Title {
+            get {
+                return ResourceManager.GetString("E141Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das minimal zulässige Moment während des Honens wurde unterschritten ähnelt.
+        /// </summary>
+        internal static string E142Description {
+            get {
+                return ResourceManager.GetString("E142Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring überprüfen; Einstellung der Honring-Überwachung überprüfen. ähnelt.
+        /// </summary>
+        internal static string E142Handling {
+            get {
+                return ResourceManager.GetString("E142Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E142Internal ähnelt.
+        /// </summary>
+        internal static string E142Internal {
+            get {
+                return ResourceManager.GetString("E142Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X1-Achse bei Honbearbeitung zu gering ähnelt.
+        /// </summary>
+        internal static string E142Text {
+            get {
+                return ResourceManager.GetString("E142Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E142 ähnelt.
+        /// </summary>
+        internal static string E142Title {
+            get {
+                return ResourceManager.GetString("E142Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Das minimal zulässige Moment während des Honens wurde unterschritten ähnelt.
+        /// </summary>
+        internal static string E143Description {
+            get {
+                return ResourceManager.GetString("E143Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Honring überprüfen; Einstellung der Honring-Überwachung überprüfen. ähnelt.
+        /// </summary>
+        internal static string E143Handling {
+            get {
+                return ResourceManager.GetString("E143Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E143Internal ähnelt.
+        /// </summary>
+        internal static string E143Internal {
+            get {
+                return ResourceManager.GetString("E143Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X2-Achse bei Honbearbeitung zu gering ähnelt.
+        /// </summary>
+        internal static string E143Text {
+            get {
+                return ResourceManager.GetString("E143Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Pressure switch reports failling pressure ähnelt.
         /// </summary>
         internal static string E14Description {
@@ -822,6 +1884,186 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E14Title {
             get {
                 return ResourceManager.GetString("E14Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        /// </summary>
+        internal static string E150Description {
+            get {
+                return ResourceManager.GetString("E150Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        /// </summary>
+        internal static string E150Handling {
+            get {
+                return ResourceManager.GetString("E150Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E150Internal ähnelt.
+        /// </summary>
+        internal static string E150Internal {
+            get {
+                return ResourceManager.GetString("E150Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Werkstückspindel: Stoßalarm - Hinweis auf Honringbruch C1-Achse ähnelt.
+        /// </summary>
+        internal static string E150Text {
+            get {
+                return ResourceManager.GetString("E150Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E150 ähnelt.
+        /// </summary>
+        internal static string E150Title {
+            get {
+                return ResourceManager.GetString("E150Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        /// </summary>
+        internal static string E151Description {
+            get {
+                return ResourceManager.GetString("E151Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        /// </summary>
+        internal static string E151Handling {
+            get {
+                return ResourceManager.GetString("E151Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E151Internal ähnelt.
+        /// </summary>
+        internal static string E151Internal {
+            get {
+                return ResourceManager.GetString("E151Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Werkstückspindel: Stoßalarm - Hinweis auf Honringbruch C2-Achse ähnelt.
+        /// </summary>
+        internal static string E151Text {
+            get {
+                return ResourceManager.GetString("E151Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E151 ähnelt.
+        /// </summary>
+        internal static string E151Title {
+            get {
+                return ResourceManager.GetString("E151Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        /// </summary>
+        internal static string E152Description {
+            get {
+                return ResourceManager.GetString("E152Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        /// </summary>
+        internal static string E152Handling {
+            get {
+                return ResourceManager.GetString("E152Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E152Internal ähnelt.
+        /// </summary>
+        internal static string E152Internal {
+            get {
+                return ResourceManager.GetString("E152Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Reitstock: Stoßalarm - Hinweis auf Honringbruch Reitstock(Pinole) ähnelt.
+        /// </summary>
+        internal static string E152Text {
+            get {
+                return ResourceManager.GetString("E152Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E152 ähnelt.
+        /// </summary>
+        internal static string E152Title {
+            get {
+                return ResourceManager.GetString("E152Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        /// </summary>
+        internal static string E153Description {
+            get {
+                return ResourceManager.GetString("E153Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        /// </summary>
+        internal static string E153Handling {
+            get {
+                return ResourceManager.GetString("E153Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E153Internal ähnelt.
+        /// </summary>
+        internal static string E153Internal {
+            get {
+                return ResourceManager.GetString("E153Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Honkopf: Stoßalarm - Hinweis auf Honringbruch B-Achse ähnelt.
+        /// </summary>
+        internal static string E153Text {
+            get {
+                return ResourceManager.GetString("E153Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E153 ähnelt.
+        /// </summary>
+        internal static string E153Title {
+            get {
+                return ResourceManager.GetString("E153Title", resourceCulture);
             }
         }
         
@@ -1096,6 +2338,411 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Konstantabtrag nicht angewählt/verfügbar ähnelt.
+        /// </summary>
+        internal static string E201Description {
+            get {
+                return ResourceManager.GetString("E201Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Konstantabtrag anwählen falls Prüfrad vorhanden. ähnelt.
+        /// </summary>
+        internal static string E201Handling {
+            get {
+                return ResourceManager.GetString("E201Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E201Internal ähnelt.
+        /// </summary>
+        internal static string E201Internal {
+            get {
+                return ResourceManager.GetString("E201Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Prüfrad Kalibrieren nicht möglich ähnelt.
+        /// </summary>
+        internal static string E201Text {
+            get {
+                return ResourceManager.GetString("E201Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E201 ähnelt.
+        /// </summary>
+        internal static string E201Title {
+            get {
+                return ResourceManager.GetString("E201Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Variable SD.NCProgCmd hat keinen gültigen Wert ähnelt.
+        /// </summary>
+        internal static string E202Description {
+            get {
+                return ResourceManager.GetString("E202Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Hauptprogramm wählen. ähnelt.
+        /// </summary>
+        internal static string E202Handling {
+            get {
+                return ResourceManager.GetString("E202Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E202Internal ähnelt.
+        /// </summary>
+        internal static string E202Internal {
+            get {
+                return ResourceManager.GetString("E202Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Kein gültiger Wert für Hauptprogramm-Anwahl ähnelt.
+        /// </summary>
+        internal static string E202Text {
+            get {
+                return ResourceManager.GetString("E202Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E202 ähnelt.
+        /// </summary>
+        internal static string E202Title {
+            get {
+                return ResourceManager.GetString("E202Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E203Description {
+            get {
+                return ResourceManager.GetString("E203Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E203Handling {
+            get {
+                return ResourceManager.GetString("E203Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E203Internal ähnelt.
+        /// </summary>
+        internal static string E203Internal {
+            get {
+                return ResourceManager.GetString("E203Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der B-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E203Text {
+            get {
+                return ResourceManager.GetString("E203Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E203 ähnelt.
+        /// </summary>
+        internal static string E203Title {
+            get {
+                return ResourceManager.GetString("E203Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschalaen ähnelt.
+        /// </summary>
+        internal static string E204Description {
+            get {
+                return ResourceManager.GetString("E204Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E204Handling {
+            get {
+                return ResourceManager.GetString("E204Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E204Internal ähnelt.
+        /// </summary>
+        internal static string E204Internal {
+            get {
+                return ResourceManager.GetString("E204Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der U-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E204Text {
+            get {
+                return ResourceManager.GetString("E204Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E204 ähnelt.
+        /// </summary>
+        internal static string E204Title {
+            get {
+                return ResourceManager.GetString("E204Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E205Description {
+            get {
+                return ResourceManager.GetString("E205Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E205Handling {
+            get {
+                return ResourceManager.GetString("E205Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E205Internal ähnelt.
+        /// </summary>
+        internal static string E205Internal {
+            get {
+                return ResourceManager.GetString("E205Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der C1-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E205Text {
+            get {
+                return ResourceManager.GetString("E205Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E205 ähnelt.
+        /// </summary>
+        internal static string E205Title {
+            get {
+                return ResourceManager.GetString("E205Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E206Description {
+            get {
+                return ResourceManager.GetString("E206Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E206Handling {
+            get {
+                return ResourceManager.GetString("E206Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E206Internal ähnelt.
+        /// </summary>
+        internal static string E206Internal {
+            get {
+                return ResourceManager.GetString("E206Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X1-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E206Text {
+            get {
+                return ResourceManager.GetString("E206Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E206 ähnelt.
+        /// </summary>
+        internal static string E206Title {
+            get {
+                return ResourceManager.GetString("E206Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E207Description {
+            get {
+                return ResourceManager.GetString("E207Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E207Handling {
+            get {
+                return ResourceManager.GetString("E207Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E207Internal ähnelt.
+        /// </summary>
+        internal static string E207Internal {
+            get {
+                return ResourceManager.GetString("E207Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der Z1-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E207Text {
+            get {
+                return ResourceManager.GetString("E207Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E207 ähnelt.
+        /// </summary>
+        internal static string E207Title {
+            get {
+                return ResourceManager.GetString("E207Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E208Description {
+            get {
+                return ResourceManager.GetString("E208Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E208Handling {
+            get {
+                return ResourceManager.GetString("E208Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E208Internal ähnelt.
+        /// </summary>
+        internal static string E208Internal {
+            get {
+                return ResourceManager.GetString("E208Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der C2-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E208Text {
+            get {
+                return ResourceManager.GetString("E208Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E208 ähnelt.
+        /// </summary>
+        internal static string E208Title {
+            get {
+                return ResourceManager.GetString("E208Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E209Description {
+            get {
+                return ResourceManager.GetString("E209Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E209Handling {
+            get {
+                return ResourceManager.GetString("E209Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E209Internal ähnelt.
+        /// </summary>
+        internal static string E209Internal {
+            get {
+                return ResourceManager.GetString("E209Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X2-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E209Text {
+            get {
+                return ResourceManager.GetString("E209Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E209 ähnelt.
+        /// </summary>
+        internal static string E209Title {
+            get {
+                return ResourceManager.GetString("E209Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die No honing oil flow rate present by switched on machine or honing oil flow rate present by switched off machine ähnelt.
         /// </summary>
         internal static string E20Description {
@@ -1137,6 +2784,366 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E20Title {
             get {
                 return ResourceManager.GetString("E20Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        /// </summary>
+        internal static string E210Description {
+            get {
+                return ResourceManager.GetString("E210Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        /// </summary>
+        internal static string E210Handling {
+            get {
+                return ResourceManager.GetString("E210Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E210Internal ähnelt.
+        /// </summary>
+        internal static string E210Internal {
+            get {
+                return ResourceManager.GetString("E210Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der Z2-Achse nicht OK ähnelt.
+        /// </summary>
+        internal static string E210Text {
+            get {
+                return ResourceManager.GetString("E210Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E210 ähnelt.
+        /// </summary>
+        internal static string E210Title {
+            get {
+                return ResourceManager.GetString("E210Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        /// </summary>
+        internal static string E211Description {
+            get {
+                return ResourceManager.GetString("E211Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        /// </summary>
+        internal static string E211Handling {
+            get {
+                return ResourceManager.GetString("E211Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E211Internal ähnelt.
+        /// </summary>
+        internal static string E211Internal {
+            get {
+                return ResourceManager.GetString("E211Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor X1-Achse NIO ähnelt.
+        /// </summary>
+        internal static string E211Text {
+            get {
+                return ResourceManager.GetString("E211Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E211 ähnelt.
+        /// </summary>
+        internal static string E211Title {
+            get {
+                return ResourceManager.GetString("E211Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        /// </summary>
+        internal static string E212Description {
+            get {
+                return ResourceManager.GetString("E212Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        /// </summary>
+        internal static string E212Handling {
+            get {
+                return ResourceManager.GetString("E212Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E212Internal ähnelt.
+        /// </summary>
+        internal static string E212Internal {
+            get {
+                return ResourceManager.GetString("E212Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor Z1-Achse NIO ähnelt.
+        /// </summary>
+        internal static string E212Text {
+            get {
+                return ResourceManager.GetString("E212Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E212 ähnelt.
+        /// </summary>
+        internal static string E212Title {
+            get {
+                return ResourceManager.GetString("E212Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        /// </summary>
+        internal static string E213Description {
+            get {
+                return ResourceManager.GetString("E213Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        /// </summary>
+        internal static string E213Handling {
+            get {
+                return ResourceManager.GetString("E213Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E213Internal ähnelt.
+        /// </summary>
+        internal static string E213Internal {
+            get {
+                return ResourceManager.GetString("E213Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor X2-Achse NIO ähnelt.
+        /// </summary>
+        internal static string E213Text {
+            get {
+                return ResourceManager.GetString("E213Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E213 ähnelt.
+        /// </summary>
+        internal static string E213Title {
+            get {
+                return ResourceManager.GetString("E213Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        /// </summary>
+        internal static string E214Description {
+            get {
+                return ResourceManager.GetString("E214Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        /// </summary>
+        internal static string E214Handling {
+            get {
+                return ResourceManager.GetString("E214Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E214Internal ähnelt.
+        /// </summary>
+        internal static string E214Internal {
+            get {
+                return ResourceManager.GetString("E214Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor Z2-Achse NIO ähnelt.
+        /// </summary>
+        internal static string E214Text {
+            get {
+                return ResourceManager.GetString("E214Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E214 ähnelt.
+        /// </summary>
+        internal static string E214Title {
+            get {
+                return ResourceManager.GetString("E214Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Abritcher anstatt VSD angewählt ähnelt.
+        /// </summary>
+        internal static string E215Description {
+            get {
+                return ResourceManager.GetString("E215Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindel oder Abrichtgreiferbelegung prüfen ähnelt.
+        /// </summary>
+        internal static string E215Handling {
+            get {
+                return ResourceManager.GetString("E215Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E215Internal ähnelt.
+        /// </summary>
+        internal static string E215Internal {
+            get {
+                return ResourceManager.GetString("E215Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibilität VSD Handling rechts ähnelt.
+        /// </summary>
+        internal static string E215Text {
+            get {
+                return ResourceManager.GetString("E215Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E215 ähnelt.
+        /// </summary>
+        internal static string E215Title {
+            get {
+                return ResourceManager.GetString("E215Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Abritcher anstatt VSD angewählt ähnelt.
+        /// </summary>
+        internal static string E216Description {
+            get {
+                return ResourceManager.GetString("E216Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindel oder Abrichtgreiferbelegung prüfen ähnelt.
+        /// </summary>
+        internal static string E216Handling {
+            get {
+                return ResourceManager.GetString("E216Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E216Internal ähnelt.
+        /// </summary>
+        internal static string E216Internal {
+            get {
+                return ResourceManager.GetString("E216Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibilität VSD Handling links ähnelt.
+        /// </summary>
+        internal static string E216Text {
+            get {
+                return ResourceManager.GetString("E216Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E216 ähnelt.
+        /// </summary>
+        internal static string E216Title {
+            get {
+                return ResourceManager.GetString("E216Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die VSD selected instead of DDG ähnelt.
+        /// </summary>
+        internal static string E217Description {
+            get {
+                return ResourceManager.GetString("E217Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check spindle or dresser gripper status. ähnelt.
+        /// </summary>
+        internal static string E217Handling {
+            get {
+                return ResourceManager.GetString("E217Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E217Internal ähnelt.
+        /// </summary>
+        internal static string E217Internal {
+            get {
+                return ResourceManager.GetString("E217Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility dresser handling right ähnelt.
+        /// </summary>
+        internal static string E217Text {
+            get {
+                return ResourceManager.GetString("E217Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E217 ähnelt.
+        /// </summary>
+        internal static string E217Title {
+            get {
+                return ResourceManager.GetString("E217Title", resourceCulture);
             }
         }
         
@@ -1452,6 +3459,51 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E28Title {
             get {
                 return ResourceManager.GetString("E28Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Programm wurde mit M32 abgebrochen ohne genaue NC-Diagnose ähnelt.
+        /// </summary>
+        internal static string E299Description {
+            get {
+                return ResourceManager.GetString("E299Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the NC-Program or restart it. ähnelt.
+        /// </summary>
+        internal static string E299Handling {
+            get {
+                return ResourceManager.GetString("E299Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E299Internal ähnelt.
+        /// </summary>
+        internal static string E299Internal {
+            get {
+                return ResourceManager.GetString("E299Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Stop NC-Program with M32 ähnelt.
+        /// </summary>
+        internal static string E299Text {
+            get {
+                return ResourceManager.GetString("E299Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E299 ähnelt.
+        /// </summary>
+        internal static string E299Title {
+            get {
+                return ResourceManager.GetString("E299Title", resourceCulture);
             }
         }
         
@@ -4188,6 +6240,15 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E9Title {
             get {
                 return ResourceManager.GetString("E9Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        /// </summary>
+        internal static string EE118Handling {
+            get {
+                return ResourceManager.GetString("EE118Handling", resourceCulture);
             }
         }
         
