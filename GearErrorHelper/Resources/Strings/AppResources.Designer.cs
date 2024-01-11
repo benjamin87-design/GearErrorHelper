@@ -646,7 +646,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E114Description {
             get {
@@ -655,7 +655,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation. ähnelt.
         /// </summary>
         internal static string E114Handling {
             get {
@@ -673,7 +673,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X1-Achse hat einen Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of X1-axis have a runtime error ähnelt.
         /// </summary>
         internal static string E114Text {
             get {
@@ -691,7 +691,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E115Description {
             get {
@@ -700,7 +700,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Download drive parameters or call Präwema-Service. ähnelt.
         /// </summary>
         internal static string E115Handling {
             get {
@@ -718,7 +718,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X1-Achse hat kein Projekt geladen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Project of Drive-SPS (MLD) X1-axis missing ähnelt.
         /// </summary>
         internal static string E115Text {
             get {
@@ -736,7 +736,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E116Description {
             get {
@@ -745,7 +745,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN). ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0. ähnelt.
         /// </summary>
         internal static string E116Handling {
             get {
@@ -763,7 +763,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse nicht im RUN-Mode ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of Z1-axis not in RUN-Mode ähnelt.
         /// </summary>
         internal static string E116Text {
             get {
@@ -781,7 +781,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic ähnelt.
         /// </summary>
         internal static string E117Description {
             get {
@@ -790,7 +790,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Breakpoint löschen oder IndraLogic Offline schalten. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Delete breakpoint or switch IndraLogic in Offline modus. ähnelt.
         /// </summary>
         internal static string E117Handling {
             get {
@@ -808,7 +808,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse steht auf einem Breakpoint ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of Z1-axis stopped at breakpoint ähnelt.
         /// </summary>
         internal static string E117Text {
             get {
@@ -826,7 +826,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E118Description {
             get {
@@ -844,7 +844,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse hat einen Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of Z1-axis have a runtime error ähnelt.
         /// </summary>
         internal static string E118Text {
             get {
@@ -862,7 +862,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E119Description {
             get {
@@ -871,7 +871,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Download drive parameters or call Präwema-Service. ähnelt.
         /// </summary>
         internal static string E119Handling {
             get {
@@ -889,7 +889,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z1-Achse hat kein Projekt geladen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Project of Drive-SPS (MLD) Z1-axis missing ähnelt.
         /// </summary>
         internal static string E119Text {
             get {
@@ -952,7 +952,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E120Description {
             get {
@@ -961,7 +961,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN). ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0. ähnelt.
         /// </summary>
         internal static string E120Handling {
             get {
@@ -979,7 +979,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse nicht im RUN-Mode ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of X2-axis not in RUN-Mode ähnelt.
         /// </summary>
         internal static string E120Text {
             get {
@@ -997,7 +997,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic ähnelt.
         /// </summary>
         internal static string E121Description {
             get {
@@ -1006,7 +1006,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Breakpoint löschen oder IndraLogic Offline schalten. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Delete breakpoint or switch IndraLogic in Offline modus. ähnelt.
         /// </summary>
         internal static string E121Handling {
             get {
@@ -1024,7 +1024,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse steht auf einem Breakpoint ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of X2-axis stopped at breakpoint ähnelt.
         /// </summary>
         internal static string E121Text {
             get {
@@ -1042,7 +1042,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E122Description {
             get {
@@ -1051,7 +1051,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation. ähnelt.
         /// </summary>
         internal static string E122Handling {
             get {
@@ -1069,7 +1069,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse hat einen Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of X2-axis have a runtime error ähnelt.
         /// </summary>
         internal static string E122Text {
             get {
@@ -1087,7 +1087,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E123Description {
             get {
@@ -1096,7 +1096,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Download drive parameters or call Präwema-Service. ähnelt.
         /// </summary>
         internal static string E123Handling {
             get {
@@ -1114,7 +1114,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der X2-Achse hat kein Projekt geladen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Project of Drive-SPS (MLD) X2-axis missing ähnelt.
         /// </summary>
         internal static string E123Text {
             get {
@@ -1132,7 +1132,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 0 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E124Description {
             get {
@@ -1141,7 +1141,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) über MLD-Steuerwort P-0-1350 Bit 0 starten (RUN). ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0. ähnelt.
         /// </summary>
         internal static string E124Handling {
             get {
@@ -1159,7 +1159,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse nicht im RUN-Mode ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of Z2-axis not in RUN-Mode ähnelt.
         /// </summary>
         internal static string E124Text {
             get {
@@ -1177,7 +1177,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 1. Diagnose-Aktualisierungszeit: 2 min. Breakpoint in IndraLogic im Online Modus gesetzt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic ähnelt.
         /// </summary>
         internal static string E125Description {
             get {
@@ -1186,7 +1186,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Breakpoint löschen oder IndraLogic Offline schalten. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Delete breakpoint or switch IndraLogic in Offline modus. ähnelt.
         /// </summary>
         internal static string E125Handling {
             get {
@@ -1204,7 +1204,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse steht auf einem Breakpoint ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of Z2-axis stopped at breakpoint ähnelt.
         /// </summary>
         internal static string E125Text {
             get {
@@ -1222,7 +1222,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 3. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E126Description {
             get {
@@ -1231,7 +1231,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation. ähnelt.
         /// </summary>
         internal static string E126Handling {
             get {
@@ -1249,7 +1249,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse hat einen Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of Z2-axis have a runtime error ähnelt.
         /// </summary>
         internal static string E126Text {
             get {
@@ -1267,7 +1267,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-Statuswort P-0-1351 Bit 4 fehlt. Diagnose-Aktualisierungszeit: 2 min ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E127Description {
             get {
@@ -1276,7 +1276,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebsdaten wiederherstellen oder Präwema-Service verständigen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Download drive parameters or call Präwema-Service. ähnelt.
         /// </summary>
         internal static string E127Handling {
             get {
@@ -1294,7 +1294,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Antriebs-SPS (MLD) der Z2-Achse hat kein Projekt geladen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Project of Drive-SPS (MLD) Z2-axis missing ähnelt.
         /// </summary>
         internal static string E127Text {
             get {
@@ -1357,7 +1357,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximium torque of axis is reached ähnelt.
         /// </summary>
         internal static string E133Description {
             get {
@@ -1366,7 +1366,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check honing tool. ähnelt.
         /// </summary>
         internal static string E133Handling {
             get {
@@ -1384,7 +1384,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der C1-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring honing tool breakage of C1-axis is triggered ähnelt.
         /// </summary>
         internal static string E133Text {
             get {
@@ -1402,7 +1402,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximium torque of axis is reached ähnelt.
         /// </summary>
         internal static string E134Description {
             get {
@@ -1411,7 +1411,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check honing tool. ähnelt.
         /// </summary>
         internal static string E134Handling {
             get {
@@ -1429,7 +1429,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der C2-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring honing tool breakage of C2-axis is triggered ähnelt.
         /// </summary>
         internal static string E134Text {
             get {
@@ -1447,7 +1447,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximium torque of axis is reached ähnelt.
         /// </summary>
         internal static string E135Description {
             get {
@@ -1456,7 +1456,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check honing tool. ähnelt.
         /// </summary>
         internal static string E135Handling {
             get {
@@ -1474,7 +1474,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der X1-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring honing tool breakage of X1-axis is triggered ähnelt.
         /// </summary>
         internal static string E135Text {
             get {
@@ -1492,7 +1492,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximium torque of axis is reached ähnelt.
         /// </summary>
         internal static string E136Description {
             get {
@@ -1501,7 +1501,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check honing tool. ähnelt.
         /// </summary>
         internal static string E136Handling {
             get {
@@ -1519,7 +1519,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der Z1-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring honing tool breakage of Z1-axis is triggered ähnelt.
         /// </summary>
         internal static string E136Text {
             get {
@@ -1537,7 +1537,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximium torque of axis is reached ähnelt.
         /// </summary>
         internal static string E137Description {
             get {
@@ -1546,7 +1546,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check honing tool. ähnelt.
         /// </summary>
         internal static string E137Handling {
             get {
@@ -1564,7 +1564,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der X2-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring honing tool breakage of X2-axis is triggered ähnelt.
         /// </summary>
         internal static string E137Text {
             get {
@@ -1582,7 +1582,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das maximal zulässige Moment während des Honens wurde überschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximium torque of axis is reached ähnelt.
         /// </summary>
         internal static string E138Description {
             get {
@@ -1591,7 +1591,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen; Einstellung der Honring-Überwachung  überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check honing tool. ähnelt.
         /// </summary>
         internal static string E138Handling {
             get {
@@ -1609,7 +1609,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring-Überwachung der Z2-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring honing tool breakage of Z2-axis is triggered ähnelt.
         /// </summary>
         internal static string E138Text {
             get {
@@ -1672,7 +1672,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Die Pinole drückte während des Honens nicht mit der erforderlichen Kraft gegen die Z1-Achse ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Pressure of tailstock not enough for honing ähnelt.
         /// </summary>
         internal static string E140Description {
             get {
@@ -1699,7 +1699,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Anlagekontrolle Pinole der Z1-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check pressure of tailstock. ähnelt.
         /// </summary>
         internal static string E140Text {
             get {
@@ -1717,7 +1717,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Die Pinole drückte während des Honens nicht mit der erforderlichen Kraft gegen die Z2-Achse ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Pressure of tailstock not enough for honing ähnelt.
         /// </summary>
         internal static string E141Description {
             get {
@@ -1726,7 +1726,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Pinolen-Einstellung überprüfen; Einstellung der Anlagekontrolle überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check pressure of tailstock. ähnelt.
         /// </summary>
         internal static string E141Handling {
             get {
@@ -1744,7 +1744,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Anlagekontrolle Pinole der Z2-Achse hat ausgelöst ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Monitoring pressure of tailstock of Z2-axis is triggered ähnelt.
         /// </summary>
         internal static string E141Text {
             get {
@@ -1762,7 +1762,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das minimal zulässige Moment während des Honens wurde unterschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The minimal allowable torque by honeing is exceeded ähnelt.
         /// </summary>
         internal static string E142Description {
             get {
@@ -1771,7 +1771,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring überprüfen; Einstellung der Honring-Überwachung überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check hone ring; Check the adjustment of the hone ring-monitoring. ähnelt.
         /// </summary>
         internal static string E142Handling {
             get {
@@ -1789,7 +1789,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X1-Achse bei Honbearbeitung zu gering ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of  the X1-axis by honeing is to low ähnelt.
         /// </summary>
         internal static string E142Text {
             get {
@@ -1807,7 +1807,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Das minimal zulässige Moment während des Honens wurde unterschritten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The minimal allowable torque by honeing is exceeded ähnelt.
         /// </summary>
         internal static string E143Description {
             get {
@@ -1816,7 +1816,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Honring überprüfen; Einstellung der Honring-Überwachung überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check hone ring; Check adjustment of the hone ring-monitoring. ähnelt.
         /// </summary>
         internal static string E143Handling {
             get {
@@ -1834,7 +1834,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X2-Achse bei Honbearbeitung zu gering ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of the X2-axis by honeing is to low ähnelt.
         /// </summary>
         internal static string E143Text {
             get {
@@ -1888,7 +1888,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a honing ring break ähnelt.
         /// </summary>
         internal static string E150Description {
             get {
@@ -1897,7 +1897,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check workpiece and honing ring. ähnelt.
         /// </summary>
         internal static string E150Handling {
             get {
@@ -1915,7 +1915,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Werkstückspindel: Stoßalarm - Hinweis auf Honringbruch C1-Achse ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Workpiece spindle: Impact alarm - Indication of honing ring break C1 axis ähnelt.
         /// </summary>
         internal static string E150Text {
             get {
@@ -1933,7 +1933,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a honing ring break ähnelt.
         /// </summary>
         internal static string E151Description {
             get {
@@ -1942,7 +1942,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check workpiece and honing ring. ähnelt.
         /// </summary>
         internal static string E151Handling {
             get {
@@ -1960,7 +1960,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Werkstückspindel: Stoßalarm - Hinweis auf Honringbruch C2-Achse ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Workpiece spindle: Impact alarm - Indication of honing ring break C2 axis ähnelt.
         /// </summary>
         internal static string E151Text {
             get {
@@ -1978,7 +1978,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a honing ring break ähnelt.
         /// </summary>
         internal static string E152Description {
             get {
@@ -1987,7 +1987,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check workpiece and honing ring. ähnelt.
         /// </summary>
         internal static string E152Handling {
             get {
@@ -2005,7 +2005,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Reitstock: Stoßalarm - Hinweis auf Honringbruch Reitstock(Pinole) ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Tailstock: Impact alarm - Indication of honing ring break tailstock (sleeve) ähnelt.
         /// </summary>
         internal static string E152Text {
             get {
@@ -2023,7 +2023,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Externe Schwingungsanalyse hat einen Honringbruch erkannt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a honing ring break ähnelt.
         /// </summary>
         internal static string E153Description {
             get {
@@ -2032,7 +2032,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Werkstück und Honring überprüfen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check workpiece and honing ring. ähnelt.
         /// </summary>
         internal static string E153Handling {
             get {
@@ -2050,7 +2050,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Honkopf: Stoßalarm - Hinweis auf Honringbruch B-Achse ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Honing head: Impact alarm - Indication of honing ring break B axis ähnelt.
         /// </summary>
         internal static string E153Text {
             get {
@@ -2338,7 +2338,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Konstantabtrag nicht angewählt/verfügbar ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Constant stock is not selected/available ähnelt.
         /// </summary>
         internal static string E201Description {
             get {
@@ -2347,7 +2347,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Konstantabtrag anwählen falls Prüfrad vorhanden. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Select constant stock if test gear is present. ähnelt.
         /// </summary>
         internal static string E201Handling {
             get {
@@ -2365,7 +2365,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Prüfrad Kalibrieren nicht möglich ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Calibrate test gear is not possible ähnelt.
         /// </summary>
         internal static string E201Text {
             get {
@@ -2383,7 +2383,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Variable SD.NCProgCmd hat keinen gültigen Wert ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Variable SD.NCProgCmd have no valid value ähnelt.
         /// </summary>
         internal static string E202Description {
             get {
@@ -2392,7 +2392,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Hauptprogramm wählen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Select main program. ähnelt.
         /// </summary>
         internal static string E202Handling {
             get {
@@ -2410,7 +2410,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Kein gültiger Wert für Hauptprogramm-Anwahl ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No valid value for main program selection ähnelt.
         /// </summary>
         internal static string E202Text {
             get {
@@ -2428,7 +2428,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E203Description {
             get {
@@ -2437,7 +2437,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E203Handling {
             get {
@@ -2455,7 +2455,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der B-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of B-axis not OK ähnelt.
         /// </summary>
         internal static string E203Text {
             get {
@@ -2473,7 +2473,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschalaen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E204Description {
             get {
@@ -2482,7 +2482,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E204Handling {
             get {
@@ -2500,7 +2500,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der U-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of U-axis not OK ähnelt.
         /// </summary>
         internal static string E204Text {
             get {
@@ -2518,7 +2518,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E205Description {
             get {
@@ -2527,7 +2527,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E205Handling {
             get {
@@ -2545,7 +2545,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der C1-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of C1-axis not OK ähnelt.
         /// </summary>
         internal static string E205Text {
             get {
@@ -2563,7 +2563,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E206Description {
             get {
@@ -2572,7 +2572,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E206Handling {
             get {
@@ -2590,7 +2590,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X1-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of X1-axis not OK ähnelt.
         /// </summary>
         internal static string E206Text {
             get {
@@ -2608,7 +2608,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E207Description {
             get {
@@ -2617,7 +2617,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E207Handling {
             get {
@@ -2635,7 +2635,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der Z1-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of Z1-axis not OK ähnelt.
         /// </summary>
         internal static string E207Text {
             get {
@@ -2653,7 +2653,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E208Description {
             get {
@@ -2662,7 +2662,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E208Handling {
             get {
@@ -2680,7 +2680,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der C2-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of C2-axis not OK ähnelt.
         /// </summary>
         internal static string E208Text {
             get {
@@ -2698,7 +2698,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E209Description {
             get {
@@ -2707,7 +2707,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E209Handling {
             get {
@@ -2725,7 +2725,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der X2-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of X2-axis not OK ähnelt.
         /// </summary>
         internal static string E209Text {
             get {
@@ -2788,7 +2788,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Umschalten vom Drehmoment fehlgeschlagen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Systemswitch of torque reduce are not done ähnelt.
         /// </summary>
         internal static string E210Description {
             get {
@@ -2797,7 +2797,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Betriebsart Hand anwählen und wieder in Automatik wechseln, ggf Maschine Neustarten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please shut down the machine and restart ähnelt.
         /// </summary>
         internal static string E210Handling {
             get {
@@ -2815,7 +2815,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Drehmoment der Z2-Achse nicht OK ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of Z2-axis not OK ähnelt.
         /// </summary>
         internal static string E210Text {
             get {
@@ -2833,7 +2833,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position not in acceptable value ähnelt.
         /// </summary>
         internal static string E211Description {
             get {
@@ -2842,7 +2842,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the position in Honen.exe ähnelt.
         /// </summary>
         internal static string E211Handling {
             get {
@@ -2860,7 +2860,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor X1-Achse NIO ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position of teeth measure seonsor X1-axis not OK ähnelt.
         /// </summary>
         internal static string E211Text {
             get {
@@ -2878,7 +2878,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position not in acceptable value ähnelt.
         /// </summary>
         internal static string E212Description {
             get {
@@ -2887,7 +2887,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the position in Honen.exe ähnelt.
         /// </summary>
         internal static string E212Handling {
             get {
@@ -2905,7 +2905,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor Z1-Achse NIO ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position of teeth measure seonsor Z1-axis not OK ähnelt.
         /// </summary>
         internal static string E212Text {
             get {
@@ -2923,7 +2923,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position not in acceptable value ähnelt.
         /// </summary>
         internal static string E213Description {
             get {
@@ -2932,7 +2932,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the position in Honen.exe ähnelt.
         /// </summary>
         internal static string E213Handling {
             get {
@@ -2950,7 +2950,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor X2-Achse NIO ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position of teeth measure seonsor X2-axis not OK ähnelt.
         /// </summary>
         internal static string E213Text {
             get {
@@ -2968,7 +2968,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position außerhalb des programmierbaren Bereiches ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position not in acceptable value ähnelt.
         /// </summary>
         internal static string E214Description {
             get {
@@ -2977,7 +2977,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position überprüfen ggf. neu einrichten ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the position in Honen.exe ähnelt.
         /// </summary>
         internal static string E214Handling {
             get {
@@ -2995,7 +2995,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Position Einmittelsensor Z2-Achse NIO ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position of teeth measure seonsor Z2-axis not OK ähnelt.
         /// </summary>
         internal static string E214Text {
             get {
@@ -3013,7 +3013,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Abritcher anstatt VSD angewählt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die VSD ist not selected in program ähnelt.
         /// </summary>
         internal static string E215Description {
             get {
@@ -3022,7 +3022,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Spindel oder Abrichtgreiferbelegung prüfen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the preselection of dressers in Honen.exe ähnelt.
         /// </summary>
         internal static string E215Handling {
             get {
@@ -3040,7 +3040,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibilität VSD Handling rechts ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility VSD handling right ähnelt.
         /// </summary>
         internal static string E215Text {
             get {
@@ -3058,7 +3058,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Abritcher anstatt VSD angewählt ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die VSD ist not selected in program ähnelt.
         /// </summary>
         internal static string E216Description {
             get {
@@ -3067,7 +3067,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Spindel oder Abrichtgreiferbelegung prüfen ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the preselection of dressers in Honen.exe ähnelt.
         /// </summary>
         internal static string E216Handling {
             get {
@@ -3085,7 +3085,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibilität VSD Handling links ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility VSD handling left ähnelt.
         /// </summary>
         internal static string E216Text {
             get {
@@ -3103,7 +3103,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die VSD selected instead of DDG ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear dresser ist not selected in program ähnelt.
         /// </summary>
         internal static string E217Description {
             get {
@@ -3112,7 +3112,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Check spindle or dresser gripper status. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the preselection of dressers in Honen.exe ähnelt.
         /// </summary>
         internal static string E217Handling {
             get {
@@ -3130,7 +3130,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility dresser handling right ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility gear dresser handling right ähnelt.
         /// </summary>
         internal static string E217Text {
             get {
@@ -3463,7 +3463,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Programm wurde mit M32 abgebrochen ohne genaue NC-Diagnose ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC program was stopped by M32 without clear nc diagnostic ähnelt.
         /// </summary>
         internal static string E299Description {
             get {
@@ -3472,7 +3472,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Check the NC-Program or restart it. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check nc program or start again. ähnelt.
         /// </summary>
         internal static string E299Handling {
             get {
@@ -6244,7 +6244,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Maschine über Hauptschalter aus- und wieder einschalten. Siehe auch Fehlerbeschreibung zu F6010 SPS Laufzeitfehler ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation. ähnelt.
         /// </summary>
         internal static string EE118Handling {
             get {
