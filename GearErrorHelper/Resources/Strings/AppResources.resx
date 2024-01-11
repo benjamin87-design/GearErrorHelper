@@ -129,20 +129,170 @@
   <data name="Description" xml:space="preserve">
     <value>Description</value>
   </data>
-  <data name="F0001Description" xml:space="preserve">
-    <value>testdescription</value>
+  <data name="E000Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is on the VAM unit of the control panel</value>
   </data>
-  <data name="F0001Handling" xml:space="preserve">
-    <value>testhandling</value>
+  <data name="E000Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
   </data>
-  <data name="F0001Internal" xml:space="preserve">
-    <value>F0001Internal</value>
+  <data name="E000Internal" xml:space="preserve">
+    <value>E000Internal</value>
   </data>
-  <data name="F0001Text" xml:space="preserve">
-    <value>testtext</value>
+  <data name="E000Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
   </data>
-  <data name="F0001Title" xml:space="preserve">
-    <value>testtitle</value>
+  <data name="E000Title" xml:space="preserve">
+    <value>E000</value>
+  </data>
+  <data name="E10Description" xml:space="preserve">
+    <value>THe protection switch mains hold has tripped.</value>
+  </data>
+  <data name="E10Handing" xml:space="preserve">
+    <value>Resolve cause and switch on tripped protection swtich.</value>
+  </data>
+  <data name="E10Internal" xml:space="preserve">
+    <value>E10Internal</value>
+  </data>
+  <data name="E10Text" xml:space="preserve">
+    <value>Protection switch mains hold</value>
+  </data>
+  <data name="E10Title" xml:space="preserve">
+    <value>E10</value>
+  </data>
+  <data name="E1Description" xml:space="preserve">
+    <value>The PNOZ unit which you find in the switch cabinet have one condition for a emergency stop detect</value>
+  </data>
+  <data name="E1Handling" xml:space="preserve">
+    <value>Unlock all emergency stop push buttons and acknowlegde with "Maschine On" button.</value>
+  </data>
+  <data name="E1Internal" xml:space="preserve">
+    <value>E1Internal</value>
+  </data>
+  <data name="E1Text" xml:space="preserve">
+    <value>Emergency stop codition of the Machine</value>
+  </data>
+  <data name="E1Title" xml:space="preserve">
+    <value>E1</value>
+  </data>
+  <data name="E2Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is on the VAM unit of the control panel</value>
+  </data>
+  <data name="E2Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E2Internal" xml:space="preserve">
+    <value>E2Internal</value>
+  </data>
+  <data name="E2Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E2Title" xml:space="preserve">
+    <value>E2</value>
+  </data>
+  <data name="E3Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E3Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E3Internal" xml:space="preserve">
+    <value>E4Internal</value>
+  </data>
+  <data name="E3Text" xml:space="preserve">
+    <value>Fault safety fuse DC 24V</value>
+  </data>
+  <data name="E3Title" xml:space="preserve">
+    <value>E3</value>
+  </data>
+  <data name="E4Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E4Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E4Internal" xml:space="preserve">
+    <value>E4Internal</value>
+  </data>
+  <data name="E4Text" xml:space="preserve">
+    <value>Fault safety fuse PLC inputs</value>
+  </data>
+  <data name="E4Title" xml:space="preserve">
+    <value>E000</value>
+  </data>
+  <data name="E5Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E5Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E5Internal" xml:space="preserve">
+    <value>E5Internal</value>
+  </data>
+  <data name="E5Text" xml:space="preserve">
+    <value>Fault safety fuse PLC inputs</value>
+  </data>
+  <data name="E5Title" xml:space="preserve">
+    <value>E5</value>
+  </data>
+  <data name="E6Description" xml:space="preserve">
+    <value>The emergency stop push button is on at the VAM unit of the control panel</value>
+  </data>
+  <data name="E6Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E6Internal" xml:space="preserve">
+    <value>E6Internal</value>
+  </data>
+  <data name="E6Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E6Title" xml:space="preserve">
+    <value>E6</value>
+  </data>
+  <data name="E7Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is on the VAM unit of the control panel</value>
+  </data>
+  <data name="E7Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E7Internal" xml:space="preserve">
+    <value>E7Internal</value>
+  </data>
+  <data name="E7Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E7Title" xml:space="preserve">
+    <value>E7</value>
+  </data>
+  <data name="E8Description" xml:space="preserve">
+    <value>One motor protection switch in the switch cabinet has tripped</value>
+  </data>
+  <data name="E8Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped motor protction switch.</value>
+  </data>
+  <data name="E8Internal" xml:space="preserve">
+    <value>E6Internal</value>
+  </data>
+  <data name="E8Text" xml:space="preserve">
+    <value>Fault motor protection</value>
+  </data>
+  <data name="E8Title" xml:space="preserve">
+    <value>E8</value>
+  </data>
+  <data name="E9Description" xml:space="preserve">
+    <value>Ready to operate message of the supply module HMV is not present</value>
+  </data>
+  <data name="E9Handling" xml:space="preserve">
+    <value>Check HMV and drive units. Delete faults with the ESC button on the HMV unit.</value>
+  </data>
+  <data name="E9Internal" xml:space="preserve">
+    <value>E6Internal</value>
+  </data>
+  <data name="E9Text" xml:space="preserve">
+    <value>Fault supply module HMV</value>
+  </data>
+  <data name="E9Title" xml:space="preserve">
+    <value>E9</value>
   </data>
   <data name="Handling" xml:space="preserve">
     <value>Handling</value>
@@ -158,5 +308,1205 @@
   </data>
   <data name="Title" xml:space="preserve">
     <value>GearErrorHelper</value>
+  </data>
+  <data name="E11Title" xml:space="preserve">
+    <value>E11</value>
+  </data>
+  <data name="E11Internal" xml:space="preserve">
+    <value>E11Internal</value>
+  </data>
+  <data name="E11Handling" xml:space="preserve">
+    <value>Check proximity switch try to start automatic cycle again.</value>
+  </data>
+  <data name="E11Description" xml:space="preserve">
+    <value>Proximity switch splash guard is not present</value>
+  </data>
+  <data name="E11Text" xml:space="preserve">
+    <value>Splash guard door is not closed</value>
+  </data>
+  <data name="E12Description" xml:space="preserve">
+    <value>Proximity switch splash guard is not present</value>
+  </data>
+  <data name="E12Handling" xml:space="preserve">
+    <value>Check proximity switch respectively bring splash guard in home position and try to start automatic cycle again.</value>
+  </data>
+  <data name="E12Internal" xml:space="preserve">
+    <value>E12Internal</value>
+  </data>
+  <data name="E12Text" xml:space="preserve">
+    <value>Splash guard not in home position</value>
+  </data>
+  <data name="E12Title" xml:space="preserve">
+    <value>E12</value>
+  </data>
+  <data name="E13Description" xml:space="preserve">
+    <value>Pressure switch reports falling pressure</value>
+  </data>
+  <data name="E13Handling" xml:space="preserve">
+    <value>Set pressure switch respectively check lines.</value>
+  </data>
+  <data name="E13Internal" xml:space="preserve">
+    <value>E13Internal</value>
+  </data>
+  <data name="E13Text" xml:space="preserve">
+    <value>Leakage in the hydraulic supply of the quill</value>
+  </data>
+  <data name="E13Title" xml:space="preserve">
+    <value>E13</value>
+  </data>
+  <data name="E14Description" xml:space="preserve">
+    <value>Pressure switch reports failling pressure</value>
+  </data>
+  <data name="E14Handling" xml:space="preserve">
+    <value>Set or check pressure switch, respectively close manual valve.</value>
+  </data>
+  <data name="E14Internal" xml:space="preserve">
+    <value>E14Internal</value>
+  </data>
+  <data name="E14Text" xml:space="preserve">
+    <value>Leakage excentric clamping quill</value>
+  </data>
+  <data name="E14Title" xml:space="preserve">
+    <value>E14</value>
+  </data>
+  <data name="E15Description" xml:space="preserve">
+    <value>Pressure switch reports failling pressure</value>
+  </data>
+  <data name="E15Handling" xml:space="preserve">
+    <value>Set pressure switch respectively check lines.</value>
+  </data>
+  <data name="E15Internal" xml:space="preserve">
+    <value>E15Internal</value>
+  </data>
+  <data name="E15Text" xml:space="preserve">
+    <value>Fault pneumatic pressure</value>
+  </data>
+  <data name="E15Title" xml:space="preserve">
+    <value>E15</value>
+  </data>
+  <data name="E16Description" xml:space="preserve">
+    <value>Pressure switch reports failling pressure</value>
+  </data>
+  <data name="E16Handling" xml:space="preserve">
+    <value>Set pressure switch respectively check lines.</value>
+  </data>
+  <data name="E16Internal" xml:space="preserve">
+    <value>E16Internal</value>
+  </data>
+  <data name="E16Text" xml:space="preserve">
+    <value>Fault sealing air pressure</value>
+  </data>
+  <data name="E16Title" xml:space="preserve">
+    <value>E16</value>
+  </data>
+  <data name="E17Description" xml:space="preserve">
+    <value>Level honing oil unit exceeded</value>
+  </data>
+  <data name="E17Handling" xml:space="preserve">
+    <value>Set level switch respectively check lines.</value>
+  </data>
+  <data name="E17Internal" xml:space="preserve">
+    <value>E17Internal</value>
+  </data>
+  <data name="E17Text" xml:space="preserve">
+    <value>Max level external honing oil tank exceeded</value>
+  </data>
+  <data name="E17Title" xml:space="preserve">
+    <value>E17</value>
+  </data>
+  <data name="E18Description" xml:space="preserve">
+    <value>Deadman switch is selected</value>
+  </data>
+  <data name="E18Handling" xml:space="preserve">
+    <value>Deselect the deadman switch with the key.</value>
+  </data>
+  <data name="E18Internal" xml:space="preserve">
+    <value>E18Internal</value>
+  </data>
+  <data name="E18Text" xml:space="preserve">
+    <value>Deadman swithc is preselected</value>
+  </data>
+  <data name="E18Title" xml:space="preserve">
+    <value>E18</value>
+  </data>
+  <data name="E19Description" xml:space="preserve">
+    <value>Voltage brake down on machine</value>
+  </data>
+  <data name="E19Handling" xml:space="preserve">
+    <value>Check power supply voltage.</value>
+  </data>
+  <data name="E19Internal" xml:space="preserve">
+    <value>E19Internal</value>
+  </data>
+  <data name="E19Text" xml:space="preserve">
+    <value>Power failure is active</value>
+  </data>
+  <data name="E19Title" xml:space="preserve">
+    <value>E19</value>
+  </data>
+  <data name="E20Description" xml:space="preserve">
+    <value>No honing oil flow rate present by switched on machine or honing oil flow rate present by switched off machine</value>
+  </data>
+  <data name="E20Hanling" xml:space="preserve">
+    <value>Check honing oil supply and flow rate sensor. Run the high pressure nozzle in manual mode for some seconds.</value>
+  </data>
+  <data name="E20Internal" xml:space="preserve">
+    <value>E20Internal</value>
+  </data>
+  <data name="E20Text" xml:space="preserve">
+    <value>Flow rate honing oil sensor not ok</value>
+  </data>
+  <data name="E20Title" xml:space="preserve">
+    <value>E20</value>
+  </data>
+  <data name="E21Description" xml:space="preserve">
+    <value>No honing oil pressure present by switched on machine or honing oil pressure present by switched off machine</value>
+  </data>
+  <data name="E21Handling" xml:space="preserve">
+    <value>Check honing oil supply and pressure sensor.</value>
+  </data>
+  <data name="E21Internal" xml:space="preserve">
+    <value>E21Internal</value>
+  </data>
+  <data name="E21Text" xml:space="preserve">
+    <value>Pressure sensor honing oil not ok</value>
+  </data>
+  <data name="E21Title" xml:space="preserve">
+    <value>E21</value>
+  </data>
+  <data name="E22Description" xml:space="preserve">
+    <value>Pressure switch reports min. and max. pressure at the same time</value>
+  </data>
+  <data name="E22Handling" xml:space="preserve">
+    <value>Set pressure switch</value>
+  </data>
+  <data name="E22Internal" xml:space="preserve">
+    <value>E22Internal</value>
+  </data>
+  <data name="E22Text" xml:space="preserve">
+    <value>Pressure sensor clamping quill not ok</value>
+  </data>
+  <data name="E22Title" xml:space="preserve">
+    <value>E22</value>
+  </data>
+  <data name="E23Description" xml:space="preserve">
+    <value>Pressure switch reports min. and max. pressure at the same time</value>
+  </data>
+  <data name="E23Handling" xml:space="preserve">
+    <value>Set pressure switch</value>
+  </data>
+  <data name="E23Internal" xml:space="preserve">
+    <value>E23Internal</value>
+  </data>
+  <data name="E23Text" xml:space="preserve">
+    <value>Pressure sensor excentric clamping quill not ok</value>
+  </data>
+  <data name="E23Title" xml:space="preserve">
+    <value>E23</value>
+  </data>
+  <data name="E24Description" xml:space="preserve">
+    <value>Sensor triggered</value>
+  </data>
+  <data name="E24Handling" xml:space="preserve">
+    <value>Check input voltage</value>
+  </data>
+  <data name="E24Internal" xml:space="preserve">
+    <value>E24Internal</value>
+  </data>
+  <data name="E24Text" xml:space="preserve">
+    <value>Fault at protection over voltage triggered</value>
+  </data>
+  <data name="E24Title" xml:space="preserve">
+    <value>E24</value>
+  </data>
+  <data name="E25Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E25Handling" xml:space="preserve">
+    <value>Resolve cause and switch on tripped safety fuse</value>
+  </data>
+  <data name="E25Internal" xml:space="preserve">
+    <value>E25Internal</value>
+  </data>
+  <data name="E25Text" xml:space="preserve">
+    <value>Fault safety fuse filter system</value>
+  </data>
+  <data name="E25Title" xml:space="preserve">
+    <value>E25</value>
+  </data>
+  <data name="E27Description" xml:space="preserve">
+    <value>Switch setting usermanangment does not allow simulation mode</value>
+  </data>
+  <data name="E27Handling" xml:space="preserve">
+    <value>Needed switch setting user 2 or user 3 to use simulation mode</value>
+  </data>
+  <data name="E27Internal" xml:space="preserve">
+    <value>E27Internal</value>
+  </data>
+  <data name="E27Text" xml:space="preserve">
+    <value>Simulation in usermanagment 0 or 1 not possible</value>
+  </data>
+  <data name="E27Title" xml:space="preserve">
+    <value>E27</value>
+  </data>
+  <data name="E28Description" xml:space="preserve">
+    <value>The PNOZ unit which you find in the switch cabinet have one condition for a emergency stop detect</value>
+  </data>
+  <data name="E28Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at left machine side and acknowlegde with "Maschine On" button.</value>
+  </data>
+  <data name="E28Internal" xml:space="preserve">
+    <value>E28Internal</value>
+  </data>
+  <data name="E28Text" xml:space="preserve">
+    <value>Emergency stop at left machine side pressed</value>
+  </data>
+  <data name="E28Title" xml:space="preserve">
+    <value>E28</value>
+  </data>
+  <data name="E29Description" xml:space="preserve">
+    <value>The PNOZ unit which you find in the switch cabinet have one condition for a emergency stop detect</value>
+  </data>
+  <data name="E29Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at right machine side and acknowlegde with "Maschine On" button.</value>
+  </data>
+  <data name="E29Internal" xml:space="preserve">
+    <value>E29Internal</value>
+  </data>
+  <data name="E29Text" xml:space="preserve">
+    <value>Emergency stop at right machine side pressed</value>
+  </data>
+  <data name="E29Title" xml:space="preserve">
+    <value>E29</value>
+  </data>
+  <data name="E30Description" xml:space="preserve">
+    <value>Spring slide Z1 axis triggered</value>
+  </data>
+  <data name="E30Handling" xml:space="preserve">
+    <value>Check sensor at loading system Z1- axis or check loading/unloading position.</value>
+  </data>
+  <data name="E30Internal" xml:space="preserve">
+    <value>E30Internal</value>
+  </data>
+  <data name="E30Text" xml:space="preserve">
+    <value>Monitoring spring slide Z1 axis triggered</value>
+  </data>
+  <data name="E30Title" xml:space="preserve">
+    <value>E30</value>
+  </data>
+  <data name="36Title" xml:space="preserve">
+    <value>E36</value>
+  </data>
+  <data name="E104Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E104Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E104Internal" xml:space="preserve">
+    <value>E104Internal</value>
+  </data>
+  <data name="E104Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E104Title" xml:space="preserve">
+    <value>E104</value>
+  </data>
+  <data name="E105Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E105Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E105Internal" xml:space="preserve">
+    <value>E105Internal</value>
+  </data>
+  <data name="E105Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E105Title" xml:space="preserve">
+    <value>E105</value>
+  </data>
+  <data name="E106Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E106Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E106Internal" xml:space="preserve">
+    <value>E106Internal</value>
+  </data>
+  <data name="E106Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E106Title" xml:space="preserve">
+    <value>E106</value>
+  </data>
+  <data name="E107Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E107Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E107Internal" xml:space="preserve">
+    <value>E107Internal</value>
+  </data>
+  <data name="E107Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E107Title" xml:space="preserve">
+    <value>E107</value>
+  </data>
+  <data name="E108Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E108Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E108Internal" xml:space="preserve">
+    <value>E108Internal</value>
+  </data>
+  <data name="E108Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E108Title" xml:space="preserve">
+    <value>E108</value>
+  </data>
+  <data name="E109Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E109Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E109Internal" xml:space="preserve">
+    <value>E109Internal</value>
+  </data>
+  <data name="E109Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E109Title" xml:space="preserve">
+    <value>E109</value>
+  </data>
+  <data name="E110Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E110Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E110Internal" xml:space="preserve">
+    <value>E110Internal</value>
+  </data>
+  <data name="E110Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E110Title" xml:space="preserve">
+    <value>E110</value>
+  </data>
+  <data name="E111Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E111Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E111Internal" xml:space="preserve">
+    <value>E111Internal</value>
+  </data>
+  <data name="E111Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E111Title" xml:space="preserve">
+    <value>E111</value>
+  </data>
+  <data name="E112Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E112Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E112Internal" xml:space="preserve">
+    <value>E112Internal</value>
+  </data>
+  <data name="E112Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E112Title" xml:space="preserve">
+    <value>E112</value>
+  </data>
+  <data name="E113Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E113Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E113Internal" xml:space="preserve">
+    <value>E113Internal</value>
+  </data>
+  <data name="E113Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E113Title" xml:space="preserve">
+    <value>E113</value>
+  </data>
+  <data name="E31Description" xml:space="preserve">
+    <value>Spring slide Z2 axis triggered</value>
+  </data>
+  <data name="E31Handling" xml:space="preserve">
+    <value>Check sensor at loading system Z1- axis or check loading/unloading position.</value>
+  </data>
+  <data name="E31Internal" xml:space="preserve">
+    <value>E31Internal</value>
+  </data>
+  <data name="E31Text" xml:space="preserve">
+    <value>Monitoring spring slide Z2 axis triggered</value>
+  </data>
+  <data name="E31Title" xml:space="preserve">
+    <value>E31</value>
+  </data>
+  <data name="E32Description" xml:space="preserve">
+    <value>Spring slide Y5 axis triggered</value>
+  </data>
+  <data name="E32Handling" xml:space="preserve">
+    <value>Check sensor at gantry Y5-axis or check loading/unloading position.</value>
+  </data>
+  <data name="E32Internal" xml:space="preserve">
+    <value>E32Internal</value>
+  </data>
+  <data name="E32Text" xml:space="preserve">
+    <value>Monitoring spring slide Y5 axis triggered</value>
+  </data>
+  <data name="E32Title" xml:space="preserve">
+    <value>E32</value>
+  </data>
+  <data name="E33Description" xml:space="preserve">
+    <value>Pressure switch high pressure signal is missing after 30s</value>
+  </data>
+  <data name="E33Handling" xml:space="preserve">
+    <value>Set or check pressure switch or check leakage.</value>
+  </data>
+  <data name="E33Internal" xml:space="preserve">
+    <value>E33Internal</value>
+  </data>
+  <data name="E33Text" xml:space="preserve">
+    <value>Leakage eccentric clamping quill</value>
+  </data>
+  <data name="E33Title" xml:space="preserve">
+    <value>E33</value>
+  </data>
+  <data name="E34Description" xml:space="preserve">
+    <value>Center sleeve position not equal to the output signal</value>
+  </data>
+  <data name="E34Handling" xml:space="preserve">
+    <value>Please check clamping of centre sleeve or output signals.</value>
+  </data>
+  <data name="E34Internal" xml:space="preserve">
+    <value>E34Internal</value>
+  </data>
+  <data name="E34Text" xml:space="preserve">
+    <value>Center sleeve not right forward or backward</value>
+  </data>
+  <data name="E34Title" xml:space="preserve">
+    <value>E34</value>
+  </data>
+  <data name="E35Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is at handheld terminal</value>
+  </data>
+  <data name="E35Handling" xml:space="preserve">
+    <value>Unlock the emergency stop pushbutton at the handheld terminal.</value>
+  </data>
+  <data name="E35Internal" xml:space="preserve">
+    <value>E35Internal</value>
+  </data>
+  <data name="E35Text" xml:space="preserve">
+    <value>Emergency stop at the handheld terminal is active</value>
+  </data>
+  <data name="E35Title" xml:space="preserve">
+    <value>E35</value>
+  </data>
+  <data name="E36Description" xml:space="preserve">
+    <value>One or more axis have no reference point</value>
+  </data>
+  <data name="E36Handling" xml:space="preserve">
+    <value>Please check reference of axis and start again.</value>
+  </data>
+  <data name="E36Internal" xml:space="preserve">
+    <value>E36Internal</value>
+  </data>
+  <data name="E36Text" xml:space="preserve">
+    <value>Reference of absolut scale motor not unknown</value>
+  </data>
+  <data name="E39Description" xml:space="preserve">
+    <value>One or more pre-sets of load type unknown</value>
+  </data>
+  <data name="E39Handling" xml:space="preserve">
+    <value>Pre-select load type automatic loading, left-hand side etc.</value>
+  </data>
+  <data name="E39Internal" xml:space="preserve">
+    <value>E39Internal</value>
+  </data>
+  <data name="E39Text" xml:space="preserve">
+    <value>Load type unknown</value>
+  </data>
+  <data name="E39Title" xml:space="preserve">
+    <value>E39</value>
+  </data>
+  <data name="E40Description" xml:space="preserve">
+    <value>Workpiece not activated in the file system</value>
+  </data>
+  <data name="E40Handling" xml:space="preserve">
+    <value>Activate workpiece in the honing surface.</value>
+  </data>
+  <data name="E40Internal" xml:space="preserve">
+    <value>E40Internal</value>
+  </data>
+  <data name="E40Text" xml:space="preserve">
+    <value>Workpiece not activated in the honing surface</value>
+  </data>
+  <data name="E40Title" xml:space="preserve">
+    <value>E40</value>
+  </data>
+  <data name="E41Description" xml:space="preserve">
+    <value>Position of the assembly aid on moving the axes not OK</value>
+  </data>
+  <data name="E41Handling" xml:space="preserve">
+    <value>Check position and fixing of the assembly aid.</value>
+  </data>
+  <data name="E41Internal" xml:space="preserve">
+    <value>E41Internal</value>
+  </data>
+  <data name="E41Text" xml:space="preserve">
+    <value>Position of the assembly aid, right-hand chucking device not OK</value>
+  </data>
+  <data name="E41Title" xml:space="preserve">
+    <value>E41</value>
+  </data>
+  <data name="E42Description" xml:space="preserve">
+    <value>Position of the assembly aid on moving the axes not OK</value>
+  </data>
+  <data name="E42Handling" xml:space="preserve">
+    <value>Check position and fixing of the assembly aid.</value>
+  </data>
+  <data name="E42Internal" xml:space="preserve">
+    <value>E42Internal</value>
+  </data>
+  <data name="E42Text" xml:space="preserve">
+    <value>Position of the assembly aid, left-hand chucking device not OK</value>
+  </data>
+  <data name="E42Title" xml:space="preserve">
+    <value>E42</value>
+  </data>
+  <data name="E43Description" xml:space="preserve">
+    <value>No honing oil flow when machine switched on or honing oil flow when machine switched off</value>
+  </data>
+  <data name="E43Handling" xml:space="preserve">
+    <value>Check honing oil supply and honing oil flow sensor.</value>
+  </data>
+  <data name="E43Internal" xml:space="preserve">
+    <value>E43Internal</value>
+  </data>
+  <data name="E43Text" xml:space="preserve">
+    <value>Low pressure honing oil flow not OK</value>
+  </data>
+  <data name="E43Title" xml:space="preserve">
+    <value>E43</value>
+  </data>
+  <data name="E44Decription" xml:space="preserve">
+    <value>One or more codings faulty</value>
+  </data>
+  <data name="E44Handling" xml:space="preserve">
+    <value>Please compare or change the coding of the scraper ring on the push protection plate with the coding in the Honen.exe file and change if necessary.</value>
+  </data>
+  <data name="E44Internal" xml:space="preserve">
+    <value>E44Internal</value>
+  </data>
+  <data name="E44Text" xml:space="preserve">
+    <value>Query of the coding of the scraper ring does not correlate with the coding on the surface</value>
+  </data>
+  <data name="E44Title" xml:space="preserve">
+    <value>E44</value>
+  </data>
+  <data name="E45Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is at handheld terminal</value>
+  </data>
+  <data name="E45Handling" xml:space="preserve">
+    <value>Unlock the emergency stop pushbutton at the handheld terminal.</value>
+  </data>
+  <data name="E45Internal" xml:space="preserve">
+    <value>E45Internal</value>
+  </data>
+  <data name="E45Text" xml:space="preserve">
+    <value>Emergency stop at the external 2.handheld terminal is active</value>
+  </data>
+  <data name="E45Title" xml:space="preserve">
+    <value>E45</value>
+  </data>
+  <data name="E46Description" xml:space="preserve">
+    <value>The drive unit of Y5 axis sent an error</value>
+  </data>
+  <data name="E46Handling" xml:space="preserve">
+    <value>Please start "Homepositon" or start Automatic program.</value>
+  </data>
+  <data name="E46Internal" xml:space="preserve">
+    <value>E46Internal</value>
+  </data>
+  <data name="E46Text" xml:space="preserve">
+    <value>Safety brake test of Y5 axis not sucessful</value>
+  </data>
+  <data name="E46Title" xml:space="preserve">
+    <value>E46</value>
+  </data>
+  <data name="E47Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E47Handling" xml:space="preserve">
+    <value>Resolve cause and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E47Internal" xml:space="preserve">
+    <value>E47Internal</value>
+  </data>
+  <data name="E47Text" xml:space="preserve">
+    <value>Fault safety fuse controls unit</value>
+  </data>
+  <data name="E47Title" xml:space="preserve">
+    <value>E47</value>
+  </data>
+  <data name="E48Description" xml:space="preserve">
+    <value>The gantry is fixed through pins in parking position</value>
+  </data>
+  <data name="E48Handling" xml:space="preserve">
+    <value>Please remove the pins and put them through the related stacker.</value>
+  </data>
+  <data name="E48Internal" xml:space="preserve">
+    <value>E48Internal</value>
+  </data>
+  <data name="E48Text" xml:space="preserve">
+    <value>Gantry is fixed in parking position</value>
+  </data>
+  <data name="E48Title" xml:space="preserve">
+    <value>E48</value>
+  </data>
+  <data name="E49Description" xml:space="preserve">
+    <value>Level is exceeded</value>
+  </data>
+  <data name="E49Handling" xml:space="preserve">
+    <value>Set level switch respectively check lines.</value>
+  </data>
+  <data name="E49Internal" xml:space="preserve">
+    <value>E49Internal</value>
+  </data>
+  <data name="E49Text" xml:space="preserve">
+    <value>Level oil machine base is exceeded</value>
+  </data>
+  <data name="E49Title" xml:space="preserve">
+    <value>E49</value>
+  </data>
+  <data name="E50Description" xml:space="preserve">
+    <value>Definition of the clamping device is not OK</value>
+  </data>
+  <data name="E50Handling" xml:space="preserve">
+    <value>Please check definition of the clamping device and entry im the variable list</value>
+  </data>
+  <data name="E50Internal" xml:space="preserve">
+    <value>E50Internal</value>
+  </data>
+  <data name="E50Text" xml:space="preserve">
+    <value>Part status clamping device right is 0</value>
+  </data>
+  <data name="E50Title" xml:space="preserve">
+    <value>E50</value>
+  </data>
+  <data name="E51Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E51Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E51Internal" xml:space="preserve">
+    <value>E51Internal</value>
+  </data>
+  <data name="E51Text" xml:space="preserve">
+    <value>Part status rough part gripper right is 0</value>
+  </data>
+  <data name="E51Title" xml:space="preserve">
+    <value>E51</value>
+  </data>
+  <data name="E52Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E52Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E52Internal" xml:space="preserve">
+    <value>E52Internal</value>
+  </data>
+  <data name="E52Text" xml:space="preserve">
+    <value>Part status finish part gripper right is 0</value>
+  </data>
+  <data name="E52Title" xml:space="preserve">
+    <value>E52</value>
+  </data>
+  <data name="E53Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E53Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E53Internal" xml:space="preserve">
+    <value>E53Internal</value>
+  </data>
+  <data name="E53Text" xml:space="preserve">
+    <value>Part status dresser gripper 1 tooth pitch right is 0</value>
+  </data>
+  <data name="E53Title" xml:space="preserve">
+    <value>E53</value>
+  </data>
+  <data name="E54Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E54Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E54Internal" xml:space="preserve">
+    <value>E54Internal</value>
+  </data>
+  <data name="E54Text" xml:space="preserve">
+    <value>Part status dresser gripper 2 tooth right is 0</value>
+  </data>
+  <data name="E54Title" xml:space="preserve">
+    <value>E54</value>
+  </data>
+  <data name="E55Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E55Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E55Internal" xml:space="preserve">
+    <value>E55Internal</value>
+  </data>
+  <data name="E55Text" xml:space="preserve">
+    <value>Part status rough part gripper gantry right is 0</value>
+  </data>
+  <data name="E55Title" xml:space="preserve">
+    <value>E55</value>
+  </data>
+  <data name="E56Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E56Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E56Internal" xml:space="preserve">
+    <value>E56Internal</value>
+  </data>
+  <data name="E56Text" xml:space="preserve">
+    <value>Part status finish part gripper right is 0</value>
+  </data>
+  <data name="E56Title" xml:space="preserve">
+    <value>E56</value>
+  </data>
+  <data name="E57Description" xml:space="preserve">
+    <value>Definition of the clamping device is not OK</value>
+  </data>
+  <data name="E57Handling" xml:space="preserve">
+    <value>Please check definition of the clamping device and entry im the variable list</value>
+  </data>
+  <data name="E57Internal" xml:space="preserve">
+    <value>E57Internal</value>
+  </data>
+  <data name="E57Text" xml:space="preserve">
+    <value>Part status clamping device left is 0</value>
+  </data>
+  <data name="E57Title" xml:space="preserve">
+    <value>E57</value>
+  </data>
+  <data name="E58Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E58Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E58Internal" xml:space="preserve">
+    <value>E58Internal</value>
+  </data>
+  <data name="E58Text" xml:space="preserve">
+    <value>Part status rough part gripper left is 0</value>
+  </data>
+  <data name="E58Title" xml:space="preserve">
+    <value>E58</value>
+  </data>
+  <data name="E59Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E59Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E59Internal" xml:space="preserve">
+    <value>E59Internal</value>
+  </data>
+  <data name="E59Text" xml:space="preserve">
+    <value>Part status finish part gripper left is 0</value>
+  </data>
+  <data name="E59Title" xml:space="preserve">
+    <value>E59</value>
+  </data>
+  <data name="E60Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E60Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E60Internal" xml:space="preserve">
+    <value>E60Internal</value>
+  </data>
+  <data name="E60Text" xml:space="preserve">
+    <value>Part status dresser gripper 1 tooth pitch left is 0</value>
+  </data>
+  <data name="E60Title" xml:space="preserve">
+    <value>E60</value>
+  </data>
+  <data name="E61Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E61Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E61Internal" xml:space="preserve">
+    <value>E61Internal</value>
+  </data>
+  <data name="E61Text" xml:space="preserve">
+    <value>Part status dresser gripper 2 tooth left is 0</value>
+  </data>
+  <data name="E61Title" xml:space="preserve">
+    <value>E61</value>
+  </data>
+  <data name="E62Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E62Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E62Internal" xml:space="preserve">
+    <value>E62Internal</value>
+  </data>
+  <data name="E62Text" xml:space="preserve">
+    <value>Part status rough part gripper 2 gantry right is 0</value>
+  </data>
+  <data name="E62Title" xml:space="preserve">
+    <value>E62</value>
+  </data>
+  <data name="E63Description" xml:space="preserve">
+    <value>Definition of the gripper is not OK</value>
+  </data>
+  <data name="E63Handling" xml:space="preserve">
+    <value>Please check definition of the gripper and entry im the variable list</value>
+  </data>
+  <data name="E63Internal" xml:space="preserve">
+    <value>E63Internal</value>
+  </data>
+  <data name="E63Text" xml:space="preserve">
+    <value>Part status finish part gripper 2 right is 0</value>
+  </data>
+  <data name="E63Title" xml:space="preserve">
+    <value>E63</value>
+  </data>
+  <data name="E70Description" xml:space="preserve">
+    <value>Designation of the Spindle and analog values do not correspond</value>
+  </data>
+  <data name="E70Handling" xml:space="preserve">
+    <value>Check the designation of the Spindle and analog values.</value>
+  </data>
+  <data name="E70Internal" xml:space="preserve">
+    <value>E70Internal</value>
+  </data>
+  <data name="E70Text" xml:space="preserve">
+    <value>Plausibility Spindle right not OK</value>
+  </data>
+  <data name="E70Title" xml:space="preserve">
+    <value>E70</value>
+  </data>
+  <data name="E71Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E71Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E71Internal" xml:space="preserve">
+    <value>E71Internal</value>
+  </data>
+  <data name="E71Text" xml:space="preserve">
+    <value>Plausibility gripper raw part right not OK</value>
+  </data>
+  <data name="E71Title" xml:space="preserve">
+    <value>E71</value>
+  </data>
+  <data name="E72Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E72Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E72Internal" xml:space="preserve">
+    <value>E72Internal</value>
+  </data>
+  <data name="E72Text" xml:space="preserve">
+    <value>Plausibility gripper finished part right not OK</value>
+  </data>
+  <data name="E72Title" xml:space="preserve">
+    <value>E72</value>
+  </data>
+  <data name="E73Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E73Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E73Internal" xml:space="preserve">
+    <value>E73Internal</value>
+  </data>
+  <data name="E73Text" xml:space="preserve">
+    <value>Plausibility gripper gear dresser right not OK</value>
+  </data>
+  <data name="E73Title" xml:space="preserve">
+    <value>E73</value>
+  </data>
+  <data name="E74Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do notvcorrespond</value>
+  </data>
+  <data name="E74Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E74Internal" xml:space="preserve">
+    <value>E74Internal</value>
+  </data>
+  <data name="E74Text" xml:space="preserve">
+    <value>Plausibility gripper head dresser right not OK</value>
+  </data>
+  <data name="E74Title" xml:space="preserve">
+    <value>E74</value>
+  </data>
+  <data name="E75Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E75Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E75Internal" xml:space="preserve">
+    <value>E75Internal</value>
+  </data>
+  <data name="E75Text" xml:space="preserve">
+    <value>Plausibility gripper raw part gantry not OK</value>
+  </data>
+  <data name="E75Title" xml:space="preserve">
+    <value>E75</value>
+  </data>
+  <data name="E76Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E76Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E76Internal" xml:space="preserve">
+    <value>E76Internal</value>
+  </data>
+  <data name="E76Text" xml:space="preserve">
+    <value>Plausibility gripper finished part gantry not OK</value>
+  </data>
+  <data name="E76Title" xml:space="preserve">
+    <value>E76</value>
+  </data>
+  <data name="E77Description" xml:space="preserve">
+    <value>Designation of the Spindle and analog values do not correspond</value>
+  </data>
+  <data name="E77Handling" xml:space="preserve">
+    <value>Check designation of the Spindle and analog values.</value>
+  </data>
+  <data name="E77Internal" xml:space="preserve">
+    <value>E77Internal</value>
+  </data>
+  <data name="E77Text" xml:space="preserve">
+    <value>Plausibility Spindle left not OK</value>
+  </data>
+  <data name="E77Title" xml:space="preserve">
+    <value>E77</value>
+  </data>
+  <data name="E78Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E78Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E78Internal" xml:space="preserve">
+    <value>E78Internal</value>
+  </data>
+  <data name="E78Text" xml:space="preserve">
+    <value>Plausibility gripper raw part left not OK</value>
+  </data>
+  <data name="E78Title" xml:space="preserve">
+    <value>E78</value>
+  </data>
+  <data name="E79Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E79Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E79Internal" xml:space="preserve">
+    <value>E79Internal</value>
+  </data>
+  <data name="E79Text" xml:space="preserve">
+    <value>Plausibility gripper finished part left not OK</value>
+  </data>
+  <data name="E79Title" xml:space="preserve">
+    <value>E79</value>
+  </data>
+  <data name="E80Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E80Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E80Internal" xml:space="preserve">
+    <value>E80Internal</value>
+  </data>
+  <data name="E80Text" xml:space="preserve">
+    <value>Plausibility gripper gear dresser left not OK</value>
+  </data>
+  <data name="E80Title" xml:space="preserve">
+    <value>E80</value>
+  </data>
+  <data name="E81Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E81Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E81Internal" xml:space="preserve">
+    <value>E8Internal</value>
+  </data>
+  <data name="E81Text" xml:space="preserve">
+    <value>Plausibility gripper head dresser left not OK</value>
+  </data>
+  <data name="E81Title" xml:space="preserve">
+    <value>E81</value>
+  </data>
+  <data name="E82Description" xml:space="preserve">
+    <value>Gear dresser right side is missing in Machine</value>
+  </data>
+  <data name="E82Handling" xml:space="preserve">
+    <value>Check designation of the grippers.</value>
+  </data>
+  <data name="E82Internal" xml:space="preserve">
+    <value>E82Internal</value>
+  </data>
+  <data name="E82Text" xml:space="preserve">
+    <value>Plausibility designation of gear dresser right side</value>
+  </data>
+  <data name="E82Title" xml:space="preserve">
+    <value>E82</value>
+  </data>
+  <data name="E83Description" xml:space="preserve">
+    <value>Head dresser right side is missing in Machine</value>
+  </data>
+  <data name="E83Handling" xml:space="preserve">
+    <value>Check designation of the grippers.</value>
+  </data>
+  <data name="E83Internal" xml:space="preserve">
+    <value>E83Internal</value>
+  </data>
+  <data name="E83Text" xml:space="preserve">
+    <value>Plausibility designation of head dresser right side</value>
+  </data>
+  <data name="E83Title" xml:space="preserve">
+    <value>E83</value>
+  </data>
+  <data name="E84Description" xml:space="preserve">
+    <value>Master right side is missing in Machine</value>
+  </data>
+  <data name="E84Handling" xml:space="preserve">
+    <value>Designation of the grippers etc. Check initiator of  the calibration gear rest.</value>
+  </data>
+  <data name="E84Internal" xml:space="preserve">
+    <value>E84Internal</value>
+  </data>
+  <data name="E84Text" xml:space="preserve">
+    <value>Plausibility designation of Master right side</value>
+  </data>
+  <data name="E84Title" xml:space="preserve">
+    <value>E84</value>
+  </data>
+  <data name="E85Description" xml:space="preserve">
+    <value>Gear dresser left side is missing in Machine</value>
+  </data>
+  <data name="E85Handling" xml:space="preserve">
+    <value>Check designation of the grippers.</value>
+  </data>
+  <data name="E85Internal" xml:space="preserve">
+    <value>E85Internal</value>
+  </data>
+  <data name="E85Text" xml:space="preserve">
+    <value>Plausibility designation of gear dresser left side</value>
+  </data>
+  <data name="E85Title" xml:space="preserve">
+    <value>E85</value>
+  </data>
+  <data name="E86Description" xml:space="preserve">
+    <value>Head dresser left side is missing in Machine</value>
+  </data>
+  <data name="E86Handling" xml:space="preserve">
+    <value>Check designation of the grippers.</value>
+  </data>
+  <data name="E86Internal" xml:space="preserve">
+    <value>E86Internal</value>
+  </data>
+  <data name="E86Text" xml:space="preserve">
+    <value>Plausibility designation of head dresser left side</value>
+  </data>
+  <data name="E86Title" xml:space="preserve">
+    <value>E86</value>
+  </data>
+  <data name="E87Description" xml:space="preserve">
+    <value>Master left side is missing in Machine</value>
+  </data>
+  <data name="E87Handling" xml:space="preserve">
+    <value>Designation of the grippers etc. Check initiator the calibration gear rest.</value>
+  </data>
+  <data name="E87Internal" xml:space="preserve">
+    <value>E87Internal</value>
+  </data>
+  <data name="E87Text" xml:space="preserve">
+    <value>Plausibility designation of Master left side</value>
+  </data>
+  <data name="E87Title" xml:space="preserve">
+    <value>E87</value>
+  </data>
+  <data name="E88Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E88Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E88Internal" xml:space="preserve">
+    <value>E88Internal</value>
+  </data>
+  <data name="E88Text" xml:space="preserve">
+    <value>Plausibility gripper raw part 2 gantry not OK</value>
+  </data>
+  <data name="E88Title" xml:space="preserve">
+    <value>E88</value>
+  </data>
+  <data name="E89Description" xml:space="preserve">
+    <value>Designation of the grippers and analog values do not correspond</value>
+  </data>
+  <data name="E89Handling" xml:space="preserve">
+    <value>Check designation of the grippers and analog values.</value>
+  </data>
+  <data name="E89Internal" xml:space="preserve">
+    <value>E89Internal</value>
+  </data>
+  <data name="E89Text" xml:space="preserve">
+    <value>Plausibility gripper finished 2 part gantry not OK</value>
+  </data>
+  <data name="E89Title" xml:space="preserve">
+    <value>E89</value>
   </data>
 </root>

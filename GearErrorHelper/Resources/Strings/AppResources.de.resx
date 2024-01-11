@@ -129,6 +129,171 @@
   <data name="Description" xml:space="preserve">
     <value>Beschreibung</value>
   </data>
+  <data name="E000Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is on the VAM unit of the control panel</value>
+  </data>
+  <data name="E000Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E000Internal" xml:space="preserve">
+    <value>E000Internal</value>
+  </data>
+  <data name="E000Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E000Title" xml:space="preserve">
+    <value>E000</value>
+  </data>
+  <data name="E10Description" xml:space="preserve">
+    <value>THe protection switch mains hold has tripped.</value>
+  </data>
+  <data name="E10Handing" xml:space="preserve">
+    <value>Resolve cause and switch on tripped protection swtich.</value>
+  </data>
+  <data name="E10Internal" xml:space="preserve">
+    <value>E10Internal</value>
+  </data>
+  <data name="E10Text" xml:space="preserve">
+    <value>Protection switch mains hold</value>
+  </data>
+  <data name="E10Title" xml:space="preserve">
+    <value>E10</value>
+  </data>
+  <data name="E1Description" xml:space="preserve">
+    <value>The PNOZ unit which you find in the switch cabinet have one condition for a emergency stop detect</value>
+  </data>
+  <data name="E1Handling" xml:space="preserve">
+    <value>Unlock all emergency stop push buttons and acknowlegde with "Maschine On" button.</value>
+  </data>
+  <data name="E1Internal" xml:space="preserve">
+    <value>E1Internal</value>
+  </data>
+  <data name="E1Text" xml:space="preserve">
+    <value>Emergency stop codition of the Machine</value>
+  </data>
+  <data name="E1Title" xml:space="preserve">
+    <value>E1</value>
+  </data>
+  <data name="E2Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is on the VAM unit of the control panel</value>
+  </data>
+  <data name="E2Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E2Internal" xml:space="preserve">
+    <value>E2Internal</value>
+  </data>
+  <data name="E2Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E2Title" xml:space="preserve">
+    <value>E2</value>
+  </data>
+  <data name="E3Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E3Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E3Internal" xml:space="preserve">
+    <value>E4Internal</value>
+  </data>
+  <data name="E3Text" xml:space="preserve">
+    <value>Fault safety fuse DC 24V</value>
+  </data>
+  <data name="E3Title" xml:space="preserve">
+    <value>E3</value>
+  </data>
+  <data name="E4Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E4Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E4Internal" xml:space="preserve">
+    <value>E4Internal</value>
+  </data>
+  <data name="E4Text" xml:space="preserve">
+    <value>Fault safety fuse PLC inputs</value>
+  </data>
+  <data name="E4Title" xml:space="preserve">
+    <value>E000</value>
+  </data>
+  <data name="E5Description" xml:space="preserve">
+    <value>One safety fuse in the switch cabinet has tripped</value>
+  </data>
+  <data name="E5Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped safety fuse.</value>
+  </data>
+  <data name="E5Internal" xml:space="preserve">
+    <value>E5Internal</value>
+  </data>
+  <data name="E5Text" xml:space="preserve">
+    <value>Fault safety fuse PLC inputs</value>
+  </data>
+  <data name="E5Title" xml:space="preserve">
+    <value>E5</value>
+  </data>
+  <data name="E6Description" xml:space="preserve">
+    <value>The emergency stop push button is on at the VAM unit of the control panel</value>
+  </data>
+  <data name="E6Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E6Internal" xml:space="preserve">
+    <value>E6Internal</value>
+  </data>
+  <data name="E6Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E6Title" xml:space="preserve">
+    <value>E6</value>
+  </data>
+  <data name="E7Description" xml:space="preserve">
+    <value>The emergency stop pushbutton is on the VAM unit of the control panel</value>
+  </data>
+  <data name="E7Handling" xml:space="preserve">
+    <value>Unlock the emergency stop push button at the VAM unit of the control panel.</value>
+  </data>
+  <data name="E7Internal" xml:space="preserve">
+    <value>E7Internal</value>
+  </data>
+  <data name="E7Text" xml:space="preserve">
+    <value>Emergency stop at the control panel VAM is active</value>
+  </data>
+  <data name="E7Title" xml:space="preserve">
+    <value>E7</value>
+  </data>
+  <data name="E8Description" xml:space="preserve">
+    <value>One motor protection switch in the switch cabinet has tripped</value>
+  </data>
+  <data name="E8Handling" xml:space="preserve">
+    <value>Cause resolve and switch on tripped motor protction switch.</value>
+  </data>
+  <data name="E8Internal" xml:space="preserve">
+    <value>E6Internal</value>
+  </data>
+  <data name="E8Text" xml:space="preserve">
+    <value>Fault motor protection</value>
+  </data>
+  <data name="E8Title" xml:space="preserve">
+    <value>E8</value>
+  </data>
+  <data name="E9Description" xml:space="preserve">
+    <value>Ready to operate message of the supply module HMV is not present</value>
+  </data>
+  <data name="E9Handling" xml:space="preserve">
+    <value>Check HMV and drive units. Delete faults with the ESC button on the HMV unit.</value>
+  </data>
+  <data name="E9Internal" xml:space="preserve">
+    <value>E6Internal</value>
+  </data>
+  <data name="E9Text" xml:space="preserve">
+    <value>Fault supply module HMV</value>
+  </data>
+  <data name="E9Title" xml:space="preserve">
+    <value>E9</value>
+  </data>
   <data name="F0001Description" xml:space="preserve">
     <value>beschreibung</value>
   </data>
@@ -158,5 +323,11 @@
   </data>
   <data name="Title" xml:space="preserve">
     <value>GearErrorHelper</value>
+  </data>
+  <data name="E11Title" xml:space="preserve">
+    <value>E11</value>
+  </data>
+  <data name="E11Internal" xml:space="preserve">
+    <value>E11Internal</value>
   </data>
 </root>
