@@ -129,14 +129,14 @@
   <data name="Description" xml:space="preserve">
     <value>Beschreibung</value>
   </data>
-  <data name="F0001" xml:space="preserve">
-    <value>F0001</value>
-  </data>
   <data name="F0001Description" xml:space="preserve">
     <value>beschreibung</value>
   </data>
   <data name="F0001Handling" xml:space="preserve">
     <value>lösung</value>
+  </data>
+  <data name="F0001Internal" xml:space="preserve">
+    <value>F0001Internal</value>
   </data>
   <data name="F0001Text" xml:space="preserve">
     <value>text</value>
