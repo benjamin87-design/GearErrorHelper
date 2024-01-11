@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7hch+xNgQNA97ii1fb5hz2De2UcJX2WV8Ddhgd7xOzz0j+4GAWlUy6gNPayNZFDkkApu4cn8NOIyLjRF6+xNhA==",
+  "dgSpecHash": "6ERH/knfVCrnjIixXCfbi2o81Pu0gIWqYNbchzADuDI7E+Mqpq7w1pJ3sHsA/ed0KG4fgLO/q8eXNJjLtpeqhA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Benjamin Fehr\\Documents\\GitHub\\GearErrorHelper\\GearErrorHelper\\GearErrorHelper.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\microsoft.maui.graphics\\8.0.3\\microsoft.maui.graphics.8.0.3.nupkg.sha512",
     "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\8.0.3\\microsoft.maui.graphics.win2d.winui.desktop.8.0.3.nupkg.sha512",
     "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\microsoft.maui.resizetizer.8.0.3.nupkg.sha512",
-    "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\microsoft.windowsappsdk.1.3.230724000.nupkg.sha512",
     "C:\\Users\\Benjamin Fehr\\.nuget\\packages\\simpletoolkit.core\\4.0.0\\simpletoolkit.core.4.0.0.nupkg.sha512",

@@ -46,10 +46,11 @@ public partial class BoschErrorViewModel : BaseViewModel
 		ErrorTypes.Add(new BoschErrorModel { Key = 3, Value = "F", Display = "Fatal" });
 	}
 
+	[RelayCommand]
 	public async Task ErrorSearchChanged()
 	{
 		//get the error description as a string from appresources.resx
-		var errorNumber = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch);
+		var errorNumber = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Bosch");
 		if (errorNumber == null)
 		{
 			//if the error number is not found in the resource file, then show message to user

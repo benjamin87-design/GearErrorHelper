@@ -117,8 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="F0001" xml:space="preserve">
-    <value>F0001</value>
+  <data name="About" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="BoschRexrothError" xml:space="preserve">
+    <value>Bosch Rexroth errors</value>
+  </data>
+  <data name="CopyRight" xml:space="preserve">
+    <value>Copyright | Benjamin Fehr</value>
   </data>
   <data name="F0001Description" xml:space="preserve">
     <value>testdescription</value>
@@ -126,10 +132,22 @@
   <data name="F0001Handling" xml:space="preserve">
     <value>testhandling</value>
   </data>
+  <data name="F0001Internal" xml:space="preserve">
+    <value>F0001Internal</value>
+  </data>
   <data name="F0001Text" xml:space="preserve">
     <value>testtext</value>
   </data>
   <data name="F0001Title" xml:space="preserve">
     <value>testtitle</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="InternalError" xml:space="preserve">
+    <value>Präwema errors</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>GearErrorHelper</value>
   </data>
 </root>

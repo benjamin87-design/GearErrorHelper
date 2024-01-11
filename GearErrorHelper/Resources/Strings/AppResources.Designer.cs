@@ -61,11 +61,29 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die F0001 ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die About ähnelt.
         /// </summary>
-        internal static string F0001 {
+        internal static string About {
             get {
-                return ResourceManager.GetString("F0001", resourceCulture);
+                return ResourceManager.GetString("About", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Bosch Rexroth errors ähnelt.
+        /// </summary>
+        internal static string BoschRexrothError {
+            get {
+                return ResourceManager.GetString("BoschRexrothError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Copyright | Benjamin Fehr ähnelt.
+        /// </summary>
+        internal static string CopyRight {
+            get {
+                return ResourceManager.GetString("CopyRight", resourceCulture);
             }
         }
         
@@ -88,6 +106,15 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die F0001Internal ähnelt.
+        /// </summary>
+        internal static string F0001Internal {
+            get {
+                return ResourceManager.GetString("F0001Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die testtext ähnelt.
         /// </summary>
         internal static string F0001Text {
@@ -102,6 +129,33 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string F0001Title {
             get {
                 return ResourceManager.GetString("F0001Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Home ähnelt.
+        /// </summary>
+        internal static string Home {
+            get {
+                return ResourceManager.GetString("Home", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Präwema errors ähnelt.
+        /// </summary>
+        internal static string InternalError {
+            get {
+                return ResourceManager.GetString("InternalError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die GearErrorHelper ähnelt.
+        /// </summary>
+        internal static string Title {
+            get {
+                return ResourceManager.GetString("Title", resourceCulture);
             }
         }
     }

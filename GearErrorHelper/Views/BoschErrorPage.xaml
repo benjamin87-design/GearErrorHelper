@@ -3,5 +3,65 @@
     x:Class="GearErrorHelper.Views.BoschErrorPage"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:icon="clr-namespace:GearErrorHelper"
+    xmlns:resx="clr-namespace:GearErrorHelper.Resources.Strings"
     xmlns:vm="clr-namespace:GearErrorHelper.ViewModels"
-    x:DataType="vm:BoschErrorViewModel" />
+    x:DataType="vm:BoschErrorViewModel">
+
+    <StackLayout Margin="20" Orientation="Vertical">
+        <StackLayout HorizontalOptions="Start" Orientation="Horizontal">
+            <Picker
+                Margin="10"
+                ItemDisplayBinding="{Binding Value}"
+                ItemsSource="{Binding ErrorTypes}"
+                SelectedItem="{Binding SelectedErrorType}"
+                WidthRequest="100" />
+            <SearchBar
+                Margin="10"
+                SearchCommand="{Binding ErrorSearchChangedCommand}"
+                Text="{Binding ErrorSearch, Mode=TwoWay}"
+                WidthRequest="300" />
+        </StackLayout>
+        <StackLayout Margin="0,20,0,0" Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+                <Label
+                    Margin="10"
+                    FontAttributes="Bold"
+                    FontSize="Subtitle"
+                    Text="{Binding ErrorTitle}" />
+                <Label
+                    Margin="10"
+                    FontAttributes="Bold"
+                    FontSize="Subtitle"
+                    Text="{Binding ErrorText}" />
+            </StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackLayout
+                    Grid.Column="0"
+                    Margin="10"
+                    Orientation="Vertical">
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="Subtitle"
+                        Text="Description" />
+                    <Label Text="{Binding ErrorDescription}" />
+                </StackLayout>
+                <StackLayout
+                    Grid.Column="1"
+                    Margin="10"
+                    Orientation="Vertical">
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="Subtitle"
+                        Text="Handling" />
+                    <Label Text="{Binding ErrorHandling}" />
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

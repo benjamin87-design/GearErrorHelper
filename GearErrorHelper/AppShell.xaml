@@ -1,27 +1,106 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-	x:Class="GearErrorHelper.AppShell"
-	xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-	xmlns:views="clr-namespace:GearErrorHelper.Views"
-	xmlns:local="clr-namespace:GearErrorHelper">
+    x:Class="GearErrorHelper.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:icon="clr-namespace:GearErrorHelper"
+    xmlns:local="clr-namespace:GearErrorHelper"
+    xmlns:resx="clr-namespace:GearErrorHelper.Resources.Strings"
+    xmlns:views="clr-namespace:GearErrorHelper.Views"
+    Title="{x:Static resx:AppResources.Title}"
+    Shell.FlyoutBehavior="Flyout">
 
-	<ShellContent
-		Shell.NavBarIsVisible="true"
-		Title="Home"
-		Icon="iconblank.png"
-		ContentTemplate="{DataTemplate views:HomePage}"
-		Route="HomePage" />
-	<ShellContent
-		Shell.NavBarIsVisible="true"
-		Title="InternalError"
-		Icon="iconblank.png"
-		ContentTemplate="{DataTemplate views:InternalErrorPage}"
-		Route="InternalErrorPage" />
-	<ShellContent
-		Shell.NavBarIsVisible="true"
-		Title="BoschError"
-		Icon="iconblank.png"
-		ContentTemplate="{DataTemplate views:BoschErrorPage}"
-		Route="BoschErrorPage" />
+    <Shell.FlyoutFooter>
+        <StackLayout Orientation="Vertical">
+            <Frame
+                Margin="10,0,0,10"
+                Padding="10"
+                BackgroundColor="Transparent"
+                BorderColor="Transparent"
+                CornerRadius="0">
+                <StackLayout Orientation="Horizontal">
+
+                    <Image Margin="2,0,0,0" BackgroundColor="Transparent">
+                        <Image.Source>
+                            <FontImageSource
+                                FontFamily="GoogleMaterialFont"
+                                Glyph="{x:Static icon:IconFont.Info}"
+                                Size="18" />
+                        </Image.Source>
+                    </Image>
+                    <Label
+                        Margin="12,0,0,0"
+                        Text="{x:Static resx:AppResources.About}"
+                        VerticalTextAlignment="Center" />
+                </StackLayout>
+
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Frame.GestureRecognizers>
+            </Frame>
+
+            <Label
+                Padding="10"
+                FontSize="9"
+                HorizontalTextAlignment="Center"
+                Text="{x:Static resx:AppResources.CopyRight}" />
+        </StackLayout>
+    </Shell.FlyoutFooter>
+
+    <ShellContent
+        Title="{x:Static resx:AppResources.Home}"
+        ContentTemplate="{DataTemplate views:HomePage}"
+        Route="HomePage"
+        Shell.NavBarIsVisible="True">
+        <ShellContent.Icon>
+            <FontImageSource
+                FontFamily="GoogleMaterialFont"
+                Glyph="{x:Static icon:IconFont.Home}"
+                Size="50"
+                Color="White" />
+        </ShellContent.Icon>
+    </ShellContent>
+
+    <ShellContent
+        Title="{x:Static resx:AppResources.InternalError}"
+        ContentTemplate="{DataTemplate views:InternalErrorPage}"
+        Route="InternalErrorPage"
+        Shell.NavBarIsVisible="True">
+        <ShellContent.Icon>
+            <FontImageSource
+                FontFamily="GoogleMaterialFont"
+                Glyph="{x:Static icon:IconFont.Warning}"
+                Size="50"
+                Color="White" />
+        </ShellContent.Icon>
+    </ShellContent>
+
+    <ShellContent
+        Title="{x:Static resx:AppResources.BoschRexrothError}"
+        ContentTemplate="{DataTemplate views:BoschErrorPage}"
+        Route="BoschErrorPage"
+        Shell.NavBarIsVisible="True">
+        <ShellContent.Icon>
+            <FontImageSource
+                FontFamily="GoogleMaterialFont"
+                Glyph="{x:Static icon:IconFont.Warning}"
+                Size="50"
+                Color="White" />
+        </ShellContent.Icon>
+    </ShellContent>
+
+    <ShellContent
+        Title="{x:Static resx:AppResources.About}"
+        ContentTemplate="{DataTemplate views:AboutPage}"
+        Route="AboutPage"
+        Shell.FlyoutItemIsVisible="False"
+        Shell.NavBarIsVisible="True">
+        <ShellContent.Icon>
+            <FontImageSource
+                FontFamily="GoogleMaterialFont"
+                Glyph="{x:Static icon:IconFont.Info}"
+                Size="50"
+                Color="White" />
+        </ShellContent.Icon>
+    </ShellContent>
 </Shell>

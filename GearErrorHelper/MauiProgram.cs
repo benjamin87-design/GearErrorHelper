@@ -15,10 +15,12 @@ public static class MauiProgram
 				fonts.AddFont("MaterialIcons-Regular.ttf", "GoogleMaterialFont");
 			});
 
+		builder.Services.AddSingleton<AboutViewModel>();
 		builder.Services.AddSingleton<HomeViewModel>();
 		builder.Services.AddSingleton<InternalErrorViewModel>();
 		builder.Services.AddSingleton<BoschErrorViewModel>();
 
+		builder.Services.AddSingleton<AboutPage>();
 		builder.Services.AddSingleton<HomePage>();
 		builder.Services.AddSingleton<InternalErrorPage>();
 		builder.Services.AddSingleton<BoschErrorPage>();
