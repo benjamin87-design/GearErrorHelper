@@ -48,7 +48,7 @@
                     <Label
                         FontAttributes="Bold"
                         FontSize="Subtitle"
-                        Text="Description" />
+                        Text="{x:Static resx:AppResources.Description}" />
                     <Label Text="{Binding ErrorDescription}" />
                 </StackLayout>
                 <StackLayout
@@ -58,7 +58,7 @@
                     <Label
                         FontAttributes="Bold"
                         FontSize="Subtitle"
-                        Text="Handling" />
+                        Text="{x:Static resx:AppResources.Handling}" />
                     <Label Text="{Binding ErrorHandling}" />
                 </StackLayout>
             </Grid>

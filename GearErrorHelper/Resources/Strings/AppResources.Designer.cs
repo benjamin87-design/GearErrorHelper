@@ -88,6 +88,15 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Description ähnelt.
+        /// </summary>
+        internal static string Description {
+            get {
+                return ResourceManager.GetString("Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die testdescription ähnelt.
         /// </summary>
         internal static string F0001Description {
@@ -129,6 +138,15 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string F0001Title {
             get {
                 return ResourceManager.GetString("F0001Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Handling ähnelt.
+        /// </summary>
+        internal static string Handling {
+            get {
+                return ResourceManager.GetString("Handling", resourceCulture);
             }
         }
         

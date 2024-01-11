@@ -3,33 +3,33 @@
 public partial class InternalErrorViewModel : BaseViewModel
 {
 	[ObservableProperty]
-	private string errorSearch;
+	private string? errorSearch;
 	[ObservableProperty]
-	private string errorType;
+	private string? errorType;
 	[ObservableProperty]
-	private string value;
+	private string? value;
 	[ObservableProperty]
-	private string display;
+	private string? display;
 
 	//Error Properties
 	[ObservableProperty]
-	private string errorNumber;
+	private string? errorNumber;
 	[ObservableProperty]
-	private string errorTitle;
+	private string? errorTitle;
 	[ObservableProperty]
-	private string errorText;
+	private string? errorText;
 	[ObservableProperty]
-	private string errorDescription;
+	private string? errorDescription;
 	[ObservableProperty]
-	private string errorHandling;
+	private string? errorHandling;
 
 	//Lists
 	[ObservableProperty]
 	private ObservableCollection<InternalErrorModel> errorTypes;
 
 	//Selected
-	private InternalErrorModel selectedErrorType;
-	public InternalErrorModel SelectedErrorType
+	private InternalErrorModel? selectedErrorType;
+	public InternalErrorModel? SelectedErrorType
 	{
 		get {return selectedErrorType; }
 		set{selectedErrorType = value;}
@@ -49,18 +49,18 @@ public partial class InternalErrorViewModel : BaseViewModel
 	public async Task ErrorSearchChanged()
 	{
 		//get the error description as a string from appresources.resx
-		var errorNumber = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Internal");
+		var errorNumber = AppResources.ResourceManager.GetString(SelectedErrorType?.Value + ErrorSearch + "Internal");
 		if (errorNumber == null)
 		{
 			//if the error number is not found in the resource file, then show message to user
-			await Shell.Current.DisplayAlert("Error", "The error" + " " + SelectedErrorType.Value + ErrorSearch + " " + " is not in the database.", "OK");
+			await Shell.Current.DisplayAlert("Error", "The error" + " " + SelectedErrorType?.Value + ErrorSearch + " " + " is not in the database.", "OK");
 		}
 		else
 		{
-			ErrorTitle = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Title")?.ToString() ?? "";
-			ErrorText = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Text")?.ToString() ?? "";
-			ErrorDescription = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Description")?.ToString() ?? "";
-			ErrorHandling = AppResources.ResourceManager.GetString(SelectedErrorType.Value + ErrorSearch + "Handling")?.ToString() ?? "";
+			ErrorTitle = AppResources.ResourceManager.GetString(SelectedErrorType?.Value + ErrorSearch + "Title")?.ToString() ?? "";
+			ErrorText = AppResources.ResourceManager.GetString(SelectedErrorType?.Value + ErrorSearch + "Text")?.ToString() ?? "";
+			ErrorDescription = AppResources.ResourceManager.GetString(SelectedErrorType?.Value + ErrorSearch + "Description")?.ToString() ?? "";
+			ErrorHandling = AppResources.ResourceManager.GetString(SelectedErrorType?.Value + ErrorSearch + "Handling")?.ToString() ?? "";
 		}
 	}
 }
