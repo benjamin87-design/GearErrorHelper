@@ -151,7 +151,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E104Description {
             get {
@@ -160,7 +160,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0. ähnelt.
         /// </summary>
         internal static string E104Handling {
             get {
@@ -178,7 +178,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of C1-axis not in RUN-Mode ähnelt.
         /// </summary>
         internal static string E104Text {
             get {
@@ -196,7 +196,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic ähnelt.
         /// </summary>
         internal static string E105Description {
             get {
@@ -205,7 +205,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Delete breakpoint or switch IndraLogic in Offline modus. ähnelt.
         /// </summary>
         internal static string E105Handling {
             get {
@@ -223,7 +223,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of C1-axis stopped at breakpoint ähnelt.
         /// </summary>
         internal static string E105Text {
             get {
@@ -241,7 +241,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E106Description {
             get {
@@ -250,7 +250,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation. ähnelt.
         /// </summary>
         internal static string E106Handling {
             get {
@@ -268,7 +268,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of C1-axis have a runtime error ähnelt.
         /// </summary>
         internal static string E106Text {
             get {
@@ -286,7 +286,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E107Description {
             get {
@@ -295,7 +295,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Download drive parameters or call Pr wema-Service. ähnelt.
         /// </summary>
         internal static string E107Handling {
             get {
@@ -313,7 +313,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Project of Drive-SPS (MLD) C1-axis missing ähnelt.
         /// </summary>
         internal static string E107Text {
             get {
@@ -331,7 +331,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E108Description {
             get {
@@ -340,7 +340,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0. ähnelt.
         /// </summary>
         internal static string E108Handling {
             get {
@@ -358,7 +358,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of C2-axis not in RUN-Mode ähnelt.
         /// </summary>
         internal static string E108Text {
             get {
@@ -376,7 +376,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic ähnelt.
         /// </summary>
         internal static string E109Description {
             get {
@@ -385,7 +385,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Delete breakpoint or switch IndraLogic in Offline modus. ähnelt.
         /// </summary>
         internal static string E109Handling {
             get {
@@ -403,7 +403,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of C2-axis stopped at breakpoint ähnelt.
         /// </summary>
         internal static string E109Text {
             get {
@@ -466,7 +466,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E110Description {
             get {
@@ -475,7 +475,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation. ähnelt.
         /// </summary>
         internal static string E110Handling {
             get {
@@ -493,7 +493,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of C2-axis have a runtime error ähnelt.
         /// </summary>
         internal static string E110Text {
             get {
@@ -511,7 +511,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E111Description {
             get {
@@ -520,7 +520,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Download drive parameters or call Präwema-Service. ähnelt.
         /// </summary>
         internal static string E111Handling {
             get {
@@ -538,7 +538,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Project of Drive-SPS (MLD) C2-axis missing ähnelt.
         /// </summary>
         internal static string E111Text {
             get {
@@ -556,7 +556,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E112Description {
             get {
@@ -565,7 +565,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0. ähnelt.
         /// </summary>
         internal static string E112Handling {
             get {
@@ -583,7 +583,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of X1-axis not in RUN-Mode ähnelt.
         /// </summary>
         internal static string E112Text {
             get {
@@ -601,7 +601,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic ähnelt.
         /// </summary>
         internal static string E113Description {
             get {
@@ -610,7 +610,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Delete breakpoint or switch IndraLogic in Offline modus. ähnelt.
         /// </summary>
         internal static string E113Handling {
             get {
@@ -628,7 +628,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Drive-SPS (MLD) of X1-axis stopped at breakpoint ähnelt.
         /// </summary>
         internal static string E113Text {
             get {

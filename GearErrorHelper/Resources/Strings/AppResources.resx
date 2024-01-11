@@ -598,151 +598,151 @@
     <value>E36</value>
   </data>
   <data name="E104Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E104Handling" xml:space="preserve">
-    <value />
+    <value>Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0.</value>
   </data>
   <data name="E104Internal" xml:space="preserve">
     <value>E104Internal</value>
   </data>
   <data name="E104Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of C1-axis not in RUN-Mode</value>
   </data>
   <data name="E104Title" xml:space="preserve">
     <value>E104</value>
   </data>
   <data name="E105Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic</value>
   </data>
   <data name="E105Handling" xml:space="preserve">
-    <value />
+    <value>Delete breakpoint or switch IndraLogic in Offline modus.</value>
   </data>
   <data name="E105Internal" xml:space="preserve">
     <value>E105Internal</value>
   </data>
   <data name="E105Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of C1-axis stopped at breakpoint</value>
   </data>
   <data name="E105Title" xml:space="preserve">
     <value>E105</value>
   </data>
   <data name="E106Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 3Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E106Handling" xml:space="preserve">
-    <value />
+    <value>Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation.</value>
   </data>
   <data name="E106Internal" xml:space="preserve">
     <value>E106Internal</value>
   </data>
   <data name="E106Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of C1-axis have a runtime error</value>
   </data>
   <data name="E106Title" xml:space="preserve">
     <value>E106</value>
   </data>
   <data name="E107Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E107Handling" xml:space="preserve">
-    <value />
+    <value>Download drive parameters or call Pr wema-Service.</value>
   </data>
   <data name="E107Internal" xml:space="preserve">
     <value>E107Internal</value>
   </data>
   <data name="E107Text" xml:space="preserve">
-    <value />
+    <value>Project of Drive-SPS (MLD) C1-axis missing</value>
   </data>
   <data name="E107Title" xml:space="preserve">
     <value>E107</value>
   </data>
   <data name="E108Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E108Handling" xml:space="preserve">
-    <value />
+    <value>Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0.</value>
   </data>
   <data name="E108Internal" xml:space="preserve">
     <value>E108Internal</value>
   </data>
   <data name="E108Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of C2-axis not in RUN-Mode</value>
   </data>
   <data name="E108Title" xml:space="preserve">
     <value>E108</value>
   </data>
   <data name="E109Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic</value>
   </data>
   <data name="E109Handling" xml:space="preserve">
-    <value />
+    <value>Delete breakpoint or switch IndraLogic in Offline modus.</value>
   </data>
   <data name="E109Internal" xml:space="preserve">
     <value>E109Internal</value>
   </data>
   <data name="E109Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of C2-axis stopped at breakpoint</value>
   </data>
   <data name="E109Title" xml:space="preserve">
     <value>E109</value>
   </data>
   <data name="E110Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E110Handling" xml:space="preserve">
-    <value />
+    <value>Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation.</value>
   </data>
   <data name="E110Internal" xml:space="preserve">
     <value>E110Internal</value>
   </data>
   <data name="E110Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of C2-axis have a runtime error</value>
   </data>
   <data name="E110Title" xml:space="preserve">
     <value>E110</value>
   </data>
   <data name="E111Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E111Handling" xml:space="preserve">
-    <value />
+    <value>Download drive parameters or call Präwema-Service.</value>
   </data>
   <data name="E111Internal" xml:space="preserve">
     <value>E111Internal</value>
   </data>
   <data name="E111Text" xml:space="preserve">
-    <value />
+    <value>Project of Drive-SPS (MLD) C2-axis missing</value>
   </data>
   <data name="E111Title" xml:space="preserve">
     <value>E111</value>
   </data>
   <data name="E112Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes</value>
   </data>
   <data name="E112Handling" xml:space="preserve">
-    <value />
+    <value>Restart Drive-SPS (MLD) with Paramter P-0-1350 Bit 0.</value>
   </data>
   <data name="E112Internal" xml:space="preserve">
     <value>E112Internal</value>
   </data>
   <data name="E112Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of X1-axis not in RUN-Mode</value>
   </data>
   <data name="E112Title" xml:space="preserve">
     <value>E112</value>
   </data>
   <data name="E113Description" xml:space="preserve">
-    <value />
+    <value>MLD-status word P-0-1351 Bit 1.Diagnostic intervall 2 minutes. Breakpoint is set in IndraLogic</value>
   </data>
   <data name="E113Handling" xml:space="preserve">
-    <value />
+    <value>Delete breakpoint or switch IndraLogic in Offline modus.</value>
   </data>
   <data name="E113Internal" xml:space="preserve">
     <value>E113Internal</value>
   </data>
   <data name="E113Text" xml:space="preserve">
-    <value />
+    <value>Drive-SPS (MLD) of X1-axis stopped at breakpoint</value>
   </data>
   <data name="E113Title" xml:space="preserve">
     <value>E113</value>
