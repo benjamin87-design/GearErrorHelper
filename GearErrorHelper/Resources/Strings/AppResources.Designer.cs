@@ -169,6 +169,15 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Manuals ähnelt.
+        /// </summary>
+        internal static string Manuals {
+            get {
+                return ResourceManager.GetString("Manuals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die GearErrorHelper ähnelt.
         /// </summary>
         internal static string Title {

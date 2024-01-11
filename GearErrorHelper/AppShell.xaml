@@ -90,6 +90,20 @@
     </ShellContent>
 
     <ShellContent
+        Title="{x:Static resx:AppResources.Manuals}"
+        ContentTemplate="{DataTemplate views:MaintenancePage}"
+        Route="MaintenancePage"
+        Shell.NavBarIsVisible="True">
+        <ShellContent.Icon>
+            <FontImageSource
+                FontFamily="GoogleMaterialFont"
+                Glyph="{x:Static icon:IconFont.Checklist}"
+                Size="50"
+                Color="White" />
+        </ShellContent.Icon>
+    </ShellContent>
+
+    <ShellContent
         Title="{x:Static resx:AppResources.About}"
         ContentTemplate="{DataTemplate views:AboutPage}"
         Route="AboutPage"

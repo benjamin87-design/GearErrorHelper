@@ -19,11 +19,13 @@ public static class MauiProgram
 		builder.Services.AddSingleton<HomeViewModel>();
 		builder.Services.AddSingleton<InternalErrorViewModel>();
 		builder.Services.AddSingleton<BoschErrorViewModel>();
+		builder.Services.AddSingleton<MaintenanceViewModel>();
 
 		builder.Services.AddSingleton<AboutPage>();
 		builder.Services.AddSingleton<HomePage>();
 		builder.Services.AddSingleton<InternalErrorPage>();
 		builder.Services.AddSingleton<BoschErrorPage>();
+		builder.Services.AddSingleton<MaintenancePage>();
 
 		return builder.Build();
 	}
