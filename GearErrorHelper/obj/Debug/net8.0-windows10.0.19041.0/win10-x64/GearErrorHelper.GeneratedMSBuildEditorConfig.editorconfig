@@ -59,3 +59,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Views.InternalErrorPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\InternalErrorPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\InternalErrorPage.xaml
+
+[C:/Users/Benjamin Fehr/Documents/GitHub/GearErrorHelper/GearErrorHelper/Views/MaintenancePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GearErrorHelper.Views.MaintenancePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MaintenancePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MaintenancePage.xaml
