@@ -3621,4 +3621,1399 @@
   <data name="E729Title" xml:space="preserve">
     <value>E729</value>
   </data>
+  <data name="E732Description" xml:space="preserve">
+    <value>Faulty or no data exchange between honing surface and NC program</value>
+  </data>
+  <data name="E732Handling" xml:space="preserve">
+    <value>Check completeness of data and communication.</value>
+  </data>
+  <data name="E732Internal" xml:space="preserve">
+    <value>E732Internal</value>
+  </data>
+  <data name="E732Text" xml:space="preserve">
+    <value>Variable for calculating the values was not transmitted by the honing surface</value>
+  </data>
+  <data name="E732TItle" xml:space="preserve">
+    <value>E732</value>
+  </data>
+  <data name="E733Description" xml:space="preserve">
+    <value>Finishpart gripper clamped with workpiece</value>
+  </data>
+  <data name="E733Handling" xml:space="preserve">
+    <value>Remove finish part from gripper</value>
+  </data>
+  <data name="E733Internal" xml:space="preserve">
+    <value>E733Internal</value>
+  </data>
+  <data name="E733Text" xml:space="preserve">
+    <value>Error Unloading cycle</value>
+  </data>
+  <data name="E733Title" xml:space="preserve">
+    <value>E733</value>
+  </data>
+  <data name="E734Description" xml:space="preserve">
+    <value>Blank gripper is already occupied</value>
+  </data>
+  <data name="E734Handling" xml:space="preserve">
+    <value>Remove blank by hand.</value>
+  </data>
+  <data name="E734Internal" xml:space="preserve">
+    <value>E734Internal</value>
+  </data>
+  <data name="E734Text" xml:space="preserve">
+    <value>Felsomat load - loading not possible since blank gripper occupied with workpiece</value>
+  </data>
+  <data name="E734Title" xml:space="preserve">
+    <value>E734</value>
+  </data>
+  <data name="E735Description" xml:space="preserve">
+    <value>Finished part gripper is already empty</value>
+  </data>
+  <data name="E735Handling" xml:space="preserve">
+    <value>Reboot the program.</value>
+  </data>
+  <data name="E735Internal" xml:space="preserve">
+    <value>E735Internal</value>
+  </data>
+  <data name="E735Text" xml:space="preserve">
+    <value>Felsomat load - unloading not possible since finished part gripper already empty</value>
+  </data>
+  <data name="E735Title" xml:space="preserve">
+    <value>E735</value>
+  </data>
+  <data name="E736Description" xml:space="preserve">
+    <value>Allocation of blank gripper not OK</value>
+  </data>
+  <data name="E736Handling" xml:space="preserve">
+    <value>Check gripper allocation.</value>
+  </data>
+  <data name="E736Internal" xml:space="preserve">
+    <value>E736Internal</value>
+  </data>
+  <data name="E736Text" xml:space="preserve">
+    <value>Status blank gripper after loading not OK</value>
+  </data>
+  <data name="E736Title" xml:space="preserve">
+    <value>E736</value>
+  </data>
+  <data name="E737Description" xml:space="preserve">
+    <value>Allocation of finished part gripper not OK</value>
+  </data>
+  <data name="E737Handling" xml:space="preserve">
+    <value>Check gripper allocation.</value>
+  </data>
+  <data name="E737Internal" xml:space="preserve">
+    <value>E737Internal</value>
+  </data>
+  <data name="E737Text" xml:space="preserve">
+    <value>Status finished part gripper after unloading not OK</value>
+  </data>
+  <data name="E737Title" xml:space="preserve">
+    <value>E737</value>
+  </data>
+  <data name="E738Description" xml:space="preserve">
+    <value>Blank gripper and spindle occupied with workpiece</value>
+  </data>
+  <data name="E738Handling" xml:space="preserve">
+    <value>Remove workpiece by hand.</value>
+  </data>
+  <data name="E738Internal" xml:space="preserve">
+    <value>E738Internal</value>
+  </data>
+  <data name="E738Text" xml:space="preserve">
+    <value>Not possible to approach the position</value>
+  </data>
+  <data name="E738Title" xml:space="preserve">
+    <value>E738</value>
+  </data>
+  <data name="E739Description" xml:space="preserve">
+    <value>Finished part gripper and spindle occupied with workpiece</value>
+  </data>
+  <data name="E739Handling" xml:space="preserve">
+    <value>Remove workpiece by hand.</value>
+  </data>
+  <data name="E739Internal" xml:space="preserve">
+    <value>E739Internal</value>
+  </data>
+  <data name="E739Text" xml:space="preserve">
+    <value>Not possible to approach the position</value>
+  </data>
+  <data name="E739Title" xml:space="preserve">
+    <value>E739</value>
+  </data>
+  <data name="E740Description" xml:space="preserve">
+    <value>Gearing dresser gripper and spindle occupied with workpiece</value>
+  </data>
+  <data name="E740Handling" xml:space="preserve">
+    <value>Remove workpiece by hand.</value>
+  </data>
+  <data name="E740Internal" xml:space="preserve">
+    <value>E740Internal</value>
+  </data>
+  <data name="E740Text" xml:space="preserve">
+    <value>Not possible to approach the position</value>
+  </data>
+  <data name="E740Title" xml:space="preserve">
+    <value>E740</value>
+  </data>
+  <data name="E741Description" xml:space="preserve">
+    <value>Head dresser gripper and spindle occupied with workpiece</value>
+  </data>
+  <data name="E741Handling" xml:space="preserve">
+    <value>Remove workpiece by hand.</value>
+  </data>
+  <data name="E741Internal" xml:space="preserve">
+    <value>E741Internal</value>
+  </data>
+  <data name="E741Text" xml:space="preserve">
+    <value>Not possible to approach the position</value>
+  </data>
+  <data name="E741Title" xml:space="preserve">
+    <value>E741</value>
+  </data>
+  <data name="E742Description" xml:space="preserve">
+    <value>Blank gripper not occupied with workpiece</value>
+  </data>
+  <data name="E742Handling" xml:space="preserve">
+    <value>Add workpiece by hand.</value>
+  </data>
+  <data name="E742Internal" xml:space="preserve">
+    <value>E742Internal</value>
+  </data>
+  <data name="E742Text" xml:space="preserve">
+    <value>Not possible to load the blank</value>
+  </data>
+  <data name="E742Title" xml:space="preserve">
+    <value>E742</value>
+  </data>
+  <data name="E743Description" xml:space="preserve">
+    <value>No dressing machine present in gearing dresser gripper</value>
+  </data>
+  <data name="E743Handling" xml:space="preserve">
+    <value>Add dressing machine by hand.</value>
+  </data>
+  <data name="E743Internal" xml:space="preserve">
+    <value>E743Internal</value>
+  </data>
+  <data name="E743Text" xml:space="preserve">
+    <value>Loading gearing dresser not possible</value>
+  </data>
+  <data name="E743Title" xml:space="preserve">
+    <value>E743</value>
+  </data>
+  <data name="E744Description" xml:space="preserve">
+    <value>No dressing machine present in head dresser gripper</value>
+  </data>
+  <data name="E744Handling" xml:space="preserve">
+    <value>Add dressing machine by hand.</value>
+  </data>
+  <data name="E744Internal" xml:space="preserve">
+    <value>E744Internal</value>
+  </data>
+  <data name="E744Text" xml:space="preserve">
+    <value>Loading head dresser not possible</value>
+  </data>
+  <data name="E744Title" xml:space="preserve">
+    <value>E744</value>
+  </data>
+  <data name="E745Description" xml:space="preserve">
+    <value>No master present in gripper</value>
+  </data>
+  <data name="E745Handling" xml:space="preserve">
+    <value>Add master by hand.</value>
+  </data>
+  <data name="E745Internal" xml:space="preserve">
+    <value>E745Internal</value>
+  </data>
+  <data name="E745Text" xml:space="preserve">
+    <value>Loading the master not possible</value>
+  </data>
+  <data name="E745Title" xml:space="preserve">
+    <value>E745</value>
+  </data>
+  <data name="E746Description" xml:space="preserve">
+    <value>Faulty or no data exchange between adaptive honing service and NC program</value>
+  </data>
+  <data name="E746Handling" xml:space="preserve">
+    <value>Check communication and restart machine completely if necessary.</value>
+  </data>
+  <data name="E746Internal" xml:space="preserve">
+    <value>E746Internal</value>
+  </data>
+  <data name="E746Text" xml:space="preserve">
+    <value>Time error data exchange adaptive honing service &lt;&gt; NC</value>
+  </data>
+  <data name="E746Title" xml:space="preserve">
+    <value>E746</value>
+  </data>
+  <data name="E747Description" xml:space="preserve">
+    <value>Blank gripper is clamped without blank</value>
+  </data>
+  <data name="E747Handling" xml:space="preserve">
+    <value>Open gripper.</value>
+  </data>
+  <data name="E747Internal" xml:space="preserve">
+    <value>E747Internal</value>
+  </data>
+  <data name="E747Text" xml:space="preserve">
+    <value>Loading error blank gripper clamped without part</value>
+  </data>
+  <data name="E747Title" xml:space="preserve">
+    <value>E747</value>
+  </data>
+  <data name="E748Description" xml:space="preserve">
+    <value>No combination dresser present in gripper</value>
+  </data>
+  <data name="E748Handling" xml:space="preserve">
+    <value>Add combination dresser by hand.</value>
+  </data>
+  <data name="E748Internal" xml:space="preserve">
+    <value>E748Internal</value>
+  </data>
+  <data name="E748Text" xml:space="preserve">
+    <value>Loading the combination dresser not possible</value>
+  </data>
+  <data name="E748Title" xml:space="preserve">
+    <value>E748</value>
+  </data>
+  <data name="E749Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E749Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E749Internal" xml:space="preserve">
+    <value>E749Internal</value>
+  </data>
+  <data name="E749Text" xml:space="preserve">
+    <value>Gear measurement: Touching of gear with G75 in the middle of the spindle down failed</value>
+  </data>
+  <data name="E749Title" xml:space="preserve">
+    <value>E749</value>
+  </data>
+  <data name="E750Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E750Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E750Internal" xml:space="preserve">
+    <value>E750Internal</value>
+  </data>
+  <data name="E750Text" xml:space="preserve">
+    <value>Gear measurement: Touching of gear with G75 in the middle of the spindle right failed</value>
+  </data>
+  <data name="E750Title" xml:space="preserve">
+    <value>E750</value>
+  </data>
+  <data name="E751Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E751Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E751Internal" xml:space="preserve">
+    <value>E751Internal</value>
+  </data>
+  <data name="E751Text" xml:space="preserve">
+    <value>Gear measurement: Touching of gear with G75 in the middle of the spindle left failed</value>
+  </data>
+  <data name="E751Title" xml:space="preserve">
+    <value>E751</value>
+  </data>
+  <data name="E752Description" xml:space="preserve">
+    <value>Measurement system not calibrated</value>
+  </data>
+  <data name="E752Handling" xml:space="preserve">
+    <value>Please start the calibration.</value>
+  </data>
+  <data name="E752Internal" xml:space="preserve">
+    <value>E752Internal</value>
+  </data>
+  <data name="E752Text" xml:space="preserve">
+    <value>Gear measurement not possible</value>
+  </data>
+  <data name="E752Title" xml:space="preserve">
+    <value>E752</value>
+  </data>
+  <data name="E753Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E753Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E753Internal" xml:space="preserve">
+    <value>E753Internal</value>
+  </data>
+  <data name="E753Text" xml:space="preserve">
+    <value>Gear measurement: Measuring tooth gap with G75  right failed</value>
+  </data>
+  <data name="E753Title" xml:space="preserve">
+    <value>E753</value>
+  </data>
+  <data name="E754Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E754Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E754Internal" xml:space="preserve">
+    <value>E754Internal</value>
+  </data>
+  <data name="E754Text" xml:space="preserve">
+    <value>Gear measurement: Measuring tooth gap with G75 left failed</value>
+  </data>
+  <data name="E754Title" xml:space="preserve">
+    <value>E754</value>
+  </data>
+  <data name="E755Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E755Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E755Internal" xml:space="preserve">
+    <value>E755Internal</value>
+  </data>
+  <data name="E755Text" xml:space="preserve">
+    <value>Gear measurement: Measuring profiling with G75 right failed</value>
+  </data>
+  <data name="E755Title" xml:space="preserve">
+    <value>E755</value>
+  </data>
+  <data name="E756Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E756Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E756Internal" xml:space="preserve">
+    <value>E756Internal</value>
+  </data>
+  <data name="E756Text" xml:space="preserve">
+    <value>Gear measurement: Measuring profiling with G75 left failed</value>
+  </data>
+  <data name="E756Title" xml:space="preserve">
+    <value>E756</value>
+  </data>
+  <data name="E757Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E757Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E757Internal" xml:space="preserve">
+    <value>E757Internal</value>
+  </data>
+  <data name="E757Text" xml:space="preserve">
+    <value>Gear measurement: Measuring flank line with G75 right failed</value>
+  </data>
+  <data name="E757Title" xml:space="preserve">
+    <value>E757</value>
+  </data>
+  <data name="E758Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E758Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E758Internal" xml:space="preserve">
+    <value>E758Internal</value>
+  </data>
+  <data name="E758Text" xml:space="preserve">
+    <value>Gear measurement: Measuring flank line with G75 left failed</value>
+  </data>
+  <data name="E758Title" xml:space="preserve">
+    <value>E758</value>
+  </data>
+  <data name="E759Description" xml:space="preserve">
+    <value>Measurement faulty</value>
+  </data>
+  <data name="E759Handling" xml:space="preserve">
+    <value>Measurement has to be repeated.</value>
+  </data>
+  <data name="E759Internal" xml:space="preserve">
+    <value>E759Internal</value>
+  </data>
+  <data name="E759Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement at the stationary stop faulty</value>
+  </data>
+  <data name="E759Title" xml:space="preserve">
+    <value>E759</value>
+  </data>
+  <data name="E760Description" xml:space="preserve">
+    <value>Measurement faulty</value>
+  </data>
+  <data name="E760Handling" xml:space="preserve">
+    <value>Measurement has to be repeated.</value>
+  </data>
+  <data name="E760Internal" xml:space="preserve">
+    <value>E760Internal</value>
+  </data>
+  <data name="E760Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed: Data lost</value>
+  </data>
+  <data name="E760Title" xml:space="preserve">
+    <value>E760</value>
+  </data>
+  <data name="E761Description" xml:space="preserve">
+    <value>Faulty or no data exchange between honing surface and NC program</value>
+  </data>
+  <data name="E761Handling" xml:space="preserve">
+    <value>Check completeness of data and communication.</value>
+  </data>
+  <data name="E761Internal" xml:space="preserve">
+    <value>E761Internal</value>
+  </data>
+  <data name="E761Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed: Timeout</value>
+  </data>
+  <data name="E761Title" xml:space="preserve">
+    <value>E761</value>
+  </data>
+  <data name="E762Description" xml:space="preserve">
+    <value>The Measurment was evaluated and the result was out of specs</value>
+  </data>
+  <data name="E762Handling" xml:space="preserve">
+    <value>Please check the number of teeths of worpiece or dresser. Otherwise check the distance between piece and sensor.</value>
+  </data>
+  <data name="E762Internal" xml:space="preserve">
+    <value>E762Internal</value>
+  </data>
+  <data name="E762Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed: Tooth to tooth position different</value>
+  </data>
+  <data name="E762Title" xml:space="preserve">
+    <value>E762</value>
+  </data>
+  <data name="E763Description" xml:space="preserve">
+    <value>The Measurment was evaluated and the result was out of specs</value>
+  </data>
+  <data name="E763Handling" xml:space="preserve">
+    <value>Please check the number of teeths of worpiece or dresser. Otherwise check the distance between piece and sensor.</value>
+  </data>
+  <data name="E763Internal" xml:space="preserve">
+    <value>E763Internal</value>
+  </data>
+  <data name="E763Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed: Tooth devision out of specs</value>
+  </data>
+  <data name="E763Title" xml:space="preserve">
+    <value>E763</value>
+  </data>
+  <data name="E764Description" xml:space="preserve">
+    <value>Measurement faulty</value>
+  </data>
+  <data name="E764Handling" xml:space="preserve">
+    <value>Measurement has to be repeated.</value>
+  </data>
+  <data name="E764Internal" xml:space="preserve">
+    <value>E764Internal</value>
+  </data>
+  <data name="E764Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Runout not OK</value>
+  </data>
+  <data name="E764Title" xml:space="preserve">
+    <value>E764</value>
+  </data>
+  <data name="E765Description" xml:space="preserve">
+    <value>Measurement faulty</value>
+  </data>
+  <data name="E765Handling" xml:space="preserve">
+    <value>Measurement has to be repeated. Otherwise check the dresser.</value>
+  </data>
+  <data name="E765Internal" xml:space="preserve">
+    <value>E765Internal</value>
+  </data>
+  <data name="E765Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement quality of dresser out of specs</value>
+  </data>
+  <data name="E765Title" xml:space="preserve">
+    <value>E765</value>
+  </data>
+  <data name="E766Description" xml:space="preserve">
+    <value>Measurement faulty</value>
+  </data>
+  <data name="E766Handling" xml:space="preserve">
+    <value>Measurement has to be repeated.</value>
+  </data>
+  <data name="E766Internal" xml:space="preserve">
+    <value>E766Internal</value>
+  </data>
+  <data name="E766Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Fp right of dresser out of specs</value>
+  </data>
+  <data name="E766Title" xml:space="preserve">
+    <value>E766</value>
+  </data>
+  <data name="E767Description" xml:space="preserve">
+    <value>Measurement faulty</value>
+  </data>
+  <data name="E767Handling" xml:space="preserve">
+    <value>Measurement has to be repeated.</value>
+  </data>
+  <data name="E767Internal" xml:space="preserve">
+    <value>E767Internal</value>
+  </data>
+  <data name="E767Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Fp left of dresser out of specs</value>
+  </data>
+  <data name="E767Title" xml:space="preserve">
+    <value>E767</value>
+  </data>
+  <data name="E768Description" xml:space="preserve">
+    <value>Finish part is requested in finish part gripper</value>
+  </data>
+  <data name="E768Handling" xml:space="preserve">
+    <value>Please check the gripper status.</value>
+  </data>
+  <data name="E768Internal" xml:space="preserve">
+    <value>E768Internal</value>
+  </data>
+  <data name="E768Text" xml:space="preserve">
+    <value>Unloading finish part failed</value>
+  </data>
+  <data name="E768Title" xml:space="preserve">
+    <value>E768</value>
+  </data>
+  <data name="E769Description" xml:space="preserve">
+    <value>Master part is requested in grippers</value>
+  </data>
+  <data name="E769Handling" xml:space="preserve">
+    <value>Please check the gripper status.</value>
+  </data>
+  <data name="E769Internal" xml:space="preserve">
+    <value>E769Internal</value>
+  </data>
+  <data name="E769Text" xml:space="preserve">
+    <value>Unloading master part failed</value>
+  </data>
+  <data name="E769Title" xml:space="preserve">
+    <value>E769</value>
+  </data>
+  <data name="E770Description" xml:space="preserve">
+    <value>Head dresser is requested in grippers</value>
+  </data>
+  <data name="E770Handling" xml:space="preserve">
+    <value>Please check the gripper status.</value>
+  </data>
+  <data name="E770Internal" xml:space="preserve">
+    <value>E770Internal</value>
+  </data>
+  <data name="E770Text" xml:space="preserve">
+    <value>Unloading head dresser failed</value>
+  </data>
+  <data name="E770Title" xml:space="preserve">
+    <value>E770</value>
+  </data>
+  <data name="E771Description" xml:space="preserve">
+    <value>Gear dresser /VSD is requested in grippers</value>
+  </data>
+  <data name="E771Handling" xml:space="preserve">
+    <value>Please check the gripper status.</value>
+  </data>
+  <data name="E771Internal" xml:space="preserve">
+    <value>E771Internal</value>
+  </data>
+  <data name="E771Text" xml:space="preserve">
+    <value>Unloading gear dresser/vsd failed</value>
+  </data>
+  <data name="E771Title" xml:space="preserve">
+    <value>E771</value>
+  </data>
+  <data name="E772Description" xml:space="preserve">
+    <value>Number of theet for centering dresser is higher than number of theet from dresser</value>
+  </data>
+  <data name="E772Handling" xml:space="preserve">
+    <value>Check the parameters.</value>
+  </data>
+  <data name="E772Internal" xml:space="preserve">
+    <value>E772Internal</value>
+  </data>
+  <data name="E772Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement at the stationary stop faulty</value>
+  </data>
+  <data name="E772Title" xml:space="preserve">
+    <value>E772</value>
+  </data>
+  <data name="E773Description" xml:space="preserve">
+    <value>Number of teeth &gt;0</value>
+  </data>
+  <data name="E773Handling" xml:space="preserve">
+    <value>Check the dresser.</value>
+  </data>
+  <data name="E773Internal" xml:space="preserve">
+    <value>E773Internal</value>
+  </data>
+  <data name="E773Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed</value>
+  </data>
+  <data name="E773Title" xml:space="preserve">
+    <value>E773</value>
+  </data>
+  <data name="E774Description" xml:space="preserve">
+    <value>Number of theet for centering dresser is higher than determined number of theet</value>
+  </data>
+  <data name="E774Handling" xml:space="preserve">
+    <value>Check the dresser.</value>
+  </data>
+  <data name="E774Internal" xml:space="preserve">
+    <value>E774Internal</value>
+  </data>
+  <data name="E774Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed</value>
+  </data>
+  <data name="E774Title" xml:space="preserve">
+    <value>E774</value>
+  </data>
+  <data name="E775Description" xml:space="preserve">
+    <value>Max. number lost teeth exceeded</value>
+  </data>
+  <data name="E775Handling" xml:space="preserve">
+    <value>Check the dresser.</value>
+  </data>
+  <data name="E775Internal" xml:space="preserve">
+    <value>E775Internal</value>
+  </data>
+  <data name="E775Text" xml:space="preserve">
+    <value>Centering Gear dresser/VSD: Measurement failed</value>
+  </data>
+  <data name="E775Title" xml:space="preserve">
+    <value>E775</value>
+  </data>
+  <data name="E776Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E776Handling" xml:space="preserve">
+    <value>Remove part</value>
+  </data>
+  <data name="E776Internal" xml:space="preserve">
+    <value>E776Internal</value>
+  </data>
+  <data name="E776Text" xml:space="preserve">
+    <value>Rollchecker detect NOK-part after honing</value>
+  </data>
+  <data name="E776Title" xml:space="preserve">
+    <value>E776</value>
+  </data>
+  <data name="E777Description" xml:space="preserve">
+    <value>Part was not loaded correctly and does not touch the Faceplate</value>
+  </data>
+  <data name="E777Handling" xml:space="preserve">
+    <value>Check loading Positions**Clean clamping device</value>
+  </data>
+  <data name="E777Internal" xml:space="preserve">
+    <value>E777Internal</value>
+  </data>
+  <data name="E777Text" xml:space="preserve">
+    <value>Face Contact Control Spinde right detect error during loading of  Rawpart</value>
+  </data>
+  <data name="E777Title" xml:space="preserve">
+    <value>E777</value>
+  </data>
+  <data name="E778Description" xml:space="preserve">
+    <value>DDR was not loaded correctly and does not touch the Faceplate</value>
+  </data>
+  <data name="E778Handling" xml:space="preserve">
+    <value>Check loading Positions**Clean clamping device</value>
+  </data>
+  <data name="E778Internal" xml:space="preserve">
+    <value>E778Internal</value>
+  </data>
+  <data name="E778Text" xml:space="preserve">
+    <value>Face Contact Control Spinde right detect error during loading of  DDR</value>
+  </data>
+  <data name="E778Title" xml:space="preserve">
+    <value>E778</value>
+  </data>
+  <data name="E779Description" xml:space="preserve">
+    <value>DDG was not loaded correctly and does not touch the Faceplate</value>
+  </data>
+  <data name="E779Handling" xml:space="preserve">
+    <value>Check loading Positions and clean clamping device</value>
+  </data>
+  <data name="E779Internal" xml:space="preserve">
+    <value>E779Internal</value>
+  </data>
+  <data name="E779Text" xml:space="preserve">
+    <value>Face Contact Control Spinde right detect error during loading of  DDG</value>
+  </data>
+  <data name="E779Title" xml:space="preserve">
+    <value>E779</value>
+  </data>
+  <data name="E780Description" xml:space="preserve">
+    <value>Kombidresser was not loaded correctly and does not touch the Faceplate</value>
+  </data>
+  <data name="E780Handling" xml:space="preserve">
+    <value>Check loading Positions and clean clamping device</value>
+  </data>
+  <data name="E780Internal" xml:space="preserve">
+    <value>E780Internal</value>
+  </data>
+  <data name="E780Text" xml:space="preserve">
+    <value>Face Contact Control Spinde right detect error during loading of  Kombidresser</value>
+  </data>
+  <data name="E780Title" xml:space="preserve">
+    <value>E780</value>
+  </data>
+  <data name="E781Description" xml:space="preserve">
+    <value>Master was not loaded correctly and does not touch the Faceplate</value>
+  </data>
+  <data name="E781Handling" xml:space="preserve">
+    <value>Check loading Positions and clean clamping device</value>
+  </data>
+  <data name="E781Internal" xml:space="preserve">
+    <value>E781Internal</value>
+  </data>
+  <data name="E781Text" xml:space="preserve">
+    <value>Face Contact Control Spinde right detect error during loading of  Master</value>
+  </data>
+  <data name="E781Title" xml:space="preserve">
+    <value>E781</value>
+  </data>
+  <data name="E782Description" xml:space="preserve">
+    <value>VSD was not loaded correctly and does not touch the Faceplate</value>
+  </data>
+  <data name="E782Handling" xml:space="preserve">
+    <value>Check loading Positions and clean clamping device</value>
+  </data>
+  <data name="E782Internal" xml:space="preserve">
+    <value>E782Internal</value>
+  </data>
+  <data name="E782Text" xml:space="preserve">
+    <value>Face Contact Control Spinde right detect error during loading of  VSD</value>
+  </data>
+  <data name="E782Title" xml:space="preserve">
+    <value>E782</value>
+  </data>
+  <data name="E799Description" xml:space="preserve">
+    <value>Program is with M32 stopped without exact NC-Diagnose</value>
+  </data>
+  <data name="E799Handling" xml:space="preserve">
+    <value>Check NC-Program etc. new start.</value>
+  </data>
+  <data name="E799Internal" xml:space="preserve">
+    <value>E799Internal</value>
+  </data>
+  <data name="E799Text" xml:space="preserve">
+    <value>Stop of NC-Program with M32</value>
+  </data>
+  <data name="E799Title" xml:space="preserve">
+    <value>E799</value>
+  </data>
+  <data name="E800Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E800Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E800Internal" xml:space="preserve">
+    <value>E800Internal</value>
+  </data>
+  <data name="E800Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E800Title" xml:space="preserve">
+    <value>E800</value>
+  </data>
+  <data name="E800Title2" xml:space="preserve">
+    <value>E802</value>
+  </data>
+  <data name="E801Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E801Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E801Internal" xml:space="preserve">
+    <value>E801Internal</value>
+  </data>
+  <data name="E801Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E801Title" xml:space="preserve">
+    <value>E801</value>
+  </data>
+  <data name="E802Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E802Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E802Internal" xml:space="preserve">
+    <value>E802Internal</value>
+  </data>
+  <data name="E802Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E803Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E803Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E803Internal" xml:space="preserve">
+    <value>E803Internal</value>
+  </data>
+  <data name="E803Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E803Title" xml:space="preserve">
+    <value>E803</value>
+  </data>
+  <data name="E804Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E804Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E804Internal" xml:space="preserve">
+    <value>E804Internal</value>
+  </data>
+  <data name="E804Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E804Title" xml:space="preserve">
+    <value>E804</value>
+  </data>
+  <data name="E805Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E805Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E805Internal" xml:space="preserve">
+    <value>E805Internal</value>
+  </data>
+  <data name="E805Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E805Title" xml:space="preserve">
+    <value>E805</value>
+  </data>
+  <data name="E806Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E806Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E806Internal" xml:space="preserve">
+    <value>E806Internal</value>
+  </data>
+  <data name="E806Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E806Title" xml:space="preserve">
+    <value>E806</value>
+  </data>
+  <data name="E807Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E807Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E807Internal" xml:space="preserve">
+    <value>E807Internal</value>
+  </data>
+  <data name="E807Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E807Title" xml:space="preserve">
+    <value>E807</value>
+  </data>
+  <data name="E808Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E808Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E808Internal" xml:space="preserve">
+    <value>E808Internal</value>
+  </data>
+  <data name="E808Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E808Title" xml:space="preserve">
+    <value>E808</value>
+  </data>
+  <data name="E809Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E809Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E809Internal" xml:space="preserve">
+    <value>E809Internal</value>
+  </data>
+  <data name="E809Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E809Title" xml:space="preserve">
+    <value>E809</value>
+  </data>
+  <data name="E810Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E810Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E810Internal" xml:space="preserve">
+    <value>E810Internal</value>
+  </data>
+  <data name="E810Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E810Title" xml:space="preserve">
+    <value>E810</value>
+  </data>
+  <data name="E811Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E811Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E811Internal" xml:space="preserve">
+    <value>E811Internal</value>
+  </data>
+  <data name="E811Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E811Title" xml:space="preserve">
+    <value>E811</value>
+  </data>
+  <data name="E812Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E812Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E812Internal" xml:space="preserve">
+    <value>E812Internal</value>
+  </data>
+  <data name="E812Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E812Title" xml:space="preserve">
+    <value>E812</value>
+  </data>
+  <data name="E813Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E813Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E813Internal" xml:space="preserve">
+    <value>E813Internal</value>
+  </data>
+  <data name="E813Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E813Title" xml:space="preserve">
+    <value>E813</value>
+  </data>
+  <data name="E814Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E814Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E814Internal" xml:space="preserve">
+    <value>E814Internal</value>
+  </data>
+  <data name="E814Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E814Title" xml:space="preserve">
+    <value>E814</value>
+  </data>
+  <data name="E815Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E815Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E815Internal" xml:space="preserve">
+    <value>E815Internal</value>
+  </data>
+  <data name="E815Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E815Title" xml:space="preserve">
+    <value>E815</value>
+  </data>
+  <data name="E816Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E816Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E816Internal" xml:space="preserve">
+    <value>E816Internal</value>
+  </data>
+  <data name="E816Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E816Title" xml:space="preserve">
+    <value>E816</value>
+  </data>
+  <data name="E817Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E817Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E817Internal" xml:space="preserve">
+    <value>E817Internal</value>
+  </data>
+  <data name="E817Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E817Title" xml:space="preserve">
+    <value>E817</value>
+  </data>
+  <data name="E818Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E818Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E818Internal" xml:space="preserve">
+    <value>E818Internal</value>
+  </data>
+  <data name="E818Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E818Title" xml:space="preserve">
+    <value>E818</value>
+  </data>
+  <data name="E819Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E819Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E819Internal" xml:space="preserve">
+    <value>E819Internal</value>
+  </data>
+  <data name="E819Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E819Title" xml:space="preserve">
+    <value>E819</value>
+  </data>
+  <data name="E820Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E820Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E820Internal" xml:space="preserve">
+    <value>E820Internal</value>
+  </data>
+  <data name="E820Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E820Title" xml:space="preserve">
+    <value>E820</value>
+  </data>
+  <data name="E821Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E821Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E821Internal" xml:space="preserve">
+    <value>E821Internal</value>
+  </data>
+  <data name="E821Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E821Title" xml:space="preserve">
+    <value>E821</value>
+  </data>
+  <data name="E822Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E822Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E822Internal" xml:space="preserve">
+    <value>E822Internal</value>
+  </data>
+  <data name="E822Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E822Title" xml:space="preserve">
+    <value>E822</value>
+  </data>
+  <data name="E823Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E823Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E823Internal" xml:space="preserve">
+    <value>E823Internal</value>
+  </data>
+  <data name="E823Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E823Title" xml:space="preserve">
+    <value>E823</value>
+  </data>
+  <data name="E824Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E824Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E824Internal" xml:space="preserve">
+    <value>E824Internal</value>
+  </data>
+  <data name="E824Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E824Title" xml:space="preserve">
+    <value>E824</value>
+  </data>
+  <data name="E825Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E825Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E825Internal" xml:space="preserve">
+    <value>E825Internal</value>
+  </data>
+  <data name="E825Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E825Title" xml:space="preserve">
+    <value>E825</value>
+  </data>
+  <data name="E826Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E826Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E826Internal" xml:space="preserve">
+    <value>E826Internal</value>
+  </data>
+  <data name="E826Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E826Title" xml:space="preserve">
+    <value>E826</value>
+  </data>
+  <data name="E827Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E827Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E827Internal" xml:space="preserve">
+    <value>E827Internal</value>
+  </data>
+  <data name="E827Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E827Title" xml:space="preserve">
+    <value>E827</value>
+  </data>
+  <data name="E828Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E828Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E828Internal" xml:space="preserve">
+    <value>E828Internal</value>
+  </data>
+  <data name="E828Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E828Title" xml:space="preserve">
+    <value>E828</value>
+  </data>
+  <data name="E829Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E829Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E829Internal" xml:space="preserve">
+    <value>E829Internal</value>
+  </data>
+  <data name="E829Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E829Title" xml:space="preserve">
+    <value>E829</value>
+  </data>
+  <data name="E830Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E830Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E830Internal" xml:space="preserve">
+    <value>E830Internal</value>
+  </data>
+  <data name="E830Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E830Title" xml:space="preserve">
+    <value>E830</value>
+  </data>
+  <data name="E831Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E831Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E831Internal" xml:space="preserve">
+    <value>E831Internal</value>
+  </data>
+  <data name="E831Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E831Title" xml:space="preserve">
+    <value>E831</value>
+  </data>
+  <data name="E832Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E832Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E832Internal" xml:space="preserve">
+    <value>E832Internal</value>
+  </data>
+  <data name="E832Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E832Title" xml:space="preserve">
+    <value>E832</value>
+  </data>
+  <data name="E833Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E833Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E833Internal" xml:space="preserve">
+    <value>E833Internal</value>
+  </data>
+  <data name="E833Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E833Title" xml:space="preserve">
+    <value>E833</value>
+  </data>
+  <data name="E8340Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E834Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E834Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E834Internal" xml:space="preserve">
+    <value>E834Internal</value>
+  </data>
+  <data name="E834Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E834Title" xml:space="preserve">
+    <value>E834</value>
+  </data>
+  <data name="E835Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E835Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E835Internal" xml:space="preserve">
+    <value>E835Internal</value>
+  </data>
+  <data name="E835Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E835Title" xml:space="preserve">
+    <value>E835</value>
+  </data>
+  <data name="E836Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E836Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E836Internal" xml:space="preserve">
+    <value>E836Internal</value>
+  </data>
+  <data name="E836Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E836Title6" xml:space="preserve">
+    <value>E836</value>
+  </data>
+  <data name="E837Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E837Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E837Internal" xml:space="preserve">
+    <value>E837Internal</value>
+  </data>
+  <data name="E837Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E837Title" xml:space="preserve">
+    <value>E837</value>
+  </data>
+  <data name="E838Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E838Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E838Internal" xml:space="preserve">
+    <value>E838Internal</value>
+  </data>
+  <data name="E838Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E838Title" xml:space="preserve">
+    <value>E838</value>
+  </data>
+  <data name="E839Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E839Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E839Internal" xml:space="preserve">
+    <value>E839Internal</value>
+  </data>
+  <data name="E839Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E839Title" xml:space="preserve">
+    <value>E839</value>
+  </data>
+  <data name="E840Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E840Internal" xml:space="preserve">
+    <value>E840Internal</value>
+  </data>
+  <data name="E840Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E840Title" xml:space="preserve">
+    <value>E840</value>
+  </data>
 </root>

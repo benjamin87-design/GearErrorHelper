@@ -9619,6 +9619,366 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
+        /// </summary>
+        internal static string E732Description {
+            get {
+                return ResourceManager.GetString("E732Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
+        /// </summary>
+        internal static string E732Handling {
+            get {
+                return ResourceManager.GetString("E732Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E732Internal ähnelt.
+        /// </summary>
+        internal static string E732Internal {
+            get {
+                return ResourceManager.GetString("E732Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Variable for calculating the values was not transmitted by the honing surface ähnelt.
+        /// </summary>
+        internal static string E732Text {
+            get {
+                return ResourceManager.GetString("E732Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E732 ähnelt.
+        /// </summary>
+        internal static string E732TItle {
+            get {
+                return ResourceManager.GetString("E732TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finishpart gripper clamped with workpiece ähnelt.
+        /// </summary>
+        internal static string E733Description {
+            get {
+                return ResourceManager.GetString("E733Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove finish part from gripper ähnelt.
+        /// </summary>
+        internal static string E733Handling {
+            get {
+                return ResourceManager.GetString("E733Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E733Internal ähnelt.
+        /// </summary>
+        internal static string E733Internal {
+            get {
+                return ResourceManager.GetString("E733Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Error Unloading cycle ähnelt.
+        /// </summary>
+        internal static string E733Text {
+            get {
+                return ResourceManager.GetString("E733Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E733 ähnelt.
+        /// </summary>
+        internal static string E733Title {
+            get {
+                return ResourceManager.GetString("E733Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Blank gripper is already occupied ähnelt.
+        /// </summary>
+        internal static string E734Description {
+            get {
+                return ResourceManager.GetString("E734Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove blank by hand. ähnelt.
+        /// </summary>
+        internal static string E734Handling {
+            get {
+                return ResourceManager.GetString("E734Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E734Internal ähnelt.
+        /// </summary>
+        internal static string E734Internal {
+            get {
+                return ResourceManager.GetString("E734Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Felsomat load - loading not possible since blank gripper occupied with workpiece ähnelt.
+        /// </summary>
+        internal static string E734Text {
+            get {
+                return ResourceManager.GetString("E734Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E734 ähnelt.
+        /// </summary>
+        internal static string E734Title {
+            get {
+                return ResourceManager.GetString("E734Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finished part gripper is already empty ähnelt.
+        /// </summary>
+        internal static string E735Description {
+            get {
+                return ResourceManager.GetString("E735Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Reboot the program. ähnelt.
+        /// </summary>
+        internal static string E735Handling {
+            get {
+                return ResourceManager.GetString("E735Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E735Internal ähnelt.
+        /// </summary>
+        internal static string E735Internal {
+            get {
+                return ResourceManager.GetString("E735Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Felsomat load - unloading not possible since finished part gripper already empty ähnelt.
+        /// </summary>
+        internal static string E735Text {
+            get {
+                return ResourceManager.GetString("E735Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E735 ähnelt.
+        /// </summary>
+        internal static string E735Title {
+            get {
+                return ResourceManager.GetString("E735Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Allocation of blank gripper not OK ähnelt.
+        /// </summary>
+        internal static string E736Description {
+            get {
+                return ResourceManager.GetString("E736Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check gripper allocation. ähnelt.
+        /// </summary>
+        internal static string E736Handling {
+            get {
+                return ResourceManager.GetString("E736Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E736Internal ähnelt.
+        /// </summary>
+        internal static string E736Internal {
+            get {
+                return ResourceManager.GetString("E736Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status blank gripper after loading not OK ähnelt.
+        /// </summary>
+        internal static string E736Text {
+            get {
+                return ResourceManager.GetString("E736Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E736 ähnelt.
+        /// </summary>
+        internal static string E736Title {
+            get {
+                return ResourceManager.GetString("E736Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Allocation of finished part gripper not OK ähnelt.
+        /// </summary>
+        internal static string E737Description {
+            get {
+                return ResourceManager.GetString("E737Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check gripper allocation. ähnelt.
+        /// </summary>
+        internal static string E737Handling {
+            get {
+                return ResourceManager.GetString("E737Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E737Internal ähnelt.
+        /// </summary>
+        internal static string E737Internal {
+            get {
+                return ResourceManager.GetString("E737Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status finished part gripper after unloading not OK ähnelt.
+        /// </summary>
+        internal static string E737Text {
+            get {
+                return ResourceManager.GetString("E737Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E737 ähnelt.
+        /// </summary>
+        internal static string E737Title {
+            get {
+                return ResourceManager.GetString("E737Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Blank gripper and spindle occupied with workpiece ähnelt.
+        /// </summary>
+        internal static string E738Description {
+            get {
+                return ResourceManager.GetString("E738Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
+        /// </summary>
+        internal static string E738Handling {
+            get {
+                return ResourceManager.GetString("E738Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E738Internal ähnelt.
+        /// </summary>
+        internal static string E738Internal {
+            get {
+                return ResourceManager.GetString("E738Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
+        /// </summary>
+        internal static string E738Text {
+            get {
+                return ResourceManager.GetString("E738Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E738 ähnelt.
+        /// </summary>
+        internal static string E738Title {
+            get {
+                return ResourceManager.GetString("E738Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finished part gripper and spindle occupied with workpiece ähnelt.
+        /// </summary>
+        internal static string E739Description {
+            get {
+                return ResourceManager.GetString("E739Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
+        /// </summary>
+        internal static string E739Handling {
+            get {
+                return ResourceManager.GetString("E739Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E739Internal ähnelt.
+        /// </summary>
+        internal static string E739Internal {
+            get {
+                return ResourceManager.GetString("E739Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
+        /// </summary>
+        internal static string E739Text {
+            get {
+                return ResourceManager.GetString("E739Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E739 ähnelt.
+        /// </summary>
+        internal static string E739Title {
+            get {
+                return ResourceManager.GetString("E739Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the grippers and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E73Description {
@@ -9660,6 +10020,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E73Title {
             get {
                 return ResourceManager.GetString("E73Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gearing dresser gripper and spindle occupied with workpiece ähnelt.
+        /// </summary>
+        internal static string E740Description {
+            get {
+                return ResourceManager.GetString("E740Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
+        /// </summary>
+        internal static string E740Handling {
+            get {
+                return ResourceManager.GetString("E740Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E740Internal ähnelt.
+        /// </summary>
+        internal static string E740Internal {
+            get {
+                return ResourceManager.GetString("E740Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
+        /// </summary>
+        internal static string E740Text {
+            get {
+                return ResourceManager.GetString("E740Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E740 ähnelt.
+        /// </summary>
+        internal static string E740Title {
+            get {
+                return ResourceManager.GetString("E740Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Head dresser gripper and spindle occupied with workpiece ähnelt.
+        /// </summary>
+        internal static string E741Description {
+            get {
+                return ResourceManager.GetString("E741Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
+        /// </summary>
+        internal static string E741Handling {
+            get {
+                return ResourceManager.GetString("E741Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E741Internal ähnelt.
+        /// </summary>
+        internal static string E741Internal {
+            get {
+                return ResourceManager.GetString("E741Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
+        /// </summary>
+        internal static string E741Text {
+            get {
+                return ResourceManager.GetString("E741Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E741 ähnelt.
+        /// </summary>
+        internal static string E741Title {
+            get {
+                return ResourceManager.GetString("E741Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Blank gripper not occupied with workpiece ähnelt.
+        /// </summary>
+        internal static string E742Description {
+            get {
+                return ResourceManager.GetString("E742Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add workpiece by hand. ähnelt.
+        /// </summary>
+        internal static string E742Handling {
+            get {
+                return ResourceManager.GetString("E742Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E742Internal ähnelt.
+        /// </summary>
+        internal static string E742Internal {
+            get {
+                return ResourceManager.GetString("E742Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to load the blank ähnelt.
+        /// </summary>
+        internal static string E742Text {
+            get {
+                return ResourceManager.GetString("E742Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E742 ähnelt.
+        /// </summary>
+        internal static string E742Title {
+            get {
+                return ResourceManager.GetString("E742Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die No dressing machine present in gearing dresser gripper ähnelt.
+        /// </summary>
+        internal static string E743Description {
+            get {
+                return ResourceManager.GetString("E743Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add dressing machine by hand. ähnelt.
+        /// </summary>
+        internal static string E743Handling {
+            get {
+                return ResourceManager.GetString("E743Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E743Internal ähnelt.
+        /// </summary>
+        internal static string E743Internal {
+            get {
+                return ResourceManager.GetString("E743Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading gearing dresser not possible ähnelt.
+        /// </summary>
+        internal static string E743Text {
+            get {
+                return ResourceManager.GetString("E743Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E743 ähnelt.
+        /// </summary>
+        internal static string E743Title {
+            get {
+                return ResourceManager.GetString("E743Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die No dressing machine present in head dresser gripper ähnelt.
+        /// </summary>
+        internal static string E744Description {
+            get {
+                return ResourceManager.GetString("E744Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add dressing machine by hand. ähnelt.
+        /// </summary>
+        internal static string E744Handling {
+            get {
+                return ResourceManager.GetString("E744Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E744Internal ähnelt.
+        /// </summary>
+        internal static string E744Internal {
+            get {
+                return ResourceManager.GetString("E744Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading head dresser not possible ähnelt.
+        /// </summary>
+        internal static string E744Text {
+            get {
+                return ResourceManager.GetString("E744Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E744 ähnelt.
+        /// </summary>
+        internal static string E744Title {
+            get {
+                return ResourceManager.GetString("E744Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die No master present in gripper ähnelt.
+        /// </summary>
+        internal static string E745Description {
+            get {
+                return ResourceManager.GetString("E745Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add master by hand. ähnelt.
+        /// </summary>
+        internal static string E745Handling {
+            get {
+                return ResourceManager.GetString("E745Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E745Internal ähnelt.
+        /// </summary>
+        internal static string E745Internal {
+            get {
+                return ResourceManager.GetString("E745Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading the master not possible ähnelt.
+        /// </summary>
+        internal static string E745Text {
+            get {
+                return ResourceManager.GetString("E745Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E745 ähnelt.
+        /// </summary>
+        internal static string E745Title {
+            get {
+                return ResourceManager.GetString("E745Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between adaptive honing service and NC program ähnelt.
+        /// </summary>
+        internal static string E746Description {
+            get {
+                return ResourceManager.GetString("E746Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check communication and restart machine completely if necessary. ähnelt.
+        /// </summary>
+        internal static string E746Handling {
+            get {
+                return ResourceManager.GetString("E746Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E746Internal ähnelt.
+        /// </summary>
+        internal static string E746Internal {
+            get {
+                return ResourceManager.GetString("E746Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Time error data exchange adaptive honing service &lt;&gt; NC ähnelt.
+        /// </summary>
+        internal static string E746Text {
+            get {
+                return ResourceManager.GetString("E746Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E746 ähnelt.
+        /// </summary>
+        internal static string E746Title {
+            get {
+                return ResourceManager.GetString("E746Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Blank gripper is clamped without blank ähnelt.
+        /// </summary>
+        internal static string E747Description {
+            get {
+                return ResourceManager.GetString("E747Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Open gripper. ähnelt.
+        /// </summary>
+        internal static string E747Handling {
+            get {
+                return ResourceManager.GetString("E747Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E747Internal ähnelt.
+        /// </summary>
+        internal static string E747Internal {
+            get {
+                return ResourceManager.GetString("E747Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading error blank gripper clamped without part ähnelt.
+        /// </summary>
+        internal static string E747Text {
+            get {
+                return ResourceManager.GetString("E747Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E747 ähnelt.
+        /// </summary>
+        internal static string E747Title {
+            get {
+                return ResourceManager.GetString("E747Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die No combination dresser present in gripper ähnelt.
+        /// </summary>
+        internal static string E748Description {
+            get {
+                return ResourceManager.GetString("E748Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add combination dresser by hand. ähnelt.
+        /// </summary>
+        internal static string E748Handling {
+            get {
+                return ResourceManager.GetString("E748Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E748Internal ähnelt.
+        /// </summary>
+        internal static string E748Internal {
+            get {
+                return ResourceManager.GetString("E748Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading the combination dresser not possible ähnelt.
+        /// </summary>
+        internal static string E748Text {
+            get {
+                return ResourceManager.GetString("E748Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E748 ähnelt.
+        /// </summary>
+        internal static string E748Title {
+            get {
+                return ResourceManager.GetString("E748Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E749Description {
+            get {
+                return ResourceManager.GetString("E749Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E749Handling {
+            get {
+                return ResourceManager.GetString("E749Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E749Internal ähnelt.
+        /// </summary>
+        internal static string E749Internal {
+            get {
+                return ResourceManager.GetString("E749Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Touching of gear with G75 in the middle of the spindle down failed ähnelt.
+        /// </summary>
+        internal static string E749Text {
+            get {
+                return ResourceManager.GetString("E749Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E749 ähnelt.
+        /// </summary>
+        internal static string E749Title {
+            get {
+                return ResourceManager.GetString("E749Title", resourceCulture);
             }
         }
         
@@ -9709,6 +10519,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E750Description {
+            get {
+                return ResourceManager.GetString("E750Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E750Handling {
+            get {
+                return ResourceManager.GetString("E750Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E750Internal ähnelt.
+        /// </summary>
+        internal static string E750Internal {
+            get {
+                return ResourceManager.GetString("E750Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Touching of gear with G75 in the middle of the spindle right failed ähnelt.
+        /// </summary>
+        internal static string E750Text {
+            get {
+                return ResourceManager.GetString("E750Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E750 ähnelt.
+        /// </summary>
+        internal static string E750Title {
+            get {
+                return ResourceManager.GetString("E750Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E751Description {
+            get {
+                return ResourceManager.GetString("E751Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E751Handling {
+            get {
+                return ResourceManager.GetString("E751Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E751Internal ähnelt.
+        /// </summary>
+        internal static string E751Internal {
+            get {
+                return ResourceManager.GetString("E751Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Touching of gear with G75 in the middle of the spindle left failed ähnelt.
+        /// </summary>
+        internal static string E751Text {
+            get {
+                return ResourceManager.GetString("E751Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E751 ähnelt.
+        /// </summary>
+        internal static string E751Title {
+            get {
+                return ResourceManager.GetString("E751Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement system not calibrated ähnelt.
+        /// </summary>
+        internal static string E752Description {
+            get {
+                return ResourceManager.GetString("E752Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please start the calibration. ähnelt.
+        /// </summary>
+        internal static string E752Handling {
+            get {
+                return ResourceManager.GetString("E752Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E752Internal ähnelt.
+        /// </summary>
+        internal static string E752Internal {
+            get {
+                return ResourceManager.GetString("E752Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement not possible ähnelt.
+        /// </summary>
+        internal static string E752Text {
+            get {
+                return ResourceManager.GetString("E752Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E752 ähnelt.
+        /// </summary>
+        internal static string E752Title {
+            get {
+                return ResourceManager.GetString("E752Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E753Description {
+            get {
+                return ResourceManager.GetString("E753Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E753Handling {
+            get {
+                return ResourceManager.GetString("E753Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E753Internal ähnelt.
+        /// </summary>
+        internal static string E753Internal {
+            get {
+                return ResourceManager.GetString("E753Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Measuring tooth gap with G75  right failed ähnelt.
+        /// </summary>
+        internal static string E753Text {
+            get {
+                return ResourceManager.GetString("E753Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E753 ähnelt.
+        /// </summary>
+        internal static string E753Title {
+            get {
+                return ResourceManager.GetString("E753Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E754Description {
+            get {
+                return ResourceManager.GetString("E754Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E754Handling {
+            get {
+                return ResourceManager.GetString("E754Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E754Internal ähnelt.
+        /// </summary>
+        internal static string E754Internal {
+            get {
+                return ResourceManager.GetString("E754Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Measuring tooth gap with G75 left failed ähnelt.
+        /// </summary>
+        internal static string E754Text {
+            get {
+                return ResourceManager.GetString("E754Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E754 ähnelt.
+        /// </summary>
+        internal static string E754Title {
+            get {
+                return ResourceManager.GetString("E754Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E755Description {
+            get {
+                return ResourceManager.GetString("E755Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E755Handling {
+            get {
+                return ResourceManager.GetString("E755Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E755Internal ähnelt.
+        /// </summary>
+        internal static string E755Internal {
+            get {
+                return ResourceManager.GetString("E755Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Measuring profiling with G75 right failed ähnelt.
+        /// </summary>
+        internal static string E755Text {
+            get {
+                return ResourceManager.GetString("E755Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E755 ähnelt.
+        /// </summary>
+        internal static string E755Title {
+            get {
+                return ResourceManager.GetString("E755Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E756Description {
+            get {
+                return ResourceManager.GetString("E756Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E756Handling {
+            get {
+                return ResourceManager.GetString("E756Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E756Internal ähnelt.
+        /// </summary>
+        internal static string E756Internal {
+            get {
+                return ResourceManager.GetString("E756Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Measuring profiling with G75 left failed ähnelt.
+        /// </summary>
+        internal static string E756Text {
+            get {
+                return ResourceManager.GetString("E756Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E756 ähnelt.
+        /// </summary>
+        internal static string E756Title {
+            get {
+                return ResourceManager.GetString("E756Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E757Description {
+            get {
+                return ResourceManager.GetString("E757Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E757Handling {
+            get {
+                return ResourceManager.GetString("E757Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E757Internal ähnelt.
+        /// </summary>
+        internal static string E757Internal {
+            get {
+                return ResourceManager.GetString("E757Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Measuring flank line with G75 right failed ähnelt.
+        /// </summary>
+        internal static string E757Text {
+            get {
+                return ResourceManager.GetString("E757Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E757 ähnelt.
+        /// </summary>
+        internal static string E757Title {
+            get {
+                return ResourceManager.GetString("E757Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E758Description {
+            get {
+                return ResourceManager.GetString("E758Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E758Handling {
+            get {
+                return ResourceManager.GetString("E758Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E758Internal ähnelt.
+        /// </summary>
+        internal static string E758Internal {
+            get {
+                return ResourceManager.GetString("E758Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear measurement: Measuring flank line with G75 left failed ähnelt.
+        /// </summary>
+        internal static string E758Text {
+            get {
+                return ResourceManager.GetString("E758Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E758 ähnelt.
+        /// </summary>
+        internal static string E758Title {
+            get {
+                return ResourceManager.GetString("E758Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
+        /// </summary>
+        internal static string E759Description {
+            get {
+                return ResourceManager.GetString("E759Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
+        /// </summary>
+        internal static string E759Handling {
+            get {
+                return ResourceManager.GetString("E759Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E759Internal ähnelt.
+        /// </summary>
+        internal static string E759Internal {
+            get {
+                return ResourceManager.GetString("E759Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement at the stationary stop faulty ähnelt.
+        /// </summary>
+        internal static string E759Text {
+            get {
+                return ResourceManager.GetString("E759Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E759 ähnelt.
+        /// </summary>
+        internal static string E759Title {
+            get {
+                return ResourceManager.GetString("E759Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the grippers and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E75Description {
@@ -9750,6 +11010,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E75Title {
             get {
                 return ResourceManager.GetString("E75Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
+        /// </summary>
+        internal static string E760Description {
+            get {
+                return ResourceManager.GetString("E760Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
+        /// </summary>
+        internal static string E760Handling {
+            get {
+                return ResourceManager.GetString("E760Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E760Internal ähnelt.
+        /// </summary>
+        internal static string E760Internal {
+            get {
+                return ResourceManager.GetString("E760Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Data lost ähnelt.
+        /// </summary>
+        internal static string E760Text {
+            get {
+                return ResourceManager.GetString("E760Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E760 ähnelt.
+        /// </summary>
+        internal static string E760Title {
+            get {
+                return ResourceManager.GetString("E760Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
+        /// </summary>
+        internal static string E761Description {
+            get {
+                return ResourceManager.GetString("E761Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
+        /// </summary>
+        internal static string E761Handling {
+            get {
+                return ResourceManager.GetString("E761Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E761Internal ähnelt.
+        /// </summary>
+        internal static string E761Internal {
+            get {
+                return ResourceManager.GetString("E761Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Timeout ähnelt.
+        /// </summary>
+        internal static string E761Text {
+            get {
+                return ResourceManager.GetString("E761Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E761 ähnelt.
+        /// </summary>
+        internal static string E761Title {
+            get {
+                return ResourceManager.GetString("E761Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The Measurment was evaluated and the result was out of specs ähnelt.
+        /// </summary>
+        internal static string E762Description {
+            get {
+                return ResourceManager.GetString("E762Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the number of teeths of worpiece or dresser. Otherwise check the distance between piece and sensor. ähnelt.
+        /// </summary>
+        internal static string E762Handling {
+            get {
+                return ResourceManager.GetString("E762Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E762Internal ähnelt.
+        /// </summary>
+        internal static string E762Internal {
+            get {
+                return ResourceManager.GetString("E762Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Tooth to tooth position different ähnelt.
+        /// </summary>
+        internal static string E762Text {
+            get {
+                return ResourceManager.GetString("E762Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E762 ähnelt.
+        /// </summary>
+        internal static string E762Title {
+            get {
+                return ResourceManager.GetString("E762Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The Measurment was evaluated and the result was out of specs ähnelt.
+        /// </summary>
+        internal static string E763Description {
+            get {
+                return ResourceManager.GetString("E763Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the number of teeths of worpiece or dresser. Otherwise check the distance between piece and sensor. ähnelt.
+        /// </summary>
+        internal static string E763Handling {
+            get {
+                return ResourceManager.GetString("E763Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E763Internal ähnelt.
+        /// </summary>
+        internal static string E763Internal {
+            get {
+                return ResourceManager.GetString("E763Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Tooth devision out of specs ähnelt.
+        /// </summary>
+        internal static string E763Text {
+            get {
+                return ResourceManager.GetString("E763Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E763 ähnelt.
+        /// </summary>
+        internal static string E763Title {
+            get {
+                return ResourceManager.GetString("E763Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
+        /// </summary>
+        internal static string E764Description {
+            get {
+                return ResourceManager.GetString("E764Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
+        /// </summary>
+        internal static string E764Handling {
+            get {
+                return ResourceManager.GetString("E764Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E764Internal ähnelt.
+        /// </summary>
+        internal static string E764Internal {
+            get {
+                return ResourceManager.GetString("E764Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Runout not OK ähnelt.
+        /// </summary>
+        internal static string E764Text {
+            get {
+                return ResourceManager.GetString("E764Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E764 ähnelt.
+        /// </summary>
+        internal static string E764Title {
+            get {
+                return ResourceManager.GetString("E764Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
+        /// </summary>
+        internal static string E765Description {
+            get {
+                return ResourceManager.GetString("E765Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. Otherwise check the dresser. ähnelt.
+        /// </summary>
+        internal static string E765Handling {
+            get {
+                return ResourceManager.GetString("E765Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E765Internal ähnelt.
+        /// </summary>
+        internal static string E765Internal {
+            get {
+                return ResourceManager.GetString("E765Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement quality of dresser out of specs ähnelt.
+        /// </summary>
+        internal static string E765Text {
+            get {
+                return ResourceManager.GetString("E765Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E765 ähnelt.
+        /// </summary>
+        internal static string E765Title {
+            get {
+                return ResourceManager.GetString("E765Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
+        /// </summary>
+        internal static string E766Description {
+            get {
+                return ResourceManager.GetString("E766Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
+        /// </summary>
+        internal static string E766Handling {
+            get {
+                return ResourceManager.GetString("E766Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E766Internal ähnelt.
+        /// </summary>
+        internal static string E766Internal {
+            get {
+                return ResourceManager.GetString("E766Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Fp right of dresser out of specs ähnelt.
+        /// </summary>
+        internal static string E766Text {
+            get {
+                return ResourceManager.GetString("E766Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E766 ähnelt.
+        /// </summary>
+        internal static string E766Title {
+            get {
+                return ResourceManager.GetString("E766Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
+        /// </summary>
+        internal static string E767Description {
+            get {
+                return ResourceManager.GetString("E767Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
+        /// </summary>
+        internal static string E767Handling {
+            get {
+                return ResourceManager.GetString("E767Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E767Internal ähnelt.
+        /// </summary>
+        internal static string E767Internal {
+            get {
+                return ResourceManager.GetString("E767Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Fp left of dresser out of specs ähnelt.
+        /// </summary>
+        internal static string E767Text {
+            get {
+                return ResourceManager.GetString("E767Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E767 ähnelt.
+        /// </summary>
+        internal static string E767Title {
+            get {
+                return ResourceManager.GetString("E767Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finish part is requested in finish part gripper ähnelt.
+        /// </summary>
+        internal static string E768Description {
+            get {
+                return ResourceManager.GetString("E768Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
+        /// </summary>
+        internal static string E768Handling {
+            get {
+                return ResourceManager.GetString("E768Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E768Internal ähnelt.
+        /// </summary>
+        internal static string E768Internal {
+            get {
+                return ResourceManager.GetString("E768Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading finish part failed ähnelt.
+        /// </summary>
+        internal static string E768Text {
+            get {
+                return ResourceManager.GetString("E768Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E768 ähnelt.
+        /// </summary>
+        internal static string E768Title {
+            get {
+                return ResourceManager.GetString("E768Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Master part is requested in grippers ähnelt.
+        /// </summary>
+        internal static string E769Description {
+            get {
+                return ResourceManager.GetString("E769Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
+        /// </summary>
+        internal static string E769Handling {
+            get {
+                return ResourceManager.GetString("E769Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E769Internal ähnelt.
+        /// </summary>
+        internal static string E769Internal {
+            get {
+                return ResourceManager.GetString("E769Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading master part failed ähnelt.
+        /// </summary>
+        internal static string E769Text {
+            get {
+                return ResourceManager.GetString("E769Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E769 ähnelt.
+        /// </summary>
+        internal static string E769Title {
+            get {
+                return ResourceManager.GetString("E769Title", resourceCulture);
             }
         }
         
@@ -9799,6 +11509,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Head dresser is requested in grippers ähnelt.
+        /// </summary>
+        internal static string E770Description {
+            get {
+                return ResourceManager.GetString("E770Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
+        /// </summary>
+        internal static string E770Handling {
+            get {
+                return ResourceManager.GetString("E770Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E770Internal ähnelt.
+        /// </summary>
+        internal static string E770Internal {
+            get {
+                return ResourceManager.GetString("E770Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading head dresser failed ähnelt.
+        /// </summary>
+        internal static string E770Text {
+            get {
+                return ResourceManager.GetString("E770Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E770 ähnelt.
+        /// </summary>
+        internal static string E770Title {
+            get {
+                return ResourceManager.GetString("E770Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear dresser /VSD is requested in grippers ähnelt.
+        /// </summary>
+        internal static string E771Description {
+            get {
+                return ResourceManager.GetString("E771Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
+        /// </summary>
+        internal static string E771Handling {
+            get {
+                return ResourceManager.GetString("E771Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E771Internal ähnelt.
+        /// </summary>
+        internal static string E771Internal {
+            get {
+                return ResourceManager.GetString("E771Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading gear dresser/vsd failed ähnelt.
+        /// </summary>
+        internal static string E771Text {
+            get {
+                return ResourceManager.GetString("E771Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E771 ähnelt.
+        /// </summary>
+        internal static string E771Title {
+            get {
+                return ResourceManager.GetString("E771Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Number of theet for centering dresser is higher than number of theet from dresser ähnelt.
+        /// </summary>
+        internal static string E772Description {
+            get {
+                return ResourceManager.GetString("E772Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the parameters. ähnelt.
+        /// </summary>
+        internal static string E772Handling {
+            get {
+                return ResourceManager.GetString("E772Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E772Internal ähnelt.
+        /// </summary>
+        internal static string E772Internal {
+            get {
+                return ResourceManager.GetString("E772Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement at the stationary stop faulty ähnelt.
+        /// </summary>
+        internal static string E772Text {
+            get {
+                return ResourceManager.GetString("E772Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E772 ähnelt.
+        /// </summary>
+        internal static string E772Title {
+            get {
+                return ResourceManager.GetString("E772Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Number of teeth &gt;0 ähnelt.
+        /// </summary>
+        internal static string E773Description {
+            get {
+                return ResourceManager.GetString("E773Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the dresser. ähnelt.
+        /// </summary>
+        internal static string E773Handling {
+            get {
+                return ResourceManager.GetString("E773Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E773Internal ähnelt.
+        /// </summary>
+        internal static string E773Internal {
+            get {
+                return ResourceManager.GetString("E773Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed ähnelt.
+        /// </summary>
+        internal static string E773Text {
+            get {
+                return ResourceManager.GetString("E773Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E773 ähnelt.
+        /// </summary>
+        internal static string E773Title {
+            get {
+                return ResourceManager.GetString("E773Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Number of theet for centering dresser is higher than determined number of theet ähnelt.
+        /// </summary>
+        internal static string E774Description {
+            get {
+                return ResourceManager.GetString("E774Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the dresser. ähnelt.
+        /// </summary>
+        internal static string E774Handling {
+            get {
+                return ResourceManager.GetString("E774Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E774Internal ähnelt.
+        /// </summary>
+        internal static string E774Internal {
+            get {
+                return ResourceManager.GetString("E774Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed ähnelt.
+        /// </summary>
+        internal static string E774Text {
+            get {
+                return ResourceManager.GetString("E774Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E774 ähnelt.
+        /// </summary>
+        internal static string E774Title {
+            get {
+                return ResourceManager.GetString("E774Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Max. number lost teeth exceeded ähnelt.
+        /// </summary>
+        internal static string E775Description {
+            get {
+                return ResourceManager.GetString("E775Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the dresser. ähnelt.
+        /// </summary>
+        internal static string E775Handling {
+            get {
+                return ResourceManager.GetString("E775Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E775Internal ähnelt.
+        /// </summary>
+        internal static string E775Internal {
+            get {
+                return ResourceManager.GetString("E775Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed ähnelt.
+        /// </summary>
+        internal static string E775Text {
+            get {
+                return ResourceManager.GetString("E775Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E775 ähnelt.
+        /// </summary>
+        internal static string E775Title {
+            get {
+                return ResourceManager.GetString("E775Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E776Description {
+            get {
+                return ResourceManager.GetString("E776Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove part ähnelt.
+        /// </summary>
+        internal static string E776Handling {
+            get {
+                return ResourceManager.GetString("E776Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E776Internal ähnelt.
+        /// </summary>
+        internal static string E776Internal {
+            get {
+                return ResourceManager.GetString("E776Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Rollchecker detect NOK-part after honing ähnelt.
+        /// </summary>
+        internal static string E776Text {
+            get {
+                return ResourceManager.GetString("E776Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E776 ähnelt.
+        /// </summary>
+        internal static string E776Title {
+            get {
+                return ResourceManager.GetString("E776Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Part was not loaded correctly and does not touch the Faceplate ähnelt.
+        /// </summary>
+        internal static string E777Description {
+            get {
+                return ResourceManager.GetString("E777Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions**Clean clamping device ähnelt.
+        /// </summary>
+        internal static string E777Handling {
+            get {
+                return ResourceManager.GetString("E777Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E777Internal ähnelt.
+        /// </summary>
+        internal static string E777Internal {
+            get {
+                return ResourceManager.GetString("E777Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde right detect error during loading of  Rawpart ähnelt.
+        /// </summary>
+        internal static string E777Text {
+            get {
+                return ResourceManager.GetString("E777Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E777 ähnelt.
+        /// </summary>
+        internal static string E777Title {
+            get {
+                return ResourceManager.GetString("E777Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die DDR was not loaded correctly and does not touch the Faceplate ähnelt.
+        /// </summary>
+        internal static string E778Description {
+            get {
+                return ResourceManager.GetString("E778Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions**Clean clamping device ähnelt.
+        /// </summary>
+        internal static string E778Handling {
+            get {
+                return ResourceManager.GetString("E778Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E778Internal ähnelt.
+        /// </summary>
+        internal static string E778Internal {
+            get {
+                return ResourceManager.GetString("E778Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde right detect error during loading of  DDR ähnelt.
+        /// </summary>
+        internal static string E778Text {
+            get {
+                return ResourceManager.GetString("E778Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E778 ähnelt.
+        /// </summary>
+        internal static string E778Title {
+            get {
+                return ResourceManager.GetString("E778Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die DDG was not loaded correctly and does not touch the Faceplate ähnelt.
+        /// </summary>
+        internal static string E779Description {
+            get {
+                return ResourceManager.GetString("E779Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
+        /// </summary>
+        internal static string E779Handling {
+            get {
+                return ResourceManager.GetString("E779Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E779Internal ähnelt.
+        /// </summary>
+        internal static string E779Internal {
+            get {
+                return ResourceManager.GetString("E779Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde right detect error during loading of  DDG ähnelt.
+        /// </summary>
+        internal static string E779Text {
+            get {
+                return ResourceManager.GetString("E779Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E779 ähnelt.
+        /// </summary>
+        internal static string E779Title {
+            get {
+                return ResourceManager.GetString("E779Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the Spindle and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E77Description {
@@ -9844,6 +12004,141 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Kombidresser was not loaded correctly and does not touch the Faceplate ähnelt.
+        /// </summary>
+        internal static string E780Description {
+            get {
+                return ResourceManager.GetString("E780Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
+        /// </summary>
+        internal static string E780Handling {
+            get {
+                return ResourceManager.GetString("E780Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E780Internal ähnelt.
+        /// </summary>
+        internal static string E780Internal {
+            get {
+                return ResourceManager.GetString("E780Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde right detect error during loading of  Kombidresser ähnelt.
+        /// </summary>
+        internal static string E780Text {
+            get {
+                return ResourceManager.GetString("E780Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E780 ähnelt.
+        /// </summary>
+        internal static string E780Title {
+            get {
+                return ResourceManager.GetString("E780Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Master was not loaded correctly and does not touch the Faceplate ähnelt.
+        /// </summary>
+        internal static string E781Description {
+            get {
+                return ResourceManager.GetString("E781Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
+        /// </summary>
+        internal static string E781Handling {
+            get {
+                return ResourceManager.GetString("E781Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E781Internal ähnelt.
+        /// </summary>
+        internal static string E781Internal {
+            get {
+                return ResourceManager.GetString("E781Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde right detect error during loading of  Master ähnelt.
+        /// </summary>
+        internal static string E781Text {
+            get {
+                return ResourceManager.GetString("E781Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E781 ähnelt.
+        /// </summary>
+        internal static string E781Title {
+            get {
+                return ResourceManager.GetString("E781Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die VSD was not loaded correctly and does not touch the Faceplate ähnelt.
+        /// </summary>
+        internal static string E782Description {
+            get {
+                return ResourceManager.GetString("E782Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
+        /// </summary>
+        internal static string E782Handling {
+            get {
+                return ResourceManager.GetString("E782Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E782Internal ähnelt.
+        /// </summary>
+        internal static string E782Internal {
+            get {
+                return ResourceManager.GetString("E782Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde right detect error during loading of  VSD ähnelt.
+        /// </summary>
+        internal static string E782Text {
+            get {
+                return ResourceManager.GetString("E782Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E782 ähnelt.
+        /// </summary>
+        internal static string E782Title {
+            get {
+                return ResourceManager.GetString("E782Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the grippers and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E78Description {
@@ -9885,6 +12180,51 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E78Title {
             get {
                 return ResourceManager.GetString("E78Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Program is with M32 stopped without exact NC-Diagnose ähnelt.
+        /// </summary>
+        internal static string E799Description {
+            get {
+                return ResourceManager.GetString("E799Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check NC-Program etc. new start. ähnelt.
+        /// </summary>
+        internal static string E799Handling {
+            get {
+                return ResourceManager.GetString("E799Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E799Internal ähnelt.
+        /// </summary>
+        internal static string E799Internal {
+            get {
+                return ResourceManager.GetString("E799Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Stop of NC-Program with M32 ähnelt.
+        /// </summary>
+        internal static string E799Text {
+            get {
+                return ResourceManager.GetString("E799Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E799 ähnelt.
+        /// </summary>
+        internal static string E799Title {
+            get {
+                return ResourceManager.GetString("E799Title", resourceCulture);
             }
         }
         
@@ -9979,6 +12319,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E800Description {
+            get {
+                return ResourceManager.GetString("E800Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E800Handling {
+            get {
+                return ResourceManager.GetString("E800Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E800Internal ähnelt.
+        /// </summary>
+        internal static string E800Internal {
+            get {
+                return ResourceManager.GetString("E800Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E800Text {
+            get {
+                return ResourceManager.GetString("E800Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E800 ähnelt.
+        /// </summary>
+        internal static string E800Title {
+            get {
+                return ResourceManager.GetString("E800Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E802 ähnelt.
+        /// </summary>
+        internal static string E800Title2 {
+            get {
+                return ResourceManager.GetString("E800Title2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E801Description {
+            get {
+                return ResourceManager.GetString("E801Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E801Handling {
+            get {
+                return ResourceManager.GetString("E801Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E801Internal ähnelt.
+        /// </summary>
+        internal static string E801Internal {
+            get {
+                return ResourceManager.GetString("E801Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E801Text {
+            get {
+                return ResourceManager.GetString("E801Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E801 ähnelt.
+        /// </summary>
+        internal static string E801Title {
+            get {
+                return ResourceManager.GetString("E801Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E802Description {
+            get {
+                return ResourceManager.GetString("E802Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E802Handling {
+            get {
+                return ResourceManager.GetString("E802Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E802Internal ähnelt.
+        /// </summary>
+        internal static string E802Internal {
+            get {
+                return ResourceManager.GetString("E802Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E802Text {
+            get {
+                return ResourceManager.GetString("E802Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E803Description {
+            get {
+                return ResourceManager.GetString("E803Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E803Handling {
+            get {
+                return ResourceManager.GetString("E803Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E803Internal ähnelt.
+        /// </summary>
+        internal static string E803Internal {
+            get {
+                return ResourceManager.GetString("E803Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E803Text {
+            get {
+                return ResourceManager.GetString("E803Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E803 ähnelt.
+        /// </summary>
+        internal static string E803Title {
+            get {
+                return ResourceManager.GetString("E803Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E804Description {
+            get {
+                return ResourceManager.GetString("E804Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E804Handling {
+            get {
+                return ResourceManager.GetString("E804Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E804Internal ähnelt.
+        /// </summary>
+        internal static string E804Internal {
+            get {
+                return ResourceManager.GetString("E804Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E804Text {
+            get {
+                return ResourceManager.GetString("E804Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E804 ähnelt.
+        /// </summary>
+        internal static string E804Title {
+            get {
+                return ResourceManager.GetString("E804Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E805Description {
+            get {
+                return ResourceManager.GetString("E805Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E805Handling {
+            get {
+                return ResourceManager.GetString("E805Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E805Internal ähnelt.
+        /// </summary>
+        internal static string E805Internal {
+            get {
+                return ResourceManager.GetString("E805Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E805Text {
+            get {
+                return ResourceManager.GetString("E805Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E805 ähnelt.
+        /// </summary>
+        internal static string E805Title {
+            get {
+                return ResourceManager.GetString("E805Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E806Description {
+            get {
+                return ResourceManager.GetString("E806Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E806Handling {
+            get {
+                return ResourceManager.GetString("E806Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E806Internal ähnelt.
+        /// </summary>
+        internal static string E806Internal {
+            get {
+                return ResourceManager.GetString("E806Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E806Text {
+            get {
+                return ResourceManager.GetString("E806Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E806 ähnelt.
+        /// </summary>
+        internal static string E806Title {
+            get {
+                return ResourceManager.GetString("E806Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E807Description {
+            get {
+                return ResourceManager.GetString("E807Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E807Handling {
+            get {
+                return ResourceManager.GetString("E807Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E807Internal ähnelt.
+        /// </summary>
+        internal static string E807Internal {
+            get {
+                return ResourceManager.GetString("E807Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E807Text {
+            get {
+                return ResourceManager.GetString("E807Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E807 ähnelt.
+        /// </summary>
+        internal static string E807Title {
+            get {
+                return ResourceManager.GetString("E807Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E808Description {
+            get {
+                return ResourceManager.GetString("E808Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E808Handling {
+            get {
+                return ResourceManager.GetString("E808Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E808Internal ähnelt.
+        /// </summary>
+        internal static string E808Internal {
+            get {
+                return ResourceManager.GetString("E808Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E808Text {
+            get {
+                return ResourceManager.GetString("E808Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E808 ähnelt.
+        /// </summary>
+        internal static string E808Title {
+            get {
+                return ResourceManager.GetString("E808Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E809Description {
+            get {
+                return ResourceManager.GetString("E809Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E809Handling {
+            get {
+                return ResourceManager.GetString("E809Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E809Internal ähnelt.
+        /// </summary>
+        internal static string E809Internal {
+            get {
+                return ResourceManager.GetString("E809Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E809Text {
+            get {
+                return ResourceManager.GetString("E809Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E809 ähnelt.
+        /// </summary>
+        internal static string E809Title {
+            get {
+                return ResourceManager.GetString("E809Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the grippers and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E80Description {
@@ -10020,6 +12810,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E80Title {
             get {
                 return ResourceManager.GetString("E80Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E810Description {
+            get {
+                return ResourceManager.GetString("E810Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E810Handling {
+            get {
+                return ResourceManager.GetString("E810Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E810Internal ähnelt.
+        /// </summary>
+        internal static string E810Internal {
+            get {
+                return ResourceManager.GetString("E810Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E810Text {
+            get {
+                return ResourceManager.GetString("E810Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E810 ähnelt.
+        /// </summary>
+        internal static string E810Title {
+            get {
+                return ResourceManager.GetString("E810Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E811Description {
+            get {
+                return ResourceManager.GetString("E811Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E811Handling {
+            get {
+                return ResourceManager.GetString("E811Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E811Internal ähnelt.
+        /// </summary>
+        internal static string E811Internal {
+            get {
+                return ResourceManager.GetString("E811Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E811Text {
+            get {
+                return ResourceManager.GetString("E811Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E811 ähnelt.
+        /// </summary>
+        internal static string E811Title {
+            get {
+                return ResourceManager.GetString("E811Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E812Description {
+            get {
+                return ResourceManager.GetString("E812Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E812Handling {
+            get {
+                return ResourceManager.GetString("E812Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E812Internal ähnelt.
+        /// </summary>
+        internal static string E812Internal {
+            get {
+                return ResourceManager.GetString("E812Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E812Text {
+            get {
+                return ResourceManager.GetString("E812Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E812 ähnelt.
+        /// </summary>
+        internal static string E812Title {
+            get {
+                return ResourceManager.GetString("E812Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E813Description {
+            get {
+                return ResourceManager.GetString("E813Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E813Handling {
+            get {
+                return ResourceManager.GetString("E813Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E813Internal ähnelt.
+        /// </summary>
+        internal static string E813Internal {
+            get {
+                return ResourceManager.GetString("E813Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E813Text {
+            get {
+                return ResourceManager.GetString("E813Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E813 ähnelt.
+        /// </summary>
+        internal static string E813Title {
+            get {
+                return ResourceManager.GetString("E813Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E814Description {
+            get {
+                return ResourceManager.GetString("E814Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E814Handling {
+            get {
+                return ResourceManager.GetString("E814Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E814Internal ähnelt.
+        /// </summary>
+        internal static string E814Internal {
+            get {
+                return ResourceManager.GetString("E814Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E814Text {
+            get {
+                return ResourceManager.GetString("E814Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E814 ähnelt.
+        /// </summary>
+        internal static string E814Title {
+            get {
+                return ResourceManager.GetString("E814Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E815Description {
+            get {
+                return ResourceManager.GetString("E815Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E815Handling {
+            get {
+                return ResourceManager.GetString("E815Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E815Internal ähnelt.
+        /// </summary>
+        internal static string E815Internal {
+            get {
+                return ResourceManager.GetString("E815Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E815Text {
+            get {
+                return ResourceManager.GetString("E815Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E815 ähnelt.
+        /// </summary>
+        internal static string E815Title {
+            get {
+                return ResourceManager.GetString("E815Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E816Description {
+            get {
+                return ResourceManager.GetString("E816Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E816Handling {
+            get {
+                return ResourceManager.GetString("E816Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E816Internal ähnelt.
+        /// </summary>
+        internal static string E816Internal {
+            get {
+                return ResourceManager.GetString("E816Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E816Text {
+            get {
+                return ResourceManager.GetString("E816Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E816 ähnelt.
+        /// </summary>
+        internal static string E816Title {
+            get {
+                return ResourceManager.GetString("E816Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E817Description {
+            get {
+                return ResourceManager.GetString("E817Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E817Handling {
+            get {
+                return ResourceManager.GetString("E817Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E817Internal ähnelt.
+        /// </summary>
+        internal static string E817Internal {
+            get {
+                return ResourceManager.GetString("E817Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E817Text {
+            get {
+                return ResourceManager.GetString("E817Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E817 ähnelt.
+        /// </summary>
+        internal static string E817Title {
+            get {
+                return ResourceManager.GetString("E817Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E818Description {
+            get {
+                return ResourceManager.GetString("E818Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E818Handling {
+            get {
+                return ResourceManager.GetString("E818Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E818Internal ähnelt.
+        /// </summary>
+        internal static string E818Internal {
+            get {
+                return ResourceManager.GetString("E818Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E818Text {
+            get {
+                return ResourceManager.GetString("E818Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E818 ähnelt.
+        /// </summary>
+        internal static string E818Title {
+            get {
+                return ResourceManager.GetString("E818Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E819Description {
+            get {
+                return ResourceManager.GetString("E819Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E819Handling {
+            get {
+                return ResourceManager.GetString("E819Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E819Internal ähnelt.
+        /// </summary>
+        internal static string E819Internal {
+            get {
+                return ResourceManager.GetString("E819Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E819Text {
+            get {
+                return ResourceManager.GetString("E819Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E819 ähnelt.
+        /// </summary>
+        internal static string E819Title {
+            get {
+                return ResourceManager.GetString("E819Title", resourceCulture);
             }
         }
         
@@ -10069,6 +13309,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E820Description {
+            get {
+                return ResourceManager.GetString("E820Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E820Handling {
+            get {
+                return ResourceManager.GetString("E820Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E820Internal ähnelt.
+        /// </summary>
+        internal static string E820Internal {
+            get {
+                return ResourceManager.GetString("E820Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E820Text {
+            get {
+                return ResourceManager.GetString("E820Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E820 ähnelt.
+        /// </summary>
+        internal static string E820Title {
+            get {
+                return ResourceManager.GetString("E820Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E821Description {
+            get {
+                return ResourceManager.GetString("E821Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E821Handling {
+            get {
+                return ResourceManager.GetString("E821Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E821Internal ähnelt.
+        /// </summary>
+        internal static string E821Internal {
+            get {
+                return ResourceManager.GetString("E821Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E821Text {
+            get {
+                return ResourceManager.GetString("E821Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E821 ähnelt.
+        /// </summary>
+        internal static string E821Title {
+            get {
+                return ResourceManager.GetString("E821Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E822Description {
+            get {
+                return ResourceManager.GetString("E822Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E822Handling {
+            get {
+                return ResourceManager.GetString("E822Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E822Internal ähnelt.
+        /// </summary>
+        internal static string E822Internal {
+            get {
+                return ResourceManager.GetString("E822Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E822Text {
+            get {
+                return ResourceManager.GetString("E822Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E822 ähnelt.
+        /// </summary>
+        internal static string E822Title {
+            get {
+                return ResourceManager.GetString("E822Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E823Description {
+            get {
+                return ResourceManager.GetString("E823Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E823Handling {
+            get {
+                return ResourceManager.GetString("E823Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E823Internal ähnelt.
+        /// </summary>
+        internal static string E823Internal {
+            get {
+                return ResourceManager.GetString("E823Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E823Text {
+            get {
+                return ResourceManager.GetString("E823Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E823 ähnelt.
+        /// </summary>
+        internal static string E823Title {
+            get {
+                return ResourceManager.GetString("E823Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E824Description {
+            get {
+                return ResourceManager.GetString("E824Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E824Handling {
+            get {
+                return ResourceManager.GetString("E824Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E824Internal ähnelt.
+        /// </summary>
+        internal static string E824Internal {
+            get {
+                return ResourceManager.GetString("E824Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E824Text {
+            get {
+                return ResourceManager.GetString("E824Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E824 ähnelt.
+        /// </summary>
+        internal static string E824Title {
+            get {
+                return ResourceManager.GetString("E824Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E825Description {
+            get {
+                return ResourceManager.GetString("E825Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E825Handling {
+            get {
+                return ResourceManager.GetString("E825Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E825Internal ähnelt.
+        /// </summary>
+        internal static string E825Internal {
+            get {
+                return ResourceManager.GetString("E825Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E825Text {
+            get {
+                return ResourceManager.GetString("E825Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E825 ähnelt.
+        /// </summary>
+        internal static string E825Title {
+            get {
+                return ResourceManager.GetString("E825Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E826Description {
+            get {
+                return ResourceManager.GetString("E826Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E826Handling {
+            get {
+                return ResourceManager.GetString("E826Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E826Internal ähnelt.
+        /// </summary>
+        internal static string E826Internal {
+            get {
+                return ResourceManager.GetString("E826Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E826Text {
+            get {
+                return ResourceManager.GetString("E826Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E826 ähnelt.
+        /// </summary>
+        internal static string E826Title {
+            get {
+                return ResourceManager.GetString("E826Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E827Description {
+            get {
+                return ResourceManager.GetString("E827Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E827Handling {
+            get {
+                return ResourceManager.GetString("E827Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E827Internal ähnelt.
+        /// </summary>
+        internal static string E827Internal {
+            get {
+                return ResourceManager.GetString("E827Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E827Text {
+            get {
+                return ResourceManager.GetString("E827Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E827 ähnelt.
+        /// </summary>
+        internal static string E827Title {
+            get {
+                return ResourceManager.GetString("E827Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E828Description {
+            get {
+                return ResourceManager.GetString("E828Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E828Handling {
+            get {
+                return ResourceManager.GetString("E828Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E828Internal ähnelt.
+        /// </summary>
+        internal static string E828Internal {
+            get {
+                return ResourceManager.GetString("E828Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E828Text {
+            get {
+                return ResourceManager.GetString("E828Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E828 ähnelt.
+        /// </summary>
+        internal static string E828Title {
+            get {
+                return ResourceManager.GetString("E828Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E829Description {
+            get {
+                return ResourceManager.GetString("E829Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E829Handling {
+            get {
+                return ResourceManager.GetString("E829Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E829Internal ähnelt.
+        /// </summary>
+        internal static string E829Internal {
+            get {
+                return ResourceManager.GetString("E829Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E829Text {
+            get {
+                return ResourceManager.GetString("E829Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E829 ähnelt.
+        /// </summary>
+        internal static string E829Title {
+            get {
+                return ResourceManager.GetString("E829Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Gear dresser right side is missing in Machine ähnelt.
         /// </summary>
         internal static string E82Description {
@@ -10114,6 +13804,465 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E830Description {
+            get {
+                return ResourceManager.GetString("E830Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E830Handling {
+            get {
+                return ResourceManager.GetString("E830Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E830Internal ähnelt.
+        /// </summary>
+        internal static string E830Internal {
+            get {
+                return ResourceManager.GetString("E830Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E830Text {
+            get {
+                return ResourceManager.GetString("E830Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E830 ähnelt.
+        /// </summary>
+        internal static string E830Title {
+            get {
+                return ResourceManager.GetString("E830Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E831Description {
+            get {
+                return ResourceManager.GetString("E831Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E831Handling {
+            get {
+                return ResourceManager.GetString("E831Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E831Internal ähnelt.
+        /// </summary>
+        internal static string E831Internal {
+            get {
+                return ResourceManager.GetString("E831Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E831Text {
+            get {
+                return ResourceManager.GetString("E831Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E831 ähnelt.
+        /// </summary>
+        internal static string E831Title {
+            get {
+                return ResourceManager.GetString("E831Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E832Description {
+            get {
+                return ResourceManager.GetString("E832Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E832Handling {
+            get {
+                return ResourceManager.GetString("E832Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E832Internal ähnelt.
+        /// </summary>
+        internal static string E832Internal {
+            get {
+                return ResourceManager.GetString("E832Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E832Text {
+            get {
+                return ResourceManager.GetString("E832Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E832 ähnelt.
+        /// </summary>
+        internal static string E832Title {
+            get {
+                return ResourceManager.GetString("E832Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E833Description {
+            get {
+                return ResourceManager.GetString("E833Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E833Handling {
+            get {
+                return ResourceManager.GetString("E833Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E833Internal ähnelt.
+        /// </summary>
+        internal static string E833Internal {
+            get {
+                return ResourceManager.GetString("E833Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E833Text {
+            get {
+                return ResourceManager.GetString("E833Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E833 ähnelt.
+        /// </summary>
+        internal static string E833Title {
+            get {
+                return ResourceManager.GetString("E833Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E8340Description {
+            get {
+                return ResourceManager.GetString("E8340Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E834Description {
+            get {
+                return ResourceManager.GetString("E834Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E834Handling {
+            get {
+                return ResourceManager.GetString("E834Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E834Internal ähnelt.
+        /// </summary>
+        internal static string E834Internal {
+            get {
+                return ResourceManager.GetString("E834Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E834Text {
+            get {
+                return ResourceManager.GetString("E834Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E834 ähnelt.
+        /// </summary>
+        internal static string E834Title {
+            get {
+                return ResourceManager.GetString("E834Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E835Description {
+            get {
+                return ResourceManager.GetString("E835Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E835Handling {
+            get {
+                return ResourceManager.GetString("E835Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E835Internal ähnelt.
+        /// </summary>
+        internal static string E835Internal {
+            get {
+                return ResourceManager.GetString("E835Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E835Text {
+            get {
+                return ResourceManager.GetString("E835Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E835 ähnelt.
+        /// </summary>
+        internal static string E835Title {
+            get {
+                return ResourceManager.GetString("E835Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E836Description {
+            get {
+                return ResourceManager.GetString("E836Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E836Handling {
+            get {
+                return ResourceManager.GetString("E836Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E836Internal ähnelt.
+        /// </summary>
+        internal static string E836Internal {
+            get {
+                return ResourceManager.GetString("E836Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E836Text {
+            get {
+                return ResourceManager.GetString("E836Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E836 ähnelt.
+        /// </summary>
+        internal static string E836Title6 {
+            get {
+                return ResourceManager.GetString("E836Title6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E837Description {
+            get {
+                return ResourceManager.GetString("E837Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E837Handling {
+            get {
+                return ResourceManager.GetString("E837Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E837Internal ähnelt.
+        /// </summary>
+        internal static string E837Internal {
+            get {
+                return ResourceManager.GetString("E837Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E837Text {
+            get {
+                return ResourceManager.GetString("E837Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E837 ähnelt.
+        /// </summary>
+        internal static string E837Title {
+            get {
+                return ResourceManager.GetString("E837Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E838Description {
+            get {
+                return ResourceManager.GetString("E838Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E838Handling {
+            get {
+                return ResourceManager.GetString("E838Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E838Internal ähnelt.
+        /// </summary>
+        internal static string E838Internal {
+            get {
+                return ResourceManager.GetString("E838Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E838Text {
+            get {
+                return ResourceManager.GetString("E838Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E838 ähnelt.
+        /// </summary>
+        internal static string E838Title {
+            get {
+                return ResourceManager.GetString("E838Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E839Description {
+            get {
+                return ResourceManager.GetString("E839Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E839Handling {
+            get {
+                return ResourceManager.GetString("E839Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E839Internal ähnelt.
+        /// </summary>
+        internal static string E839Internal {
+            get {
+                return ResourceManager.GetString("E839Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E839Text {
+            get {
+                return ResourceManager.GetString("E839Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E839 ähnelt.
+        /// </summary>
+        internal static string E839Title {
+            get {
+                return ResourceManager.GetString("E839Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Head dresser right side is missing in Machine ähnelt.
         /// </summary>
         internal static string E83Description {
@@ -10155,6 +14304,42 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E83Title {
             get {
                 return ResourceManager.GetString("E83Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E840Handling {
+            get {
+                return ResourceManager.GetString("E840Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E840Internal ähnelt.
+        /// </summary>
+        internal static string E840Internal {
+            get {
+                return ResourceManager.GetString("E840Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E840Text {
+            get {
+                return ResourceManager.GetString("E840Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E840 ähnelt.
+        /// </summary>
+        internal static string E840Title {
+            get {
+                return ResourceManager.GetString("E840Title", resourceCulture);
             }
         }
         
