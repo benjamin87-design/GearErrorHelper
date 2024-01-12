@@ -475,7 +475,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die In the Program configuration is No loader type selected ähnelt.
         /// </summary>
         internal static string E1101Description {
             get {
@@ -484,7 +484,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Select the loader type in the Program configuration. ähnelt.
         /// </summary>
         internal static string E1101Handling {
             get {
@@ -502,7 +502,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No valid loader type selected ähnelt.
         /// </summary>
         internal static string E1101Text {
             get {
@@ -520,7 +520,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The Spindle has to be always loaded for The clamping fixture to be protected ähnelt.
         /// </summary>
         internal static string E1102Description {
             get {
@@ -529,7 +529,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check NC-Program-run. ähnelt.
         /// </summary>
         internal static string E1102Handling {
             get {
@@ -547,7 +547,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Nothing for loading spindle requested ähnelt.
         /// </summary>
         internal static string E1102Text {
             get {
@@ -565,52 +565,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string E1103Description {
-            get {
-                return ResourceManager.GetString("E1103Description", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string E1103Handling {
-            get {
-                return ResourceManager.GetString("E1103Handling", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die E1103Internal ähnelt.
-        /// </summary>
-        internal static string E1103Internal {
-            get {
-                return ResourceManager.GetString("E1103Internal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string E1103Text {
-            get {
-                return ResourceManager.GetString("E1103Text", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die E1103 ähnelt.
-        /// </summary>
-        internal static string E1103Title {
-            get {
-                return ResourceManager.GetString("E1103Title", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measured value of the pitch of each tooth has been checked for plausibility and lies outside of the tolerance (+/-0.2  relative to the previous tooth) ähnelt.
         /// </summary>
         internal static string E1104Description {
             get {
@@ -619,7 +574,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check number of teeth and pitch error of workpiece or dresser; check center initiator. ähnelt.
         /// </summary>
         internal static string E1104Handling {
             get {
@@ -637,7 +592,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Center/Test gear: Measured value incorrect: Pitch of a tooth not within tolerance ähnelt.
         /// </summary>
         internal static string E1104Text {
             get {
@@ -648,14 +603,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1104 ähnelt.
         /// </summary>
-        internal static string E1104TItle {
+        internal static string E1104Title {
             get {
-                return ResourceManager.GetString("E1104TItle", resourceCulture);
+                return ResourceManager.GetString("E1104Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measurement in the drive-SPS is from NC-Program stopped; No valid results available ähnelt.
         /// </summary>
         internal static string E1105Description {
             get {
@@ -664,7 +619,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start. ähnelt.
         /// </summary>
         internal static string E1105Handling {
             get {
@@ -682,7 +637,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measurement is stopped ähnelt.
         /// </summary>
         internal static string E1105Text {
             get {
@@ -700,7 +655,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die In the drive-SPS there is a loss of Data By measuring process determined; No valid results available ähnelt.
         /// </summary>
         internal static string E1106Description {
             get {
@@ -709,7 +664,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive-SPS. ähnelt.
         /// </summary>
         internal static string E1106Handling {
             get {
@@ -727,7 +682,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measurement faulty: loss of Data ähnelt.
         /// </summary>
         internal static string E1106Text {
             get {
@@ -745,7 +700,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die In the drive-SPS is a time over run By measuring process determined; No valid results available ähnelt.
         /// </summary>
         internal static string E1107Description {
             get {
@@ -754,7 +709,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive-SPS. ähnelt.
         /// </summary>
         internal static string E1107Handling {
             get {
@@ -772,7 +727,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measurement faulty: Time out ähnelt.
         /// </summary>
         internal static string E1107Text {
             get {
@@ -790,7 +745,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die By measuring process is a cycle time over run the drive-SPS determined; No valid results available ähnelt.
         /// </summary>
         internal static string E1108Description {
             get {
@@ -799,7 +754,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance calculating initiator and measuring ähnelt.
         /// </summary>
         internal static string E1108Handling {
             get {
@@ -817,7 +772,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: drive-SPS-Last size 90% ähnelt.
         /// </summary>
         internal static string E1108Text {
             get {
@@ -835,7 +790,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die By measuring process is a over flow of the Data-Array the measured value determined; No valid results available ähnelt.
         /// </summary>
         internal static string E1109Description {
             get {
@@ -844,7 +799,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the ähnelt.
         /// </summary>
         internal static string E1109Handling {
             get {
@@ -862,7 +817,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: over flow Data-Array the drive-SPS ähnelt.
         /// </summary>
         internal static string E1109Text {
             get {
@@ -925,7 +880,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measured value the tooth-Position is on plausibility tested and lays out side the Tolerance (0,25*module&lt;tooth-Position&lt;2*module) ähnelt.
         /// </summary>
         internal static string E1110Description {
             get {
@@ -934,7 +889,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check ähnelt.
         /// </summary>
         internal static string E1110Handling {
             get {
@@ -952,7 +907,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measured value faulty: Position tooth out side the Tolerance ähnelt.
         /// </summary>
         internal static string E1110Text {
             get {
@@ -970,7 +925,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measured value the module is on plausibility tested and lays out side the Tolerance (360 /Number of teeth +/-0,1 ) ähnelt.
         /// </summary>
         internal static string E1111Description {
             get {
@@ -979,7 +934,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check number of teeth from wo ähnelt.
         /// </summary>
         internal static string E1111Handling {
             get {
@@ -997,7 +952,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measured value faulty: module out side the Tolerance ähnelt.
         /// </summary>
         internal static string E1111Text {
             get {
@@ -1015,7 +970,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status bit &quot;measurement ended correctly&quot; from the drive-SPS is missing ähnelt.
         /// </summary>
         internal static string E1112Description {
             get {
@@ -1024,7 +979,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive-SPS. ähnelt.
         /// </summary>
         internal static string E1112Handling {
             get {
@@ -1042,7 +997,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: No valid results from the drive-SPS ähnelt.
         /// </summary>
         internal static string E1112Text {
             get {
@@ -1060,7 +1015,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Communication destroyed or results faulty ähnelt.
         /// </summary>
         internal static string E1113Description {
             get {
@@ -1069,7 +1024,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement started over. Check communication. ähnelt.
         /// </summary>
         internal static string E1113Handling {
             get {
@@ -1087,7 +1042,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: No valid results from Geber test gear to the right ähnelt.
         /// </summary>
         internal static string E1113Text {
             get {
@@ -1105,7 +1060,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper Gear dresser to the left occupied ähnelt.
         /// </summary>
         internal static string E1114Description {
             get {
@@ -1114,7 +1069,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
         /// </summary>
         internal static string E1114Handling {
             get {
@@ -1132,7 +1087,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Gear dresser to the left not possible, because the gripper is not empty ähnelt.
         /// </summary>
         internal static string E1114Text {
             get {
@@ -1143,14 +1098,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1114 ähnelt.
         /// </summary>
-        internal static string E1114TItle {
+        internal static string E1114Title {
             get {
-                return ResourceManager.GetString("E1114TItle", resourceCulture);
+                return ResourceManager.GetString("E1114Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper Gear dresser to the left not OK ähnelt.
         /// </summary>
         internal static string E1115Description {
             get {
@@ -1159,7 +1114,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
         /// </summary>
         internal static string E1115Handling {
             get {
@@ -1177,7 +1132,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Gear dresser to the left not possible, because the gripper status is not OK ähnelt.
         /// </summary>
         internal static string E1115Text {
             get {
@@ -1195,7 +1150,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper Head dresser to the left occupied ähnelt.
         /// </summary>
         internal static string E1116Description {
             get {
@@ -1204,7 +1159,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
         /// </summary>
         internal static string E1116Handling {
             get {
@@ -1222,7 +1177,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Head dresser to the left not possible, because the gripper is not empty ähnelt.
         /// </summary>
         internal static string E1116Text {
             get {
@@ -1240,7 +1195,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper Head dresser to the left not OK ähnelt.
         /// </summary>
         internal static string E1117Description {
             get {
@@ -1249,7 +1204,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
         /// </summary>
         internal static string E1117Handling {
             get {
@@ -1267,7 +1222,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Head dresser to the left not possible, because the gripper status is not OK ähnelt.
         /// </summary>
         internal static string E1117Text {
             get {
@@ -1285,7 +1240,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper finished part to the left occupied ähnelt.
         /// </summary>
         internal static string E1118Description {
             get {
@@ -1294,7 +1249,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
         /// </summary>
         internal static string E1118Handling {
             get {
@@ -1312,7 +1267,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload finished part to the left not possible, because the gripper is not empty ähnelt.
         /// </summary>
         internal static string E1118Text {
             get {
@@ -1330,7 +1285,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper finished part to the left not OK ähnelt.
         /// </summary>
         internal static string E1119Description {
             get {
@@ -1339,7 +1294,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
         /// </summary>
         internal static string E1119Handling {
             get {
@@ -1357,7 +1312,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload finished part to the left not possible, because the gripper status is not OK ähnelt.
         /// </summary>
         internal static string E1119Text {
             get {
@@ -1420,7 +1375,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle is already occupied ähnelt.
         /// </summary>
         internal static string E1120Description {
             get {
@@ -1429,7 +1384,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the Spindle. ähnelt.
         /// </summary>
         internal static string E1120Handling {
             get {
@@ -1447,7 +1402,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Load Spindle to the left not possible, because the Spindle is occupied ähnelt.
         /// </summary>
         internal static string E1120Text {
             get {
@@ -1492,7 +1447,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Part transfer to Gantry faulty ähnelt.
         /// </summary>
         internal static string E1121Text {
             get {
@@ -1503,14 +1458,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1121 ähnelt.
         /// </summary>
-        internal static string E1121Title2 {
+        internal static string E1121Title {
             get {
-                return ResourceManager.GetString("E1121Title2", resourceCulture);
+                return ResourceManager.GetString("E1121Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
         /// </summary>
         internal static string E1122Description {
             get {
@@ -1519,7 +1474,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
         /// </summary>
         internal static string E1122Handling {
             get {
@@ -1537,7 +1492,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper Raw part to the left ähnelt.
         /// </summary>
         internal static string E1122Text {
             get {
@@ -1555,7 +1510,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
         /// </summary>
         internal static string E1123Description {
             get {
@@ -1564,7 +1519,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
         /// </summary>
         internal static string E1123Handling {
             get {
@@ -1582,7 +1537,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper finished part to the left ähnelt.
         /// </summary>
         internal static string E1123Text {
             get {
@@ -1600,7 +1555,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
         /// </summary>
         internal static string E1124Description {
             get {
@@ -1609,7 +1564,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
         /// </summary>
         internal static string E1124Handling {
             get {
@@ -1627,7 +1582,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper Head dresser to the left ähnelt.
         /// </summary>
         internal static string E1124Text {
             get {
@@ -1638,14 +1593,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1124 ähnelt.
         /// </summary>
-        internal static string E1124TItle {
+        internal static string E1124Title {
             get {
-                return ResourceManager.GetString("E1124TItle", resourceCulture);
+                return ResourceManager.GetString("E1124Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
         /// </summary>
         internal static string E1125Description {
             get {
@@ -1654,7 +1609,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
         /// </summary>
         internal static string E1125Handling {
             get {
@@ -1672,7 +1627,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper Gear dresser to the left ähnelt.
         /// </summary>
         internal static string E1125Text {
             get {
@@ -1690,7 +1645,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis in collision area ähnelt.
         /// </summary>
         internal static string E1126Description {
             get {
@@ -1699,7 +1654,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis has to be moved by Hand. ähnelt.
         /// </summary>
         internal static string E1126Handling {
             get {
@@ -1717,7 +1672,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Y5-Axis in area gripper Raw part to the left ähnelt.
         /// </summary>
         internal static string E1126Text {
             get {
@@ -1735,7 +1690,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis in collision area ähnelt.
         /// </summary>
         internal static string E1127Description {
             get {
@@ -1744,7 +1699,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis has to be moved by Hand. ähnelt.
         /// </summary>
         internal static string E1127Handling {
             get {
@@ -1762,7 +1717,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Y5-Axis in area gripper finished part to the left ähnelt.
         /// </summary>
         internal static string E1127Text {
             get {
@@ -1780,7 +1735,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status not correct ähnelt.
         /// </summary>
         internal static string E1128Description {
             get {
@@ -1789,7 +1744,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check machine status in HMI. ähnelt.
         /// </summary>
         internal static string E1128Handling {
             get {
@@ -1807,7 +1762,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Homeposition not possible . Status of spindle left is empty ähnelt.
         /// </summary>
         internal static string E1128Text {
             get {
@@ -1870,7 +1825,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finish part gripper still clamped with part ähnelt.
         /// </summary>
         internal static string E1130Description {
             get {
@@ -1897,7 +1852,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Error in unloading cycle ähnelt.
         /// </summary>
         internal static string E1130Text {
             get {
@@ -1915,7 +1870,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Raw part gripper clamped without part ähnelt.
         /// </summary>
         internal static string E1131Description {
             get {
@@ -1924,7 +1879,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check gripper status ähnelt.
         /// </summary>
         internal static string E1131Handling {
             get {
@@ -1942,7 +1897,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility Raw part gripper ähnelt.
         /// </summary>
         internal static string E1131Text {
             get {
@@ -1960,7 +1915,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E1132Description {
             get {
@@ -1969,7 +1924,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E1132Handling {
             get {
@@ -1987,7 +1942,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Variable for calculating the values was not transmitted by the honing surface ähnelt.
         /// </summary>
         internal static string E1132Text {
             get {
@@ -2005,7 +1960,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Blank gripper and spindle occupied with workpiece ähnelt.
         /// </summary>
         internal static string E1133Description {
             get {
@@ -2014,7 +1969,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
         /// </summary>
         internal static string E1133Handling {
             get {
@@ -2032,7 +1987,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
         /// </summary>
         internal static string E1133Text {
             get {
@@ -2050,7 +2005,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finished part gripper and spindle occupied with workpiece ähnelt.
         /// </summary>
         internal static string E1134Description {
             get {
@@ -2059,7 +2014,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
         /// </summary>
         internal static string E1134Handling {
             get {
@@ -2077,7 +2032,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
         /// </summary>
         internal static string E1134Text {
             get {
@@ -2088,14 +2043,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1134 ähnelt.
         /// </summary>
-        internal static string E1134TItle {
+        internal static string E1134Title {
             get {
-                return ResourceManager.GetString("E1134TItle", resourceCulture);
+                return ResourceManager.GetString("E1134Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gearing dresser gripper and spindle occupied with workpiece ähnelt.
         /// </summary>
         internal static string E1135Description {
             get {
@@ -2104,7 +2059,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
         /// </summary>
         internal static string E1135Handling {
             get {
@@ -2122,7 +2077,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
         /// </summary>
         internal static string E1135Text {
             get {
@@ -2140,7 +2095,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Head dresser gripper and spindle occupied with workpiece ähnelt.
         /// </summary>
         internal static string E1136Description {
             get {
@@ -2149,7 +2104,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove workpiece by hand. ähnelt.
         /// </summary>
         internal static string E1136Handling {
             get {
@@ -2167,7 +2122,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to approach the position ähnelt.
         /// </summary>
         internal static string E1136Text {
             get {
@@ -2185,7 +2140,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Blank gripper not occupied with workpiece ähnelt.
         /// </summary>
         internal static string E1137Description {
             get {
@@ -2194,7 +2149,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add workpiece by hand. ähnelt.
         /// </summary>
         internal static string E1137Handling {
             get {
@@ -2212,7 +2167,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Not possible to load the blank ähnelt.
         /// </summary>
         internal static string E1137Text {
             get {
@@ -2230,7 +2185,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No dressing machine present in gearing dresser gripper ähnelt.
         /// </summary>
         internal static string E1138Description {
             get {
@@ -2239,7 +2194,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add dressing machine by hand. ähnelt.
         /// </summary>
         internal static string E1138Handling {
             get {
@@ -2257,7 +2212,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading gearing dresser not possible ähnelt.
         /// </summary>
         internal static string E1138Text {
             get {
@@ -2275,7 +2230,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No dressing machine present in head dresser gripper ähnelt.
         /// </summary>
         internal static string E1139Description {
             get {
@@ -2284,7 +2239,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add dressing machine by hand. ähnelt.
         /// </summary>
         internal static string E1139Handling {
             get {
@@ -2302,7 +2257,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading head dresser not possible ähnelt.
         /// </summary>
         internal static string E1139Text {
             get {
@@ -2365,7 +2320,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No master present in gripper ähnelt.
         /// </summary>
         internal static string E1140Description {
             get {
@@ -2374,7 +2329,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add master by hand. ähnelt.
         /// </summary>
         internal static string E1140Handling {
             get {
@@ -2392,7 +2347,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading the master not possible ähnelt.
         /// </summary>
         internal static string E1140Text {
             get {
@@ -2410,7 +2365,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between adaptive honing service and NC program ähnelt.
         /// </summary>
         internal static string E1141Description {
             get {
@@ -2419,7 +2374,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check communication and restart machine completely if necessary. ähnelt.
         /// </summary>
         internal static string E1141Handling {
             get {
@@ -2437,7 +2392,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Time error data exchange adaptive honing service &lt;&gt; NC ähnelt.
         /// </summary>
         internal static string E1141Text {
             get {
@@ -2455,7 +2410,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No combination dresser present in gripper ähnelt.
         /// </summary>
         internal static string E1142Description {
             get {
@@ -2464,7 +2419,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add combination dresser by hand. ähnelt.
         /// </summary>
         internal static string E1142Handling {
             get {
@@ -2482,7 +2437,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Loading the combination dresser not possible ähnelt.
         /// </summary>
         internal static string E1142Text {
             get {
@@ -2500,7 +2455,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
         /// </summary>
         internal static string E1143Description {
             get {
@@ -2509,7 +2464,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
         /// </summary>
         internal static string E1143Handling {
             get {
@@ -2527,7 +2482,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement at the stationary stop faulty ähnelt.
         /// </summary>
         internal static string E1143Text {
             get {
@@ -2545,7 +2500,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E1144Description {
             get {
@@ -2554,7 +2509,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E1144Handling {
             get {
@@ -2572,7 +2527,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Timeout ähnelt.
         /// </summary>
         internal static string E1144Text {
             get {
@@ -2583,14 +2538,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1144 ähnelt.
         /// </summary>
-        internal static string E1144TItle {
+        internal static string E1144Title {
             get {
-                return ResourceManager.GetString("E1144TItle", resourceCulture);
+                return ResourceManager.GetString("E1144Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E1145Description {
             get {
@@ -2599,7 +2554,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E1145Handling {
             get {
@@ -2617,7 +2572,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Timeout ähnelt.
         /// </summary>
         internal static string E1145Text {
             get {
@@ -2635,7 +2590,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The Measurment was evaluated and the result was out of specs ähnelt.
         /// </summary>
         internal static string E1146Description {
             get {
@@ -2644,7 +2599,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the number of teeths of worpiece or dresser. Otherwise check the distance between piece and sensor. ähnelt.
         /// </summary>
         internal static string E1146Handling {
             get {
@@ -2662,7 +2617,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Tooth to tooth position different ähnelt.
         /// </summary>
         internal static string E1146Text {
             get {
@@ -2680,7 +2635,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The Measurment was evaluated and the result was out of specs ähnelt.
         /// </summary>
         internal static string E1147Description {
             get {
@@ -2689,7 +2644,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the number of teeths of worpiece or dresser. Otherwise check the distance between piece and sensor. ähnelt.
         /// </summary>
         internal static string E1147Handling {
             get {
@@ -2707,7 +2662,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed: Tooth devision out of specs ähnelt.
         /// </summary>
         internal static string E1147Text {
             get {
@@ -2725,7 +2680,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
         /// </summary>
         internal static string E1148Description {
             get {
@@ -2734,7 +2689,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
         /// </summary>
         internal static string E1148Handling {
             get {
@@ -2752,7 +2707,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Runout not OK ähnelt.
         /// </summary>
         internal static string E1148Text {
             get {
@@ -2770,7 +2725,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
         /// </summary>
         internal static string E1149Description {
             get {
@@ -2779,7 +2734,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. Otherwise check the dresser ähnelt.
         /// </summary>
         internal static string E1149Handling {
             get {
@@ -2797,7 +2752,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement quality of dresser out of specs ähnelt.
         /// </summary>
         internal static string E1149Text {
             get {
@@ -2860,7 +2815,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
         /// </summary>
         internal static string E1150Description {
             get {
@@ -2869,7 +2824,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
         /// </summary>
         internal static string E1150Handling {
             get {
@@ -2887,7 +2842,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Fp right of dresser out of specs ähnelt.
         /// </summary>
         internal static string E1150Text {
             get {
@@ -2905,7 +2860,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
         /// </summary>
         internal static string E1151Description {
             get {
@@ -2914,7 +2869,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
         /// </summary>
         internal static string E1151Handling {
             get {
@@ -2932,7 +2887,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Fp left of dresser out of specs ähnelt.
         /// </summary>
         internal static string E1151Text {
             get {
@@ -2950,7 +2905,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper is empty or status wrong ähnelt.
         /// </summary>
         internal static string E1152Description {
             get {
@@ -2959,7 +2914,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check gripper status. ähnelt.
         /// </summary>
         internal static string E1152Handling {
             get {
@@ -2977,7 +2932,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status of finish part gripper after unloading not OK ähnelt.
         /// </summary>
         internal static string E1152Text {
             get {
@@ -2995,7 +2950,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Master part is requested in grippers ähnelt.
         /// </summary>
         internal static string E1153Description {
             get {
@@ -3004,7 +2959,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
         /// </summary>
         internal static string E1153Handling {
             get {
@@ -3022,7 +2977,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading master part failed ähnelt.
         /// </summary>
         internal static string E1153Text {
             get {
@@ -3040,7 +2995,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Finish part is requested in finish part gripper ähnelt.
         /// </summary>
         internal static string E1154Description {
             get {
@@ -3049,7 +3004,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status ähnelt.
         /// </summary>
         internal static string E1154Handling {
             get {
@@ -3067,7 +3022,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading finish part failed ähnelt.
         /// </summary>
         internal static string E1154Text {
             get {
@@ -3078,14 +3033,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1154 ähnelt.
         /// </summary>
-        internal static string E1154TItle {
+        internal static string E1154Title {
             get {
-                return ResourceManager.GetString("E1154TItle", resourceCulture);
+                return ResourceManager.GetString("E1154Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Master part is requested in grippers ähnelt.
         /// </summary>
         internal static string E1155Description {
             get {
@@ -3094,7 +3049,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
         /// </summary>
         internal static string E1155Handling {
             get {
@@ -3112,7 +3067,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading master part failed ähnelt.
         /// </summary>
         internal static string E1155Text {
             get {
@@ -3130,7 +3085,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Head dresser is requested in grippers ähnelt.
         /// </summary>
         internal static string E1156Description {
             get {
@@ -3139,7 +3094,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
         /// </summary>
         internal static string E1156Handling {
             get {
@@ -3157,7 +3112,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading head dresser failed ähnelt.
         /// </summary>
         internal static string E1156Text {
             get {
@@ -3175,7 +3130,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gear dresser /VSD is requested in grippers ähnelt.
         /// </summary>
         internal static string E1157Description {
             get {
@@ -3184,7 +3139,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the gripper status. ähnelt.
         /// </summary>
         internal static string E1157Handling {
             get {
@@ -3202,7 +3157,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unloading gear dresser/VSD failed ähnelt.
         /// </summary>
         internal static string E1157Text {
             get {
@@ -3220,7 +3175,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Number of theet for centering dresser is higher than number of theet from dresser ähnelt.
         /// </summary>
         internal static string E1158Description {
             get {
@@ -3229,7 +3184,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the parameters. ähnelt.
         /// </summary>
         internal static string E1158Handling {
             get {
@@ -3247,7 +3202,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement at the stationary stop faulty ähnelt.
         /// </summary>
         internal static string E1158Text {
             get {
@@ -3265,7 +3220,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Number of teeth &gt;0 ähnelt.
         /// </summary>
         internal static string E1159Description {
             get {
@@ -3274,7 +3229,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the dresser. ähnelt.
         /// </summary>
         internal static string E1159Handling {
             get {
@@ -3292,7 +3247,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed ähnelt.
         /// </summary>
         internal static string E1159Text {
             get {
@@ -3355,7 +3310,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Number of theet for centering dresser is higher than determined number of theet ähnelt.
         /// </summary>
         internal static string E1160Description {
             get {
@@ -3364,7 +3319,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the dresser. ähnelt.
         /// </summary>
         internal static string E1160Handling {
             get {
@@ -3382,7 +3337,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed ähnelt.
         /// </summary>
         internal static string E1160Text {
             get {
@@ -3400,7 +3355,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Max. number lost teeth exceeded ähnelt.
         /// </summary>
         internal static string E1161Description {
             get {
@@ -3409,7 +3364,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the dresser. ähnelt.
         /// </summary>
         internal static string E1161Handling {
             get {
@@ -3427,7 +3382,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Centering Gear dresser/VSD: Measurement failed ähnelt.
         /// </summary>
         internal static string E1161Text {
             get {
@@ -3445,7 +3400,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and Clean clamping device ähnelt.
         /// </summary>
         internal static string E1162Description {
             get {
@@ -3454,7 +3409,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Remove part ähnelt.
         /// </summary>
         internal static string E1162Handling {
             get {
@@ -3472,7 +3427,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Rollchecker detect NOK-part after honing ähnelt.
         /// </summary>
         internal static string E1162Text {
             get {
@@ -3490,7 +3445,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Part was not loaded correctly and does not touch the Faceplate ähnelt.
         /// </summary>
         internal static string E1163Description6 {
             get {
@@ -3517,7 +3472,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde left detect error during loading of Rawpart ähnelt.
         /// </summary>
         internal static string E1163Text {
             get {
@@ -3535,7 +3490,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die DDR was not loaded correctly and does not touch the Faceplate ähnelt.
         /// </summary>
         internal static string E1164Description {
             get {
@@ -3544,7 +3499,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and Clean clamping device ähnelt.
         /// </summary>
         internal static string E1164Handling {
             get {
@@ -3562,7 +3517,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde left detect error during loading of  DDR ähnelt.
         /// </summary>
         internal static string E1164Text {
             get {
@@ -3573,14 +3528,14 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1164 ähnelt.
         /// </summary>
-        internal static string E1164TItle {
+        internal static string E1164Title {
             get {
-                return ResourceManager.GetString("E1164TItle", resourceCulture);
+                return ResourceManager.GetString("E1164Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die DDG was not loaded correctly and does not touch the Faceplate ähnelt.
         /// </summary>
         internal static string E1165Description {
             get {
@@ -3589,7 +3544,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
         /// </summary>
         internal static string E1165Handling {
             get {
@@ -3607,7 +3562,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde left detect error during loading of  DDG ähnelt.
         /// </summary>
         internal static string E1165Text {
             get {
@@ -3625,7 +3580,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Kombidresser was not loaded correctly and does not touch the Faceplate ähnelt.
         /// </summary>
         internal static string E1166Description {
             get {
@@ -3634,7 +3589,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
         /// </summary>
         internal static string E1166Handling {
             get {
@@ -3652,7 +3607,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde left detect error during loading of  Kombidresser ähnelt.
         /// </summary>
         internal static string E1166Text {
             get {
@@ -3670,7 +3625,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Master was not loaded correctly and does not touch the Faceplate ähnelt.
         /// </summary>
         internal static string E1167Description {
             get {
@@ -3679,7 +3634,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
         /// </summary>
         internal static string E1167Handling {
             get {
@@ -3697,7 +3652,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde left detect error during loading of  Master ähnelt.
         /// </summary>
         internal static string E1167Text {
             get {
@@ -3715,7 +3670,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die VSD was not loaded correctly and does not touch the Faceplate ähnelt.
         /// </summary>
         internal static string E1168Description {
             get {
@@ -3724,7 +3679,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check loading Positions and clean clamping device ähnelt.
         /// </summary>
         internal static string E1168Handling {
             get {
@@ -3742,7 +3697,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Face Contact Control Spinde left detect error during loading of  VSD ähnelt.
         /// </summary>
         internal static string E1168Text {
             get {
@@ -3886,7 +3841,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Program is with M32 stopped without exact NC-Diagnose ähnelt.
         /// </summary>
         internal static string E1199Description {
             get {
@@ -3895,7 +3850,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program check etc. new start. ähnelt.
         /// </summary>
         internal static string E1199Handling {
             get {
@@ -3913,7 +3868,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Stop of NC-Program with M32 ähnelt.
         /// </summary>
         internal static string E1199Text {
             get {
@@ -4239,9 +4194,9 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1204 ähnelt.
         /// </summary>
-        internal static string E1204TItle {
+        internal static string E1204Title {
             get {
-                return ResourceManager.GetString("E1204TItle", resourceCulture);
+                return ResourceManager.GetString("E1204Title", resourceCulture);
             }
         }
         
@@ -4644,9 +4599,9 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E1214 ähnelt.
         /// </summary>
-        internal static string E1214TItle {
+        internal static string E1214Title {
             get {
-                return ResourceManager.GetString("E1214TItle", resourceCulture);
+                return ResourceManager.GetString("E1214Title", resourceCulture);
             }
         }
         
@@ -4921,6 +4876,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1220Description {
+            get {
+                return ResourceManager.GetString("E1220Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1220Handling {
+            get {
+                return ResourceManager.GetString("E1220Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1220Internal ähnelt.
+        /// </summary>
+        internal static string E1220Internal {
+            get {
+                return ResourceManager.GetString("E1220Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1220Text {
+            get {
+                return ResourceManager.GetString("E1220Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1220 ähnelt.
+        /// </summary>
+        internal static string E1220Title {
+            get {
+                return ResourceManager.GetString("E1220Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1221Description {
+            get {
+                return ResourceManager.GetString("E1221Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1221Handling {
+            get {
+                return ResourceManager.GetString("E1221Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1221Internal ähnelt.
+        /// </summary>
+        internal static string E1221Internal {
+            get {
+                return ResourceManager.GetString("E1221Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1221Text {
+            get {
+                return ResourceManager.GetString("E1221Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1221 ähnelt.
+        /// </summary>
+        internal static string E1221Title {
+            get {
+                return ResourceManager.GetString("E1221Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1222Description {
+            get {
+                return ResourceManager.GetString("E1222Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1222Handling {
+            get {
+                return ResourceManager.GetString("E1222Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1222Internal ähnelt.
+        /// </summary>
+        internal static string E1222Internal {
+            get {
+                return ResourceManager.GetString("E1222Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1222Text {
+            get {
+                return ResourceManager.GetString("E1222Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1222 ähnelt.
+        /// </summary>
+        internal static string E1222Title {
+            get {
+                return ResourceManager.GetString("E1222Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1223Description {
+            get {
+                return ResourceManager.GetString("E1223Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1223Handling {
+            get {
+                return ResourceManager.GetString("E1223Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1223Internal ähnelt.
+        /// </summary>
+        internal static string E1223Internal {
+            get {
+                return ResourceManager.GetString("E1223Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1223Text {
+            get {
+                return ResourceManager.GetString("E1223Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1223 ähnelt.
+        /// </summary>
+        internal static string E1223Title {
+            get {
+                return ResourceManager.GetString("E1223Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1224Description {
+            get {
+                return ResourceManager.GetString("E1224Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1224Handling {
+            get {
+                return ResourceManager.GetString("E1224Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1224Internal ähnelt.
+        /// </summary>
+        internal static string E1224Internal {
+            get {
+                return ResourceManager.GetString("E1224Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1224Text {
+            get {
+                return ResourceManager.GetString("E1224Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1224 ähnelt.
+        /// </summary>
+        internal static string E1224Title {
+            get {
+                return ResourceManager.GetString("E1224Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1225Description {
+            get {
+                return ResourceManager.GetString("E1225Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1225Handling {
+            get {
+                return ResourceManager.GetString("E1225Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1225Internal ähnelt.
+        /// </summary>
+        internal static string E1225Internal {
+            get {
+                return ResourceManager.GetString("E1225Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1225Text {
+            get {
+                return ResourceManager.GetString("E1225Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1225 ähnelt.
+        /// </summary>
+        internal static string E1225Title {
+            get {
+                return ResourceManager.GetString("E1225Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1226Description {
+            get {
+                return ResourceManager.GetString("E1226Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1226Handling {
+            get {
+                return ResourceManager.GetString("E1226Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1226Internal ähnelt.
+        /// </summary>
+        internal static string E1226Internal {
+            get {
+                return ResourceManager.GetString("E1226Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1226Text {
+            get {
+                return ResourceManager.GetString("E1226Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1226 ähnelt.
+        /// </summary>
+        internal static string E1226Title {
+            get {
+                return ResourceManager.GetString("E1226Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1227Description {
+            get {
+                return ResourceManager.GetString("E1227Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1227Handling {
+            get {
+                return ResourceManager.GetString("E1227Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1227Internal ähnelt.
+        /// </summary>
+        internal static string E1227Internal {
+            get {
+                return ResourceManager.GetString("E1227Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1227Text {
+            get {
+                return ResourceManager.GetString("E1227Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1227 ähnelt.
+        /// </summary>
+        internal static string E1227Title {
+            get {
+                return ResourceManager.GetString("E1227Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1228Description {
+            get {
+                return ResourceManager.GetString("E1228Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1228Handling {
+            get {
+                return ResourceManager.GetString("E1228Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1228Internal ähnelt.
+        /// </summary>
+        internal static string E1228Internal {
+            get {
+                return ResourceManager.GetString("E1228Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1228Text {
+            get {
+                return ResourceManager.GetString("E1228Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1228 ähnelt.
+        /// </summary>
+        internal static string E1228Title {
+            get {
+                return ResourceManager.GetString("E1228Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1229Description {
+            get {
+                return ResourceManager.GetString("E1229Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1229Handling {
+            get {
+                return ResourceManager.GetString("E1229Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1229Internal ähnelt.
+        /// </summary>
+        internal static string E1229Internal {
+            get {
+                return ResourceManager.GetString("E1229Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1229Text {
+            get {
+                return ResourceManager.GetString("E1229Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1229 ähnelt.
+        /// </summary>
+        internal static string E1229Title {
+            get {
+                return ResourceManager.GetString("E1229Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E122Description {
@@ -4962,6 +5367,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E122Title {
             get {
                 return ResourceManager.GetString("E122Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1230Description {
+            get {
+                return ResourceManager.GetString("E1230Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1230Handling {
+            get {
+                return ResourceManager.GetString("E1230Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1230Internal ähnelt.
+        /// </summary>
+        internal static string E1230Internal {
+            get {
+                return ResourceManager.GetString("E1230Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1230Text {
+            get {
+                return ResourceManager.GetString("E1230Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1230 ähnelt.
+        /// </summary>
+        internal static string E1230Title {
+            get {
+                return ResourceManager.GetString("E1230Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1231Description {
+            get {
+                return ResourceManager.GetString("E1231Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1231Handling {
+            get {
+                return ResourceManager.GetString("E1231Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1231Internal ähnelt.
+        /// </summary>
+        internal static string E1231Internal {
+            get {
+                return ResourceManager.GetString("E1231Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1231Text {
+            get {
+                return ResourceManager.GetString("E1231Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1231 ähnelt.
+        /// </summary>
+        internal static string E1231Title {
+            get {
+                return ResourceManager.GetString("E1231Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1232Description {
+            get {
+                return ResourceManager.GetString("E1232Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1232Handling {
+            get {
+                return ResourceManager.GetString("E1232Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1232Internal ähnelt.
+        /// </summary>
+        internal static string E1232Internal {
+            get {
+                return ResourceManager.GetString("E1232Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1232Text {
+            get {
+                return ResourceManager.GetString("E1232Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1232 ähnelt.
+        /// </summary>
+        internal static string E1232Title {
+            get {
+                return ResourceManager.GetString("E1232Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1233Description {
+            get {
+                return ResourceManager.GetString("E1233Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1233Handling {
+            get {
+                return ResourceManager.GetString("E1233Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1233Internal ähnelt.
+        /// </summary>
+        internal static string E1233Internal {
+            get {
+                return ResourceManager.GetString("E1233Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1233Text {
+            get {
+                return ResourceManager.GetString("E1233Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1233 ähnelt.
+        /// </summary>
+        internal static string E1233Title {
+            get {
+                return ResourceManager.GetString("E1233Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1234Description {
+            get {
+                return ResourceManager.GetString("E1234Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1234Handling {
+            get {
+                return ResourceManager.GetString("E1234Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1234Internal ähnelt.
+        /// </summary>
+        internal static string E1234Internal {
+            get {
+                return ResourceManager.GetString("E1234Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1234Text {
+            get {
+                return ResourceManager.GetString("E1234Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1234 ähnelt.
+        /// </summary>
+        internal static string E1234Title {
+            get {
+                return ResourceManager.GetString("E1234Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1235Description {
+            get {
+                return ResourceManager.GetString("E1235Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1235Handling {
+            get {
+                return ResourceManager.GetString("E1235Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1235Internal ähnelt.
+        /// </summary>
+        internal static string E1235Internal {
+            get {
+                return ResourceManager.GetString("E1235Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1235Text {
+            get {
+                return ResourceManager.GetString("E1235Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1235 ähnelt.
+        /// </summary>
+        internal static string E1235Title {
+            get {
+                return ResourceManager.GetString("E1235Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1236Description {
+            get {
+                return ResourceManager.GetString("E1236Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1236Handling {
+            get {
+                return ResourceManager.GetString("E1236Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1236Internal ähnelt.
+        /// </summary>
+        internal static string E1236Internal {
+            get {
+                return ResourceManager.GetString("E1236Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1236Text {
+            get {
+                return ResourceManager.GetString("E1236Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1236 ähnelt.
+        /// </summary>
+        internal static string E1236Title {
+            get {
+                return ResourceManager.GetString("E1236Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1237Description {
+            get {
+                return ResourceManager.GetString("E1237Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1237Handling {
+            get {
+                return ResourceManager.GetString("E1237Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1237Internal ähnelt.
+        /// </summary>
+        internal static string E1237Internal {
+            get {
+                return ResourceManager.GetString("E1237Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1237Text {
+            get {
+                return ResourceManager.GetString("E1237Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1237 ähnelt.
+        /// </summary>
+        internal static string E1237Title {
+            get {
+                return ResourceManager.GetString("E1237Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1238Description {
+            get {
+                return ResourceManager.GetString("E1238Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1238Handling {
+            get {
+                return ResourceManager.GetString("E1238Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1238Internal ähnelt.
+        /// </summary>
+        internal static string E1238Internal {
+            get {
+                return ResourceManager.GetString("E1238Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1238Text {
+            get {
+                return ResourceManager.GetString("E1238Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1238 ähnelt.
+        /// </summary>
+        internal static string E1238Title {
+            get {
+                return ResourceManager.GetString("E1238Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1239Description {
+            get {
+                return ResourceManager.GetString("E1239Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1239Handling {
+            get {
+                return ResourceManager.GetString("E1239Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1239Internal ähnelt.
+        /// </summary>
+        internal static string E1239Internal {
+            get {
+                return ResourceManager.GetString("E1239Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1239Text {
+            get {
+                return ResourceManager.GetString("E1239Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1239 ähnelt.
+        /// </summary>
+        internal static string E1239Title {
+            get {
+                return ResourceManager.GetString("E1239Title", resourceCulture);
             }
         }
         
@@ -5011,6 +5866,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1240Description {
+            get {
+                return ResourceManager.GetString("E1240Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1240Handling {
+            get {
+                return ResourceManager.GetString("E1240Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1240Internal ähnelt.
+        /// </summary>
+        internal static string E1240Internal {
+            get {
+                return ResourceManager.GetString("E1240Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1240Text {
+            get {
+                return ResourceManager.GetString("E1240Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1240 ähnelt.
+        /// </summary>
+        internal static string E1240Title {
+            get {
+                return ResourceManager.GetString("E1240Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1241Description {
+            get {
+                return ResourceManager.GetString("E1241Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1241Handling {
+            get {
+                return ResourceManager.GetString("E1241Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1241Internal ähnelt.
+        /// </summary>
+        internal static string E1241Internal {
+            get {
+                return ResourceManager.GetString("E1241Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1241Text {
+            get {
+                return ResourceManager.GetString("E1241Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1241 ähnelt.
+        /// </summary>
+        internal static string E1241Title {
+            get {
+                return ResourceManager.GetString("E1241Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1242Description {
+            get {
+                return ResourceManager.GetString("E1242Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1242Handling {
+            get {
+                return ResourceManager.GetString("E1242Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1242Internal ähnelt.
+        /// </summary>
+        internal static string E1242Internal {
+            get {
+                return ResourceManager.GetString("E1242Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1242Text {
+            get {
+                return ResourceManager.GetString("E1242Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1242 ähnelt.
+        /// </summary>
+        internal static string E1242Title {
+            get {
+                return ResourceManager.GetString("E1242Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1243Description {
+            get {
+                return ResourceManager.GetString("E1243Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1243Handling {
+            get {
+                return ResourceManager.GetString("E1243Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1243Internal ähnelt.
+        /// </summary>
+        internal static string E1243Internal {
+            get {
+                return ResourceManager.GetString("E1243Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1243Text {
+            get {
+                return ResourceManager.GetString("E1243Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1243 ähnelt.
+        /// </summary>
+        internal static string E1243Title {
+            get {
+                return ResourceManager.GetString("E1243Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1244Description {
+            get {
+                return ResourceManager.GetString("E1244Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1244Handling {
+            get {
+                return ResourceManager.GetString("E1244Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1244Internal ähnelt.
+        /// </summary>
+        internal static string E1244Internal {
+            get {
+                return ResourceManager.GetString("E1244Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1244Text {
+            get {
+                return ResourceManager.GetString("E1244Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1244 ähnelt.
+        /// </summary>
+        internal static string E1244Title {
+            get {
+                return ResourceManager.GetString("E1244Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1245Description {
+            get {
+                return ResourceManager.GetString("E1245Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1245Handling {
+            get {
+                return ResourceManager.GetString("E1245Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1245Internal ähnelt.
+        /// </summary>
+        internal static string E1245Internal {
+            get {
+                return ResourceManager.GetString("E1245Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1245Text {
+            get {
+                return ResourceManager.GetString("E1245Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1245 ähnelt.
+        /// </summary>
+        internal static string E1245Title {
+            get {
+                return ResourceManager.GetString("E1245Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1246Description {
+            get {
+                return ResourceManager.GetString("E1246Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1246Handling {
+            get {
+                return ResourceManager.GetString("E1246Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1246Internal ähnelt.
+        /// </summary>
+        internal static string E1246Internal {
+            get {
+                return ResourceManager.GetString("E1246Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1246Text {
+            get {
+                return ResourceManager.GetString("E1246Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1246 ähnelt.
+        /// </summary>
+        internal static string E1246Title {
+            get {
+                return ResourceManager.GetString("E1246Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1247Description {
+            get {
+                return ResourceManager.GetString("E1247Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1247Handling {
+            get {
+                return ResourceManager.GetString("E1247Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1247Internal ähnelt.
+        /// </summary>
+        internal static string E1247Internal {
+            get {
+                return ResourceManager.GetString("E1247Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1247Text {
+            get {
+                return ResourceManager.GetString("E1247Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1247 ähnelt.
+        /// </summary>
+        internal static string E1247Title {
+            get {
+                return ResourceManager.GetString("E1247Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1248Description {
+            get {
+                return ResourceManager.GetString("E1248Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1248Handling {
+            get {
+                return ResourceManager.GetString("E1248Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1248Internal ähnelt.
+        /// </summary>
+        internal static string E1248Internal {
+            get {
+                return ResourceManager.GetString("E1248Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1248Text {
+            get {
+                return ResourceManager.GetString("E1248Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1248 ähnelt.
+        /// </summary>
+        internal static string E1248Title {
+            get {
+                return ResourceManager.GetString("E1248Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1249Description {
+            get {
+                return ResourceManager.GetString("E1249Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1249Handling {
+            get {
+                return ResourceManager.GetString("E1249Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1249Internal ähnelt.
+        /// </summary>
+        internal static string E1249Internal {
+            get {
+                return ResourceManager.GetString("E1249Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1249Text {
+            get {
+                return ResourceManager.GetString("E1249Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1249 ähnelt.
+        /// </summary>
+        internal static string E1249Title {
+            get {
+                return ResourceManager.GetString("E1249Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E124Description {
@@ -5052,6 +6357,96 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E124Title {
             get {
                 return ResourceManager.GetString("E124Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1250Description {
+            get {
+                return ResourceManager.GetString("E1250Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1250Handling {
+            get {
+                return ResourceManager.GetString("E1250Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1259Internal ähnelt.
+        /// </summary>
+        internal static string E1250Internal {
+            get {
+                return ResourceManager.GetString("E1250Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1250Text {
+            get {
+                return ResourceManager.GetString("E1250Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1250 ähnelt.
+        /// </summary>
+        internal static string E1250Title {
+            get {
+                return ResourceManager.GetString("E1250Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1251Description {
+            get {
+                return ResourceManager.GetString("E1251Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1251Handling {
+            get {
+                return ResourceManager.GetString("E1251Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1251Internal {
+            get {
+                return ResourceManager.GetString("E1251Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1251Text {
+            get {
+                return ResourceManager.GetString("E1251Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1251 ähnelt.
+        /// </summary>
+        internal static string E1251Title {
+            get {
+                return ResourceManager.GetString("E1251Title", resourceCulture);
             }
         }
         
