@@ -3817,751 +3817,751 @@
     <value>E1199</value>
   </data>
   <data name="E1200Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1200Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1200Internal" xml:space="preserve">
     <value>E1200Internal</value>
   </data>
   <data name="E1200Text" xml:space="preserve">
-    <value />
+    <value>M-function M10 channel 4 "Clamp clamping device left side" not acknowledged</value>
   </data>
   <data name="E1200Title" xml:space="preserve">
     <value>E1200</value>
   </data>
   <data name="E1201Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1201Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1201Internal" xml:space="preserve">
     <value>E1201Internal</value>
   </data>
   <data name="E1201Text" xml:space="preserve">
-    <value />
+    <value>M-function M10 channel 4 "Clamp clamping device left side" not acknowledged</value>
   </data>
   <data name="E1201Title" xml:space="preserve">
     <value>E1201</value>
   </data>
   <data name="E1202Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1202Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1202Internal" xml:space="preserve">
     <value>E1202Internal</value>
   </data>
   <data name="E1202Text" xml:space="preserve">
-    <value />
+    <value>M-function M11 channel 4 "Unclamp clamping device left side" not acknowledged</value>
   </data>
   <data name="E1202Title" xml:space="preserve">
     <value>E1202</value>
   </data>
   <data name="E1203Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1203Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1203Internal" xml:space="preserve">
     <value>E1203Internal</value>
   </data>
   <data name="E1203Text" xml:space="preserve">
-    <value />
+    <value>M-function M11 channel 4 "Unclamp clamping device left side" not acknowledged</value>
   </data>
   <data name="E1203Title" xml:space="preserve">
     <value>E1203</value>
   </data>
   <data name="E1204Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1204Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1204Internal" xml:space="preserve">
     <value>E1204Internal</value>
   </data>
   <data name="E1204Text" xml:space="preserve">
-    <value />
+    <value>M-function M12 channel 4 "Bleed clamping device pneumatic pipes left side" not acknowledged</value>
   </data>
   <data name="E1204Title" xml:space="preserve">
     <value>E1204</value>
   </data>
   <data name="E1205Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1205Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1205Internal" xml:space="preserve">
     <value>E1205Internal</value>
   </data>
   <data name="E1205Text" xml:space="preserve">
-    <value />
+    <value>M-function M12 channel 4 "Bleed clamping device pneumatic pipes left side" not acknowledged</value>
   </data>
   <data name="E1205Title" xml:space="preserve">
     <value>E1205</value>
   </data>
   <data name="E1206Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1206Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1206Internal" xml:space="preserve">
     <value>E1206Internal</value>
   </data>
   <data name="E1206Text" xml:space="preserve">
-    <value />
+    <value>M-function M17 channel 4 "Open safety door working area" not acknowledged</value>
   </data>
   <data name="E1206Title" xml:space="preserve">
     <value>E1206</value>
   </data>
   <data name="E1207Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1207Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1207Internal" xml:space="preserve">
     <value>E1207Internal</value>
   </data>
   <data name="E1207Text" xml:space="preserve">
-    <value />
+    <value>M-function M17 channel 4 "Open safety door working area" not acknowledged</value>
   </data>
   <data name="E1207Title" xml:space="preserve">
     <value>E1207</value>
   </data>
   <data name="E1210Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1210Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1210Internal" xml:space="preserve">
     <value>E1210Internal</value>
   </data>
   <data name="E1210Text" xml:space="preserve">
-    <value />
+    <value>M-function M35 channel 4 "Rollchecker right up" not acknowledged</value>
   </data>
   <data name="E1210Title" xml:space="preserve">
     <value>E1210</value>
   </data>
   <data name="E1211Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1211Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1211Internal" xml:space="preserve">
     <value>E1211Internal</value>
   </data>
   <data name="E1211Text" xml:space="preserve">
-    <value />
+    <value>M-function M35 channel 4 "Rollchecker right up" not acknowledged</value>
   </data>
   <data name="E1211Title" xml:space="preserve">
     <value>E1211</value>
   </data>
   <data name="E1212Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1212Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1212Internal" xml:space="preserve">
     <value>E1212Internal</value>
   </data>
   <data name="E1212Text" xml:space="preserve">
-    <value />
+    <value>M-function M36 channel 4 "Rollchecker right down" not acknowledged</value>
   </data>
   <data name="E1212Title" xml:space="preserve">
     <value>E1212</value>
   </data>
   <data name="E1213Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1213Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1213Internal" xml:space="preserve">
     <value>E1213Internal</value>
   </data>
   <data name="E1213Text" xml:space="preserve">
-    <value />
+    <value>M-function M36 channel 4 "Rollchecker right down" not acknowledged</value>
   </data>
   <data name="E1213Title" xml:space="preserve">
     <value>E1213</value>
   </data>
   <data name="E1214Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1214Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1214Internal" xml:space="preserve">
     <value>E1214Internal</value>
   </data>
   <data name="E1214Text" xml:space="preserve">
-    <value />
+    <value>M-function M37 channel 4 "Rollchecker right down" not acknowledged</value>
   </data>
   <data name="E1214Title" xml:space="preserve">
     <value>E1214</value>
   </data>
   <data name="E1215Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1215Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1215Internal" xml:space="preserve">
     <value>E1215Internal</value>
   </data>
   <data name="E1215Text" xml:space="preserve">
-    <value />
+    <value>M-function M37 channel 4 "Rollchecker right down" not acknowledged</value>
   </data>
   <data name="E1215Title" xml:space="preserve">
     <value>E1215</value>
   </data>
   <data name="E1216Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1216Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1216Internal" xml:space="preserve">
     <value>E1216Internal</value>
   </data>
   <data name="E1216Text" xml:space="preserve">
-    <value />
+    <value>M-function M90 channel 4 "Unclamp raw part gripper left" not acknowledged</value>
   </data>
   <data name="E1216Title" xml:space="preserve">
     <value>E1216</value>
   </data>
   <data name="E1217Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1217Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1217Internal" xml:space="preserve">
     <value>E1217Internal</value>
   </data>
   <data name="E1217Text" xml:space="preserve">
-    <value />
+    <value>M-function M90 channel 4 "Unclamp raw part gripper left" not acknowledged</value>
   </data>
   <data name="E1217Title" xml:space="preserve">
     <value>E1217</value>
   </data>
   <data name="E1218Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1218Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1218Internal" xml:space="preserve">
     <value>E1218Internal</value>
   </data>
   <data name="E1218Text" xml:space="preserve">
-    <value />
+    <value>M-function M91 channel 4 "Clamp raw part gripper left" not acknowledged</value>
   </data>
   <data name="E1218Title" xml:space="preserve">
     <value>E1218</value>
   </data>
   <data name="E1219Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1219Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1219Internal" xml:space="preserve">
     <value>E1219Internal</value>
   </data>
   <data name="E1219Text" xml:space="preserve">
-    <value />
+    <value>M-function M91 channel 4 "Clamp raw part gripper left" not acknowledged</value>
   </data>
   <data name="E1219Title" xml:space="preserve">
     <value>E1219</value>
   </data>
   <data name="E1220Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1220Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1220Internal" xml:space="preserve">
     <value>E1220Internal</value>
   </data>
   <data name="E1220Text" xml:space="preserve">
-    <value />
+    <value>M-function M92 channel 4 "Unclamp finish part gripper left" not acknowledged</value>
   </data>
   <data name="E1220Title" xml:space="preserve">
     <value>E1220</value>
   </data>
   <data name="E1221Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1221Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1221Internal" xml:space="preserve">
     <value>E1221Internal</value>
   </data>
   <data name="E1221Text" xml:space="preserve">
-    <value />
+    <value>M-function M92 channel 4 "Unclamp finish part gripper left" not acknowledged</value>
   </data>
   <data name="E1221Title" xml:space="preserve">
     <value>E1221</value>
   </data>
   <data name="E1222Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1222Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1222Internal" xml:space="preserve">
     <value>E1222Internal</value>
   </data>
   <data name="E1222Text" xml:space="preserve">
-    <value />
+    <value>M-function M93 channel 4 "Clamp finish part gripper left" not acknowledged</value>
   </data>
   <data name="E1222Title" xml:space="preserve">
     <value>E1222</value>
   </data>
   <data name="E1223Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1223Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1223Internal" xml:space="preserve">
     <value>E1223Internal</value>
   </data>
   <data name="E1223Text" xml:space="preserve">
-    <value />
+    <value>M-function M93 channel 4 "Clamp finish part gripper left" not acknowledged</value>
   </data>
   <data name="E1223Title" xml:space="preserve">
     <value>E1223</value>
   </data>
   <data name="E1224Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1224Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1224Internal" xml:space="preserve">
     <value>E1224Internal</value>
   </data>
   <data name="E1224Text" xml:space="preserve">
-    <value />
+    <value>M-function M55 channel 4 "Unclamp gear dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1224Title" xml:space="preserve">
     <value>E1224</value>
   </data>
   <data name="E1225Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1225Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1225Internal" xml:space="preserve">
     <value>E1225Internal</value>
   </data>
   <data name="E1225Text" xml:space="preserve">
-    <value />
+    <value>M-function M55 channel 4 "Unclamp gear dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1225Title" xml:space="preserve">
     <value>E1225</value>
   </data>
   <data name="E1226Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1226Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1226Internal" xml:space="preserve">
     <value>E1226Internal</value>
   </data>
   <data name="E1226Text" xml:space="preserve">
-    <value />
+    <value>M-function M56 channel 4 "Clamp gear dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1226Title" xml:space="preserve">
     <value>E1226</value>
   </data>
   <data name="E1227Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1227Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1227Internal" xml:space="preserve">
     <value>E1227Internal</value>
   </data>
   <data name="E1227Text" xml:space="preserve">
-    <value />
+    <value>M-function M56 channel 4 "Clamp gear dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1227Title" xml:space="preserve">
     <value>E1227</value>
   </data>
   <data name="E1228Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1228Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1228Internal" xml:space="preserve">
     <value>E1228Internal</value>
   </data>
   <data name="E1228Text" xml:space="preserve">
-    <value />
+    <value>M-function M57 channel 4 "Unclamp head dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1228Title" xml:space="preserve">
     <value>E1228</value>
   </data>
   <data name="E1229Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1229Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1229Internal" xml:space="preserve">
     <value>E1229Internal</value>
   </data>
   <data name="E1229Text" xml:space="preserve">
-    <value />
+    <value>M-function M57 channel 4 "Unclamp head dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1229Title" xml:space="preserve">
     <value>E1229</value>
   </data>
   <data name="E1230Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1230Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1230Internal" xml:space="preserve">
     <value>E1230Internal</value>
   </data>
   <data name="E1230Text" xml:space="preserve">
-    <value />
+    <value>M-function M58 channel 4 "Clamp head dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1230Title" xml:space="preserve">
     <value>E1230</value>
   </data>
   <data name="E1231Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1231Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1231Internal" xml:space="preserve">
     <value>E1231Internal</value>
   </data>
   <data name="E1231Text" xml:space="preserve">
-    <value />
+    <value>M-function M58 channel 4 "Clamp head dresser gripper left" not acknowledged</value>
   </data>
   <data name="E1231Title" xml:space="preserve">
     <value>E1231</value>
   </data>
   <data name="E1232Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1232Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1232Internal" xml:space="preserve">
     <value>E1232Internal</value>
   </data>
   <data name="E1232Text" xml:space="preserve">
-    <value />
+    <value>M-function M60 channel 4 "Unclamp raw part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1232Title" xml:space="preserve">
     <value>E1232</value>
   </data>
   <data name="E1233Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1233Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1233Internal" xml:space="preserve">
     <value>E1233Internal</value>
   </data>
   <data name="E1233Text" xml:space="preserve">
-    <value />
+    <value>M-function M60 channel 4 "Unclamp raw part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1233Title" xml:space="preserve">
     <value>E1233</value>
   </data>
   <data name="E1234Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1234Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1234Internal" xml:space="preserve">
     <value>E1234Internal</value>
   </data>
   <data name="E1234Text" xml:space="preserve">
-    <value />
+    <value>M-function M61 channel 4 "Clamp raw part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1234Title" xml:space="preserve">
     <value>E1234</value>
   </data>
   <data name="E1235Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1235Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1235Internal" xml:space="preserve">
     <value>E1235Internal</value>
   </data>
   <data name="E1235Text" xml:space="preserve">
-    <value />
+    <value>M-function M61 channel 4 "Clamp raw part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1235Title" xml:space="preserve">
     <value>E1235</value>
   </data>
   <data name="E1236Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1236Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1236Internal" xml:space="preserve">
     <value>E1236Internal</value>
   </data>
   <data name="E1236Text" xml:space="preserve">
-    <value />
+    <value>M-function M62 channel 4 "Unclamp finish part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1236Title" xml:space="preserve">
     <value>E1236</value>
   </data>
   <data name="E1237Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1237Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1237Internal" xml:space="preserve">
     <value>E1237Internal</value>
   </data>
   <data name="E1237Text" xml:space="preserve">
-    <value />
+    <value>M-function M62 channel 4 "Unclamp finish part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1237Title" xml:space="preserve">
     <value>E1237</value>
   </data>
   <data name="E1238Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1238Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1238Internal" xml:space="preserve">
     <value>E1238Internal</value>
   </data>
   <data name="E1238Text" xml:space="preserve">
-    <value />
+    <value>M-function M63 channel 4 "Clamp finish part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1238Title" xml:space="preserve">
     <value>E1238</value>
   </data>
   <data name="E1239Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1239Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1239Internal" xml:space="preserve">
     <value>E1239Internal</value>
   </data>
   <data name="E1239Text" xml:space="preserve">
-    <value />
+    <value>M-function M63 channel 4 "Clamp finish part gripper gantry" not acknowledged</value>
   </data>
   <data name="E1239Title" xml:space="preserve">
     <value>E1239</value>
   </data>
   <data name="E1240Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1240Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1240Internal" xml:space="preserve">
     <value>E1240Internal</value>
   </data>
   <data name="E1240Text" xml:space="preserve">
-    <value />
+    <value>M-function M94 channel 4 "Unclamp master gripper left" not acknowledged</value>
   </data>
   <data name="E1240Title" xml:space="preserve">
     <value>E1240</value>
   </data>
   <data name="E1241Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1241Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1241Internal" xml:space="preserve">
     <value>E1241Internal</value>
   </data>
   <data name="E1241Text" xml:space="preserve">
-    <value />
+    <value>M-function M94 channel 4 "Unclamp master gripper left" not acknowledged</value>
   </data>
   <data name="E1241Title" xml:space="preserve">
     <value>E1241</value>
   </data>
   <data name="E1242Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1242Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1242Internal" xml:space="preserve">
     <value>E1242Internal</value>
   </data>
   <data name="E1242Text" xml:space="preserve">
-    <value />
+    <value>M-function M95 channel 4 "Clamp master gripper left" not acknowledged</value>
   </data>
   <data name="E1242Title" xml:space="preserve">
     <value>E1242</value>
   </data>
   <data name="E1243Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1243Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1243Internal" xml:space="preserve">
     <value>E1243Internal</value>
   </data>
   <data name="E1243Text" xml:space="preserve">
-    <value />
+    <value>M-function M95 channel 4 "Clamp master gripper left" not acknowledged</value>
   </data>
   <data name="E1243Title" xml:space="preserve">
     <value>E1243</value>
   </data>
   <data name="E1244Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1244Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1244Internal" xml:space="preserve">
     <value>E1244Internal</value>
   </data>
   <data name="E1244Text" xml:space="preserve">
-    <value />
+    <value>M-function M70 channel 4 "Unclamp blank gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1244Title" xml:space="preserve">
     <value>E1244</value>
   </data>
   <data name="E1245Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1245Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1245Internal" xml:space="preserve">
     <value>E1245Internal</value>
   </data>
   <data name="E1245Text" xml:space="preserve">
-    <value />
+    <value>M-function M70 channel 4 "Unclamp blank gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1245Title" xml:space="preserve">
     <value>E1245</value>
   </data>
   <data name="E1246Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1246Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1246Internal" xml:space="preserve">
     <value>E1246Internal</value>
   </data>
   <data name="E1246Text" xml:space="preserve">
-    <value />
+    <value>M-function M71 channel 4 "Clamp blank gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1246Title" xml:space="preserve">
     <value>E1246</value>
   </data>
   <data name="E1247Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1247Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1247Internal" xml:space="preserve">
     <value>E1247Internal</value>
   </data>
   <data name="E1247Text" xml:space="preserve">
-    <value />
+    <value>M-function M71 channel 4 "Clamp blank gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1247Title" xml:space="preserve">
     <value>E1247</value>
   </data>
   <data name="E1248Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1248Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1248Internal" xml:space="preserve">
     <value>E1248Internal</value>
   </data>
   <data name="E1248Text" xml:space="preserve">
-    <value />
+    <value>M-function M72 channel 4 "Unclamp finished part gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1248Title" xml:space="preserve">
     <value>E1248</value>
   </data>
   <data name="E1249Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1249Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1249Internal" xml:space="preserve">
     <value>E1249Internal</value>
   </data>
   <data name="E1249Text" xml:space="preserve">
-    <value />
+    <value>M-function M72 channel 4 "Unclamp finished part gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1249Title" xml:space="preserve">
     <value>E1249</value>
   </data>
   <data name="E1250Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment input is missing</value>
   </data>
   <data name="E1250Handling" xml:space="preserve">
-    <value />
+    <value>Check missing input.</value>
   </data>
   <data name="E1250Internal" xml:space="preserve">
     <value>E1259Internal</value>
   </data>
   <data name="E1250Text" xml:space="preserve">
-    <value />
+    <value>M-function M73 channel 4 "Clamp finished part gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1250Title" xml:space="preserve">
     <value>E1250</value>
   </data>
   <data name="E1251Description" xml:space="preserve">
-    <value />
+    <value>Acknowledgment output is missing</value>
   </data>
   <data name="E1251Handling" xml:space="preserve">
-    <value />
+    <value>Check missing output.</value>
   </data>
   <data name="E1251Internal" xml:space="preserve">
-    <value />
+    <value>E1251Internal</value>
   </data>
   <data name="E1251Text" xml:space="preserve">
-    <value />
+    <value>M-function M73 channel 4 "Clamp finished part gripper portal 2" not acknowledged</value>
   </data>
   <data name="E1251Title" xml:space="preserve">
     <value>E1251</value>
@@ -7190,5 +7190,980 @@
   </data>
   <data name="E950Title" xml:space="preserve">
     <value>E950</value>
+  </data>
+  <data name="E1300Description" xml:space="preserve">
+    <value>Analog value not entered</value>
+  </data>
+  <data name="E1300Handling" xml:space="preserve">
+    <value>Check missing entries.</value>
+  </data>
+  <data name="E1300Internal" xml:space="preserve">
+    <value>E1300Internal</value>
+  </data>
+  <data name="E1300Text" xml:space="preserve">
+    <value>Analog value of the spring slide left is 0</value>
+  </data>
+  <data name="E1300Title" xml:space="preserve">
+    <value>E1300</value>
+  </data>
+  <data name="E1301Description" xml:space="preserve">
+    <value>Analog values of the spring slide left not in the valid area</value>
+  </data>
+  <data name="E1301Handling" xml:space="preserve">
+    <value>Check entries.</value>
+  </data>
+  <data name="E1301Internal" xml:space="preserve">
+    <value>E1301Internal</value>
+  </data>
+  <data name="E1301Text" xml:space="preserve">
+    <value>By H2 channel 4 was no acknowlegdement possible</value>
+  </data>
+  <data name="E1301Title" xml:space="preserve">
+    <value>E1301</value>
+  </data>
+  <data name="E1302Description" xml:space="preserve">
+    <value>Analog values of the spring slide left not in the valid area</value>
+  </data>
+  <data name="E1302Handling" xml:space="preserve">
+    <value>Check entries.</value>
+  </data>
+  <data name="E1302Internal" xml:space="preserve">
+    <value>E1302Internal</value>
+  </data>
+  <data name="E1302Text" xml:space="preserve">
+    <value>By H3 channel 4 was no acknowlegdement possible</value>
+  </data>
+  <data name="E1302Title" xml:space="preserve">
+    <value>E1302</value>
+  </data>
+  <data name="E1303Description" xml:space="preserve">
+    <value>Analog value not entered</value>
+  </data>
+  <data name="E1303Handling" xml:space="preserve">
+    <value>Check missing entries.</value>
+  </data>
+  <data name="E1303Internal" xml:space="preserve">
+    <value>E1303Internal</value>
+  </data>
+  <data name="E1303Text" xml:space="preserve">
+    <value>Analog value monitoring spring fixture left is 0</value>
+  </data>
+  <data name="E1303Title" xml:space="preserve">
+    <value>E1303</value>
+  </data>
+  <data name="E1304Description" xml:space="preserve">
+    <value>Analog values of spring fixture left not in the valid area</value>
+  </data>
+  <data name="E1304Handling" xml:space="preserve">
+    <value>Check entries.</value>
+  </data>
+  <data name="E1304Internal" xml:space="preserve">
+    <value>E1304Internal</value>
+  </data>
+  <data name="E1304Text" xml:space="preserve">
+    <value>By H4 channel 4 was no acknowlegdement possible</value>
+  </data>
+  <data name="E1304Title" xml:space="preserve">
+    <value>E1304</value>
+  </data>
+  <data name="E1305Description" xml:space="preserve">
+    <value>Pressure switch of plain surface not OK</value>
+  </data>
+  <data name="E1305Handling" xml:space="preserve">
+    <value>Please check the pressure switch of plain surface.</value>
+  </data>
+  <data name="E1305Internal" xml:space="preserve">
+    <value>E1305Internal</value>
+  </data>
+  <data name="E1305Text" xml:space="preserve">
+    <value>By H5 channel 4 was no acknowlegdement possible</value>
+  </data>
+  <data name="E1305Title" xml:space="preserve">
+    <value>E1305</value>
+  </data>
+  <data name="E1350Description" xml:space="preserve">
+    <value>Position not OK</value>
+  </data>
+  <data name="E1350Handling" xml:space="preserve">
+    <value>Please check the position or remove the unit.</value>
+  </data>
+  <data name="E1350Internal" xml:space="preserve">
+    <value>E1350Internal</value>
+  </data>
+  <data name="E1350Text" xml:space="preserve">
+    <value>Installation help of clamping device left side is not in backward or not removed</value>
+  </data>
+  <data name="E1350Title" xml:space="preserve">
+    <value>E1350</value>
+  </data>
+  <data name="E1501Description" xml:space="preserve">
+    <value>Gripper Raw part to the left occupied</value>
+  </data>
+  <data name="E1501Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1501Internal" xml:space="preserve">
+    <value>E1501Internal</value>
+  </data>
+  <data name="E1501Text" xml:space="preserve">
+    <value>Load Raw part to the left not possible, because the gripper Raw part is not empty</value>
+  </data>
+  <data name="E1501Title" xml:space="preserve">
+    <value>E1501</value>
+  </data>
+  <data name="E1502Description" xml:space="preserve">
+    <value>Status gripper Raw part to the left not OK</value>
+  </data>
+  <data name="E1502Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1502Internal" xml:space="preserve">
+    <value>E1502Internal</value>
+  </data>
+  <data name="E1502Text" xml:space="preserve">
+    <value>Load Raw part to the left not possible, because the Status the gripper Raw part is not OK</value>
+  </data>
+  <data name="E1502Title" xml:space="preserve">
+    <value>E1502</value>
+  </data>
+  <data name="E1503Description" xml:space="preserve">
+    <value>Gripper finished part Portal occupied</value>
+  </data>
+  <data name="E1503Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1503Internal" xml:space="preserve">
+    <value>E1503Internal</value>
+  </data>
+  <data name="E1503Text" xml:space="preserve">
+    <value>Unload finished part to the left not possible, because the gripper finished part Portal is not empty</value>
+  </data>
+  <data name="E1503Title" xml:space="preserve">
+    <value>E1503</value>
+  </data>
+  <data name="E1504Description" xml:space="preserve">
+    <value>Status gripper finished part Portal not OK</value>
+  </data>
+  <data name="E1504Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1504Internal" xml:space="preserve">
+    <value>E1504Internal</value>
+  </data>
+  <data name="E1504Text" xml:space="preserve">
+    <value>Unload finished part to the left not possible, because the Status the gripper finished part Portal is not OK</value>
+  </data>
+  <data name="E1504Title" xml:space="preserve">
+    <value>E1504</value>
+  </data>
+  <data name="E1505Description" xml:space="preserve">
+    <value>Gripper Raw part to the right occupied</value>
+  </data>
+  <data name="E1505Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1505Internal" xml:space="preserve">
+    <value>E1505Internal</value>
+  </data>
+  <data name="E1505Text" xml:space="preserve">
+    <value>Load Raw part to the right not possible, because the gripper Raw part is not empty</value>
+  </data>
+  <data name="E1505Title" xml:space="preserve">
+    <value>E1505</value>
+  </data>
+  <data name="E1506Description" xml:space="preserve">
+    <value>Status gripper Raw part to the right not OK</value>
+  </data>
+  <data name="E1506Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1506Internal" xml:space="preserve">
+    <value>E1506Internal</value>
+  </data>
+  <data name="E1506Text" xml:space="preserve">
+    <value>Load Raw part to the right not possible, because the Status the gripper Raw part is not OK</value>
+  </data>
+  <data name="E1506Title" xml:space="preserve">
+    <value>E1506</value>
+  </data>
+  <data name="E1507Description" xml:space="preserve">
+    <value>Gripper finished part Portal occupied</value>
+  </data>
+  <data name="E1507Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1507Internal" xml:space="preserve">
+    <value>E1507Internal</value>
+  </data>
+  <data name="E1507Text" xml:space="preserve">
+    <value>Unload finished part to the right not possible, because the gripper finished part Portal is not empty</value>
+  </data>
+  <data name="E1507Title" xml:space="preserve">
+    <value>E1507</value>
+  </data>
+  <data name="E1508Description" xml:space="preserve">
+    <value>Status gripper finished part Portal not OK</value>
+  </data>
+  <data name="E1508Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E1508Internal" xml:space="preserve">
+    <value>E1508Internal</value>
+  </data>
+  <data name="E1508Text" xml:space="preserve">
+    <value>Unload finished part to the right not possible, because the Status the gripper finished part Portal is not OK</value>
+  </data>
+  <data name="E1508Title" xml:space="preserve">
+    <value>E1508</value>
+  </data>
+  <data name="E1509Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1509Handling" xml:space="preserve">
+    <value>Restart NC-Program.</value>
+  </data>
+  <data name="E1509Internal" xml:space="preserve">
+    <value>E1509Internal</value>
+  </data>
+  <data name="E1509Text" xml:space="preserve">
+    <value>Unload Portal not possible, because the No Request to Unload is available</value>
+  </data>
+  <data name="E1509Title" xml:space="preserve">
+    <value>E1509</value>
+  </data>
+  <data name="E1510Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1510Handling" xml:space="preserve">
+    <value>Restart NC-Program.</value>
+  </data>
+  <data name="E1510Internal" xml:space="preserve">
+    <value>E1510Internal</value>
+  </data>
+  <data name="E1510Text" xml:space="preserve">
+    <value>Load gripper Raw part Portal not possible, because the No Request to Unload available is</value>
+  </data>
+  <data name="E1510Title" xml:space="preserve">
+    <value>E1510</value>
+  </data>
+  <data name="E1511Description" xml:space="preserve">
+    <value>Loading type is not preselected</value>
+  </data>
+  <data name="E1511Handling" xml:space="preserve">
+    <value>Check selection loading type.</value>
+  </data>
+  <data name="E1511Internal" xml:space="preserve">
+    <value>E1511Internal</value>
+  </data>
+  <data name="E1511Text" xml:space="preserve">
+    <value>Load/Unload not possible, because the No loading type is preselected</value>
+  </data>
+  <data name="E1511Title" xml:space="preserve">
+    <value>E1511</value>
+  </data>
+  <data name="E1512Description" xml:space="preserve">
+    <value>Y5-Axis in collision area</value>
+  </data>
+  <data name="E1512Handling" xml:space="preserve">
+    <value>Y5-Axis has to be moved by Hand.</value>
+  </data>
+  <data name="E1512Internal" xml:space="preserve">
+    <value>E1512Internal</value>
+  </data>
+  <data name="E1512Text" xml:space="preserve">
+    <value>Move to position not possible. Y5-Axis in area loader to the right</value>
+  </data>
+  <data name="E1512Title" xml:space="preserve">
+    <value>E1512</value>
+  </data>
+  <data name="E1513Description" xml:space="preserve">
+    <value>Y5-Axis in collision area</value>
+  </data>
+  <data name="E1513Handling" xml:space="preserve">
+    <value>Y5-Axis has to be moved by Hand.</value>
+  </data>
+  <data name="E1513Internal" xml:space="preserve">
+    <value>E1513Internal</value>
+  </data>
+  <data name="E1513Text" xml:space="preserve">
+    <value>Move to position not possible. Y5-Axis in area loader to the left</value>
+  </data>
+  <data name="E1513Title" xml:space="preserve">
+    <value>E1513</value>
+  </data>
+  <data name="E1514Description" xml:space="preserve">
+    <value>No request of unloading channel 3 or 4</value>
+  </data>
+  <data name="E1514Handling" xml:space="preserve">
+    <value>Please start again or check the gripper status</value>
+  </data>
+  <data name="E1514Internal" xml:space="preserve">
+    <value>E1514Internal</value>
+  </data>
+  <data name="E1514Text" xml:space="preserve">
+    <value>Fault Loading/Unloading cycle</value>
+  </data>
+  <data name="E1514Title" xml:space="preserve">
+    <value>E1514</value>
+  </data>
+  <data name="E1515Description" xml:space="preserve">
+    <value>No release of channel 3 for loading/unloading</value>
+  </data>
+  <data name="E1515Handling" xml:space="preserve">
+    <value>Please start again or check the gripper status.</value>
+  </data>
+  <data name="E1515Internal" xml:space="preserve">
+    <value>E1515Internal</value>
+  </data>
+  <data name="E1515Text" xml:space="preserve">
+    <value>Fault Loading/Unloading cycle</value>
+  </data>
+  <data name="E1515Title" xml:space="preserve">
+    <value>E1515</value>
+  </data>
+  <data name="E1516Description" xml:space="preserve">
+    <value>No release of channel 4 for loading/unloading</value>
+  </data>
+  <data name="E1516Handling" xml:space="preserve">
+    <value>Please start again or check the gripper status</value>
+  </data>
+  <data name="E1516Internal" xml:space="preserve">
+    <value>E1516Internal</value>
+  </data>
+  <data name="E1516Text" xml:space="preserve">
+    <value>Fault Loading/Unloading cycle</value>
+  </data>
+  <data name="E1516Title" xml:space="preserve">
+    <value>E1516</value>
+  </data>
+  <data name="E1517Description" xml:space="preserve">
+    <value>Handling of VSD not possible</value>
+  </data>
+  <data name="E1517Handling" xml:space="preserve">
+    <value>Please start again or check the gripper status.</value>
+  </data>
+  <data name="E1517Internal" xml:space="preserve">
+    <value>E1517Internal</value>
+  </data>
+  <data name="E1517Text" xml:space="preserve">
+    <value>Fault Loading/Unloading cycle</value>
+  </data>
+  <data name="E1517Title" xml:space="preserve">
+    <value>E1517</value>
+  </data>
+  <data name="E1599Description" xml:space="preserve">
+    <value>Program is with M32 stopped without exact NC-Diagnose</value>
+  </data>
+  <data name="E1599Handling" xml:space="preserve">
+    <value>Check NC-Program etc. restart.</value>
+  </data>
+  <data name="E1599Internal" xml:space="preserve">
+    <value>E1599Internal</value>
+  </data>
+  <data name="E1599Text" xml:space="preserve">
+    <value>Stop of NC-Program with M32</value>
+  </data>
+  <data name="E1599Title" xml:space="preserve">
+    <value>E1599</value>
+  </data>
+  <data name="E1600Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1600Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1600Internal" xml:space="preserve">
+    <value>E1600Internal</value>
+  </data>
+  <data name="E1600Text" xml:space="preserve">
+    <value>M-function M50 channel 5 "Unclamp raw part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1600Title" xml:space="preserve">
+    <value>E1600</value>
+  </data>
+  <data name="E1601Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1601Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1601Internal" xml:space="preserve">
+    <value>E1601Internal</value>
+  </data>
+  <data name="E1601Text" xml:space="preserve">
+    <value>M-function M50 channel 5 "Unclamp raw part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1601Title" xml:space="preserve">
+    <value>E1601</value>
+  </data>
+  <data name="E1602Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1602Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1602Internal" xml:space="preserve">
+    <value>E1602Internal</value>
+  </data>
+  <data name="E1602Text" xml:space="preserve">
+    <value>M-function M51 channel 5 "Clamp raw part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1602Title" xml:space="preserve">
+    <value>E1602</value>
+  </data>
+  <data name="E1603Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1603Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1603Internal" xml:space="preserve">
+    <value>E1603Internal</value>
+  </data>
+  <data name="E1603Text" xml:space="preserve">
+    <value>M-function M51 channel 5 "Clamp raw part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1603Title" xml:space="preserve">
+    <value>E1603</value>
+  </data>
+  <data name="E1604Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1604Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1604Internal" xml:space="preserve">
+    <value>E1604Internal</value>
+  </data>
+  <data name="E1604Text" xml:space="preserve">
+    <value>M-function M52 channel 5 "Unclamp finish part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1604Title" xml:space="preserve">
+    <value>E1604</value>
+  </data>
+  <data name="E1605Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1605Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1605Internal" xml:space="preserve">
+    <value>E1605Internal</value>
+  </data>
+  <data name="E1605Text" xml:space="preserve">
+    <value>M-function M52 channel 5 "Unclamp finish part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1605Title" xml:space="preserve">
+    <value>E1605</value>
+  </data>
+  <data name="E1606Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1606Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1606Internal" xml:space="preserve">
+    <value>E1606Internal</value>
+  </data>
+  <data name="E1606Text" xml:space="preserve">
+    <value>M-function M53 channel 5 "Clamp finish part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1606Title" xml:space="preserve">
+    <value>E1606</value>
+  </data>
+  <data name="E1607Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1607Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1607Internal" xml:space="preserve">
+    <value>E1607Internal</value>
+  </data>
+  <data name="E1607Text" xml:space="preserve">
+    <value>M-function M53 channel 5 "Clamp finish part gripper right" not acknowledged</value>
+  </data>
+  <data name="E1607Title" xml:space="preserve">
+    <value>E1607</value>
+  </data>
+  <data name="E1608Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1608Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1608Internal" xml:space="preserve">
+    <value>E1608Internal</value>
+  </data>
+  <data name="E1608Text" xml:space="preserve">
+    <value>M-function M60 channel 5 "Unclamp raw part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1608Title" xml:space="preserve">
+    <value>E1608</value>
+  </data>
+  <data name="E1609Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1609Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1609Internal" xml:space="preserve">
+    <value>E1609Internal</value>
+  </data>
+  <data name="E1609Text" xml:space="preserve">
+    <value>M-function M60 channel 5 "Unclamp raw part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1609Title" xml:space="preserve">
+    <value>E1609</value>
+  </data>
+  <data name="E1610Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1610Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1610Internal" xml:space="preserve">
+    <value>E1610Internal</value>
+  </data>
+  <data name="E1610Text" xml:space="preserve">
+    <value>M-function M61 channel 5 "Clamp raw part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1610Title" xml:space="preserve">
+    <value>E1610</value>
+  </data>
+  <data name="E1611Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1611Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1611Internal" xml:space="preserve">
+    <value>E1611Internal</value>
+  </data>
+  <data name="E1611Text" xml:space="preserve">
+    <value>M-function M61 channel 5 "Clamp raw part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1611Title" xml:space="preserve">
+    <value>E1611</value>
+  </data>
+  <data name="E1612Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1612Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1612Internal" xml:space="preserve">
+    <value>E1612Internal</value>
+  </data>
+  <data name="E1612Text" xml:space="preserve">
+    <value>M-function M62 channel 5 "Unclamp finish part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1612Title" xml:space="preserve">
+    <value>E1612</value>
+  </data>
+  <data name="E1613Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1613Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1613Internal" xml:space="preserve">
+    <value>E1613Internal</value>
+  </data>
+  <data name="E1613Text" xml:space="preserve">
+    <value>M-function M62 channel 5 "Unclamp finish part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1613Title" xml:space="preserve">
+    <value>E1613</value>
+  </data>
+  <data name="E1614Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1614Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1614Internal" xml:space="preserve">
+    <value>E1614Internal</value>
+  </data>
+  <data name="E1614Text" xml:space="preserve">
+    <value>M-function M63 channel 5 "Clamp finish part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1614Title" xml:space="preserve">
+    <value>E1614</value>
+  </data>
+  <data name="E1615Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1615Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1615Internal" xml:space="preserve">
+    <value>E1615Internal</value>
+  </data>
+  <data name="E1615Text" xml:space="preserve">
+    <value>M-function M63 channel 5 "Clamp finish part gripper gantry" not acknowledged</value>
+  </data>
+  <data name="E1615Title" xml:space="preserve">
+    <value>E1615</value>
+  </data>
+  <data name="E1616Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1616Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1616Internal" xml:space="preserve">
+    <value>E1616Internal</value>
+  </data>
+  <data name="E1616Text" xml:space="preserve">
+    <value>M-function M90 channel 5 "Unclamp raw part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1616Title" xml:space="preserve">
+    <value>E1616</value>
+  </data>
+  <data name="E1617Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1617Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1617Internal" xml:space="preserve">
+    <value>E1617Internal</value>
+  </data>
+  <data name="E1617Text" xml:space="preserve">
+    <value>M-function M90 channel 5 "Unclamp raw part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1617Title" xml:space="preserve">
+    <value>E1617</value>
+  </data>
+  <data name="E1618Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1618Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1618Internal" xml:space="preserve">
+    <value>E1618Internal</value>
+  </data>
+  <data name="E1618Text" xml:space="preserve">
+    <value>M-function M91 channel 5 "Clamp raw part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1618Title" xml:space="preserve">
+    <value>E1618</value>
+  </data>
+  <data name="E1619Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1619Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1619Internal" xml:space="preserve">
+    <value>E1619Internal</value>
+  </data>
+  <data name="E1619Text" xml:space="preserve">
+    <value>M-function M91 channel 5 "Clamp raw part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1619Title" xml:space="preserve">
+    <value>E1619</value>
+  </data>
+  <data name="E1620Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1620Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1620Internal" xml:space="preserve">
+    <value>E1620Internal</value>
+  </data>
+  <data name="E1620Text" xml:space="preserve">
+    <value>M-function M92 channel 5 "Unclamp finish part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1620Title" xml:space="preserve">
+    <value>E1620</value>
+  </data>
+  <data name="E1621Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1621Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1621Internal" xml:space="preserve">
+    <value>E1621Internal</value>
+  </data>
+  <data name="E1621Text" xml:space="preserve">
+    <value>M-function M92 channel 5 "Unclamp finish part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1621Title" xml:space="preserve">
+    <value>E1621</value>
+  </data>
+  <data name="E1622Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E1622Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E1622Internal" xml:space="preserve">
+    <value>E1622Internal</value>
+  </data>
+  <data name="E1622Text" xml:space="preserve">
+    <value>M-function M93 channel 5 "Clamp finish part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1622Title" xml:space="preserve">
+    <value>E1622</value>
+  </data>
+  <data name="E1623Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E1623Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1623Internal" xml:space="preserve">
+    <value>E1623Internal</value>
+  </data>
+  <data name="E1623Text" xml:space="preserve">
+    <value>M-function M93 channel 5 "Clamp finish part gripper left" not acknowledged</value>
+  </data>
+  <data name="E1623Title" xml:space="preserve">
+    <value>E1623</value>
+  </data>
+  <data name="E1624Description" xml:space="preserve">
+    <value>No acknowledgment input</value>
+  </data>
+  <data name="E1624Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1624Internal" xml:space="preserve">
+    <value>E1624Internal</value>
+  </data>
+  <data name="E1624Text" xml:space="preserve">
+    <value>M-function M70 channel 5 "Unclamp gripper raw part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1624Title" xml:space="preserve">
+    <value>E1624</value>
+  </data>
+  <data name="E1625Description" xml:space="preserve">
+    <value>No acknowledgment output</value>
+  </data>
+  <data name="E1625Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1625Internal" xml:space="preserve">
+    <value>E1625Internal</value>
+  </data>
+  <data name="E1625Text" xml:space="preserve">
+    <value>M-function M70 channel 5 "Unclamp gripper raw part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1625Title" xml:space="preserve">
+    <value>E1625</value>
+  </data>
+  <data name="E1626Description" xml:space="preserve">
+    <value>No acknowledgment input</value>
+  </data>
+  <data name="E1626Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check</value>
+  </data>
+  <data name="E1626Internal" xml:space="preserve">
+    <value>E1626Internal</value>
+  </data>
+  <data name="E1626Text" xml:space="preserve">
+    <value>M-function M71 channel 5 "Clamp gripper raw part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1626Title" xml:space="preserve">
+    <value>E1626</value>
+  </data>
+  <data name="E1627Description" xml:space="preserve">
+    <value>No acknowledgment output</value>
+  </data>
+  <data name="E1627Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1627Internal" xml:space="preserve">
+    <value>E1627Internal</value>
+  </data>
+  <data name="E1627Text" xml:space="preserve">
+    <value>M-function M71 channel 5 "Clamp gripper raw part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1627Title" xml:space="preserve">
+    <value>E1627</value>
+  </data>
+  <data name="E1628Description" xml:space="preserve">
+    <value>No acknowledgment input</value>
+  </data>
+  <data name="E1628Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1628Internal" xml:space="preserve">
+    <value>E1628Internal</value>
+  </data>
+  <data name="E1628Text" xml:space="preserve">
+    <value>M-function M72 channel 5 "Unclamp gripper finished part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1628Title" xml:space="preserve">
+    <value>E1628</value>
+  </data>
+  <data name="E1629Description" xml:space="preserve">
+    <value>No acknowledgment input</value>
+  </data>
+  <data name="E1629Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1629Internal" xml:space="preserve">
+    <value>E1229Internal</value>
+  </data>
+  <data name="E1629Text" xml:space="preserve">
+    <value>M-function M72 channel 5 "Unclamp gripper finished part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1629Title" xml:space="preserve">
+    <value>E1629</value>
+  </data>
+  <data name="E1630Description" xml:space="preserve">
+    <value>No acknowledgment output</value>
+  </data>
+  <data name="E1630Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1630Internal" xml:space="preserve">
+    <value>E1630Internal</value>
+  </data>
+  <data name="E1630Text" xml:space="preserve">
+    <value>M-function M73 channel 5 "Clamp gripper finished part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1630Title" xml:space="preserve">
+    <value>E1630</value>
+  </data>
+  <data name="E1631Description" xml:space="preserve">
+    <value>No acknowledgment input</value>
+  </data>
+  <data name="E1631Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1631Internal" xml:space="preserve">
+    <value>E1631Internal</value>
+  </data>
+  <data name="E1631Text" xml:space="preserve">
+    <value>M-function M73 channel 5 "Clamp gripper finished part 2 gantry" not acknowledged</value>
+  </data>
+  <data name="E1631Title" xml:space="preserve">
+    <value>E1631</value>
+  </data>
+  <data name="E1632Description" xml:space="preserve">
+    <value>Acknowledgment input missing</value>
+  </data>
+  <data name="E1632Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1632Internal" xml:space="preserve">
+    <value>E1632Internal</value>
+  </data>
+  <data name="E1632Text" xml:space="preserve">
+    <value>M-function M80 channel 5 "Unclamp gear dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1632Title" xml:space="preserve">
+    <value>E1632</value>
+  </data>
+  <data name="E1633Description" xml:space="preserve">
+    <value>Acknowledgment input missing</value>
+  </data>
+  <data name="E1633Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1633Internal" xml:space="preserve">
+    <value>E1633Internal</value>
+  </data>
+  <data name="E1633Text" xml:space="preserve">
+    <value>M-function M80 channel 5 "Unclamp gear dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1633Title" xml:space="preserve">
+    <value>E1633</value>
+  </data>
+  <data name="E1634Description" xml:space="preserve">
+    <value>Acknowledgment output missing</value>
+  </data>
+  <data name="E1634Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1634Internal" xml:space="preserve">
+    <value>E1634Internal</value>
+  </data>
+  <data name="E1634Text" xml:space="preserve">
+    <value>M-function M81 channel 5 "Clamp gear dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1634Title" xml:space="preserve">
+    <value>E1634</value>
+  </data>
+  <data name="E1635Description" xml:space="preserve">
+    <value>Acknowledgment input missing</value>
+  </data>
+  <data name="E1635Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1635Internal" xml:space="preserve">
+    <value>E1635Internal</value>
+  </data>
+  <data name="E1635Text" xml:space="preserve">
+    <value>M-function M81 channel 5 "Clamp gear dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1635Title" xml:space="preserve">
+    <value>E1635</value>
+  </data>
+  <data name="E1636Description" xml:space="preserve">
+    <value>Acknowledgment input missing</value>
+  </data>
+  <data name="E1636Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1636Internal" xml:space="preserve">
+    <value>E1336Internal</value>
+  </data>
+  <data name="E1636Text" xml:space="preserve">
+    <value>M-function M82 channel 5 "Unclamp head dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1636Title" xml:space="preserve">
+    <value>E1636</value>
+  </data>
+  <data name="E1637Description" xml:space="preserve">
+    <value>Acknowledgment input missing</value>
+  </data>
+  <data name="E1637Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1637Internal" xml:space="preserve">
+    <value>E1637Internal</value>
+  </data>
+  <data name="E1637Text" xml:space="preserve">
+    <value>M-function M82 channel 5 "Unclamp head dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1637Title" xml:space="preserve">
+    <value>E1637</value>
+  </data>
+  <data name="E1638Description" xml:space="preserve">
+    <value>Acknowledgment output missing</value>
+  </data>
+  <data name="E1638Handling" xml:space="preserve">
+    <value>Analog values not OK. Please check.</value>
+  </data>
+  <data name="E1638Internal" xml:space="preserve">
+    <value>E1638Internal</value>
+  </data>
+  <data name="E1638Text" xml:space="preserve">
+    <value>M-function M83 channel 5 "Clamp head dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1638Title" xml:space="preserve">
+    <value>E1638</value>
+  </data>
+  <data name="E1639Description" xml:space="preserve">
+    <value>Acknowledgment input missing</value>
+  </data>
+  <data name="E1639Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E1639Internal" xml:space="preserve">
+    <value>E1639Internal</value>
+  </data>
+  <data name="E1639Text" xml:space="preserve">
+    <value>M-function M83 channel 5 "Clamp head dresser gripper left" not acknowledged</value>
+  </data>
+  <data name="E1639Title" xml:space="preserve">
+    <value>E1639</value>
   </data>
 </root>
