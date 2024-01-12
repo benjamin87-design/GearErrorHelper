@@ -475,6 +475,411 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1101Description {
+            get {
+                return ResourceManager.GetString("E1101Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1101Handling {
+            get {
+                return ResourceManager.GetString("E1101Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1101Internal ähnelt.
+        /// </summary>
+        internal static string E1101Internal {
+            get {
+                return ResourceManager.GetString("E1101Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1101Text {
+            get {
+                return ResourceManager.GetString("E1101Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1101 ähnelt.
+        /// </summary>
+        internal static string E1101Title {
+            get {
+                return ResourceManager.GetString("E1101Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1102Description {
+            get {
+                return ResourceManager.GetString("E1102Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1102Handling {
+            get {
+                return ResourceManager.GetString("E1102Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1102Internal ähnelt.
+        /// </summary>
+        internal static string E1102Internal {
+            get {
+                return ResourceManager.GetString("E1102Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1102Text {
+            get {
+                return ResourceManager.GetString("E1102Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1102 ähnelt.
+        /// </summary>
+        internal static string E1102Title {
+            get {
+                return ResourceManager.GetString("E1102Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1103Description {
+            get {
+                return ResourceManager.GetString("E1103Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1103Handling {
+            get {
+                return ResourceManager.GetString("E1103Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1103Internal ähnelt.
+        /// </summary>
+        internal static string E1103Internal {
+            get {
+                return ResourceManager.GetString("E1103Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1103Text {
+            get {
+                return ResourceManager.GetString("E1103Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1103 ähnelt.
+        /// </summary>
+        internal static string E1103Title {
+            get {
+                return ResourceManager.GetString("E1103Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1104Description {
+            get {
+                return ResourceManager.GetString("E1104Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1104Handling {
+            get {
+                return ResourceManager.GetString("E1104Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1104Internal ähnelt.
+        /// </summary>
+        internal static string E1104Internal {
+            get {
+                return ResourceManager.GetString("E1104Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1104Text {
+            get {
+                return ResourceManager.GetString("E1104Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1104 ähnelt.
+        /// </summary>
+        internal static string E1104TItle {
+            get {
+                return ResourceManager.GetString("E1104TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1105Description {
+            get {
+                return ResourceManager.GetString("E1105Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1105Handling {
+            get {
+                return ResourceManager.GetString("E1105Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1105Internal ähnelt.
+        /// </summary>
+        internal static string E1105Internal {
+            get {
+                return ResourceManager.GetString("E1105Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1105Text {
+            get {
+                return ResourceManager.GetString("E1105Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1105 ähnelt.
+        /// </summary>
+        internal static string E1105Title {
+            get {
+                return ResourceManager.GetString("E1105Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1106Description {
+            get {
+                return ResourceManager.GetString("E1106Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1106Handling {
+            get {
+                return ResourceManager.GetString("E1106Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1106Internal ähnelt.
+        /// </summary>
+        internal static string E1106Internal {
+            get {
+                return ResourceManager.GetString("E1106Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1106Text {
+            get {
+                return ResourceManager.GetString("E1106Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1106 ähnelt.
+        /// </summary>
+        internal static string E1106Title {
+            get {
+                return ResourceManager.GetString("E1106Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1107Description {
+            get {
+                return ResourceManager.GetString("E1107Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1107Handling {
+            get {
+                return ResourceManager.GetString("E1107Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1107Internal ähnelt.
+        /// </summary>
+        internal static string E1107Internal {
+            get {
+                return ResourceManager.GetString("E1107Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1107Text {
+            get {
+                return ResourceManager.GetString("E1107Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1107 ähnelt.
+        /// </summary>
+        internal static string E1107Title {
+            get {
+                return ResourceManager.GetString("E1107Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1108Description {
+            get {
+                return ResourceManager.GetString("E1108Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1108Handling {
+            get {
+                return ResourceManager.GetString("E1108Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1108Internal ähnelt.
+        /// </summary>
+        internal static string E1108Internal {
+            get {
+                return ResourceManager.GetString("E1108Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1108Text {
+            get {
+                return ResourceManager.GetString("E1108Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1108 ähnelt.
+        /// </summary>
+        internal static string E1108Title {
+            get {
+                return ResourceManager.GetString("E1108Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1109Description {
+            get {
+                return ResourceManager.GetString("E1109Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1109Handling {
+            get {
+                return ResourceManager.GetString("E1109Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1109Internal ähnelt.
+        /// </summary>
+        internal static string E1109Internal {
+            get {
+                return ResourceManager.GetString("E1109Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1109Text {
+            get {
+                return ResourceManager.GetString("E1109Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1109 ähnelt.
+        /// </summary>
+        internal static string E1109Title {
+            get {
+                return ResourceManager.GetString("E1109Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E110Description {
@@ -516,6 +921,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E110Title {
             get {
                 return ResourceManager.GetString("E110Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1110Description {
+            get {
+                return ResourceManager.GetString("E1110Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1110Handling {
+            get {
+                return ResourceManager.GetString("E1110Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1110Internal ähnelt.
+        /// </summary>
+        internal static string E1110Internal {
+            get {
+                return ResourceManager.GetString("E1110Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1110Text {
+            get {
+                return ResourceManager.GetString("E1110Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1110 ähnelt.
+        /// </summary>
+        internal static string E1110Title {
+            get {
+                return ResourceManager.GetString("E1110Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1111Description {
+            get {
+                return ResourceManager.GetString("E1111Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1111Handling {
+            get {
+                return ResourceManager.GetString("E1111Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1111Internal ähnelt.
+        /// </summary>
+        internal static string E1111Internal {
+            get {
+                return ResourceManager.GetString("E1111Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1111Text {
+            get {
+                return ResourceManager.GetString("E1111Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1111 ähnelt.
+        /// </summary>
+        internal static string E1111Title {
+            get {
+                return ResourceManager.GetString("E1111Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1112Description {
+            get {
+                return ResourceManager.GetString("E1112Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1112Handling {
+            get {
+                return ResourceManager.GetString("E1112Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1112Internal ähnelt.
+        /// </summary>
+        internal static string E1112Internal {
+            get {
+                return ResourceManager.GetString("E1112Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1112Text {
+            get {
+                return ResourceManager.GetString("E1112Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1112 ähnelt.
+        /// </summary>
+        internal static string E1112Title {
+            get {
+                return ResourceManager.GetString("E1112Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1113Description {
+            get {
+                return ResourceManager.GetString("E1113Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1113Handling {
+            get {
+                return ResourceManager.GetString("E1113Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1113Internal ähnelt.
+        /// </summary>
+        internal static string E1113Internal {
+            get {
+                return ResourceManager.GetString("E1113Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1113Text {
+            get {
+                return ResourceManager.GetString("E1113Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1113 ähnelt.
+        /// </summary>
+        internal static string E1113Title {
+            get {
+                return ResourceManager.GetString("E1113Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1114Description {
+            get {
+                return ResourceManager.GetString("E1114Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1114Handling {
+            get {
+                return ResourceManager.GetString("E1114Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1114Internal ähnelt.
+        /// </summary>
+        internal static string E1114Internal {
+            get {
+                return ResourceManager.GetString("E1114Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1114Text {
+            get {
+                return ResourceManager.GetString("E1114Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1114 ähnelt.
+        /// </summary>
+        internal static string E1114TItle {
+            get {
+                return ResourceManager.GetString("E1114TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1115Description {
+            get {
+                return ResourceManager.GetString("E1115Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1115Handling {
+            get {
+                return ResourceManager.GetString("E1115Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1115Internal ähnelt.
+        /// </summary>
+        internal static string E1115Internal {
+            get {
+                return ResourceManager.GetString("E1115Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1115Text {
+            get {
+                return ResourceManager.GetString("E1115Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1115 ähnelt.
+        /// </summary>
+        internal static string E1115Title {
+            get {
+                return ResourceManager.GetString("E1115Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1116Description {
+            get {
+                return ResourceManager.GetString("E1116Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1116Handling {
+            get {
+                return ResourceManager.GetString("E1116Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1116Internal ähnelt.
+        /// </summary>
+        internal static string E1116Internal {
+            get {
+                return ResourceManager.GetString("E1116Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1116Text {
+            get {
+                return ResourceManager.GetString("E1116Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1116 ähnelt.
+        /// </summary>
+        internal static string E1116Title {
+            get {
+                return ResourceManager.GetString("E1116Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1117Description {
+            get {
+                return ResourceManager.GetString("E1117Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1117Handling {
+            get {
+                return ResourceManager.GetString("E1117Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1117Internal ähnelt.
+        /// </summary>
+        internal static string E1117Internal {
+            get {
+                return ResourceManager.GetString("E1117Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1117Text {
+            get {
+                return ResourceManager.GetString("E1117Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1117 ähnelt.
+        /// </summary>
+        internal static string E1117Title {
+            get {
+                return ResourceManager.GetString("E1117Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1118Description {
+            get {
+                return ResourceManager.GetString("E1118Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1118Handling {
+            get {
+                return ResourceManager.GetString("E1118Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1118Internal ähnelt.
+        /// </summary>
+        internal static string E1118Internal {
+            get {
+                return ResourceManager.GetString("E1118Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1118Text {
+            get {
+                return ResourceManager.GetString("E1118Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1118 ähnelt.
+        /// </summary>
+        internal static string E1118Title {
+            get {
+                return ResourceManager.GetString("E1118Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1119Description {
+            get {
+                return ResourceManager.GetString("E1119Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1119Handling {
+            get {
+                return ResourceManager.GetString("E1119Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1119Internal ähnelt.
+        /// </summary>
+        internal static string E1119Internal {
+            get {
+                return ResourceManager.GetString("E1119Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1119Text {
+            get {
+                return ResourceManager.GetString("E1119Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1119 ähnelt.
+        /// </summary>
+        internal static string E1119Title {
+            get {
+                return ResourceManager.GetString("E1119Title", resourceCulture);
             }
         }
         
@@ -565,6 +1420,411 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1120Description {
+            get {
+                return ResourceManager.GetString("E1120Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1120Handling {
+            get {
+                return ResourceManager.GetString("E1120Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1120Internal ähnelt.
+        /// </summary>
+        internal static string E1120Internal {
+            get {
+                return ResourceManager.GetString("E1120Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1120Text {
+            get {
+                return ResourceManager.GetString("E1120Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1120 ähnelt.
+        /// </summary>
+        internal static string E1120Title {
+            get {
+                return ResourceManager.GetString("E1120Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1121Description {
+            get {
+                return ResourceManager.GetString("E1121Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1121Handling {
+            get {
+                return ResourceManager.GetString("E1121Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1121Internal ähnelt.
+        /// </summary>
+        internal static string E1121Internal {
+            get {
+                return ResourceManager.GetString("E1121Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1121Text {
+            get {
+                return ResourceManager.GetString("E1121Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1121 ähnelt.
+        /// </summary>
+        internal static string E1121Title2 {
+            get {
+                return ResourceManager.GetString("E1121Title2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1122Description {
+            get {
+                return ResourceManager.GetString("E1122Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1122Handling {
+            get {
+                return ResourceManager.GetString("E1122Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1122Internal ähnelt.
+        /// </summary>
+        internal static string E1122Internal {
+            get {
+                return ResourceManager.GetString("E1122Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1122Text {
+            get {
+                return ResourceManager.GetString("E1122Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1122 ähnelt.
+        /// </summary>
+        internal static string E1122Title {
+            get {
+                return ResourceManager.GetString("E1122Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1123Description {
+            get {
+                return ResourceManager.GetString("E1123Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1123Handling {
+            get {
+                return ResourceManager.GetString("E1123Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1123Internal ähnelt.
+        /// </summary>
+        internal static string E1123Internal {
+            get {
+                return ResourceManager.GetString("E1123Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1123Text {
+            get {
+                return ResourceManager.GetString("E1123Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1123 ähnelt.
+        /// </summary>
+        internal static string E1123Title {
+            get {
+                return ResourceManager.GetString("E1123Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1124Description {
+            get {
+                return ResourceManager.GetString("E1124Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1124Handling {
+            get {
+                return ResourceManager.GetString("E1124Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1124Internal ähnelt.
+        /// </summary>
+        internal static string E1124Internal {
+            get {
+                return ResourceManager.GetString("E1124Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1124Text {
+            get {
+                return ResourceManager.GetString("E1124Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1124 ähnelt.
+        /// </summary>
+        internal static string E1124TItle {
+            get {
+                return ResourceManager.GetString("E1124TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1125Description {
+            get {
+                return ResourceManager.GetString("E1125Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1125Handling {
+            get {
+                return ResourceManager.GetString("E1125Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1125Internal ähnelt.
+        /// </summary>
+        internal static string E1125Internal {
+            get {
+                return ResourceManager.GetString("E1125Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1125Text {
+            get {
+                return ResourceManager.GetString("E1125Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1125 ähnelt.
+        /// </summary>
+        internal static string E1125Title {
+            get {
+                return ResourceManager.GetString("E1125Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1126Description {
+            get {
+                return ResourceManager.GetString("E1126Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1126Handling {
+            get {
+                return ResourceManager.GetString("E1126Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1126Internal ähnelt.
+        /// </summary>
+        internal static string E1126Internal {
+            get {
+                return ResourceManager.GetString("E1126Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1126Text {
+            get {
+                return ResourceManager.GetString("E1126Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1126 ähnelt.
+        /// </summary>
+        internal static string E1126Title {
+            get {
+                return ResourceManager.GetString("E1126Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1127Description {
+            get {
+                return ResourceManager.GetString("E1127Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1127Handling {
+            get {
+                return ResourceManager.GetString("E1127Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1127Internal ähnelt.
+        /// </summary>
+        internal static string E1127Internal {
+            get {
+                return ResourceManager.GetString("E1127Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1127Text {
+            get {
+                return ResourceManager.GetString("E1127Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1127 ähnelt.
+        /// </summary>
+        internal static string E1127Title {
+            get {
+                return ResourceManager.GetString("E1127Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1128Description {
+            get {
+                return ResourceManager.GetString("E1128Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1128Handling {
+            get {
+                return ResourceManager.GetString("E1128Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1128Internal ähnelt.
+        /// </summary>
+        internal static string E1128Internal {
+            get {
+                return ResourceManager.GetString("E1128Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1128Text {
+            get {
+                return ResourceManager.GetString("E1128Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1128 ähnelt.
+        /// </summary>
+        internal static string E1128Title {
+            get {
+                return ResourceManager.GetString("E1128Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E112Description {
@@ -606,6 +1866,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E112Title {
             get {
                 return ResourceManager.GetString("E112Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1130Description {
+            get {
+                return ResourceManager.GetString("E1130Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1130Handling {
+            get {
+                return ResourceManager.GetString("E1130Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1130Internal ähnelt.
+        /// </summary>
+        internal static string E1130Internal {
+            get {
+                return ResourceManager.GetString("E1130Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1130Text {
+            get {
+                return ResourceManager.GetString("E1130Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1130 ähnelt.
+        /// </summary>
+        internal static string E1130Title {
+            get {
+                return ResourceManager.GetString("E1130Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1131Description {
+            get {
+                return ResourceManager.GetString("E1131Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1131Handling {
+            get {
+                return ResourceManager.GetString("E1131Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1131Internal ähnelt.
+        /// </summary>
+        internal static string E1131Internal {
+            get {
+                return ResourceManager.GetString("E1131Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1131Text {
+            get {
+                return ResourceManager.GetString("E1131Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1131 ähnelt.
+        /// </summary>
+        internal static string E1131Title {
+            get {
+                return ResourceManager.GetString("E1131Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1132Description {
+            get {
+                return ResourceManager.GetString("E1132Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1132Handling {
+            get {
+                return ResourceManager.GetString("E1132Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1132Internal ähnelt.
+        /// </summary>
+        internal static string E1132Internal {
+            get {
+                return ResourceManager.GetString("E1132Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1132Text {
+            get {
+                return ResourceManager.GetString("E1132Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1132 ähnelt.
+        /// </summary>
+        internal static string E1132Title {
+            get {
+                return ResourceManager.GetString("E1132Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1133Description {
+            get {
+                return ResourceManager.GetString("E1133Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1133Handling {
+            get {
+                return ResourceManager.GetString("E1133Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1133Internal ähnelt.
+        /// </summary>
+        internal static string E1133Internal {
+            get {
+                return ResourceManager.GetString("E1133Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1133Text {
+            get {
+                return ResourceManager.GetString("E1133Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1133 ähnelt.
+        /// </summary>
+        internal static string E1133Title {
+            get {
+                return ResourceManager.GetString("E1133Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1134Description {
+            get {
+                return ResourceManager.GetString("E1134Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1134Handling {
+            get {
+                return ResourceManager.GetString("E1134Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1134Internal ähnelt.
+        /// </summary>
+        internal static string E1134Internal {
+            get {
+                return ResourceManager.GetString("E1134Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1134Text {
+            get {
+                return ResourceManager.GetString("E1134Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1134 ähnelt.
+        /// </summary>
+        internal static string E1134TItle {
+            get {
+                return ResourceManager.GetString("E1134TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1135Description {
+            get {
+                return ResourceManager.GetString("E1135Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1135Handling {
+            get {
+                return ResourceManager.GetString("E1135Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1135Internal ähnelt.
+        /// </summary>
+        internal static string E1135Internal {
+            get {
+                return ResourceManager.GetString("E1135Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1135Text {
+            get {
+                return ResourceManager.GetString("E1135Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1135 ähnelt.
+        /// </summary>
+        internal static string E1135Title {
+            get {
+                return ResourceManager.GetString("E1135Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1136Description {
+            get {
+                return ResourceManager.GetString("E1136Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1136Handling {
+            get {
+                return ResourceManager.GetString("E1136Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1136Internal ähnelt.
+        /// </summary>
+        internal static string E1136Internal {
+            get {
+                return ResourceManager.GetString("E1136Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1136Text {
+            get {
+                return ResourceManager.GetString("E1136Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1136 ähnelt.
+        /// </summary>
+        internal static string E1136Title {
+            get {
+                return ResourceManager.GetString("E1136Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1137Description {
+            get {
+                return ResourceManager.GetString("E1137Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1137Handling {
+            get {
+                return ResourceManager.GetString("E1137Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1137Internal ähnelt.
+        /// </summary>
+        internal static string E1137Internal {
+            get {
+                return ResourceManager.GetString("E1137Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1137Text {
+            get {
+                return ResourceManager.GetString("E1137Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1137 ähnelt.
+        /// </summary>
+        internal static string E1137Title {
+            get {
+                return ResourceManager.GetString("E1137Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1138Description {
+            get {
+                return ResourceManager.GetString("E1138Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1138Handling {
+            get {
+                return ResourceManager.GetString("E1138Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1138Internal ähnelt.
+        /// </summary>
+        internal static string E1138Internal {
+            get {
+                return ResourceManager.GetString("E1138Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1138Text {
+            get {
+                return ResourceManager.GetString("E1138Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1138 ähnelt.
+        /// </summary>
+        internal static string E1138Title {
+            get {
+                return ResourceManager.GetString("E1138Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1139Description {
+            get {
+                return ResourceManager.GetString("E1139Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1139Handling {
+            get {
+                return ResourceManager.GetString("E1139Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1139Internal ähnelt.
+        /// </summary>
+        internal static string E1139Internal {
+            get {
+                return ResourceManager.GetString("E1139Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1139Text {
+            get {
+                return ResourceManager.GetString("E1139Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1139 ähnelt.
+        /// </summary>
+        internal static string E1139Title {
+            get {
+                return ResourceManager.GetString("E1139Title", resourceCulture);
             }
         }
         
@@ -655,6 +2365,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1140Description {
+            get {
+                return ResourceManager.GetString("E1140Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1140Handling {
+            get {
+                return ResourceManager.GetString("E1140Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1140Internal ähnelt.
+        /// </summary>
+        internal static string E1140Internal {
+            get {
+                return ResourceManager.GetString("E1140Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1140Text {
+            get {
+                return ResourceManager.GetString("E1140Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1140 ähnelt.
+        /// </summary>
+        internal static string E1140Title {
+            get {
+                return ResourceManager.GetString("E1140Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1141Description {
+            get {
+                return ResourceManager.GetString("E1141Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1141Handling {
+            get {
+                return ResourceManager.GetString("E1141Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1141Internal ähnelt.
+        /// </summary>
+        internal static string E1141Internal {
+            get {
+                return ResourceManager.GetString("E1141Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1141Text {
+            get {
+                return ResourceManager.GetString("E1141Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1141 ähnelt.
+        /// </summary>
+        internal static string E1141Title {
+            get {
+                return ResourceManager.GetString("E1141Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1142Description {
+            get {
+                return ResourceManager.GetString("E1142Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1142Handling {
+            get {
+                return ResourceManager.GetString("E1142Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1142Internal ähnelt.
+        /// </summary>
+        internal static string E1142Internal {
+            get {
+                return ResourceManager.GetString("E1142Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1142Text {
+            get {
+                return ResourceManager.GetString("E1142Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1142 ähnelt.
+        /// </summary>
+        internal static string E1142Title {
+            get {
+                return ResourceManager.GetString("E1142Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1143Description {
+            get {
+                return ResourceManager.GetString("E1143Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1143Handling {
+            get {
+                return ResourceManager.GetString("E1143Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1143Internal ähnelt.
+        /// </summary>
+        internal static string E1143Internal {
+            get {
+                return ResourceManager.GetString("E1143Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1143Text {
+            get {
+                return ResourceManager.GetString("E1143Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1143 ähnelt.
+        /// </summary>
+        internal static string E1143Title {
+            get {
+                return ResourceManager.GetString("E1143Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1144Description {
+            get {
+                return ResourceManager.GetString("E1144Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1144Handling {
+            get {
+                return ResourceManager.GetString("E1144Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1144Internal ähnelt.
+        /// </summary>
+        internal static string E1144Internal {
+            get {
+                return ResourceManager.GetString("E1144Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1144Text {
+            get {
+                return ResourceManager.GetString("E1144Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1144 ähnelt.
+        /// </summary>
+        internal static string E1144TItle {
+            get {
+                return ResourceManager.GetString("E1144TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1145Description {
+            get {
+                return ResourceManager.GetString("E1145Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1145Handling {
+            get {
+                return ResourceManager.GetString("E1145Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1145Internal ähnelt.
+        /// </summary>
+        internal static string E1145Internal {
+            get {
+                return ResourceManager.GetString("E1145Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1145Text {
+            get {
+                return ResourceManager.GetString("E1145Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1145 ähnelt.
+        /// </summary>
+        internal static string E1145Title {
+            get {
+                return ResourceManager.GetString("E1145Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1146Description {
+            get {
+                return ResourceManager.GetString("E1146Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1146Handling {
+            get {
+                return ResourceManager.GetString("E1146Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1146Internal ähnelt.
+        /// </summary>
+        internal static string E1146Internal {
+            get {
+                return ResourceManager.GetString("E1146Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1146Text {
+            get {
+                return ResourceManager.GetString("E1146Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1146 ähnelt.
+        /// </summary>
+        internal static string E1146Title {
+            get {
+                return ResourceManager.GetString("E1146Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1147Description {
+            get {
+                return ResourceManager.GetString("E1147Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1147Handling {
+            get {
+                return ResourceManager.GetString("E1147Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1147Internal ähnelt.
+        /// </summary>
+        internal static string E1147Internal {
+            get {
+                return ResourceManager.GetString("E1147Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1147Text {
+            get {
+                return ResourceManager.GetString("E1147Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1147 ähnelt.
+        /// </summary>
+        internal static string E1147Title {
+            get {
+                return ResourceManager.GetString("E1147Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1148Description {
+            get {
+                return ResourceManager.GetString("E1148Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1148Handling {
+            get {
+                return ResourceManager.GetString("E1148Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1148Internal ähnelt.
+        /// </summary>
+        internal static string E1148Internal {
+            get {
+                return ResourceManager.GetString("E1148Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1148Text {
+            get {
+                return ResourceManager.GetString("E1148Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1148 ähnelt.
+        /// </summary>
+        internal static string E1148Title {
+            get {
+                return ResourceManager.GetString("E1148Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1149Description {
+            get {
+                return ResourceManager.GetString("E1149Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1149Handling {
+            get {
+                return ResourceManager.GetString("E1149Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1149Internal ähnelt.
+        /// </summary>
+        internal static string E1149Internal {
+            get {
+                return ResourceManager.GetString("E1149Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1149Text {
+            get {
+                return ResourceManager.GetString("E1149Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1149 ähnelt.
+        /// </summary>
+        internal static string E1149Title {
+            get {
+                return ResourceManager.GetString("E1149Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 3.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E114Description {
@@ -700,6 +2860,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1150Description {
+            get {
+                return ResourceManager.GetString("E1150Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1150Handling {
+            get {
+                return ResourceManager.GetString("E1150Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1150Internal ähnelt.
+        /// </summary>
+        internal static string E1150Internal {
+            get {
+                return ResourceManager.GetString("E1150Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1150Text {
+            get {
+                return ResourceManager.GetString("E1150Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1150 ähnelt.
+        /// </summary>
+        internal static string E1150Title {
+            get {
+                return ResourceManager.GetString("E1150Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1151Description {
+            get {
+                return ResourceManager.GetString("E1151Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1151Handling {
+            get {
+                return ResourceManager.GetString("E1151Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1151Internal ähnelt.
+        /// </summary>
+        internal static string E1151Internal {
+            get {
+                return ResourceManager.GetString("E1151Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1151Text {
+            get {
+                return ResourceManager.GetString("E1151Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1151 ähnelt.
+        /// </summary>
+        internal static string E1151Title {
+            get {
+                return ResourceManager.GetString("E1151Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1152Description {
+            get {
+                return ResourceManager.GetString("E1152Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1152Handling {
+            get {
+                return ResourceManager.GetString("E1152Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1152Internal ähnelt.
+        /// </summary>
+        internal static string E1152Internal {
+            get {
+                return ResourceManager.GetString("E1152Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1152Text {
+            get {
+                return ResourceManager.GetString("E1152Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1152 ähnelt.
+        /// </summary>
+        internal static string E1152Title {
+            get {
+                return ResourceManager.GetString("E1152Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1153Description {
+            get {
+                return ResourceManager.GetString("E1153Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1153Handling {
+            get {
+                return ResourceManager.GetString("E1153Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1153Internal ähnelt.
+        /// </summary>
+        internal static string E1153Internal {
+            get {
+                return ResourceManager.GetString("E1153Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1153Text {
+            get {
+                return ResourceManager.GetString("E1153Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1153 ähnelt.
+        /// </summary>
+        internal static string E1153Title {
+            get {
+                return ResourceManager.GetString("E1153Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1154Description {
+            get {
+                return ResourceManager.GetString("E1154Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1154Handling {
+            get {
+                return ResourceManager.GetString("E1154Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1154Internal ähnelt.
+        /// </summary>
+        internal static string E1154Internal {
+            get {
+                return ResourceManager.GetString("E1154Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1154Text {
+            get {
+                return ResourceManager.GetString("E1154Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1154 ähnelt.
+        /// </summary>
+        internal static string E1154TItle {
+            get {
+                return ResourceManager.GetString("E1154TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1155Description {
+            get {
+                return ResourceManager.GetString("E1155Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1155Handling {
+            get {
+                return ResourceManager.GetString("E1155Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1155Internal ähnelt.
+        /// </summary>
+        internal static string E1155Internal {
+            get {
+                return ResourceManager.GetString("E1155Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1155Text {
+            get {
+                return ResourceManager.GetString("E1155Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1155 ähnelt.
+        /// </summary>
+        internal static string E1155Title {
+            get {
+                return ResourceManager.GetString("E1155Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1156Description {
+            get {
+                return ResourceManager.GetString("E1156Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1156Handling {
+            get {
+                return ResourceManager.GetString("E1156Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1156Internal ähnelt.
+        /// </summary>
+        internal static string E1156Internal {
+            get {
+                return ResourceManager.GetString("E1156Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1156Text {
+            get {
+                return ResourceManager.GetString("E1156Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1156 ähnelt.
+        /// </summary>
+        internal static string E1156Title {
+            get {
+                return ResourceManager.GetString("E1156Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1157Description {
+            get {
+                return ResourceManager.GetString("E1157Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1157Handling {
+            get {
+                return ResourceManager.GetString("E1157Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1157Internal ähnelt.
+        /// </summary>
+        internal static string E1157Internal {
+            get {
+                return ResourceManager.GetString("E1157Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1157Text {
+            get {
+                return ResourceManager.GetString("E1157Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1157 ähnelt.
+        /// </summary>
+        internal static string E1157Title {
+            get {
+                return ResourceManager.GetString("E1157Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1158Description {
+            get {
+                return ResourceManager.GetString("E1158Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1158Handling {
+            get {
+                return ResourceManager.GetString("E1158Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1158Internal ähnelt.
+        /// </summary>
+        internal static string E1158Internal {
+            get {
+                return ResourceManager.GetString("E1158Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1158Text {
+            get {
+                return ResourceManager.GetString("E1158Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1158 ähnelt.
+        /// </summary>
+        internal static string E1158Title {
+            get {
+                return ResourceManager.GetString("E1158Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1159Description {
+            get {
+                return ResourceManager.GetString("E1159Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1159Handling {
+            get {
+                return ResourceManager.GetString("E1159Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1159Internal ähnelt.
+        /// </summary>
+        internal static string E1159Internal {
+            get {
+                return ResourceManager.GetString("E1159Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1159Text {
+            get {
+                return ResourceManager.GetString("E1159Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1159 ähnelt.
+        /// </summary>
+        internal static string E1159Title {
+            get {
+                return ResourceManager.GetString("E1159Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E115Description {
@@ -741,6 +3351,411 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E115Title {
             get {
                 return ResourceManager.GetString("E115Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1160Description {
+            get {
+                return ResourceManager.GetString("E1160Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1160Handling {
+            get {
+                return ResourceManager.GetString("E1160Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1160Internal ähnelt.
+        /// </summary>
+        internal static string E1160Internal {
+            get {
+                return ResourceManager.GetString("E1160Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1160Text {
+            get {
+                return ResourceManager.GetString("E1160Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1160 ähnelt.
+        /// </summary>
+        internal static string E1160Title {
+            get {
+                return ResourceManager.GetString("E1160Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1161Description {
+            get {
+                return ResourceManager.GetString("E1161Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1161Handling {
+            get {
+                return ResourceManager.GetString("E1161Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1161Internal ähnelt.
+        /// </summary>
+        internal static string E1161Internal {
+            get {
+                return ResourceManager.GetString("E1161Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1161Text {
+            get {
+                return ResourceManager.GetString("E1161Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1161 ähnelt.
+        /// </summary>
+        internal static string E1161Title {
+            get {
+                return ResourceManager.GetString("E1161Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1162Description {
+            get {
+                return ResourceManager.GetString("E1162Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1162Handling {
+            get {
+                return ResourceManager.GetString("E1162Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1162Internal ähnelt.
+        /// </summary>
+        internal static string E1162Internal {
+            get {
+                return ResourceManager.GetString("E1162Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1162Text {
+            get {
+                return ResourceManager.GetString("E1162Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1162 ähnelt.
+        /// </summary>
+        internal static string E1162Title {
+            get {
+                return ResourceManager.GetString("E1162Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1163Description6 {
+            get {
+                return ResourceManager.GetString("E1163Description6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1163Handling {
+            get {
+                return ResourceManager.GetString("E1163Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1133Internal ähnelt.
+        /// </summary>
+        internal static string E1163Internal {
+            get {
+                return ResourceManager.GetString("E1163Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1163Text {
+            get {
+                return ResourceManager.GetString("E1163Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1133 ähnelt.
+        /// </summary>
+        internal static string E1163Title {
+            get {
+                return ResourceManager.GetString("E1163Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1164Description {
+            get {
+                return ResourceManager.GetString("E1164Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1164Handling {
+            get {
+                return ResourceManager.GetString("E1164Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1164Internal ähnelt.
+        /// </summary>
+        internal static string E1164Internal {
+            get {
+                return ResourceManager.GetString("E1164Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1164Text {
+            get {
+                return ResourceManager.GetString("E1164Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1164 ähnelt.
+        /// </summary>
+        internal static string E1164TItle {
+            get {
+                return ResourceManager.GetString("E1164TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1165Description {
+            get {
+                return ResourceManager.GetString("E1165Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1165Handling {
+            get {
+                return ResourceManager.GetString("E1165Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1165Internal ähnelt.
+        /// </summary>
+        internal static string E1165Internal {
+            get {
+                return ResourceManager.GetString("E1165Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1165Text {
+            get {
+                return ResourceManager.GetString("E1165Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1165 ähnelt.
+        /// </summary>
+        internal static string E1165Title {
+            get {
+                return ResourceManager.GetString("E1165Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1166Description {
+            get {
+                return ResourceManager.GetString("E1166Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1166Handling {
+            get {
+                return ResourceManager.GetString("E1166Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1166Internal ähnelt.
+        /// </summary>
+        internal static string E1166Internal {
+            get {
+                return ResourceManager.GetString("E1166Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1166Text {
+            get {
+                return ResourceManager.GetString("E1166Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1166 ähnelt.
+        /// </summary>
+        internal static string E1166Title {
+            get {
+                return ResourceManager.GetString("E1166Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1167Description {
+            get {
+                return ResourceManager.GetString("E1167Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1167Handling {
+            get {
+                return ResourceManager.GetString("E1167Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1167Internal ähnelt.
+        /// </summary>
+        internal static string E1167Internal {
+            get {
+                return ResourceManager.GetString("E1167Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1167Text {
+            get {
+                return ResourceManager.GetString("E1167Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1167 ähnelt.
+        /// </summary>
+        internal static string E1167Title {
+            get {
+                return ResourceManager.GetString("E1167Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1168Description {
+            get {
+                return ResourceManager.GetString("E1168Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1168Handling {
+            get {
+                return ResourceManager.GetString("E1168Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1168Internal ähnelt.
+        /// </summary>
+        internal static string E1168Internal {
+            get {
+                return ResourceManager.GetString("E1168Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1168Text {
+            get {
+                return ResourceManager.GetString("E1168Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1168 ähnelt.
+        /// </summary>
+        internal static string E1168Title {
+            get {
+                return ResourceManager.GetString("E1168Title", resourceCulture);
             }
         }
         
@@ -871,6 +3886,51 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1199Description {
+            get {
+                return ResourceManager.GetString("E1199Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1199Handling {
+            get {
+                return ResourceManager.GetString("E1199Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1199Internal ähnelt.
+        /// </summary>
+        internal static string E1199Internal {
+            get {
+                return ResourceManager.GetString("E1199Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1199Text {
+            get {
+                return ResourceManager.GetString("E1199Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1199 ähnelt.
+        /// </summary>
+        internal static string E1199Title {
+            get {
+                return ResourceManager.GetString("E1199Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 4 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E119Description {
@@ -961,6 +4021,366 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1200Description {
+            get {
+                return ResourceManager.GetString("E1200Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1200Handling {
+            get {
+                return ResourceManager.GetString("E1200Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1200Internal ähnelt.
+        /// </summary>
+        internal static string E1200Internal {
+            get {
+                return ResourceManager.GetString("E1200Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1200Text {
+            get {
+                return ResourceManager.GetString("E1200Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1200 ähnelt.
+        /// </summary>
+        internal static string E1200Title {
+            get {
+                return ResourceManager.GetString("E1200Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1201Description {
+            get {
+                return ResourceManager.GetString("E1201Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1201Handling {
+            get {
+                return ResourceManager.GetString("E1201Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1201Internal ähnelt.
+        /// </summary>
+        internal static string E1201Internal {
+            get {
+                return ResourceManager.GetString("E1201Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1201Text {
+            get {
+                return ResourceManager.GetString("E1201Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1201 ähnelt.
+        /// </summary>
+        internal static string E1201Title {
+            get {
+                return ResourceManager.GetString("E1201Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1202Description {
+            get {
+                return ResourceManager.GetString("E1202Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1202Handling {
+            get {
+                return ResourceManager.GetString("E1202Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1202Internal ähnelt.
+        /// </summary>
+        internal static string E1202Internal {
+            get {
+                return ResourceManager.GetString("E1202Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1202Text {
+            get {
+                return ResourceManager.GetString("E1202Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1202 ähnelt.
+        /// </summary>
+        internal static string E1202Title {
+            get {
+                return ResourceManager.GetString("E1202Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1203Description {
+            get {
+                return ResourceManager.GetString("E1203Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1203Handling {
+            get {
+                return ResourceManager.GetString("E1203Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1203Internal ähnelt.
+        /// </summary>
+        internal static string E1203Internal {
+            get {
+                return ResourceManager.GetString("E1203Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1203Text {
+            get {
+                return ResourceManager.GetString("E1203Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1203 ähnelt.
+        /// </summary>
+        internal static string E1203Title {
+            get {
+                return ResourceManager.GetString("E1203Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1204Description {
+            get {
+                return ResourceManager.GetString("E1204Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1204Handling {
+            get {
+                return ResourceManager.GetString("E1204Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1204Internal ähnelt.
+        /// </summary>
+        internal static string E1204Internal {
+            get {
+                return ResourceManager.GetString("E1204Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1204Text {
+            get {
+                return ResourceManager.GetString("E1204Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1204 ähnelt.
+        /// </summary>
+        internal static string E1204TItle {
+            get {
+                return ResourceManager.GetString("E1204TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1205Description {
+            get {
+                return ResourceManager.GetString("E1205Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1205Handling {
+            get {
+                return ResourceManager.GetString("E1205Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1205Internal ähnelt.
+        /// </summary>
+        internal static string E1205Internal {
+            get {
+                return ResourceManager.GetString("E1205Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1205Text {
+            get {
+                return ResourceManager.GetString("E1205Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1205 ähnelt.
+        /// </summary>
+        internal static string E1205Title {
+            get {
+                return ResourceManager.GetString("E1205Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1206Description {
+            get {
+                return ResourceManager.GetString("E1206Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1206Handling {
+            get {
+                return ResourceManager.GetString("E1206Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1206Internal ähnelt.
+        /// </summary>
+        internal static string E1206Internal {
+            get {
+                return ResourceManager.GetString("E1206Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1206Text {
+            get {
+                return ResourceManager.GetString("E1206Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1206 ähnelt.
+        /// </summary>
+        internal static string E1206Title {
+            get {
+                return ResourceManager.GetString("E1206Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1207Description {
+            get {
+                return ResourceManager.GetString("E1207Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1207Handling {
+            get {
+                return ResourceManager.GetString("E1207Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1207Internal ähnelt.
+        /// </summary>
+        internal static string E1207Internal {
+            get {
+                return ResourceManager.GetString("E1207Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1207Text {
+            get {
+                return ResourceManager.GetString("E1207Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1207 ähnelt.
+        /// </summary>
+        internal static string E1207Title {
+            get {
+                return ResourceManager.GetString("E1207Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die MLD-status word P-0-1351 Bit 0 missing.Diagnostic intervall 2 minutes ähnelt.
         /// </summary>
         internal static string E120Description {
@@ -1002,6 +4422,456 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E120Title {
             get {
                 return ResourceManager.GetString("E120Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1210Description {
+            get {
+                return ResourceManager.GetString("E1210Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1210Handling {
+            get {
+                return ResourceManager.GetString("E1210Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1210Internal ähnelt.
+        /// </summary>
+        internal static string E1210Internal {
+            get {
+                return ResourceManager.GetString("E1210Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1210Text {
+            get {
+                return ResourceManager.GetString("E1210Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1210 ähnelt.
+        /// </summary>
+        internal static string E1210Title {
+            get {
+                return ResourceManager.GetString("E1210Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1211Description {
+            get {
+                return ResourceManager.GetString("E1211Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1211Handling {
+            get {
+                return ResourceManager.GetString("E1211Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1211Internal ähnelt.
+        /// </summary>
+        internal static string E1211Internal {
+            get {
+                return ResourceManager.GetString("E1211Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1211Text {
+            get {
+                return ResourceManager.GetString("E1211Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1211 ähnelt.
+        /// </summary>
+        internal static string E1211Title {
+            get {
+                return ResourceManager.GetString("E1211Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1212Description {
+            get {
+                return ResourceManager.GetString("E1212Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1212Handling {
+            get {
+                return ResourceManager.GetString("E1212Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1212Internal ähnelt.
+        /// </summary>
+        internal static string E1212Internal {
+            get {
+                return ResourceManager.GetString("E1212Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1212Text {
+            get {
+                return ResourceManager.GetString("E1212Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1212 ähnelt.
+        /// </summary>
+        internal static string E1212Title {
+            get {
+                return ResourceManager.GetString("E1212Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1213Description {
+            get {
+                return ResourceManager.GetString("E1213Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1213Handling {
+            get {
+                return ResourceManager.GetString("E1213Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1213Internal ähnelt.
+        /// </summary>
+        internal static string E1213Internal {
+            get {
+                return ResourceManager.GetString("E1213Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1213Text {
+            get {
+                return ResourceManager.GetString("E1213Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1213 ähnelt.
+        /// </summary>
+        internal static string E1213Title {
+            get {
+                return ResourceManager.GetString("E1213Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1214Description {
+            get {
+                return ResourceManager.GetString("E1214Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1214Handling {
+            get {
+                return ResourceManager.GetString("E1214Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1214Internal ähnelt.
+        /// </summary>
+        internal static string E1214Internal {
+            get {
+                return ResourceManager.GetString("E1214Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1214Text {
+            get {
+                return ResourceManager.GetString("E1214Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1214 ähnelt.
+        /// </summary>
+        internal static string E1214TItle {
+            get {
+                return ResourceManager.GetString("E1214TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1215Description {
+            get {
+                return ResourceManager.GetString("E1215Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1215Handling {
+            get {
+                return ResourceManager.GetString("E1215Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1215Internal ähnelt.
+        /// </summary>
+        internal static string E1215Internal {
+            get {
+                return ResourceManager.GetString("E1215Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1215Text {
+            get {
+                return ResourceManager.GetString("E1215Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1215 ähnelt.
+        /// </summary>
+        internal static string E1215Title {
+            get {
+                return ResourceManager.GetString("E1215Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1216Description {
+            get {
+                return ResourceManager.GetString("E1216Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1216Handling {
+            get {
+                return ResourceManager.GetString("E1216Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1216Internal ähnelt.
+        /// </summary>
+        internal static string E1216Internal {
+            get {
+                return ResourceManager.GetString("E1216Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1216Text {
+            get {
+                return ResourceManager.GetString("E1216Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1216 ähnelt.
+        /// </summary>
+        internal static string E1216Title {
+            get {
+                return ResourceManager.GetString("E1216Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1217Description {
+            get {
+                return ResourceManager.GetString("E1217Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1217Handling {
+            get {
+                return ResourceManager.GetString("E1217Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1217Internal ähnelt.
+        /// </summary>
+        internal static string E1217Internal {
+            get {
+                return ResourceManager.GetString("E1217Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1217Text {
+            get {
+                return ResourceManager.GetString("E1217Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1217 ähnelt.
+        /// </summary>
+        internal static string E1217Title {
+            get {
+                return ResourceManager.GetString("E1217Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1218Description {
+            get {
+                return ResourceManager.GetString("E1218Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1218Handling {
+            get {
+                return ResourceManager.GetString("E1218Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1218Internal ähnelt.
+        /// </summary>
+        internal static string E1218Internal {
+            get {
+                return ResourceManager.GetString("E1218Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1218Text {
+            get {
+                return ResourceManager.GetString("E1218Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1218 ähnelt.
+        /// </summary>
+        internal static string E1218Title {
+            get {
+                return ResourceManager.GetString("E1218Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1219Description {
+            get {
+                return ResourceManager.GetString("E1219Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1219Handling {
+            get {
+                return ResourceManager.GetString("E1219Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1219Internal ähnelt.
+        /// </summary>
+        internal static string E1219Internal {
+            get {
+                return ResourceManager.GetString("E1219Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E1219Text {
+            get {
+                return ResourceManager.GetString("E1219Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E1219 ähnelt.
+        /// </summary>
+        internal static string E1219Title {
+            get {
+                return ResourceManager.GetString("E1219Title", resourceCulture);
             }
         }
         
@@ -15867,9 +19737,54 @@ namespace GearErrorHelper.Resources.Strings {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die E905 ähnelt.
         /// </summary>
-        internal static string E905TIile {
+        internal static string E905Title {
             get {
-                return ResourceManager.GetString("E905TIile", resourceCulture);
+                return ResourceManager.GetString("E905Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position not OK. ähnelt.
+        /// </summary>
+        internal static string E950Description {
+            get {
+                return ResourceManager.GetString("E950Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the position or remove the unit. ähnelt.
+        /// </summary>
+        internal static string E950Handling {
+            get {
+                return ResourceManager.GetString("E950Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E950Internal ähnelt.
+        /// </summary>
+        internal static string E950Internal {
+            get {
+                return ResourceManager.GetString("E950Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Installation help of clamping device right side is not in backward or not removed ähnelt.
+        /// </summary>
+        internal static string E950Text {
+            get {
+                return ResourceManager.GetString("E950Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E950 ähnelt.
+        /// </summary>
+        internal static string E950Title {
+            get {
+                return ResourceManager.GetString("E950Title", resourceCulture);
             }
         }
         

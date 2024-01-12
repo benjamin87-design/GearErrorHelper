@@ -2811,6 +2811,1296 @@
   <data name="EE118Handling" xml:space="preserve">
     <value>Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation.</value>
   </data>
+  <data name="E1101Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1101Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1101Internal" xml:space="preserve">
+    <value>E1101Internal</value>
+  </data>
+  <data name="E1101Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1101Title" xml:space="preserve">
+    <value>E1101</value>
+  </data>
+  <data name="E1102Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1102Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1102Internal" xml:space="preserve">
+    <value>E1102Internal</value>
+  </data>
+  <data name="E1102Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1102Title" xml:space="preserve">
+    <value>E1102</value>
+  </data>
+  <data name="E1103Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1103Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1103Internal" xml:space="preserve">
+    <value>E1103Internal</value>
+  </data>
+  <data name="E1103Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1103Title" xml:space="preserve">
+    <value>E1103</value>
+  </data>
+  <data name="E1104Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1104Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1104Internal" xml:space="preserve">
+    <value>E1104Internal</value>
+  </data>
+  <data name="E1104Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1104TItle" xml:space="preserve">
+    <value>E1104</value>
+  </data>
+  <data name="E1105Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1105Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1105Internal" xml:space="preserve">
+    <value>E1105Internal</value>
+  </data>
+  <data name="E1105Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1105Title" xml:space="preserve">
+    <value>E1105</value>
+  </data>
+  <data name="E1106Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1106Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1106Internal" xml:space="preserve">
+    <value>E1106Internal</value>
+  </data>
+  <data name="E1106Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1106Title" xml:space="preserve">
+    <value>E1106</value>
+  </data>
+  <data name="E1107Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1107Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1107Internal" xml:space="preserve">
+    <value>E1107Internal</value>
+  </data>
+  <data name="E1107Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1107Title" xml:space="preserve">
+    <value>E1107</value>
+  </data>
+  <data name="E1108Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1108Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1108Internal" xml:space="preserve">
+    <value>E1108Internal</value>
+  </data>
+  <data name="E1108Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1108Title" xml:space="preserve">
+    <value>E1108</value>
+  </data>
+  <data name="E1109Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1109Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1109Internal" xml:space="preserve">
+    <value>E1109Internal</value>
+  </data>
+  <data name="E1109Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1109Title" xml:space="preserve">
+    <value>E1109</value>
+  </data>
+  <data name="E1110Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1110Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1110Internal" xml:space="preserve">
+    <value>E1110Internal</value>
+  </data>
+  <data name="E1110Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1110Title" xml:space="preserve">
+    <value>E1110</value>
+  </data>
+  <data name="E1111Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1111Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1111Internal" xml:space="preserve">
+    <value>E1111Internal</value>
+  </data>
+  <data name="E1111Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1111Title" xml:space="preserve">
+    <value>E1111</value>
+  </data>
+  <data name="E1112Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1112Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1112Internal" xml:space="preserve">
+    <value>E1112Internal</value>
+  </data>
+  <data name="E1112Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1112Title" xml:space="preserve">
+    <value>E1112</value>
+  </data>
+  <data name="E1113Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1113Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1113Internal" xml:space="preserve">
+    <value>E1113Internal</value>
+  </data>
+  <data name="E1113Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1113Title" xml:space="preserve">
+    <value>E1113</value>
+  </data>
+  <data name="E1114Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1114Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1114Internal" xml:space="preserve">
+    <value>E1114Internal</value>
+  </data>
+  <data name="E1114Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1114TItle" xml:space="preserve">
+    <value>E1114</value>
+  </data>
+  <data name="E1115Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1115Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1115Internal" xml:space="preserve">
+    <value>E1115Internal</value>
+  </data>
+  <data name="E1115Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1115Title" xml:space="preserve">
+    <value>E1115</value>
+  </data>
+  <data name="E1116Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1116Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1116Internal" xml:space="preserve">
+    <value>E1116Internal</value>
+  </data>
+  <data name="E1116Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1116Title" xml:space="preserve">
+    <value>E1116</value>
+  </data>
+  <data name="E1117Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1117Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1117Internal" xml:space="preserve">
+    <value>E1117Internal</value>
+  </data>
+  <data name="E1117Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1117Title" xml:space="preserve">
+    <value>E1117</value>
+  </data>
+  <data name="E1118Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1118Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1118Internal" xml:space="preserve">
+    <value>E1118Internal</value>
+  </data>
+  <data name="E1118Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1118Title" xml:space="preserve">
+    <value>E1118</value>
+  </data>
+  <data name="E1119Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1119Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1119Internal" xml:space="preserve">
+    <value>E1119Internal</value>
+  </data>
+  <data name="E1119Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1119Title" xml:space="preserve">
+    <value>E1119</value>
+  </data>
+  <data name="E1120Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1120Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1120Internal" xml:space="preserve">
+    <value>E1120Internal</value>
+  </data>
+  <data name="E1120Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1120Title" xml:space="preserve">
+    <value>E1120</value>
+  </data>
+  <data name="E1121Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1121Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1121Internal" xml:space="preserve">
+    <value>E1121Internal</value>
+  </data>
+  <data name="E1121Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1121Title2" xml:space="preserve">
+    <value>E1121</value>
+  </data>
+  <data name="E1122Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1122Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1122Internal" xml:space="preserve">
+    <value>E1122Internal</value>
+  </data>
+  <data name="E1122Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1122Title" xml:space="preserve">
+    <value>E1122</value>
+  </data>
+  <data name="E1123Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1123Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1123Internal" xml:space="preserve">
+    <value>E1123Internal</value>
+  </data>
+  <data name="E1123Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1123Title" xml:space="preserve">
+    <value>E1123</value>
+  </data>
+  <data name="E1124Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1124Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1124Internal" xml:space="preserve">
+    <value>E1124Internal</value>
+  </data>
+  <data name="E1124Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1124TItle" xml:space="preserve">
+    <value>E1124</value>
+  </data>
+  <data name="E1125Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1125Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1125Internal" xml:space="preserve">
+    <value>E1125Internal</value>
+  </data>
+  <data name="E1125Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1125Title" xml:space="preserve">
+    <value>E1125</value>
+  </data>
+  <data name="E1126Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1126Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1126Internal" xml:space="preserve">
+    <value>E1126Internal</value>
+  </data>
+  <data name="E1126Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1126Title" xml:space="preserve">
+    <value>E1126</value>
+  </data>
+  <data name="E1127Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1127Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1127Internal" xml:space="preserve">
+    <value>E1127Internal</value>
+  </data>
+  <data name="E1127Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1127Title" xml:space="preserve">
+    <value>E1127</value>
+  </data>
+  <data name="E1128Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1128Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1128Internal" xml:space="preserve">
+    <value>E1128Internal</value>
+  </data>
+  <data name="E1128Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1128Title" xml:space="preserve">
+    <value>E1128</value>
+  </data>
+  <data name="E1130Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1130Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1130Internal" xml:space="preserve">
+    <value>E1130Internal</value>
+  </data>
+  <data name="E1130Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1130Title" xml:space="preserve">
+    <value>E1130</value>
+  </data>
+  <data name="E1131Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1131Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1131Internal" xml:space="preserve">
+    <value>E1131Internal</value>
+  </data>
+  <data name="E1131Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1131Title" xml:space="preserve">
+    <value>E1131</value>
+  </data>
+  <data name="E1132Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1132Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1132Internal" xml:space="preserve">
+    <value>E1132Internal</value>
+  </data>
+  <data name="E1132Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1132Title" xml:space="preserve">
+    <value>E1132</value>
+  </data>
+  <data name="E1133Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1133Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1133Internal" xml:space="preserve">
+    <value>E1133Internal</value>
+  </data>
+  <data name="E1133Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1133Title" xml:space="preserve">
+    <value>E1133</value>
+  </data>
+  <data name="E1134Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1134Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1134Internal" xml:space="preserve">
+    <value>E1134Internal</value>
+  </data>
+  <data name="E1134Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1134TItle" xml:space="preserve">
+    <value>E1134</value>
+  </data>
+  <data name="E1135Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1135Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1135Internal" xml:space="preserve">
+    <value>E1135Internal</value>
+  </data>
+  <data name="E1135Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1135Title" xml:space="preserve">
+    <value>E1135</value>
+  </data>
+  <data name="E1136Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1136Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1136Internal" xml:space="preserve">
+    <value>E1136Internal</value>
+  </data>
+  <data name="E1136Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1136Title" xml:space="preserve">
+    <value>E1136</value>
+  </data>
+  <data name="E1137Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1137Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1137Internal" xml:space="preserve">
+    <value>E1137Internal</value>
+  </data>
+  <data name="E1137Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1137Title" xml:space="preserve">
+    <value>E1137</value>
+  </data>
+  <data name="E1138Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1138Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1138Internal" xml:space="preserve">
+    <value>E1138Internal</value>
+  </data>
+  <data name="E1138Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1138Title" xml:space="preserve">
+    <value>E1138</value>
+  </data>
+  <data name="E1139Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1139Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1139Internal" xml:space="preserve">
+    <value>E1139Internal</value>
+  </data>
+  <data name="E1139Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1139Title" xml:space="preserve">
+    <value>E1139</value>
+  </data>
+  <data name="E1140Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1140Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1140Internal" xml:space="preserve">
+    <value>E1140Internal</value>
+  </data>
+  <data name="E1140Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1140Title" xml:space="preserve">
+    <value>E1140</value>
+  </data>
+  <data name="E1141Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1141Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1141Internal" xml:space="preserve">
+    <value>E1141Internal</value>
+  </data>
+  <data name="E1141Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1141Title" xml:space="preserve">
+    <value>E1141</value>
+  </data>
+  <data name="E1142Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1142Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1142Internal" xml:space="preserve">
+    <value>E1142Internal</value>
+  </data>
+  <data name="E1142Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1142Title" xml:space="preserve">
+    <value>E1142</value>
+  </data>
+  <data name="E1143Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1143Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1143Internal" xml:space="preserve">
+    <value>E1143Internal</value>
+  </data>
+  <data name="E1143Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1143Title" xml:space="preserve">
+    <value>E1143</value>
+  </data>
+  <data name="E1144Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1144Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1144Internal" xml:space="preserve">
+    <value>E1144Internal</value>
+  </data>
+  <data name="E1144Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1144TItle" xml:space="preserve">
+    <value>E1144</value>
+  </data>
+  <data name="E1145Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1145Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1145Internal" xml:space="preserve">
+    <value>E1145Internal</value>
+  </data>
+  <data name="E1145Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1145Title" xml:space="preserve">
+    <value>E1145</value>
+  </data>
+  <data name="E1146Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1146Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1146Internal" xml:space="preserve">
+    <value>E1146Internal</value>
+  </data>
+  <data name="E1146Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1146Title" xml:space="preserve">
+    <value>E1146</value>
+  </data>
+  <data name="E1147Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1147Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1147Internal" xml:space="preserve">
+    <value>E1147Internal</value>
+  </data>
+  <data name="E1147Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1147Title" xml:space="preserve">
+    <value>E1147</value>
+  </data>
+  <data name="E1148Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1148Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1148Internal" xml:space="preserve">
+    <value>E1148Internal</value>
+  </data>
+  <data name="E1148Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1148Title" xml:space="preserve">
+    <value>E1148</value>
+  </data>
+  <data name="E1149Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1149Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1149Internal" xml:space="preserve">
+    <value>E1149Internal</value>
+  </data>
+  <data name="E1149Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1149Title" xml:space="preserve">
+    <value>E1149</value>
+  </data>
+  <data name="E1150Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1150Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1150Internal" xml:space="preserve">
+    <value>E1150Internal</value>
+  </data>
+  <data name="E1150Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1150Title" xml:space="preserve">
+    <value>E1150</value>
+  </data>
+  <data name="E1151Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1151Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1151Internal" xml:space="preserve">
+    <value>E1151Internal</value>
+  </data>
+  <data name="E1151Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1151Title" xml:space="preserve">
+    <value>E1151</value>
+  </data>
+  <data name="E1152Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1152Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1152Internal" xml:space="preserve">
+    <value>E1152Internal</value>
+  </data>
+  <data name="E1152Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1152Title" xml:space="preserve">
+    <value>E1152</value>
+  </data>
+  <data name="E1153Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1153Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1153Internal" xml:space="preserve">
+    <value>E1153Internal</value>
+  </data>
+  <data name="E1153Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1153Title" xml:space="preserve">
+    <value>E1153</value>
+  </data>
+  <data name="E1154Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1154Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1154Internal" xml:space="preserve">
+    <value>E1154Internal</value>
+  </data>
+  <data name="E1154Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1154TItle" xml:space="preserve">
+    <value>E1154</value>
+  </data>
+  <data name="E1155Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1155Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1155Internal" xml:space="preserve">
+    <value>E1155Internal</value>
+  </data>
+  <data name="E1155Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1155Title" xml:space="preserve">
+    <value>E1155</value>
+  </data>
+  <data name="E1156Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1156Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1156Internal" xml:space="preserve">
+    <value>E1156Internal</value>
+  </data>
+  <data name="E1156Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1156Title" xml:space="preserve">
+    <value>E1156</value>
+  </data>
+  <data name="E1157Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1157Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1157Internal" xml:space="preserve">
+    <value>E1157Internal</value>
+  </data>
+  <data name="E1157Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1157Title" xml:space="preserve">
+    <value>E1157</value>
+  </data>
+  <data name="E1158Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1158Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1158Internal" xml:space="preserve">
+    <value>E1158Internal</value>
+  </data>
+  <data name="E1158Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1158Title" xml:space="preserve">
+    <value>E1158</value>
+  </data>
+  <data name="E1159Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1159Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1159Internal" xml:space="preserve">
+    <value>E1159Internal</value>
+  </data>
+  <data name="E1159Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1159Title" xml:space="preserve">
+    <value>E1159</value>
+  </data>
+  <data name="E1160Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1160Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1160Internal" xml:space="preserve">
+    <value>E1160Internal</value>
+  </data>
+  <data name="E1160Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1160Title" xml:space="preserve">
+    <value>E1160</value>
+  </data>
+  <data name="E1161Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1161Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1161Internal" xml:space="preserve">
+    <value>E1161Internal</value>
+  </data>
+  <data name="E1161Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1161Title" xml:space="preserve">
+    <value>E1161</value>
+  </data>
+  <data name="E1162Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1162Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1162Internal" xml:space="preserve">
+    <value>E1162Internal</value>
+  </data>
+  <data name="E1162Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1162Title" xml:space="preserve">
+    <value>E1162</value>
+  </data>
+  <data name="E1163Description6" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1163Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1163Internal" xml:space="preserve">
+    <value>E1133Internal</value>
+  </data>
+  <data name="E1163Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1163Title" xml:space="preserve">
+    <value>E1133</value>
+  </data>
+  <data name="E1164Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1164Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1164Internal" xml:space="preserve">
+    <value>E1164Internal</value>
+  </data>
+  <data name="E1164Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1164TItle" xml:space="preserve">
+    <value>E1164</value>
+  </data>
+  <data name="E1165Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1165Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1165Internal" xml:space="preserve">
+    <value>E1165Internal</value>
+  </data>
+  <data name="E1165Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1165Title" xml:space="preserve">
+    <value>E1165</value>
+  </data>
+  <data name="E1166Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1166Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1166Internal" xml:space="preserve">
+    <value>E1166Internal</value>
+  </data>
+  <data name="E1166Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1166Title" xml:space="preserve">
+    <value>E1166</value>
+  </data>
+  <data name="E1167Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1167Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1167Internal" xml:space="preserve">
+    <value>E1167Internal</value>
+  </data>
+  <data name="E1167Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1167Title" xml:space="preserve">
+    <value>E1167</value>
+  </data>
+  <data name="E1168Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1168Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1168Internal" xml:space="preserve">
+    <value>E1168Internal</value>
+  </data>
+  <data name="E1168Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1168Title" xml:space="preserve">
+    <value>E1168</value>
+  </data>
+  <data name="E1199Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1199Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1199Internal" xml:space="preserve">
+    <value>E1199Internal</value>
+  </data>
+  <data name="E1199Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1199Title" xml:space="preserve">
+    <value>E1199</value>
+  </data>
+  <data name="E1200Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1200Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1200Internal" xml:space="preserve">
+    <value>E1200Internal</value>
+  </data>
+  <data name="E1200Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1200Title" xml:space="preserve">
+    <value>E1200</value>
+  </data>
+  <data name="E1201Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1201Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1201Internal" xml:space="preserve">
+    <value>E1201Internal</value>
+  </data>
+  <data name="E1201Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1201Title" xml:space="preserve">
+    <value>E1201</value>
+  </data>
+  <data name="E1202Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1202Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1202Internal" xml:space="preserve">
+    <value>E1202Internal</value>
+  </data>
+  <data name="E1202Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1202Title" xml:space="preserve">
+    <value>E1202</value>
+  </data>
+  <data name="E1203Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1203Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1203Internal" xml:space="preserve">
+    <value>E1203Internal</value>
+  </data>
+  <data name="E1203Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1203Title" xml:space="preserve">
+    <value>E1203</value>
+  </data>
+  <data name="E1204Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1204Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1204Internal" xml:space="preserve">
+    <value>E1204Internal</value>
+  </data>
+  <data name="E1204Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1204TItle" xml:space="preserve">
+    <value>E1204</value>
+  </data>
+  <data name="E1205Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1205Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1205Internal" xml:space="preserve">
+    <value>E1205Internal</value>
+  </data>
+  <data name="E1205Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1205Title" xml:space="preserve">
+    <value>E1205</value>
+  </data>
+  <data name="E1206Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1206Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1206Internal" xml:space="preserve">
+    <value>E1206Internal</value>
+  </data>
+  <data name="E1206Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1206Title" xml:space="preserve">
+    <value>E1206</value>
+  </data>
+  <data name="E1207Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1207Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1207Internal" xml:space="preserve">
+    <value>E1207Internal</value>
+  </data>
+  <data name="E1207Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1207Title" xml:space="preserve">
+    <value>E1207</value>
+  </data>
+  <data name="E1210Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1210Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1210Internal" xml:space="preserve">
+    <value>E1210Internal</value>
+  </data>
+  <data name="E1210Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1210Title" xml:space="preserve">
+    <value>E1210</value>
+  </data>
+  <data name="E1211Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1211Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1211Internal" xml:space="preserve">
+    <value>E1211Internal</value>
+  </data>
+  <data name="E1211Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1211Title" xml:space="preserve">
+    <value>E1211</value>
+  </data>
+  <data name="E1212Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1212Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1212Internal" xml:space="preserve">
+    <value>E1212Internal</value>
+  </data>
+  <data name="E1212Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1212Title" xml:space="preserve">
+    <value>E1212</value>
+  </data>
+  <data name="E1213Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1213Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1213Internal" xml:space="preserve">
+    <value>E1213Internal</value>
+  </data>
+  <data name="E1213Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1213Title" xml:space="preserve">
+    <value>E1213</value>
+  </data>
+  <data name="E1214Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1214Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1214Internal" xml:space="preserve">
+    <value>E1214Internal</value>
+  </data>
+  <data name="E1214Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1214TItle" xml:space="preserve">
+    <value>E1214</value>
+  </data>
+  <data name="E1215Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1215Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1215Internal" xml:space="preserve">
+    <value>E1215Internal</value>
+  </data>
+  <data name="E1215Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1215Title" xml:space="preserve">
+    <value>E1215</value>
+  </data>
+  <data name="E1216Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1216Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1216Internal" xml:space="preserve">
+    <value>E1216Internal</value>
+  </data>
+  <data name="E1216Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1216Title" xml:space="preserve">
+    <value>E1216</value>
+  </data>
+  <data name="E1217Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1217Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1217Internal" xml:space="preserve">
+    <value>E1217Internal</value>
+  </data>
+  <data name="E1217Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1217Title" xml:space="preserve">
+    <value>E1217</value>
+  </data>
+  <data name="E1218Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1218Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1218Internal" xml:space="preserve">
+    <value>E1218Internal</value>
+  </data>
+  <data name="E1218Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1218Title" xml:space="preserve">
+    <value>E1218</value>
+  </data>
+  <data name="E1219Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1219Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1219Internal" xml:space="preserve">
+    <value>E1219Internal</value>
+  </data>
+  <data name="E1219Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E1219Title" xml:space="preserve">
+    <value>E1219</value>
+  </data>
   <data name="E272Handling" xml:space="preserve">
     <value>Y5-Axis has to be moved by Hand.</value>
   </data>
@@ -5418,7 +6708,22 @@
   <data name="E905Text" xml:space="preserve">
     <value>By H5 channel 3 was no acknowlegdement possible</value>
   </data>
-  <data name="E905TIile" xml:space="preserve">
+  <data name="E905Title" xml:space="preserve">
     <value>E905</value>
+  </data>
+  <data name="E950Description" xml:space="preserve">
+    <value>Position not OK.</value>
+  </data>
+  <data name="E950Handling" xml:space="preserve">
+    <value>Please check the position or remove the unit.</value>
+  </data>
+  <data name="E950Internal" xml:space="preserve">
+    <value>E950Internal</value>
+  </data>
+  <data name="E950Text" xml:space="preserve">
+    <value>Installation help of clamping device right side is not in backward or not removed</value>
+  </data>
+  <data name="E950Title" xml:space="preserve">
+    <value>E950</value>
   </data>
 </root>
