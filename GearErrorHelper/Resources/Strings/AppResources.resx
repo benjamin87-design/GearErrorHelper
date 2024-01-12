@@ -1702,16 +1702,16 @@
     <value>E318</value>
   </data>
   <data name="E319Description" xml:space="preserve">
-    <value />
+    <value>No Head dresser on Spindle to the left</value>
   </data>
   <data name="E319Handling" xml:space="preserve">
-    <value />
+    <value>Check the occupancy of the Spindle.</value>
   </data>
   <data name="E319Internal" xml:space="preserve">
     <value>E319Internal</value>
   </data>
   <data name="E319Text" xml:space="preserve">
-    <value />
+    <value>Plausibility profiling head</value>
   </data>
   <data name="E319Title" xml:space="preserve">
     <value>E319</value>
@@ -1732,151 +1732,151 @@
     <value>E31</value>
   </data>
   <data name="E320Description" xml:space="preserve">
-    <value />
+    <value>No Head dresser on Spindle to the right</value>
   </data>
   <data name="E320Handling" xml:space="preserve">
-    <value />
+    <value>Check the occupancy of the Spindle.</value>
   </data>
   <data name="E320Internal" xml:space="preserve">
     <value>E320Internal</value>
   </data>
   <data name="E320Text" xml:space="preserve">
-    <value />
+    <value>Plausibility dressing head</value>
   </data>
   <data name="E320Title" xml:space="preserve">
     <value>E320</value>
   </data>
   <data name="E321Description" xml:space="preserve">
-    <value />
+    <value>No Head dresser on Spindle to the left</value>
   </data>
   <data name="E321Handling" xml:space="preserve">
-    <value />
+    <value>Check the occupancy of the Spindle.</value>
   </data>
   <data name="E321Internal" xml:space="preserve">
     <value>E321Internal</value>
   </data>
   <data name="E321Text" xml:space="preserve">
-    <value />
+    <value>Plausibility dressing head</value>
   </data>
   <data name="E321Title" xml:space="preserve">
     <value>E321</value>
   </data>
   <data name="E322Description" xml:space="preserve">
-    <value />
+    <value>Communication destroyed</value>
   </data>
   <data name="E322Handling" xml:space="preserve">
-    <value />
+    <value>Connection has to be obtained again.</value>
   </data>
   <data name="E322Internal" xml:space="preserve">
     <value>E322Internal</value>
   </data>
   <data name="E322Text" xml:space="preserve">
-    <value />
+    <value>No Data from surface obtained</value>
   </data>
   <data name="E322Title" xml:space="preserve">
     <value>E322</value>
   </data>
   <data name="E323Description" xml:space="preserve">
-    <value />
+    <value>Position the spray guards not OK</value>
   </data>
   <data name="E323Handling" xml:space="preserve">
-    <value />
+    <value>Bring the splash guard from Hand in position.</value>
   </data>
   <data name="E323Internal" xml:space="preserve">
     <value>E323Internal</value>
   </data>
   <data name="E323Text" xml:space="preserve">
-    <value />
+    <value>Moving the Z-Axis not possible. Splash guard not in position</value>
   </data>
   <data name="E323Title" xml:space="preserve">
     <value>E323</value>
   </data>
   <data name="E324Drescription" xml:space="preserve">
-    <value />
+    <value>Measurement faulty</value>
   </data>
   <data name="E324Handling" xml:space="preserve">
-    <value />
+    <value>Measurement has to be repeated.</value>
   </data>
   <data name="E324Internal" xml:space="preserve">
     <value>E324Internal</value>
   </data>
   <data name="E324Text" xml:space="preserve">
-    <value />
+    <value>Measurement at the stationary stop faulty</value>
   </data>
   <data name="E324Title" xml:space="preserve">
     <value>E324</value>
   </data>
   <data name="E325Description" xml:space="preserve">
-    <value />
+    <value>Values not correct</value>
   </data>
   <data name="E325Handling" xml:space="preserve">
-    <value />
+    <value>Please enter the correct values for the U-Axis.</value>
   </data>
   <data name="E325Internal" xml:space="preserve">
     <value>E325Internal</value>
   </data>
   <data name="E325Text" xml:space="preserve">
-    <value />
+    <value>Reference of the U-Axis is not possible, because the entered value of the Park position is not correct</value>
   </data>
   <data name="E325Title" xml:space="preserve">
     <value>E325</value>
   </data>
   <data name="E326Description" xml:space="preserve">
-    <value />
+    <value>Values on Honing screen are not correct</value>
   </data>
   <data name="E326Handling" xml:space="preserve">
-    <value />
+    <value>Please enter the correct position.</value>
   </data>
   <data name="E326Internal" xml:space="preserve">
     <value>E326Internal</value>
   </data>
   <data name="E326Text" xml:space="preserve">
-    <value />
+    <value>Tooth to tooth position of the Z-Axis has been incorrectly calculated</value>
   </data>
   <data name="E326Title" xml:space="preserve">
     <value>E326</value>
   </data>
   <data name="E327Description" xml:space="preserve">
-    <value />
+    <value>Entered value on the Hon screen not correct</value>
   </data>
   <data name="E327Handling" xml:space="preserve">
-    <value />
+    <value>Please enter the correct position.</value>
   </data>
   <data name="E327Internal" xml:space="preserve">
     <value>E327Internal</value>
   </data>
   <data name="E327Text" xml:space="preserve">
-    <value />
+    <value>Z - position Honing head middle has been incorrectly calculated</value>
   </data>
   <data name="E327Title" xml:space="preserve">
     <value>E327</value>
   </data>
   <data name="E328Description" xml:space="preserve">
-    <value />
+    <value>Faulty or no data exchange between honing surface and NC program</value>
   </data>
   <data name="E328Handling" xml:space="preserve">
-    <value />
+    <value>Check completeness of data and communication.</value>
   </data>
   <data name="E328Internal" xml:space="preserve">
     <value>E328Internal</value>
   </data>
   <data name="E328Text" xml:space="preserve">
-    <value />
+    <value>Faulty data exchange right spindle surface &lt;&gt; NC</value>
   </data>
   <data name="E328Title" xml:space="preserve">
     <value>E328</value>
   </data>
   <data name="E329Description" xml:space="preserve">
-    <value />
+    <value>Faulty or no data exchange between honing surface and NC program</value>
   </data>
   <data name="E329Handling" xml:space="preserve">
-    <value />
+    <value>Check completeness of data and communication.</value>
   </data>
   <data name="E329Internal" xml:space="preserve">
     <value>E329Internal</value>
   </data>
   <data name="E329Text" xml:space="preserve">
-    <value />
+    <value>Time error data exchange surface &lt;&gt; NC</value>
   </data>
   <data name="E329Title" xml:space="preserve">
     <value>E329</value>
@@ -1897,121 +1897,121 @@
     <value>E32</value>
   </data>
   <data name="E330Description" xml:space="preserve">
-    <value />
+    <value>Faulty or no data exchange between honing surface and NC program</value>
   </data>
   <data name="E330Handling" xml:space="preserve">
-    <value />
+    <value>Check completeness of data and communication.</value>
   </data>
   <data name="E330Internal" xml:space="preserve">
     <value>E330Internal</value>
   </data>
   <data name="E330Text" xml:space="preserve">
-    <value />
+    <value>Faulty data exchange left spindle surface &lt;&gt; NC</value>
   </data>
   <data name="E330Title" xml:space="preserve">
     <value>E330</value>
   </data>
   <data name="E331Description" xml:space="preserve">
-    <value />
+    <value>Faulty or no data exchange between honing surface and NC program</value>
   </data>
   <data name="E331Handling" xml:space="preserve">
-    <value />
+    <value>Check completeness of data and communication.</value>
   </data>
   <data name="E331Internal" xml:space="preserve">
     <value>E331Internal</value>
   </data>
   <data name="E331Text" xml:space="preserve">
-    <value />
+    <value>Parameter for profiling honing ring with VSD/P dressing machine not conveyed correctly</value>
   </data>
   <data name="E331Title" xml:space="preserve">
     <value>E331</value>
   </data>
   <data name="E332Description" xml:space="preserve">
-    <value />
+    <value>No VSD dressing machine on right spindle</value>
   </data>
   <data name="E332Handling" xml:space="preserve">
-    <value />
+    <value>Check spindle assignment.</value>
   </data>
   <data name="E332Internal" xml:space="preserve">
     <value>E332Internal</value>
   </data>
   <data name="E332Text" xml:space="preserve">
-    <value />
+    <value>Plausibility VSD dressing</value>
   </data>
   <data name="E332Title" xml:space="preserve">
     <value>E332</value>
   </data>
   <data name="E333Description" xml:space="preserve">
-    <value />
+    <value>No VSD dressing machine on left spindle</value>
   </data>
   <data name="E333Handling" xml:space="preserve">
-    <value />
+    <value>Check spindle assignment.</value>
   </data>
   <data name="E333Internal" xml:space="preserve">
     <value>E333Internal</value>
   </data>
   <data name="E333Text" xml:space="preserve">
-    <value />
+    <value>Plausibility VSD dressing</value>
   </data>
   <data name="E333Title" xml:space="preserve">
     <value>E333</value>
   </data>
   <data name="E334Description" xml:space="preserve">
-    <value />
+    <value>No VSD dressing machine on right spindle</value>
   </data>
   <data name="E334Handling" xml:space="preserve">
-    <value />
+    <value>Check spindle assignment.</value>
   </data>
   <data name="E334Internal" xml:space="preserve">
     <value>E334Internal</value>
   </data>
   <data name="E334Text" xml:space="preserve">
-    <value />
+    <value>Plausibility VSD profiling</value>
   </data>
   <data name="E334Title" xml:space="preserve">
     <value>E334</value>
   </data>
   <data name="E335Description" xml:space="preserve">
-    <value />
+    <value>No VSD dressing machine on left spindle</value>
   </data>
   <data name="E335Handling" xml:space="preserve">
-    <value />
+    <value>Check spindle assignment.</value>
   </data>
   <data name="E335Internal" xml:space="preserve">
     <value>E335Internal</value>
   </data>
   <data name="E335Text" xml:space="preserve">
-    <value />
+    <value>Plausibility VSD profiling</value>
   </data>
   <data name="E335Title" xml:space="preserve">
     <value>E335</value>
   </data>
   <data name="E336Description" xml:space="preserve">
-    <value />
+    <value>Ready signal of honing screen unavailable</value>
   </data>
   <data name="E336Handling" xml:space="preserve">
-    <value />
+    <value>Please restart the machine</value>
   </data>
   <data name="E336Internal" xml:space="preserve">
     <value>E336Internal</value>
   </data>
   <data name="E336Text" xml:space="preserve">
-    <value />
+    <value>Error data synchronisation between NC and honing screen</value>
   </data>
   <data name="E336Title" xml:space="preserve">
     <value>E336</value>
   </data>
   <data name="E337Description" xml:space="preserve">
-    <value />
+    <value>W-axis could not be positioned exactly</value>
   </data>
   <data name="E337Handling" xml:space="preserve">
-    <value />
+    <value>Please check the honing head for soiling and clean if necessary.</value>
   </data>
   <data name="E337Internal" xml:space="preserve">
     <value>E337Internal</value>
   </data>
   <data name="E337Text" xml:space="preserve">
-    <value />
+    <value>Positioning of the W-axis failed</value>
   </data>
   <data name="E337Title" xml:space="preserve">
     <value>E337</value>
@@ -2020,28 +2020,28 @@
     <value />
   </data>
   <data name="E338Handling" xml:space="preserve">
-    <value />
+    <value>Please restart the machine</value>
   </data>
   <data name="E338Internal" xml:space="preserve">
     <value>E338Internal</value>
   </data>
   <data name="E338Text" xml:space="preserve">
-    <value />
+    <value>Timout data exchange Honen.exe/NC after request of coupling table data</value>
   </data>
   <data name="E338Title" xml:space="preserve">
     <value>E338</value>
   </data>
   <data name="E339Description" xml:space="preserve">
-    <value />
+    <value>Ready signal of honing screen unavailable</value>
   </data>
   <data name="E339Handling" xml:space="preserve">
-    <value />
+    <value>Please restart the machine</value>
   </data>
   <data name="E339Internal" xml:space="preserve">
     <value>E339Internal</value>
   </data>
   <data name="E339Text" xml:space="preserve">
-    <value />
+    <value>Error data synchronisation between NC and honing screen</value>
   </data>
   <data name="E339Title" xml:space="preserve">
     <value>E339</value>
@@ -2062,16 +2062,16 @@
     <value>E33</value>
   </data>
   <data name="E340Description" xml:space="preserve">
-    <value />
+    <value>The torque is higher than 40%The torque is higher than 40%</value>
   </data>
   <data name="E340Handling" xml:space="preserve">
-    <value />
+    <value>Please reduce the measuring torque in Honen.exe</value>
   </data>
   <data name="E340Internal" xml:space="preserve">
     <value>E340Internal</value>
   </data>
   <data name="E340Text" xml:space="preserve">
-    <value />
+    <value>Torque of X-Axis to high</value>
   </data>
   <data name="E340Title" xml:space="preserve">
     <value>E340</value>
@@ -2119,16 +2119,16 @@
     <value>Reference of absolut scale motor not unknown</value>
   </data>
   <data name="E399Description" xml:space="preserve">
-    <value />
+    <value>Program is with M32 stopped without exact NC-Diagnose</value>
   </data>
   <data name="E399Handling" xml:space="preserve">
-    <value />
+    <value>NC-Program check etc. new start.</value>
   </data>
   <data name="E399Internal" xml:space="preserve">
     <value>E399Internal</value>
   </data>
   <data name="E399Text" xml:space="preserve">
-    <value />
+    <value>Stop of NC-Program with M32</value>
   </data>
   <data name="E399Title" xml:space="preserve">
     <value>E399</value>
@@ -2810,5 +2810,815 @@
   </data>
   <data name="EE118Handling" xml:space="preserve">
     <value>Restart machine with main switch. See in diagnostic F6010 of Bosch Rexroth documentation.</value>
+  </data>
+  <data name="E272Handling" xml:space="preserve">
+    <value>Y5-Axis has to be moved by Hand.</value>
+  </data>
+  <data name="E400Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E400Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E400Internal" xml:space="preserve">
+    <value>E400Internal</value>
+  </data>
+  <data name="E400Text" xml:space="preserve">
+    <value>M-function M8 channel 2 "Honing oil high pressure on" not acknowledged</value>
+  </data>
+  <data name="E400Title" xml:space="preserve">
+    <value>E400</value>
+  </data>
+  <data name="E401Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E401Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E401Internal" xml:space="preserve">
+    <value>E401Internal</value>
+  </data>
+  <data name="E401Text" xml:space="preserve">
+    <value>M-function M8 channel 2 "Honing oil high pressure on" not acknowledged</value>
+  </data>
+  <data name="E401Title" xml:space="preserve">
+    <value>E401</value>
+  </data>
+  <data name="E402Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E402Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E402Internal" xml:space="preserve">
+    <value>E402Internal</value>
+  </data>
+  <data name="E402Text" xml:space="preserve">
+    <value>M-function M9 channel 2 "Honing oil high pressure off" not acknowledged</value>
+  </data>
+  <data name="E402Title" xml:space="preserve">
+    <value>E402</value>
+  </data>
+  <data name="E403Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E403Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E403Internal" xml:space="preserve">
+    <value>E403Internal</value>
+  </data>
+  <data name="E403Text" xml:space="preserve">
+    <value>M-function M9 channel 2 "Honing oil high pressure off" not acknowledged</value>
+  </data>
+  <data name="E403Title" xml:space="preserve">
+    <value>E403</value>
+  </data>
+  <data name="E404Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E404Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E404Internal" xml:space="preserve">
+    <value>E404Internal</value>
+  </data>
+  <data name="E404Text" xml:space="preserve">
+    <value>M-function M15 channel 2 "Splash door unlock and open" not acknowledged</value>
+  </data>
+  <data name="E404TItle" xml:space="preserve">
+    <value>E404</value>
+  </data>
+  <data name="E405Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E405Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E405Internal" xml:space="preserve">
+    <value>E405Internal</value>
+  </data>
+  <data name="E405Text" xml:space="preserve">
+    <value>M-function M15 channel 2 "Splash door unlock and open" not acknowledged</value>
+  </data>
+  <data name="E405Title" xml:space="preserve">
+    <value>E405</value>
+  </data>
+  <data name="E406Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E406Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E406Internal" xml:space="preserve">
+    <value>E406Internal</value>
+  </data>
+  <data name="E406Text" xml:space="preserve">
+    <value>M-function M16 channel 2 "Splash door close and lock" not acknowledged</value>
+  </data>
+  <data name="E406TItle" xml:space="preserve">
+    <value>E406</value>
+  </data>
+  <data name="E407Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E407Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E407Internal" xml:space="preserve">
+    <value>E407Internal</value>
+  </data>
+  <data name="E407Text" xml:space="preserve">
+    <value>M-function M16 channel 2 "Splash door close and lock"not acknowledged</value>
+  </data>
+  <data name="E407Title" xml:space="preserve">
+    <value>E407</value>
+  </data>
+  <data name="E408Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E408Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E408Internal" xml:space="preserve">
+    <value>E408Internal</value>
+  </data>
+  <data name="E408Text" xml:space="preserve">
+    <value>M-function M17 channel 2 "Safetydoor working area open" not acknowledged</value>
+  </data>
+  <data name="E408Title" xml:space="preserve">
+    <value>E408</value>
+  </data>
+  <data name="E409Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E409Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E409Internal" xml:space="preserve">
+    <value>E409Internal</value>
+  </data>
+  <data name="E409Text" xml:space="preserve">
+    <value>M-function M17 channel 2 "Safetydoor working area open" not acknowledged</value>
+  </data>
+  <data name="E409Title" xml:space="preserve">
+    <value>E409</value>
+  </data>
+  <data name="E410Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E410Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E410Internal" xml:space="preserve">
+    <value>E410Internal</value>
+  </data>
+  <data name="E410Text" xml:space="preserve">
+    <value>M-function M18 channel 2 "Safetydoor working area close" not acknowledged</value>
+  </data>
+  <data name="E410Title" xml:space="preserve">
+    <value>E410</value>
+  </data>
+  <data name="E411Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E411Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E411Internal" xml:space="preserve">
+    <value>E411Internal</value>
+  </data>
+  <data name="E411Text" xml:space="preserve">
+    <value>M-function M18 channel 2 "Safetydoor working area close" not acknowledged</value>
+  </data>
+  <data name="E411Title" xml:space="preserve">
+    <value>E411</value>
+  </data>
+  <data name="E412Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E412Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E412Internal" xml:space="preserve">
+    <value>E412Internal</value>
+  </data>
+  <data name="E412Text" xml:space="preserve">
+    <value>M-function M20 channel 2 "Unclamp tailstock clamping unit" not acknowledged</value>
+  </data>
+  <data name="E412Title" xml:space="preserve">
+    <value>E412</value>
+  </data>
+  <data name="E413Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E413Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E413Internal" xml:space="preserve">
+    <value>E413Internal</value>
+  </data>
+  <data name="E413Text" xml:space="preserve">
+    <value>M-function M20 channel 2 "Unclamp tailstock clamping unit" not acknowledged</value>
+  </data>
+  <data name="E413Title" xml:space="preserve">
+    <value>E413</value>
+  </data>
+  <data name="E414Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E414Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E414Internal" xml:space="preserve">
+    <value>E414Internal</value>
+  </data>
+  <data name="E414Text" xml:space="preserve">
+    <value>M-function M21 channel 2 "Clamp tailstock clamping unit" not acknowledged</value>
+  </data>
+  <data name="E414Title" xml:space="preserve">
+    <value>E414</value>
+  </data>
+  <data name="E415Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E415Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E415Internal" xml:space="preserve">
+    <value>E415Internal</value>
+  </data>
+  <data name="E415Text" xml:space="preserve">
+    <value>M-function M21 channel 2 "Clamp tailstock clamping unit" not acknowledged</value>
+  </data>
+  <data name="E415Title" xml:space="preserve">
+    <value>E415</value>
+  </data>
+  <data name="E416Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E416Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E416Internal" xml:space="preserve">
+    <value>E416Internal</value>
+  </data>
+  <data name="E416Text" xml:space="preserve">
+    <value>M-function M22 channel 2 "Bleed tailstock pipes" not acknowledged</value>
+  </data>
+  <data name="E416Title" xml:space="preserve">
+    <value>E416</value>
+  </data>
+  <data name="E417Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E417Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E417Internal" xml:space="preserve">
+    <value>E417Internal</value>
+  </data>
+  <data name="E417Text" xml:space="preserve">
+    <value>M-function M22 channel 2 "Blead tailstock pipes" not acknowledged</value>
+  </data>
+  <data name="E417Title" xml:space="preserve">
+    <value>E417</value>
+  </data>
+  <data name="E418Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E418Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E418Internal" xml:space="preserve">
+    <value>E418Internal</value>
+  </data>
+  <data name="E418Text" xml:space="preserve">
+    <value>M-function M23 channel 2 "Tailstock forward" not acknowledged</value>
+  </data>
+  <data name="E418Title" xml:space="preserve">
+    <value>E418</value>
+  </data>
+  <data name="E419Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E419Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E419Internal" xml:space="preserve">
+    <value>E419Internal</value>
+  </data>
+  <data name="E419Text" xml:space="preserve">
+    <value>M-function M23 channel 2 "Tailstock forward" not acknowledged</value>
+  </data>
+  <data name="E419Title" xml:space="preserve">
+    <value>E419</value>
+  </data>
+  <data name="E420Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E420Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E420Internal" xml:space="preserve">
+    <value>E420Internal</value>
+  </data>
+  <data name="E420Text" xml:space="preserve">
+    <value>M-function M24 channel 2 "Tailstock backward" not acknowledged</value>
+  </data>
+  <data name="E420Title" xml:space="preserve">
+    <value>E420</value>
+  </data>
+  <data name="E421Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E421Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E421Internal" xml:space="preserve">
+    <value>E421Internal</value>
+  </data>
+  <data name="E421Text" xml:space="preserve">
+    <value>M-function M24 channel 2 "Tailstock backward" not acknowledged</value>
+  </data>
+  <data name="E421Title" xml:space="preserve">
+    <value>E421</value>
+  </data>
+  <data name="E422Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E422Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E422Internal" xml:space="preserve">
+    <value>E422Internal</value>
+  </data>
+  <data name="E422Text" xml:space="preserve">
+    <value>M-function M27 channel 2 "Unclamp W-axis clamping unit" not acknowledged</value>
+  </data>
+  <data name="E422Title" xml:space="preserve">
+    <value>E422</value>
+  </data>
+  <data name="E423Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E423Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E423Internal" xml:space="preserve">
+    <value>E423Internal</value>
+  </data>
+  <data name="E423Text" xml:space="preserve">
+    <value>M-function M27 channel 2 "Unclamp W-axis clamping unit" not acknowledged</value>
+  </data>
+  <data name="E423Title" xml:space="preserve">
+    <value>E423</value>
+  </data>
+  <data name="E424Description" xml:space="preserve">
+    <value>Acknowledgment input is missing</value>
+  </data>
+  <data name="E424Handling" xml:space="preserve">
+    <value>Check missing input.</value>
+  </data>
+  <data name="E424Internal" xml:space="preserve">
+    <value>E424Internal</value>
+  </data>
+  <data name="E424Text" xml:space="preserve">
+    <value>M-function M28 channel 2 "Clamp W-axis clamping unit" not acknowledged</value>
+  </data>
+  <data name="E424Title" xml:space="preserve">
+    <value>E424</value>
+  </data>
+  <data name="E425Description" xml:space="preserve">
+    <value>Acknowledgment output is missing</value>
+  </data>
+  <data name="E425Handling" xml:space="preserve">
+    <value>Check missing output.</value>
+  </data>
+  <data name="E425Internal" xml:space="preserve">
+    <value>E425Internal</value>
+  </data>
+  <data name="E425Text" xml:space="preserve">
+    <value>M-function M28 channel 2 "Clamp W-axis clamping unit" not acknowledged</value>
+  </data>
+  <data name="E425Title" xml:space="preserve">
+    <value>E425</value>
+  </data>
+  <data name="E701Description" xml:space="preserve">
+    <value>In the Program configuration is No loader type selected</value>
+  </data>
+  <data name="E701Handling" xml:space="preserve">
+    <value>Select loader type in the Program configuration.</value>
+  </data>
+  <data name="E701Internal" xml:space="preserve">
+    <value>E701Internal</value>
+  </data>
+  <data name="E701Text" xml:space="preserve">
+    <value>No valid loader type selected</value>
+  </data>
+  <data name="E701Title" xml:space="preserve">
+    <value>E701</value>
+  </data>
+  <data name="E702Description" xml:space="preserve">
+    <value>The Spindle has to be always loaded for The clamping fixture to be protected</value>
+  </data>
+  <data name="E702Handling" xml:space="preserve">
+    <value>Check NC-Program-run.</value>
+  </data>
+  <data name="E702Internal" xml:space="preserve">
+    <value>E702Internal</value>
+  </data>
+  <data name="E702Text" xml:space="preserve">
+    <value>Nothing for loading spindle requested</value>
+  </data>
+  <data name="E702Title" xml:space="preserve">
+    <value>E702</value>
+  </data>
+  <data name="E704Description" xml:space="preserve">
+    <value>The measured value of the pitch of each tooth has been checked for plausibility and lies outside of the tolerance (+/-0.2  relative to the previous tooth)</value>
+  </data>
+  <data name="E704Handling" xml:space="preserve">
+    <value>Check number of teeth and pitch error of workpiece or dresser; check center initiator.</value>
+  </data>
+  <data name="E704Internal" xml:space="preserve">
+    <value>E704Internal</value>
+  </data>
+  <data name="E704Text" xml:space="preserve">
+    <value>Center/Test gear: Measured value incorrect: Pitch of a tooth not within tolerance</value>
+  </data>
+  <data name="E704Title" xml:space="preserve">
+    <value>E704</value>
+  </data>
+  <data name="E705Description" xml:space="preserve">
+    <value>The measurement in the drive-SPS is from the NC-Program stopped; No valid results available</value>
+  </data>
+  <data name="E705Handling" xml:space="preserve">
+    <value>NC-Program new start.</value>
+  </data>
+  <data name="E705Internal" xml:space="preserve">
+    <value>E705Internal</value>
+  </data>
+  <data name="E705Text" xml:space="preserve">
+    <value>Determination/test gear: measurement is stopped</value>
+  </data>
+  <data name="E705TItle" xml:space="preserve">
+    <value>E705</value>
+  </data>
+  <data name="E706Description" xml:space="preserve">
+    <value>In the drive-SPS there is a loss of Data By measuring process determined; No valid results available</value>
+  </data>
+  <data name="E706Handling" xml:space="preserve">
+    <value>NC-Program new start; by repeated accordance Check the drive-SPS.</value>
+  </data>
+  <data name="E706Internal" xml:space="preserve">
+    <value>E706Internal</value>
+  </data>
+  <data name="E706Text" xml:space="preserve">
+    <value>Determination/test gear: measurement faulty: loss of Data</value>
+  </data>
+  <data name="E706Title" xml:space="preserve">
+    <value>E706</value>
+  </data>
+  <data name="E707Description" xml:space="preserve">
+    <value>In the drive-SPS is a time over run By measuring process determined; No valid results available</value>
+  </data>
+  <data name="E707Handling" xml:space="preserve">
+    <value>NC-Program new start; by repeated accordance Check the drive-SPS.</value>
+  </data>
+  <data name="E707Internal" xml:space="preserve">
+    <value>E707Internal</value>
+  </data>
+  <data name="E707Text" xml:space="preserve">
+    <value>Determination/test gear: measurement faulty: Time out</value>
+  </data>
+  <data name="E707Title" xml:space="preserve">
+    <value>E707</value>
+  </data>
+  <data name="E708Description" xml:space="preserve">
+    <value>By measuring process is a cycle time over run the drive-SPS determined; No valid results available</value>
+  </data>
+  <data name="E708Handling" xml:space="preserve">
+    <value>NC-Program new start; by repeated accordance check the calculating initiator and</value>
+  </data>
+  <data name="E708Internal" xml:space="preserve">
+    <value>E708Internal</value>
+  </data>
+  <data name="E708Text" xml:space="preserve">
+    <value>Determination/test gear: drive-SPS-Last size 90%</value>
+  </data>
+  <data name="E708Title" xml:space="preserve">
+    <value>E708</value>
+  </data>
+  <data name="E709Description" xml:space="preserve">
+    <value>y measuring process is a over flow of the Data-Array measured value determined; No valid results available</value>
+  </data>
+  <data name="E709Handling" xml:space="preserve">
+    <value>NC-Program new start; by repeated accordance Check the drive</value>
+  </data>
+  <data name="E709Internal" xml:space="preserve">
+    <value>E709Internal</value>
+  </data>
+  <data name="E709Text" xml:space="preserve">
+    <value>Determination/test gear: over flow Data-Array the drive-SPS</value>
+  </data>
+  <data name="E709Title" xml:space="preserve">
+    <value>E709</value>
+  </data>
+  <data name="E710Description" xml:space="preserve">
+    <value>The measured value of tooth-Position is checked for plausibility and lays out side  the Tolerance (0,25*module&lt;tooth-Position&lt;2*module</value>
+  </data>
+  <data name="E710Handling" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E710Internal" xml:space="preserve">
+    <value>E710Internal</value>
+  </data>
+  <data name="E710Text" xml:space="preserve">
+    <value>Determination/test gear: measured value faulty: Position tooth out side the Tolerance</value>
+  </data>
+  <data name="E710Title" xml:space="preserve">
+    <value>E710</value>
+  </data>
+  <data name="E711Description" xml:space="preserve">
+    <value>The measured value of module is plausibility tested and lays outside  the Tolerance (360 /Number of teeth +/-0,1</value>
+  </data>
+  <data name="E711Handling" xml:space="preserve">
+    <value>Check number of teeth from wo</value>
+  </data>
+  <data name="E711Internal" xml:space="preserve">
+    <value>E711Internal</value>
+  </data>
+  <data name="E711Text" xml:space="preserve">
+    <value>Determination/test gear: measured value faulty: module out side the Tolerance</value>
+  </data>
+  <data name="E711Title" xml:space="preserve">
+    <value>E711</value>
+  </data>
+  <data name="E712Description" xml:space="preserve">
+    <value>Status bit "measurement ended correctly" from the drive-SPS is missing</value>
+  </data>
+  <data name="E712Handling" xml:space="preserve">
+    <value>NC-Program new start; by repeated accordance Check the drive-SPS.</value>
+  </data>
+  <data name="E712Internal" xml:space="preserve">
+    <value>E712Internal</value>
+  </data>
+  <data name="E712Text" xml:space="preserve">
+    <value>Determination/test gear: No valid results from the drive-SPS</value>
+  </data>
+  <data name="E712TItle" xml:space="preserve">
+    <value>E712</value>
+  </data>
+  <data name="E713Description" xml:space="preserve">
+    <value>Communication destroyed or results faulty</value>
+  </data>
+  <data name="E713Handling" xml:space="preserve">
+    <value>Measurement started over. Check communication.</value>
+  </data>
+  <data name="E713Internal" xml:space="preserve">
+    <value>E713Internal</value>
+  </data>
+  <data name="E713Text" xml:space="preserve">
+    <value>Determination/test gear: No valid results from Geber test gear to the right</value>
+  </data>
+  <data name="E713Title" xml:space="preserve">
+    <value>E713</value>
+  </data>
+  <data name="E714Description" xml:space="preserve">
+    <value>Gripper Gear dresser to the right occupied</value>
+  </data>
+  <data name="E714Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E714Internal" xml:space="preserve">
+    <value>E714Internal</value>
+  </data>
+  <data name="E714Text" xml:space="preserve">
+    <value>Unload Gear dresser to the right not possible, because the gripper is not empty</value>
+  </data>
+  <data name="E714Title" xml:space="preserve">
+    <value>E714</value>
+  </data>
+  <data name="E715Description" xml:space="preserve">
+    <value>Status gripper Gear dresser to the right not OK</value>
+  </data>
+  <data name="E715Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E715Internal" xml:space="preserve">
+    <value>E715Internal</value>
+  </data>
+  <data name="E715Text" xml:space="preserve">
+    <value>Unload Gear dresser to the right not possible, because the gripper status is not OK</value>
+  </data>
+  <data name="E715Title" xml:space="preserve">
+    <value>E715</value>
+  </data>
+  <data name="E716Description" xml:space="preserve">
+    <value>Gripper Head dresser to the right occupied</value>
+  </data>
+  <data name="E716Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E716Internal" xml:space="preserve">
+    <value>E716Internal</value>
+  </data>
+  <data name="E716Text" xml:space="preserve">
+    <value>Unload Head dresser to the right not possible, because the gripper is not empty</value>
+  </data>
+  <data name="E716Title" xml:space="preserve">
+    <value>E716</value>
+  </data>
+  <data name="E717Description" xml:space="preserve">
+    <value>Status gripper Head dresser to the right not OK</value>
+  </data>
+  <data name="E717Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E717Internal" xml:space="preserve">
+    <value>E717Internal</value>
+  </data>
+  <data name="E717Text" xml:space="preserve">
+    <value>Unload Head dresser to the right not possible, because the gripper status is not OK</value>
+  </data>
+  <data name="E717Title" xml:space="preserve">
+    <value>E717</value>
+  </data>
+  <data name="E718Description" xml:space="preserve">
+    <value>Gripper finished part to the right occupied</value>
+  </data>
+  <data name="E718Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E718Internal" xml:space="preserve">
+    <value>E718Internal</value>
+  </data>
+  <data name="E718Text" xml:space="preserve">
+    <value>Unload finished part to the right not possible, because the gripper is not empty</value>
+  </data>
+  <data name="E718Title" xml:space="preserve">
+    <value>E718</value>
+  </data>
+  <data name="E719Description" xml:space="preserve">
+    <value>Status gripper finished part to the right not OK</value>
+  </data>
+  <data name="E719Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E719Internal" xml:space="preserve">
+    <value>E719Internal</value>
+  </data>
+  <data name="E719Text" xml:space="preserve">
+    <value>Unload finished part to the right not possible, because the gripper status is not OK</value>
+  </data>
+  <data name="E719Title" xml:space="preserve">
+    <value>E719</value>
+  </data>
+  <data name="E720Description" xml:space="preserve">
+    <value>Gripper Master to the right occupied</value>
+  </data>
+  <data name="E720Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E720Internal" xml:space="preserve">
+    <value>E720Internal</value>
+  </data>
+  <data name="E720Text" xml:space="preserve">
+    <value>Unload Master to the right not possible, because the gripper is not empty</value>
+  </data>
+  <data name="E720Title" xml:space="preserve">
+    <value>E720</value>
+  </data>
+  <data name="E721Description" xml:space="preserve">
+    <value>Status gripper Master to the right not OK</value>
+  </data>
+  <data name="E721Handling" xml:space="preserve">
+    <value>Check the occupancy of the gripper.</value>
+  </data>
+  <data name="E721Internal" xml:space="preserve">
+    <value>E721Internal</value>
+  </data>
+  <data name="E721Text" xml:space="preserve">
+    <value>Unload Master to the right not possible, because the gripper status is not OK</value>
+  </data>
+  <data name="E721Title" xml:space="preserve">
+    <value>E721</value>
+  </data>
+  <data name="E722Description" xml:space="preserve">
+    <value>Spindle is already occupied</value>
+  </data>
+  <data name="E722Handling" xml:space="preserve">
+    <value>Check the occupancy of the Spindle.</value>
+  </data>
+  <data name="E722Internal" xml:space="preserve">
+    <value>E722Internal</value>
+  </data>
+  <data name="E722Text" xml:space="preserve">
+    <value>Load Spindle to the right not possible, because the Spindle is occupied</value>
+  </data>
+  <data name="E722Title" xml:space="preserve">
+    <value>E722</value>
+  </data>
+  <data name="E723Description" xml:space="preserve">
+    <value>Spindle in collision area</value>
+  </data>
+  <data name="E723Handling" xml:space="preserve">
+    <value>Spindle has to be moved by  Hand.</value>
+  </data>
+  <data name="E723Internal" xml:space="preserve">
+    <value>E723Internal</value>
+  </data>
+  <data name="E723Text" xml:space="preserve">
+    <value>Move to position not possible. Spindle in area gripper Raw part to the right</value>
+  </data>
+  <data name="E723Title" xml:space="preserve">
+    <value>E723</value>
+  </data>
+  <data name="E724Description" xml:space="preserve">
+    <value>Spindle in collision area</value>
+  </data>
+  <data name="E724Handling" xml:space="preserve">
+    <value>Spindle has to be moved by Hand.</value>
+  </data>
+  <data name="E724Internal" xml:space="preserve">
+    <value>E724Internal</value>
+  </data>
+  <data name="E724Text" xml:space="preserve">
+    <value>Move to position not possible. Spindle in area gripper finished part to the right</value>
+  </data>
+  <data name="E724Title" xml:space="preserve">
+    <value>E724</value>
+  </data>
+  <data name="E725Description" xml:space="preserve">
+    <value>Spindle in collision area</value>
+  </data>
+  <data name="E725Handling" xml:space="preserve">
+    <value>Spindle has to be moved by Hand.</value>
+  </data>
+  <data name="E725Internal" xml:space="preserve">
+    <value>E725Internal</value>
+  </data>
+  <data name="E725Text" xml:space="preserve">
+    <value>Move to position not possible. Spindle in area gripper Head dresser to the right</value>
+  </data>
+  <data name="E725Title" xml:space="preserve">
+    <value>E725</value>
+  </data>
+  <data name="E726Description" xml:space="preserve">
+    <value>Spindle in collision area</value>
+  </data>
+  <data name="E726Handling" xml:space="preserve">
+    <value>Spindle has to be moved by Hand.</value>
+  </data>
+  <data name="E726Internal" xml:space="preserve">
+    <value>E726Internal</value>
+  </data>
+  <data name="E726Text" xml:space="preserve">
+    <value>Move to position not possible. Spindle in area gripper Gear dresser to the right</value>
+  </data>
+  <data name="E726Title" xml:space="preserve">
+    <value>E726</value>
+  </data>
+  <data name="E727Description" xml:space="preserve">
+    <value>Y5-Axis in collision area</value>
+  </data>
+  <data name="E727Internal" xml:space="preserve">
+    <value>E727Internal</value>
+  </data>
+  <data name="E727Text" xml:space="preserve">
+    <value>Move to position not possible. Y5-Axis in area gripper Raw part to the right</value>
+  </data>
+  <data name="E727Title" xml:space="preserve">
+    <value>E727</value>
+  </data>
+  <data name="E728Description" xml:space="preserve">
+    <value>Y5-Axis in collision area</value>
+  </data>
+  <data name="E728Handling" xml:space="preserve">
+    <value>Y5-Axis has to be moved by Hand.</value>
+  </data>
+  <data name="E728Internal" xml:space="preserve">
+    <value>E728Internal</value>
+  </data>
+  <data name="E728Text" xml:space="preserve">
+    <value>Move to position not possible. Y5-Axis in area gripper finished part to the right</value>
+  </data>
+  <data name="E728Title" xml:space="preserve">
+    <value>E728</value>
+  </data>
+  <data name="E729Description" xml:space="preserve">
+    <value>Status not correct</value>
+  </data>
+  <data name="E729Handling" xml:space="preserve">
+    <value>Please check machine status in HMI.</value>
+  </data>
+  <data name="E729Internal" xml:space="preserve">
+    <value>E729Internal</value>
+  </data>
+  <data name="E729Text" xml:space="preserve">
+    <value>Homeposition not possible. Status of spindle right is empty</value>
+  </data>
+  <data name="E729Title" xml:space="preserve">
+    <value>E729</value>
   </data>
 </root>

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GearErrorHelper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+61c1ededee9144deb9b6007187f8cd2b3a93ecb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+20ecef37a0db533d7edae6029764e2b2393a0ddf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GearErrorHelper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GearErrorHelper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

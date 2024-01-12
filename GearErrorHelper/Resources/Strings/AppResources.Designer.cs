@@ -3382,6 +3382,15 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis has to be moved by Hand. ähnelt.
+        /// </summary>
+        internal static string E272Handling {
+            get {
+                return ResourceManager.GetString("E272Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Switch setting usermanangment does not allow simulation mode ähnelt.
         /// </summary>
         internal static string E27Description {
@@ -4453,7 +4462,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No Head dresser on Spindle to the left ähnelt.
         /// </summary>
         internal static string E319Description {
             get {
@@ -4462,7 +4471,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the Spindle. ähnelt.
         /// </summary>
         internal static string E319Handling {
             get {
@@ -4480,7 +4489,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility profiling head ähnelt.
         /// </summary>
         internal static string E319Text {
             get {
@@ -4543,7 +4552,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No Head dresser on Spindle to the right ähnelt.
         /// </summary>
         internal static string E320Description {
             get {
@@ -4552,7 +4561,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the Spindle. ähnelt.
         /// </summary>
         internal static string E320Handling {
             get {
@@ -4570,7 +4579,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility dressing head ähnelt.
         /// </summary>
         internal static string E320Text {
             get {
@@ -4588,7 +4597,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No Head dresser on Spindle to the left ähnelt.
         /// </summary>
         internal static string E321Description {
             get {
@@ -4597,7 +4606,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the Spindle. ähnelt.
         /// </summary>
         internal static string E321Handling {
             get {
@@ -4615,7 +4624,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility dressing head ähnelt.
         /// </summary>
         internal static string E321Text {
             get {
@@ -4633,7 +4642,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Communication destroyed ähnelt.
         /// </summary>
         internal static string E322Description {
             get {
@@ -4642,7 +4651,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Connection has to be obtained again. ähnelt.
         /// </summary>
         internal static string E322Handling {
             get {
@@ -4660,7 +4669,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No Data from surface obtained ähnelt.
         /// </summary>
         internal static string E322Text {
             get {
@@ -4678,7 +4687,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Position the spray guards not OK ähnelt.
         /// </summary>
         internal static string E323Description {
             get {
@@ -4687,7 +4696,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Bring the splash guard from Hand in position. ähnelt.
         /// </summary>
         internal static string E323Handling {
             get {
@@ -4705,7 +4714,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Moving the Z-Axis not possible. Splash guard not in position ähnelt.
         /// </summary>
         internal static string E323Text {
             get {
@@ -4723,7 +4732,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement faulty ähnelt.
         /// </summary>
         internal static string E324Drescription {
             get {
@@ -4732,7 +4741,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement has to be repeated. ähnelt.
         /// </summary>
         internal static string E324Handling {
             get {
@@ -4750,7 +4759,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement at the stationary stop faulty ähnelt.
         /// </summary>
         internal static string E324Text {
             get {
@@ -4768,7 +4777,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Values not correct ähnelt.
         /// </summary>
         internal static string E325Description {
             get {
@@ -4777,7 +4786,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please enter the correct values for the U-Axis. ähnelt.
         /// </summary>
         internal static string E325Handling {
             get {
@@ -4795,7 +4804,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Reference of the U-Axis is not possible, because the entered value of the Park position is not correct ähnelt.
         /// </summary>
         internal static string E325Text {
             get {
@@ -4813,7 +4822,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Values on Honing screen are not correct ähnelt.
         /// </summary>
         internal static string E326Description {
             get {
@@ -4822,7 +4831,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please enter the correct position. ähnelt.
         /// </summary>
         internal static string E326Handling {
             get {
@@ -4840,7 +4849,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Tooth to tooth position of the Z-Axis has been incorrectly calculated ähnelt.
         /// </summary>
         internal static string E326Text {
             get {
@@ -4858,7 +4867,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Entered value on the Hon screen not correct ähnelt.
         /// </summary>
         internal static string E327Description {
             get {
@@ -4867,7 +4876,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please enter the correct position. ähnelt.
         /// </summary>
         internal static string E327Handling {
             get {
@@ -4885,7 +4894,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Z - position Honing head middle has been incorrectly calculated ähnelt.
         /// </summary>
         internal static string E327Text {
             get {
@@ -4903,7 +4912,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E328Description {
             get {
@@ -4912,7 +4921,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E328Handling {
             get {
@@ -4930,7 +4939,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty data exchange right spindle surface &lt;&gt; NC ähnelt.
         /// </summary>
         internal static string E328Text {
             get {
@@ -4948,7 +4957,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E329Description {
             get {
@@ -4957,7 +4966,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E329Handling {
             get {
@@ -4975,7 +4984,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Time error data exchange surface &lt;&gt; NC ähnelt.
         /// </summary>
         internal static string E329Text {
             get {
@@ -5038,7 +5047,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E330Description {
             get {
@@ -5047,7 +5056,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E330Handling {
             get {
@@ -5065,7 +5074,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty data exchange left spindle surface &lt;&gt; NC ähnelt.
         /// </summary>
         internal static string E330Text {
             get {
@@ -5083,7 +5092,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Faulty or no data exchange between honing surface and NC program ähnelt.
         /// </summary>
         internal static string E331Description {
             get {
@@ -5092,7 +5101,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check completeness of data and communication. ähnelt.
         /// </summary>
         internal static string E331Handling {
             get {
@@ -5110,7 +5119,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Parameter for profiling honing ring with VSD/P dressing machine not conveyed correctly ähnelt.
         /// </summary>
         internal static string E331Text {
             get {
@@ -5128,7 +5137,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No VSD dressing machine on right spindle ähnelt.
         /// </summary>
         internal static string E332Description {
             get {
@@ -5137,7 +5146,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check spindle assignment. ähnelt.
         /// </summary>
         internal static string E332Handling {
             get {
@@ -5155,7 +5164,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility VSD dressing ähnelt.
         /// </summary>
         internal static string E332Text {
             get {
@@ -5173,7 +5182,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No VSD dressing machine on left spindle ähnelt.
         /// </summary>
         internal static string E333Description {
             get {
@@ -5182,7 +5191,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check spindle assignment. ähnelt.
         /// </summary>
         internal static string E333Handling {
             get {
@@ -5200,7 +5209,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility VSD dressing ähnelt.
         /// </summary>
         internal static string E333Text {
             get {
@@ -5218,7 +5227,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No VSD dressing machine on right spindle ähnelt.
         /// </summary>
         internal static string E334Description {
             get {
@@ -5227,7 +5236,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check spindle assignment. ähnelt.
         /// </summary>
         internal static string E334Handling {
             get {
@@ -5245,7 +5254,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility VSD profiling ähnelt.
         /// </summary>
         internal static string E334Text {
             get {
@@ -5263,7 +5272,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No VSD dressing machine on left spindle ähnelt.
         /// </summary>
         internal static string E335Description {
             get {
@@ -5272,7 +5281,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check spindle assignment. ähnelt.
         /// </summary>
         internal static string E335Handling {
             get {
@@ -5290,7 +5299,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Plausibility VSD profiling ähnelt.
         /// </summary>
         internal static string E335Text {
             get {
@@ -5308,7 +5317,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Ready signal of honing screen unavailable ähnelt.
         /// </summary>
         internal static string E336Description {
             get {
@@ -5317,7 +5326,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please restart the machine ähnelt.
         /// </summary>
         internal static string E336Handling {
             get {
@@ -5335,7 +5344,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Error data synchronisation between NC and honing screen ähnelt.
         /// </summary>
         internal static string E336Text {
             get {
@@ -5353,7 +5362,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die W-axis could not be positioned exactly ähnelt.
         /// </summary>
         internal static string E337Description {
             get {
@@ -5362,7 +5371,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the honing head for soiling and clean if necessary. ähnelt.
         /// </summary>
         internal static string E337Handling {
             get {
@@ -5380,7 +5389,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Positioning of the W-axis failed ähnelt.
         /// </summary>
         internal static string E337Text {
             get {
@@ -5407,7 +5416,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please restart the machine ähnelt.
         /// </summary>
         internal static string E338Handling {
             get {
@@ -5425,7 +5434,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Timout data exchange Honen.exe/NC after request of coupling table data ähnelt.
         /// </summary>
         internal static string E338Text {
             get {
@@ -5443,7 +5452,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Ready signal of honing screen unavailable ähnelt.
         /// </summary>
         internal static string E339Description {
             get {
@@ -5452,7 +5461,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please restart the machine ähnelt.
         /// </summary>
         internal static string E339Handling {
             get {
@@ -5470,7 +5479,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Error data synchronisation between NC and honing screen ähnelt.
         /// </summary>
         internal static string E339Text {
             get {
@@ -5533,7 +5542,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The torque is higher than 40%The torque is higher than 40% ähnelt.
         /// </summary>
         internal static string E340Description {
             get {
@@ -5542,7 +5551,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please reduce the measuring torque in Honen.exe ähnelt.
         /// </summary>
         internal static string E340Handling {
             get {
@@ -5560,7 +5569,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Torque of X-Axis to high ähnelt.
         /// </summary>
         internal static string E340Text {
             get {
@@ -5704,7 +5713,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Program is with M32 stopped without exact NC-Diagnose ähnelt.
         /// </summary>
         internal static string E399Description {
             get {
@@ -5713,7 +5722,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program check etc. new start. ähnelt.
         /// </summary>
         internal static string E399Handling {
             get {
@@ -5731,7 +5740,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Stop of NC-Program with M32 ähnelt.
         /// </summary>
         internal static string E399Text {
             get {
@@ -5839,6 +5848,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E400Description {
+            get {
+                return ResourceManager.GetString("E400Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E400Handling {
+            get {
+                return ResourceManager.GetString("E400Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E400Internal ähnelt.
+        /// </summary>
+        internal static string E400Internal {
+            get {
+                return ResourceManager.GetString("E400Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M8 channel 2 &quot;Honing oil high pressure on&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E400Text {
+            get {
+                return ResourceManager.GetString("E400Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E400 ähnelt.
+        /// </summary>
+        internal static string E400Title {
+            get {
+                return ResourceManager.GetString("E400Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E401Description {
+            get {
+                return ResourceManager.GetString("E401Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E401Handling {
+            get {
+                return ResourceManager.GetString("E401Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E401Internal ähnelt.
+        /// </summary>
+        internal static string E401Internal {
+            get {
+                return ResourceManager.GetString("E401Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M8 channel 2 &quot;Honing oil high pressure on&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E401Text {
+            get {
+                return ResourceManager.GetString("E401Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E401 ähnelt.
+        /// </summary>
+        internal static string E401Title {
+            get {
+                return ResourceManager.GetString("E401Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E402Description {
+            get {
+                return ResourceManager.GetString("E402Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E402Handling {
+            get {
+                return ResourceManager.GetString("E402Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E402Internal ähnelt.
+        /// </summary>
+        internal static string E402Internal {
+            get {
+                return ResourceManager.GetString("E402Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M9 channel 2 &quot;Honing oil high pressure off&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E402Text {
+            get {
+                return ResourceManager.GetString("E402Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E402 ähnelt.
+        /// </summary>
+        internal static string E402Title {
+            get {
+                return ResourceManager.GetString("E402Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E403Description {
+            get {
+                return ResourceManager.GetString("E403Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E403Handling {
+            get {
+                return ResourceManager.GetString("E403Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E403Internal ähnelt.
+        /// </summary>
+        internal static string E403Internal {
+            get {
+                return ResourceManager.GetString("E403Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M9 channel 2 &quot;Honing oil high pressure off&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E403Text {
+            get {
+                return ResourceManager.GetString("E403Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E403 ähnelt.
+        /// </summary>
+        internal static string E403Title {
+            get {
+                return ResourceManager.GetString("E403Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E404Description {
+            get {
+                return ResourceManager.GetString("E404Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E404Handling {
+            get {
+                return ResourceManager.GetString("E404Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E404Internal ähnelt.
+        /// </summary>
+        internal static string E404Internal {
+            get {
+                return ResourceManager.GetString("E404Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M15 channel 2 &quot;Splash door unlock and open&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E404Text {
+            get {
+                return ResourceManager.GetString("E404Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E404 ähnelt.
+        /// </summary>
+        internal static string E404TItle {
+            get {
+                return ResourceManager.GetString("E404TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E405Description {
+            get {
+                return ResourceManager.GetString("E405Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E405Handling {
+            get {
+                return ResourceManager.GetString("E405Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E405Internal ähnelt.
+        /// </summary>
+        internal static string E405Internal {
+            get {
+                return ResourceManager.GetString("E405Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M15 channel 2 &quot;Splash door unlock and open&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E405Text {
+            get {
+                return ResourceManager.GetString("E405Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E405 ähnelt.
+        /// </summary>
+        internal static string E405Title {
+            get {
+                return ResourceManager.GetString("E405Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E406Description {
+            get {
+                return ResourceManager.GetString("E406Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E406Handling {
+            get {
+                return ResourceManager.GetString("E406Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E406Internal ähnelt.
+        /// </summary>
+        internal static string E406Internal {
+            get {
+                return ResourceManager.GetString("E406Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M16 channel 2 &quot;Splash door close and lock&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E406Text {
+            get {
+                return ResourceManager.GetString("E406Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E406 ähnelt.
+        /// </summary>
+        internal static string E406TItle {
+            get {
+                return ResourceManager.GetString("E406TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E407Description {
+            get {
+                return ResourceManager.GetString("E407Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E407Handling {
+            get {
+                return ResourceManager.GetString("E407Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E407Internal ähnelt.
+        /// </summary>
+        internal static string E407Internal {
+            get {
+                return ResourceManager.GetString("E407Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M16 channel 2 &quot;Splash door close and lock&quot;not acknowledged ähnelt.
+        /// </summary>
+        internal static string E407Text {
+            get {
+                return ResourceManager.GetString("E407Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E407 ähnelt.
+        /// </summary>
+        internal static string E407Title {
+            get {
+                return ResourceManager.GetString("E407Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E408Description {
+            get {
+                return ResourceManager.GetString("E408Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E408Handling {
+            get {
+                return ResourceManager.GetString("E408Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E408Internal ähnelt.
+        /// </summary>
+        internal static string E408Internal {
+            get {
+                return ResourceManager.GetString("E408Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M17 channel 2 &quot;Safetydoor working area open&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E408Text {
+            get {
+                return ResourceManager.GetString("E408Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E408 ähnelt.
+        /// </summary>
+        internal static string E408Title {
+            get {
+                return ResourceManager.GetString("E408Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E409Description {
+            get {
+                return ResourceManager.GetString("E409Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E409Handling {
+            get {
+                return ResourceManager.GetString("E409Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E409Internal ähnelt.
+        /// </summary>
+        internal static string E409Internal {
+            get {
+                return ResourceManager.GetString("E409Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M17 channel 2 &quot;Safetydoor working area open&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E409Text {
+            get {
+                return ResourceManager.GetString("E409Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E409 ähnelt.
+        /// </summary>
+        internal static string E409Title {
+            get {
+                return ResourceManager.GetString("E409Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Workpiece not activated in the file system ähnelt.
         /// </summary>
         internal static string E40Description {
@@ -5884,6 +6343,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E410Description {
+            get {
+                return ResourceManager.GetString("E410Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E410Handling {
+            get {
+                return ResourceManager.GetString("E410Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E410Internal ähnelt.
+        /// </summary>
+        internal static string E410Internal {
+            get {
+                return ResourceManager.GetString("E410Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M18 channel 2 &quot;Safetydoor working area close&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E410Text {
+            get {
+                return ResourceManager.GetString("E410Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E410 ähnelt.
+        /// </summary>
+        internal static string E410Title {
+            get {
+                return ResourceManager.GetString("E410Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E411Description {
+            get {
+                return ResourceManager.GetString("E411Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E411Handling {
+            get {
+                return ResourceManager.GetString("E411Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E411Internal ähnelt.
+        /// </summary>
+        internal static string E411Internal {
+            get {
+                return ResourceManager.GetString("E411Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M18 channel 2 &quot;Safetydoor working area close&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E411Text {
+            get {
+                return ResourceManager.GetString("E411Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E411 ähnelt.
+        /// </summary>
+        internal static string E411Title {
+            get {
+                return ResourceManager.GetString("E411Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E412Description {
+            get {
+                return ResourceManager.GetString("E412Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E412Handling {
+            get {
+                return ResourceManager.GetString("E412Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E412Internal ähnelt.
+        /// </summary>
+        internal static string E412Internal {
+            get {
+                return ResourceManager.GetString("E412Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M20 channel 2 &quot;Unclamp tailstock clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E412Text {
+            get {
+                return ResourceManager.GetString("E412Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E412 ähnelt.
+        /// </summary>
+        internal static string E412Title {
+            get {
+                return ResourceManager.GetString("E412Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E413Description {
+            get {
+                return ResourceManager.GetString("E413Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E413Handling {
+            get {
+                return ResourceManager.GetString("E413Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E413Internal ähnelt.
+        /// </summary>
+        internal static string E413Internal {
+            get {
+                return ResourceManager.GetString("E413Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M20 channel 2 &quot;Unclamp tailstock clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E413Text {
+            get {
+                return ResourceManager.GetString("E413Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E413 ähnelt.
+        /// </summary>
+        internal static string E413Title {
+            get {
+                return ResourceManager.GetString("E413Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E414Description {
+            get {
+                return ResourceManager.GetString("E414Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E414Handling {
+            get {
+                return ResourceManager.GetString("E414Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E414Internal ähnelt.
+        /// </summary>
+        internal static string E414Internal {
+            get {
+                return ResourceManager.GetString("E414Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M21 channel 2 &quot;Clamp tailstock clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E414Text {
+            get {
+                return ResourceManager.GetString("E414Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E414 ähnelt.
+        /// </summary>
+        internal static string E414Title {
+            get {
+                return ResourceManager.GetString("E414Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E415Description {
+            get {
+                return ResourceManager.GetString("E415Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E415Handling {
+            get {
+                return ResourceManager.GetString("E415Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E415Internal ähnelt.
+        /// </summary>
+        internal static string E415Internal {
+            get {
+                return ResourceManager.GetString("E415Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M21 channel 2 &quot;Clamp tailstock clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E415Text {
+            get {
+                return ResourceManager.GetString("E415Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E415 ähnelt.
+        /// </summary>
+        internal static string E415Title {
+            get {
+                return ResourceManager.GetString("E415Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E416Description {
+            get {
+                return ResourceManager.GetString("E416Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E416Handling {
+            get {
+                return ResourceManager.GetString("E416Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E416Internal ähnelt.
+        /// </summary>
+        internal static string E416Internal {
+            get {
+                return ResourceManager.GetString("E416Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M22 channel 2 &quot;Bleed tailstock pipes&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E416Text {
+            get {
+                return ResourceManager.GetString("E416Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E416 ähnelt.
+        /// </summary>
+        internal static string E416Title {
+            get {
+                return ResourceManager.GetString("E416Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E417Description {
+            get {
+                return ResourceManager.GetString("E417Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E417Handling {
+            get {
+                return ResourceManager.GetString("E417Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E417Internal ähnelt.
+        /// </summary>
+        internal static string E417Internal {
+            get {
+                return ResourceManager.GetString("E417Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M22 channel 2 &quot;Blead tailstock pipes&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E417Text {
+            get {
+                return ResourceManager.GetString("E417Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E417 ähnelt.
+        /// </summary>
+        internal static string E417Title {
+            get {
+                return ResourceManager.GetString("E417Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E418Description {
+            get {
+                return ResourceManager.GetString("E418Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E418Handling {
+            get {
+                return ResourceManager.GetString("E418Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E418Internal ähnelt.
+        /// </summary>
+        internal static string E418Internal {
+            get {
+                return ResourceManager.GetString("E418Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M23 channel 2 &quot;Tailstock forward&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E418Text {
+            get {
+                return ResourceManager.GetString("E418Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E418 ähnelt.
+        /// </summary>
+        internal static string E418Title {
+            get {
+                return ResourceManager.GetString("E418Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E419Description {
+            get {
+                return ResourceManager.GetString("E419Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E419Handling {
+            get {
+                return ResourceManager.GetString("E419Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E419Internal ähnelt.
+        /// </summary>
+        internal static string E419Internal {
+            get {
+                return ResourceManager.GetString("E419Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M23 channel 2 &quot;Tailstock forward&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E419Text {
+            get {
+                return ResourceManager.GetString("E419Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E419 ähnelt.
+        /// </summary>
+        internal static string E419Title {
+            get {
+                return ResourceManager.GetString("E419Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Position of the assembly aid on moving the axes not OK ähnelt.
         /// </summary>
         internal static string E41Description {
@@ -5925,6 +6834,276 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E41Title {
             get {
                 return ResourceManager.GetString("E41Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E420Description {
+            get {
+                return ResourceManager.GetString("E420Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E420Handling {
+            get {
+                return ResourceManager.GetString("E420Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E420Internal ähnelt.
+        /// </summary>
+        internal static string E420Internal {
+            get {
+                return ResourceManager.GetString("E420Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M24 channel 2 &quot;Tailstock backward&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E420Text {
+            get {
+                return ResourceManager.GetString("E420Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E420 ähnelt.
+        /// </summary>
+        internal static string E420Title {
+            get {
+                return ResourceManager.GetString("E420Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E421Description {
+            get {
+                return ResourceManager.GetString("E421Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E421Handling {
+            get {
+                return ResourceManager.GetString("E421Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E421Internal ähnelt.
+        /// </summary>
+        internal static string E421Internal {
+            get {
+                return ResourceManager.GetString("E421Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M24 channel 2 &quot;Tailstock backward&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E421Text {
+            get {
+                return ResourceManager.GetString("E421Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E421 ähnelt.
+        /// </summary>
+        internal static string E421Title {
+            get {
+                return ResourceManager.GetString("E421Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E422Description {
+            get {
+                return ResourceManager.GetString("E422Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E422Handling {
+            get {
+                return ResourceManager.GetString("E422Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E422Internal ähnelt.
+        /// </summary>
+        internal static string E422Internal {
+            get {
+                return ResourceManager.GetString("E422Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M27 channel 2 &quot;Unclamp W-axis clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E422Text {
+            get {
+                return ResourceManager.GetString("E422Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E422 ähnelt.
+        /// </summary>
+        internal static string E422Title {
+            get {
+                return ResourceManager.GetString("E422Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E423Description {
+            get {
+                return ResourceManager.GetString("E423Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E423Handling {
+            get {
+                return ResourceManager.GetString("E423Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E423Internal ähnelt.
+        /// </summary>
+        internal static string E423Internal {
+            get {
+                return ResourceManager.GetString("E423Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M27 channel 2 &quot;Unclamp W-axis clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E423Text {
+            get {
+                return ResourceManager.GetString("E423Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E423 ähnelt.
+        /// </summary>
+        internal static string E423Title {
+            get {
+                return ResourceManager.GetString("E423Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment input is missing ähnelt.
+        /// </summary>
+        internal static string E424Description {
+            get {
+                return ResourceManager.GetString("E424Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing input. ähnelt.
+        /// </summary>
+        internal static string E424Handling {
+            get {
+                return ResourceManager.GetString("E424Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E424Internal ähnelt.
+        /// </summary>
+        internal static string E424Internal {
+            get {
+                return ResourceManager.GetString("E424Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M28 channel 2 &quot;Clamp W-axis clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E424Text {
+            get {
+                return ResourceManager.GetString("E424Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E424 ähnelt.
+        /// </summary>
+        internal static string E424Title {
+            get {
+                return ResourceManager.GetString("E424Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Acknowledgment output is missing ähnelt.
+        /// </summary>
+        internal static string E425Description {
+            get {
+                return ResourceManager.GetString("E425Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check missing output. ähnelt.
+        /// </summary>
+        internal static string E425Handling {
+            get {
+                return ResourceManager.GetString("E425Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E425Internal ähnelt.
+        /// </summary>
+        internal static string E425Internal {
+            get {
+                return ResourceManager.GetString("E425Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die M-function M28 channel 2 &quot;Clamp W-axis clamping unit&quot; not acknowledged ähnelt.
+        /// </summary>
+        internal static string E425Text {
+            get {
+                return ResourceManager.GetString("E425Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E425 ähnelt.
+        /// </summary>
+        internal static string E425Title {
+            get {
+                return ResourceManager.GetString("E425Title", resourceCulture);
             }
         }
         
@@ -7054,6 +8233,366 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die In the Program configuration is No loader type selected ähnelt.
+        /// </summary>
+        internal static string E701Description {
+            get {
+                return ResourceManager.GetString("E701Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Select loader type in the Program configuration. ähnelt.
+        /// </summary>
+        internal static string E701Handling {
+            get {
+                return ResourceManager.GetString("E701Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E701Internal ähnelt.
+        /// </summary>
+        internal static string E701Internal {
+            get {
+                return ResourceManager.GetString("E701Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die No valid loader type selected ähnelt.
+        /// </summary>
+        internal static string E701Text {
+            get {
+                return ResourceManager.GetString("E701Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E701 ähnelt.
+        /// </summary>
+        internal static string E701Title {
+            get {
+                return ResourceManager.GetString("E701Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The Spindle has to be always loaded for The clamping fixture to be protected ähnelt.
+        /// </summary>
+        internal static string E702Description {
+            get {
+                return ResourceManager.GetString("E702Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check NC-Program-run. ähnelt.
+        /// </summary>
+        internal static string E702Handling {
+            get {
+                return ResourceManager.GetString("E702Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E702Internal ähnelt.
+        /// </summary>
+        internal static string E702Internal {
+            get {
+                return ResourceManager.GetString("E702Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Nothing for loading spindle requested ähnelt.
+        /// </summary>
+        internal static string E702Text {
+            get {
+                return ResourceManager.GetString("E702Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E702 ähnelt.
+        /// </summary>
+        internal static string E702Title {
+            get {
+                return ResourceManager.GetString("E702Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measured value of the pitch of each tooth has been checked for plausibility and lies outside of the tolerance (+/-0.2  relative to the previous tooth) ähnelt.
+        /// </summary>
+        internal static string E704Description {
+            get {
+                return ResourceManager.GetString("E704Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check number of teeth and pitch error of workpiece or dresser; check center initiator. ähnelt.
+        /// </summary>
+        internal static string E704Handling {
+            get {
+                return ResourceManager.GetString("E704Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E704Internal ähnelt.
+        /// </summary>
+        internal static string E704Internal {
+            get {
+                return ResourceManager.GetString("E704Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Center/Test gear: Measured value incorrect: Pitch of a tooth not within tolerance ähnelt.
+        /// </summary>
+        internal static string E704Text {
+            get {
+                return ResourceManager.GetString("E704Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E704 ähnelt.
+        /// </summary>
+        internal static string E704Title {
+            get {
+                return ResourceManager.GetString("E704Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measurement in the drive-SPS is from the NC-Program stopped; No valid results available ähnelt.
+        /// </summary>
+        internal static string E705Description {
+            get {
+                return ResourceManager.GetString("E705Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start. ähnelt.
+        /// </summary>
+        internal static string E705Handling {
+            get {
+                return ResourceManager.GetString("E705Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E705Internal ähnelt.
+        /// </summary>
+        internal static string E705Internal {
+            get {
+                return ResourceManager.GetString("E705Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measurement is stopped ähnelt.
+        /// </summary>
+        internal static string E705Text {
+            get {
+                return ResourceManager.GetString("E705Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E705 ähnelt.
+        /// </summary>
+        internal static string E705TItle {
+            get {
+                return ResourceManager.GetString("E705TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die In the drive-SPS there is a loss of Data By measuring process determined; No valid results available ähnelt.
+        /// </summary>
+        internal static string E706Description {
+            get {
+                return ResourceManager.GetString("E706Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive-SPS. ähnelt.
+        /// </summary>
+        internal static string E706Handling {
+            get {
+                return ResourceManager.GetString("E706Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E706Internal ähnelt.
+        /// </summary>
+        internal static string E706Internal {
+            get {
+                return ResourceManager.GetString("E706Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measurement faulty: loss of Data ähnelt.
+        /// </summary>
+        internal static string E706Text {
+            get {
+                return ResourceManager.GetString("E706Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E706 ähnelt.
+        /// </summary>
+        internal static string E706Title {
+            get {
+                return ResourceManager.GetString("E706Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die In the drive-SPS is a time over run By measuring process determined; No valid results available ähnelt.
+        /// </summary>
+        internal static string E707Description {
+            get {
+                return ResourceManager.GetString("E707Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive-SPS. ähnelt.
+        /// </summary>
+        internal static string E707Handling {
+            get {
+                return ResourceManager.GetString("E707Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E707Internal ähnelt.
+        /// </summary>
+        internal static string E707Internal {
+            get {
+                return ResourceManager.GetString("E707Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measurement faulty: Time out ähnelt.
+        /// </summary>
+        internal static string E707Text {
+            get {
+                return ResourceManager.GetString("E707Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E707 ähnelt.
+        /// </summary>
+        internal static string E707Title {
+            get {
+                return ResourceManager.GetString("E707Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die By measuring process is a cycle time over run the drive-SPS determined; No valid results available ähnelt.
+        /// </summary>
+        internal static string E708Description {
+            get {
+                return ResourceManager.GetString("E708Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance check the calculating initiator and ähnelt.
+        /// </summary>
+        internal static string E708Handling {
+            get {
+                return ResourceManager.GetString("E708Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E708Internal ähnelt.
+        /// </summary>
+        internal static string E708Internal {
+            get {
+                return ResourceManager.GetString("E708Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: drive-SPS-Last size 90% ähnelt.
+        /// </summary>
+        internal static string E708Text {
+            get {
+                return ResourceManager.GetString("E708Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E708 ähnelt.
+        /// </summary>
+        internal static string E708Title {
+            get {
+                return ResourceManager.GetString("E708Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die y measuring process is a over flow of the Data-Array measured value determined; No valid results available ähnelt.
+        /// </summary>
+        internal static string E709Description {
+            get {
+                return ResourceManager.GetString("E709Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive ähnelt.
+        /// </summary>
+        internal static string E709Handling {
+            get {
+                return ResourceManager.GetString("E709Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E709Internal ähnelt.
+        /// </summary>
+        internal static string E709Internal {
+            get {
+                return ResourceManager.GetString("E709Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: over flow Data-Array the drive-SPS ähnelt.
+        /// </summary>
+        internal static string E709Text {
+            get {
+                return ResourceManager.GetString("E709Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E709 ähnelt.
+        /// </summary>
+        internal static string E709Title {
+            get {
+                return ResourceManager.GetString("E709Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the Spindle and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E70Description {
@@ -7099,6 +8638,456 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measured value of tooth-Position is checked for plausibility and lays out side  the Tolerance (0,25*module&lt;tooth-Position&lt;2*module ähnelt.
+        /// </summary>
+        internal static string E710Description {
+            get {
+                return ResourceManager.GetString("E710Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string E710Handling {
+            get {
+                return ResourceManager.GetString("E710Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E710Internal ähnelt.
+        /// </summary>
+        internal static string E710Internal {
+            get {
+                return ResourceManager.GetString("E710Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measured value faulty: Position tooth out side the Tolerance ähnelt.
+        /// </summary>
+        internal static string E710Text {
+            get {
+                return ResourceManager.GetString("E710Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E710 ähnelt.
+        /// </summary>
+        internal static string E710Title {
+            get {
+                return ResourceManager.GetString("E710Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die The measured value of module is plausibility tested and lays outside  the Tolerance (360 /Number of teeth +/-0,1 ähnelt.
+        /// </summary>
+        internal static string E711Description {
+            get {
+                return ResourceManager.GetString("E711Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check number of teeth from wo ähnelt.
+        /// </summary>
+        internal static string E711Handling {
+            get {
+                return ResourceManager.GetString("E711Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E711Internal ähnelt.
+        /// </summary>
+        internal static string E711Internal {
+            get {
+                return ResourceManager.GetString("E711Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: measured value faulty: module out side the Tolerance ähnelt.
+        /// </summary>
+        internal static string E711Text {
+            get {
+                return ResourceManager.GetString("E711Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E711 ähnelt.
+        /// </summary>
+        internal static string E711Title {
+            get {
+                return ResourceManager.GetString("E711Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status bit &quot;measurement ended correctly&quot; from the drive-SPS is missing ähnelt.
+        /// </summary>
+        internal static string E712Description {
+            get {
+                return ResourceManager.GetString("E712Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die NC-Program new start; by repeated accordance Check the drive-SPS. ähnelt.
+        /// </summary>
+        internal static string E712Handling {
+            get {
+                return ResourceManager.GetString("E712Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E712Internal ähnelt.
+        /// </summary>
+        internal static string E712Internal {
+            get {
+                return ResourceManager.GetString("E712Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: No valid results from the drive-SPS ähnelt.
+        /// </summary>
+        internal static string E712Text {
+            get {
+                return ResourceManager.GetString("E712Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E712 ähnelt.
+        /// </summary>
+        internal static string E712TItle {
+            get {
+                return ResourceManager.GetString("E712TItle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Communication destroyed or results faulty ähnelt.
+        /// </summary>
+        internal static string E713Description {
+            get {
+                return ResourceManager.GetString("E713Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Measurement started over. Check communication. ähnelt.
+        /// </summary>
+        internal static string E713Handling {
+            get {
+                return ResourceManager.GetString("E713Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E713Internal ähnelt.
+        /// </summary>
+        internal static string E713Internal {
+            get {
+                return ResourceManager.GetString("E713Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Determination/test gear: No valid results from Geber test gear to the right ähnelt.
+        /// </summary>
+        internal static string E713Text {
+            get {
+                return ResourceManager.GetString("E713Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E713 ähnelt.
+        /// </summary>
+        internal static string E713Title {
+            get {
+                return ResourceManager.GetString("E713Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper Gear dresser to the right occupied ähnelt.
+        /// </summary>
+        internal static string E714Description {
+            get {
+                return ResourceManager.GetString("E714Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E714Handling {
+            get {
+                return ResourceManager.GetString("E714Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E714Internal ähnelt.
+        /// </summary>
+        internal static string E714Internal {
+            get {
+                return ResourceManager.GetString("E714Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Gear dresser to the right not possible, because the gripper is not empty ähnelt.
+        /// </summary>
+        internal static string E714Text {
+            get {
+                return ResourceManager.GetString("E714Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E714 ähnelt.
+        /// </summary>
+        internal static string E714Title {
+            get {
+                return ResourceManager.GetString("E714Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper Gear dresser to the right not OK ähnelt.
+        /// </summary>
+        internal static string E715Description {
+            get {
+                return ResourceManager.GetString("E715Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E715Handling {
+            get {
+                return ResourceManager.GetString("E715Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E715Internal ähnelt.
+        /// </summary>
+        internal static string E715Internal {
+            get {
+                return ResourceManager.GetString("E715Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Gear dresser to the right not possible, because the gripper status is not OK ähnelt.
+        /// </summary>
+        internal static string E715Text {
+            get {
+                return ResourceManager.GetString("E715Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E715 ähnelt.
+        /// </summary>
+        internal static string E715Title {
+            get {
+                return ResourceManager.GetString("E715Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper Head dresser to the right occupied ähnelt.
+        /// </summary>
+        internal static string E716Description {
+            get {
+                return ResourceManager.GetString("E716Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E716Handling {
+            get {
+                return ResourceManager.GetString("E716Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E716Internal ähnelt.
+        /// </summary>
+        internal static string E716Internal {
+            get {
+                return ResourceManager.GetString("E716Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Head dresser to the right not possible, because the gripper is not empty ähnelt.
+        /// </summary>
+        internal static string E716Text {
+            get {
+                return ResourceManager.GetString("E716Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E716 ähnelt.
+        /// </summary>
+        internal static string E716Title {
+            get {
+                return ResourceManager.GetString("E716Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper Head dresser to the right not OK ähnelt.
+        /// </summary>
+        internal static string E717Description {
+            get {
+                return ResourceManager.GetString("E717Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E717Handling {
+            get {
+                return ResourceManager.GetString("E717Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E717Internal ähnelt.
+        /// </summary>
+        internal static string E717Internal {
+            get {
+                return ResourceManager.GetString("E717Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Head dresser to the right not possible, because the gripper status is not OK ähnelt.
+        /// </summary>
+        internal static string E717Text {
+            get {
+                return ResourceManager.GetString("E717Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E717 ähnelt.
+        /// </summary>
+        internal static string E717Title {
+            get {
+                return ResourceManager.GetString("E717Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper finished part to the right occupied ähnelt.
+        /// </summary>
+        internal static string E718Description {
+            get {
+                return ResourceManager.GetString("E718Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E718Handling {
+            get {
+                return ResourceManager.GetString("E718Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E718Internal ähnelt.
+        /// </summary>
+        internal static string E718Internal {
+            get {
+                return ResourceManager.GetString("E718Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload finished part to the right not possible, because the gripper is not empty ähnelt.
+        /// </summary>
+        internal static string E718Text {
+            get {
+                return ResourceManager.GetString("E718Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E718 ähnelt.
+        /// </summary>
+        internal static string E718Title {
+            get {
+                return ResourceManager.GetString("E718Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper finished part to the right not OK ähnelt.
+        /// </summary>
+        internal static string E719Description {
+            get {
+                return ResourceManager.GetString("E719Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E719Handling {
+            get {
+                return ResourceManager.GetString("E719Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E719Internal ähnelt.
+        /// </summary>
+        internal static string E719Internal {
+            get {
+                return ResourceManager.GetString("E719Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload finished part to the right not possible, because the gripper status is not OK ähnelt.
+        /// </summary>
+        internal static string E719Text {
+            get {
+                return ResourceManager.GetString("E719Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E719 ähnelt.
+        /// </summary>
+        internal static string E719Title {
+            get {
+                return ResourceManager.GetString("E719Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Designation of the grippers and analog values do not correspond ähnelt.
         /// </summary>
         internal static string E71Description {
@@ -7140,6 +9129,447 @@ namespace GearErrorHelper.Resources.Strings {
         internal static string E71Title {
             get {
                 return ResourceManager.GetString("E71Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Gripper Master to the right occupied ähnelt.
+        /// </summary>
+        internal static string E720Description {
+            get {
+                return ResourceManager.GetString("E720Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E720Handling {
+            get {
+                return ResourceManager.GetString("E720Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E720Internal ähnelt.
+        /// </summary>
+        internal static string E720Internal {
+            get {
+                return ResourceManager.GetString("E720Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Master to the right not possible, because the gripper is not empty ähnelt.
+        /// </summary>
+        internal static string E720Text {
+            get {
+                return ResourceManager.GetString("E720Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E720 ähnelt.
+        /// </summary>
+        internal static string E720Title {
+            get {
+                return ResourceManager.GetString("E720Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status gripper Master to the right not OK ähnelt.
+        /// </summary>
+        internal static string E721Description {
+            get {
+                return ResourceManager.GetString("E721Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the gripper. ähnelt.
+        /// </summary>
+        internal static string E721Handling {
+            get {
+                return ResourceManager.GetString("E721Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E721Internal ähnelt.
+        /// </summary>
+        internal static string E721Internal {
+            get {
+                return ResourceManager.GetString("E721Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Unload Master to the right not possible, because the gripper status is not OK ähnelt.
+        /// </summary>
+        internal static string E721Text {
+            get {
+                return ResourceManager.GetString("E721Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E721 ähnelt.
+        /// </summary>
+        internal static string E721Title {
+            get {
+                return ResourceManager.GetString("E721Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle is already occupied ähnelt.
+        /// </summary>
+        internal static string E722Description {
+            get {
+                return ResourceManager.GetString("E722Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check the occupancy of the Spindle. ähnelt.
+        /// </summary>
+        internal static string E722Handling {
+            get {
+                return ResourceManager.GetString("E722Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E722Internal ähnelt.
+        /// </summary>
+        internal static string E722Internal {
+            get {
+                return ResourceManager.GetString("E722Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Load Spindle to the right not possible, because the Spindle is occupied ähnelt.
+        /// </summary>
+        internal static string E722Text {
+            get {
+                return ResourceManager.GetString("E722Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E722 ähnelt.
+        /// </summary>
+        internal static string E722Title {
+            get {
+                return ResourceManager.GetString("E722Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
+        /// </summary>
+        internal static string E723Description {
+            get {
+                return ResourceManager.GetString("E723Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by  Hand. ähnelt.
+        /// </summary>
+        internal static string E723Handling {
+            get {
+                return ResourceManager.GetString("E723Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E723Internal ähnelt.
+        /// </summary>
+        internal static string E723Internal {
+            get {
+                return ResourceManager.GetString("E723Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper Raw part to the right ähnelt.
+        /// </summary>
+        internal static string E723Text {
+            get {
+                return ResourceManager.GetString("E723Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E723 ähnelt.
+        /// </summary>
+        internal static string E723Title {
+            get {
+                return ResourceManager.GetString("E723Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
+        /// </summary>
+        internal static string E724Description {
+            get {
+                return ResourceManager.GetString("E724Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
+        /// </summary>
+        internal static string E724Handling {
+            get {
+                return ResourceManager.GetString("E724Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E724Internal ähnelt.
+        /// </summary>
+        internal static string E724Internal {
+            get {
+                return ResourceManager.GetString("E724Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper finished part to the right ähnelt.
+        /// </summary>
+        internal static string E724Text {
+            get {
+                return ResourceManager.GetString("E724Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E724 ähnelt.
+        /// </summary>
+        internal static string E724Title {
+            get {
+                return ResourceManager.GetString("E724Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
+        /// </summary>
+        internal static string E725Description {
+            get {
+                return ResourceManager.GetString("E725Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
+        /// </summary>
+        internal static string E725Handling {
+            get {
+                return ResourceManager.GetString("E725Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E725Internal ähnelt.
+        /// </summary>
+        internal static string E725Internal {
+            get {
+                return ResourceManager.GetString("E725Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper Head dresser to the right ähnelt.
+        /// </summary>
+        internal static string E725Text {
+            get {
+                return ResourceManager.GetString("E725Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E725 ähnelt.
+        /// </summary>
+        internal static string E725Title {
+            get {
+                return ResourceManager.GetString("E725Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle in collision area ähnelt.
+        /// </summary>
+        internal static string E726Description {
+            get {
+                return ResourceManager.GetString("E726Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Spindle has to be moved by Hand. ähnelt.
+        /// </summary>
+        internal static string E726Handling {
+            get {
+                return ResourceManager.GetString("E726Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E726Internal ähnelt.
+        /// </summary>
+        internal static string E726Internal {
+            get {
+                return ResourceManager.GetString("E726Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Spindle in area gripper Gear dresser to the right ähnelt.
+        /// </summary>
+        internal static string E726Text {
+            get {
+                return ResourceManager.GetString("E726Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E726 ähnelt.
+        /// </summary>
+        internal static string E726Title {
+            get {
+                return ResourceManager.GetString("E726Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis in collision area ähnelt.
+        /// </summary>
+        internal static string E727Description {
+            get {
+                return ResourceManager.GetString("E727Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E727Internal ähnelt.
+        /// </summary>
+        internal static string E727Internal {
+            get {
+                return ResourceManager.GetString("E727Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Y5-Axis in area gripper Raw part to the right ähnelt.
+        /// </summary>
+        internal static string E727Text {
+            get {
+                return ResourceManager.GetString("E727Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E727 ähnelt.
+        /// </summary>
+        internal static string E727Title {
+            get {
+                return ResourceManager.GetString("E727Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis in collision area ähnelt.
+        /// </summary>
+        internal static string E728Description {
+            get {
+                return ResourceManager.GetString("E728Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Y5-Axis has to be moved by Hand. ähnelt.
+        /// </summary>
+        internal static string E728Handling {
+            get {
+                return ResourceManager.GetString("E728Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E728Internal ähnelt.
+        /// </summary>
+        internal static string E728Internal {
+            get {
+                return ResourceManager.GetString("E728Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Move to position not possible. Y5-Axis in area gripper finished part to the right ähnelt.
+        /// </summary>
+        internal static string E728Text {
+            get {
+                return ResourceManager.GetString("E728Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E728 ähnelt.
+        /// </summary>
+        internal static string E728Title {
+            get {
+                return ResourceManager.GetString("E728Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Status not correct ähnelt.
+        /// </summary>
+        internal static string E729Description {
+            get {
+                return ResourceManager.GetString("E729Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check machine status in HMI. ähnelt.
+        /// </summary>
+        internal static string E729Handling {
+            get {
+                return ResourceManager.GetString("E729Handling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E729Internal ähnelt.
+        /// </summary>
+        internal static string E729Internal {
+            get {
+                return ResourceManager.GetString("E729Internal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Homeposition not possible. Status of spindle right is empty ähnelt.
+        /// </summary>
+        internal static string E729Text {
+            get {
+                return ResourceManager.GetString("E729Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die E729 ähnelt.
+        /// </summary>
+        internal static string E729Title {
+            get {
+                return ResourceManager.GetString("E729Title", resourceCulture);
             }
         }
         
