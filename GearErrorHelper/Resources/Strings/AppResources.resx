@@ -9052,346 +9052,391 @@
     <value>E2151</value>
   </data>
   <data name="E2201Description" xml:space="preserve">
-    <value />
+    <value>Emergency stop pressed or felsomat not switched on</value>
   </data>
   <data name="E2201Handling" xml:space="preserve">
-    <value />
+    <value>Unlock the emergency stop button or switched on main switch on felsomat</value>
   </data>
   <data name="E2201Internal" xml:space="preserve">
-    <value />
+    <value>E2201Internal</value>
   </data>
   <data name="E2201Text" xml:space="preserve">
-    <value />
+    <value>Emergency stop pressed on felsomat</value>
   </data>
   <data name="E2201Title" xml:space="preserve">
-    <value />
+    <value>E2201</value>
   </data>
   <data name="E2202Description" xml:space="preserve">
-    <value />
+    <value>Safety circuit open  felsomat not switched on</value>
   </data>
   <data name="E2202Handling" xml:space="preserve">
-    <value />
+    <value>Please close the safety circuit on felsomat</value>
   </data>
   <data name="E2202Internal" xml:space="preserve">
-    <value />
+    <value>E2202Internal</value>
   </data>
   <data name="E2202Text" xml:space="preserve">
-    <value />
+    <value>Safety circuit not closed on felsomat</value>
   </data>
   <data name="E2202Title" xml:space="preserve">
-    <value />
+    <value>E2202</value>
   </data>
   <data name="E2203Description" xml:space="preserve">
-    <value />
+    <value>Different workpiece types choosen on felsomat and machine</value>
   </data>
   <data name="E2203Handling" xml:space="preserve">
-    <value />
+    <value>Please check the Choice</value>
   </data>
   <data name="E2203Internal" xml:space="preserve">
-    <value />
+    <value>E2203Internal</value>
   </data>
   <data name="E2203Text" xml:space="preserve">
-    <value />
+    <value>Workpiece types are different</value>
   </data>
   <data name="E2203Title" xml:space="preserve">
-    <value />
+    <value>E2203</value>
   </data>
   <data name="E2221Description" xml:space="preserve">
-    <value />
+    <value>Emergency stop pressed or promot not switched on</value>
   </data>
   <data name="E2221Handling" xml:space="preserve">
-    <value />
+    <value>Unlock the emergency stop button or switched on main switch on promot</value>
   </data>
   <data name="E2221Internal" xml:space="preserve">
-    <value />
+    <value>E2221Internal</value>
   </data>
   <data name="E2221Text" xml:space="preserve">
-    <value />
+    <value>Emergency stop pressed on promot</value>
   </data>
   <data name="E2221Title" xml:space="preserve">
-    <value />
+    <value>E2221</value>
   </data>
   <data name="E2222Description" xml:space="preserve">
-    <value />
+    <value>Safety circuit open  promot not switched on</value>
   </data>
   <data name="E2222Handling" xml:space="preserve">
-    <value />
+    <value>Please close the safety circuit on promot</value>
   </data>
   <data name="E2222Internal" xml:space="preserve">
-    <value />
+    <value>E2222Internal</value>
   </data>
   <data name="E2222Text" xml:space="preserve">
-    <value />
+    <value>Safety circuit not closed on promot</value>
   </data>
   <data name="E2222Title" xml:space="preserve">
-    <value />
+    <value>E2222Internal</value>
   </data>
   <data name="E2223Description" xml:space="preserve">
-    <value />
+    <value>Different workpiece types choosen on promot and machine</value>
   </data>
   <data name="E2223Handling" xml:space="preserve">
-    <value />
+    <value>Please check the Choice</value>
   </data>
   <data name="E2223Internal" xml:space="preserve">
-    <value />
+    <value>E2223Internal</value>
   </data>
   <data name="E2223Text" xml:space="preserve">
-    <value />
+    <value>Workpiece types are different</value>
   </data>
   <data name="E2223Title" xml:space="preserve">
-    <value />
+    <value>E2223</value>
   </data>
   <data name="E2251Description" xml:space="preserve">
-    <value />
+    <value>Emergency stop pressed or safety circuit not closed</value>
   </data>
   <data name="E2251Handling" xml:space="preserve">
-    <value />
+    <value>Unlock the emergency stop button or close the safety doors on workpiece loader</value>
   </data>
   <data name="E2251Internal" xml:space="preserve">
-    <value />
+    <value>E2251Internal</value>
   </data>
   <data name="E2251Text" xml:space="preserve">
-    <value />
+    <value>Request Reset aktiv from workpiece loader</value>
   </data>
   <data name="E2251Title" xml:space="preserve">
-    <value />
+    <value>E2251</value>
   </data>
   <data name="E2261Description" xml:space="preserve">
-    <value />
+    <value>Emergency-off pressed or loader not switched on</value>
   </data>
   <data name="E2261Handling" xml:space="preserve">
-    <value />
+    <value>Please release emergency-off or switch loader on</value>
   </data>
   <data name="E2261Internal" xml:space="preserve">
-    <value />
+    <value>E2261Internal</value>
   </data>
   <data name="E2261Text" xml:space="preserve">
-    <value />
+    <value>Emergency-off pressed on loader</value>
   </data>
   <data name="E2261Title" xml:space="preserve">
-    <value />
+    <value>E2261</value>
   </data>
   <data name="E2262Description" xml:space="preserve">
-    <value />
+    <value>Protective circuit opened or loader not switched on</value>
   </data>
   <data name="E2262Handling" xml:space="preserve">
-    <value />
+    <value>Please close protective circuit or switch loader on</value>
   </data>
   <data name="E2262Internal" xml:space="preserve">
-    <value />
+    <value>E2262Internal</value>
   </data>
   <data name="E2262Text" xml:space="preserve">
-    <value />
+    <value>Protective circuit not closed on loader</value>
   </data>
   <data name="E2262Title" xml:space="preserve">
-    <value />
+    <value>E2262</value>
   </data>
   <data name="E2263Description" xml:space="preserve">
-    <value />
+    <value>Protective circuit open</value>
   </data>
   <data name="E2263Handling" xml:space="preserve">
-    <value />
+    <value>Please close protective circuit</value>
   </data>
   <data name="E2263Internal" xml:space="preserve">
-    <value />
+    <value>E2263Internal</value>
   </data>
   <data name="E2263Text" xml:space="preserve">
-    <value />
+    <value>Intermediate door protective circuit for manual loading not in "automatic loading" position"</value>
   </data>
   <data name="E2263Title" xml:space="preserve">
-    <value />
+    <value>E2263</value>
   </data>
   <data name="E2264Description" xml:space="preserve">
-    <value />
+    <value>Protective circuit open</value>
   </data>
   <data name="E2264Handling" xml:space="preserve">
-    <value />
+    <value>Please close protective circuit</value>
   </data>
   <data name="E2264Internal" xml:space="preserve">
-    <value />
+    <value>E2264Internal</value>
   </data>
   <data name="E2264Text" xml:space="preserve">
-    <value />
+    <value>ntermediate door protective circuit for manual loading not in "manual loading" position"</value>
   </data>
   <data name="E2264Title" xml:space="preserve">
-    <value />
+    <value>E2264</value>
   </data>
   <data name="E2271Description" xml:space="preserve">
-    <value />
+    <value>Emergency-off pressed or robot not switched on</value>
   </data>
   <data name="E2271Handling" xml:space="preserve">
-    <value />
+    <value>Please release emergency-off or switch robot on</value>
   </data>
   <data name="E2271Internal" xml:space="preserve">
-    <value />
+    <value>E2271Internal</value>
   </data>
   <data name="E2271Text" xml:space="preserve">
-    <value />
+    <value>Emergency-off pressed on robot</value>
   </data>
   <data name="E2271Title" xml:space="preserve">
-    <value />
+    <value>E2271Internal</value>
   </data>
   <data name="E2272Description" xml:space="preserve">
-    <value />
+    <value>Protective circuit opened or robot not switched on</value>
   </data>
   <data name="E2272Handling" xml:space="preserve">
-    <value />
+    <value>Please close protective circuit or switch robot on</value>
   </data>
   <data name="E2272Internal" xml:space="preserve">
-    <value />
+    <value>E2272Internal</value>
   </data>
   <data name="E2272Text" xml:space="preserve">
-    <value />
+    <value>Protective circuit not closed on robot</value>
   </data>
   <data name="E2272Title" xml:space="preserve">
-    <value />
+    <value>E2272</value>
   </data>
   <data name="E2273Description" xml:space="preserve">
-    <value />
+    <value>Different workpiece selections on machine and robot</value>
   </data>
   <data name="E2273Handling" xml:space="preserve">
-    <value />
+    <value>Check workpiece selections</value>
   </data>
   <data name="E2273Internal" xml:space="preserve">
-    <value />
+    <value>E2273Internal</value>
   </data>
   <data name="E2273Text" xml:space="preserve">
-    <value />
+    <value>Workpiece numbers do not correlate</value>
   </data>
   <data name="E2273Title" xml:space="preserve">
-    <value />
+    <value>E2273</value>
   </data>
   <data name="E2274Description" xml:space="preserve">
-    <value />
+    <value>Move robot out of hazard area</value>
   </data>
   <data name="E2274Handling" xml:space="preserve">
-    <value />
+    <value>Signal "Outside collision range" not set by robot</value>
   </data>
   <data name="E2274Internal" xml:space="preserve">
-    <value />
+    <value>E2274Internal</value>
   </data>
   <data name="E2274Text" xml:space="preserve">
-    <value />
+    <value>NC start not possible with robot in loading</value>
   </data>
   <data name="E2274Title" xml:space="preserve">
-    <value />
+    <value>E2274</value>
+  </data>
+  <data name="E2301Description" xml:space="preserve">
+    <value>Ethernet interface between CML85 and the safety PLC S7 not ready for operation or faulty</value>
+  </data>
+  <data name="E2301Handling" xml:space="preserve">
+    <value>Please check the interface</value>
+  </data>
+  <data name="E2301Internal" xml:space="preserve">
+    <value>E2301Internal</value>
+  </data>
+  <data name="E2301Text" xml:space="preserve">
+    <value>Ethernet interface between CML85 and the safety PLC S7 not ready for operation</value>
+  </data>
+  <data name="E2301Title" xml:space="preserve">
+    <value>E2301</value>
+  </data>
+  <data name="E2302Description" xml:space="preserve">
+    <value>Safety program has been deactivated</value>
+  </data>
+  <data name="E2302Handling" xml:space="preserve">
+    <value>Please activate the safety functions</value>
+  </data>
+  <data name="E2302Internal" xml:space="preserve">
+    <value>E2302Internal</value>
+  </data>
+  <data name="E2302Text" xml:space="preserve">
+    <value>Safety mode in the safety PLC of S7 deactivated</value>
+  </data>
+  <data name="E2302Title" xml:space="preserve">
+    <value>E2302</value>
+  </data>
+  <data name="E2303Description" xml:space="preserve">
+    <value>One or more of the F-assemblies is/are passivated</value>
+  </data>
+  <data name="E2303Handling" xml:space="preserve">
+    <value>Please carry out depassivation via HMI</value>
+  </data>
+  <data name="E2303Internal" xml:space="preserve">
+    <value>E2303Internal</value>
+  </data>
+  <data name="E2303Text" xml:space="preserve">
+    <value>Collective message status F-assemblies passivated</value>
+  </data>
+  <data name="E2303Title" xml:space="preserve">
+    <value>E2303</value>
   </data>
   <data name="E2551Description" xml:space="preserve">
-    <value />
+    <value>By measuring the Gear dresser there is a too large rotation determined by the C-Axis. The measured value shown on the screen Honing--&gt; Honing --&gt; Measured Data</value>
   </data>
   <data name="E2551Handling" xml:space="preserve">
-    <value />
+    <value>Start the tool measurement again. If this fault appears repeatedly then it is possible that the Gear dresser or Hon ring is damaged.</value>
   </data>
   <data name="E2551Internal" xml:space="preserve">
-    <value />
+    <value>E2551Internal</value>
   </data>
   <data name="E2551Text" xml:space="preserve">
-    <value />
+    <value>Measured Pitch difference of Dresser is to large</value>
   </data>
   <data name="E2551Title" xml:space="preserve">
-    <value />
+    <value>E2551</value>
   </data>
   <data name="E2552Description" xml:space="preserve">
-    <value />
+    <value>By measuring the workpiece there is a too large rotation determined by the C-Axis. The measured value shown on the screen Honing--&gt; Honing --&gt; Measured Data</value>
   </data>
   <data name="E2552Handling" xml:space="preserve">
-    <value />
+    <value>Start the Workpiece measurement again. If this fault appears repeatedly then it is possible that the workpiece or Hon ring is damaged.</value>
   </data>
   <data name="E2552Internal" xml:space="preserve">
-    <value />
+    <value>E2552Internal</value>
   </data>
   <data name="E2552Text" xml:space="preserve">
-    <value />
+    <value>Measured Pitch difference of workpiece is to large</value>
   </data>
   <data name="E2552Title" xml:space="preserve">
-    <value />
+    <value>E2552</value>
   </data>
   <data name="E2553Description" xml:space="preserve">
-    <value />
+    <value>By the addendum circle measurement there is a large Runout fault determined. The measured value is found under Honing--&gt; Honring--&gt; Measured Data</value>
   </data>
   <data name="E2553Handling" xml:space="preserve">
-    <value />
+    <value>Start the Workpiece measurement again. If this fault appears repeatedly then it is possible that the Gear dresser or Hon ring is damaged.</value>
   </data>
   <data name="E2553Internal" xml:space="preserve">
-    <value />
+    <value>E2553Internal</value>
   </data>
   <data name="E2553Text" xml:space="preserve">
-    <value />
+    <value>Runout fault of the Honring is too large</value>
   </data>
   <data name="E2553Title" xml:space="preserve">
-    <value />
+    <value>E2553</value>
   </data>
   <data name="E2554Description" xml:space="preserve">
-    <value />
+    <value>There is no communication to the OPC Server</value>
   </data>
   <data name="E2554Handling" xml:space="preserve">
-    <value />
+    <value>Stop the IndraWorks operation, run the shut down process and restart the IndraWorks operation.</value>
   </data>
   <data name="E2554Internal" xml:space="preserve">
-    <value />
+    <value>E2554Internal</value>
   </data>
   <data name="E2554Text" xml:space="preserve">
-    <value />
+    <value>Connection to OPC Server is disconnected</value>
   </data>
   <data name="E2554Title" xml:space="preserve">
-    <value />
+    <value>E2554</value>
   </data>
   <data name="E2555Description" xml:space="preserve">
-    <value />
+    <value>Service is not installed or started</value>
   </data>
   <data name="E2555Handling" xml:space="preserve">
-    <value />
+    <value>Please contact the Praewema Service department.</value>
   </data>
   <data name="E2555Internal" xml:space="preserve">
-    <value />
+    <value>E2555Internal</value>
   </data>
   <data name="E2555Text" xml:space="preserve">
-    <value />
+    <value>Connection to the adaptive Hon server is disconnected</value>
   </data>
   <data name="E2560Description" xml:space="preserve">
-    <value />
+    <value>E2555</value>
   </data>
   <data name="E2560Handling" xml:space="preserve">
-    <value />
+    <value>Data system is not active</value>
   </data>
   <data name="E2560Internal" xml:space="preserve">
-    <value />
+    <value>Load and activate the correct data then restart the Automatic mode.</value>
   </data>
   <data name="E2560Text" xml:space="preserve">
-    <value />
+    <value>E2560Internal</value>
   </data>
   <data name="E2560Title" xml:space="preserve">
-    <value />
+    <value>No valid data on the Hon screen</value>
   </data>
   <data name="E2561Description" xml:space="preserve">
-    <value />
+    <value>By activation of the data system is a plausibility fault determined. This could be caused by missing or wrong data</value>
   </data>
   <data name="E2561Handling" xml:space="preserve">
-    <value />
+    <value>Start at Honing --&gt; Data system plausibility control and/or double check the entered data.</value>
   </data>
   <data name="E2561Internal" xml:space="preserve">
-    <value />
+    <value>E2561Internal</value>
   </data>
   <data name="E2561Text" xml:space="preserve">
-    <value />
+    <value>Fault by activating of the Workpiece</value>
   </data>
   <data name="E2561Title" xml:space="preserve">
-    <value />
+    <value>E2561</value>
   </data>
   <data name="E2562Description" xml:space="preserve">
-    <value />
+    <value>Calibration has not been started or Test wheel has not been activated</value>
   </data>
   <data name="E2562Handling" xml:space="preserve">
-    <value />
+    <value>Calibrate the test wheel. Select as example at honing --&gt; can be done by operator.</value>
   </data>
   <data name="E2562Internal" xml:space="preserve">
-    <value />
+    <value>E2562Internal</value>
   </data>
   <data name="E2562Text" xml:space="preserve">
-    <value />
+    <value>est wheel is not calibrated ? Measuring was not completed</value>
   </data>
   <data name="E2562Title" xml:space="preserve">
-    <value />
+    <value>E2562</value>
   </data>
   <data name="E2801Description" xml:space="preserve">
     <value />
@@ -10186,51 +10231,6 @@
     <value />
   </data>
   <data name="E2876Title" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3001Description" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3001Handling" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3001Internal" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3001Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3001Title" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3002Description" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3002Handling" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3002Internal" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3002Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3002Title" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3003Description" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3003Handling" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3003Internal" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3003Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="E3003Title" xml:space="preserve">
     <value />
   </data>
 </root>
