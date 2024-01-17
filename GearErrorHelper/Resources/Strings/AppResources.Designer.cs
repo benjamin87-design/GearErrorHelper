@@ -15442,7 +15442,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please have a look on the display of the cooling unit ähnelt.
         /// </summary>
         internal static string E2801Description {
             get {
@@ -15451,7 +15451,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Fix the displayed error. ähnelt.
         /// </summary>
         internal static string E2801Handling {
             get {
@@ -15460,7 +15460,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2801Internal ähnelt.
         /// </summary>
         internal static string E2801Internal {
             get {
@@ -15469,7 +15469,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Fault cooling unit switch cabinet ähnelt.
         /// </summary>
         internal static string E2801Text {
             get {
@@ -15478,7 +15478,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2801 ähnelt.
         /// </summary>
         internal static string E2801Title {
             get {
@@ -15487,7 +15487,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The temperature of the switch cabinet have the max. set value exceeded ähnelt.
         /// </summary>
         internal static string E2802Description {
             get {
@@ -15496,7 +15496,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check cooling unit and settings of it. ähnelt.
         /// </summary>
         internal static string E2802Handling {
             get {
@@ -15505,7 +15505,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2802Internal ähnelt.
         /// </summary>
         internal static string E2802Internal {
             get {
@@ -15514,7 +15514,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Overtemperature switch cabinet ähnelt.
         /// </summary>
         internal static string E2802Text {
             get {
@@ -15523,7 +15523,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2802 ähnelt.
         /// </summary>
         internal static string E2802Title {
             get {
@@ -15532,7 +15532,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die One fuse in the switch cabinet tripped ähnelt.
         /// </summary>
         internal static string E2803Description {
             get {
@@ -15541,7 +15541,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Cause resolve and switch on tripped safety fuse. ähnelt.
         /// </summary>
         internal static string E2803Handling {
             get {
@@ -15550,7 +15550,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2803Internal ähnelt.
         /// </summary>
         internal static string E2803Internal {
             get {
@@ -15559,7 +15559,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Fault fuse power sockets and lighting ähnelt.
         /// </summary>
         internal static string E2803Text {
             get {
@@ -15568,7 +15568,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2803 ähnelt.
         /// </summary>
         internal static string E2803Title {
             get {
@@ -15577,7 +15577,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The oil mist extractor reports a fault;The oil mist extractor was switched off ähnelt.
         /// </summary>
         internal static string E2804Description {
             get {
@@ -15586,7 +15586,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Cause resolve and switch on the oil mist extractor. ähnelt.
         /// </summary>
         internal static string E2804Handling {
             get {
@@ -15595,7 +15595,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E20804Internal ähnelt.
         /// </summary>
         internal static string E2804Internal {
             get {
@@ -15604,7 +15604,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Fault oil mist extractor ähnelt.
         /// </summary>
         internal static string E2804Text {
             get {
@@ -15613,7 +15613,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2804 ähnelt.
         /// </summary>
         internal static string E2804Title {
             get {
@@ -15622,7 +15622,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The oil mist extractor is switched off ähnelt.
         /// </summary>
         internal static string E2805Description {
             get {
@@ -15631,7 +15631,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please switch on the oil mist extractor. ähnelt.
         /// </summary>
         internal static string E2805Handling {
             get {
@@ -15640,7 +15640,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2805Internal ähnelt.
         /// </summary>
         internal static string E2805Internal {
             get {
@@ -15649,7 +15649,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The oil mist extractor is not switched on ähnelt.
         /// </summary>
         internal static string E2805Text {
             get {
@@ -15658,7 +15658,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2805 ähnelt.
         /// </summary>
         internal static string E2805Title {
             get {
@@ -15667,7 +15667,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The suplly module could overheat ähnelt.
         /// </summary>
         internal static string E2806Description {
             get {
@@ -15676,7 +15676,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Cooling down HMV module. Check internal fan and switch cabinet cooling system. If necessary, replace HMV ähnelt.
         /// </summary>
         internal static string E2806Handling {
             get {
@@ -15685,7 +15685,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2806Internal ähnelt.
         /// </summary>
         internal static string E2806Internal {
             get {
@@ -15694,7 +15694,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Supply module HMV temperature pre-warning ähnelt.
         /// </summary>
         internal static string E2806Text {
             get {
@@ -15703,7 +15703,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2806 ähnelt.
         /// </summary>
         internal static string E2806Title {
             get {
@@ -15712,7 +15712,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The mains choke of the supply module HMV is overheated ähnelt.
         /// </summary>
         internal static string E2807Description {
             get {
@@ -15721,7 +15721,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Cooling down the mains choke. Check switch cabinet cooling. If necessary, replace the mains choke ähnelt.
         /// </summary>
         internal static string E2807Handling {
             get {
@@ -15730,7 +15730,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2807Internal ähnelt.
         /// </summary>
         internal static string E2807Internal {
             get {
@@ -15739,7 +15739,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Overtemperature mains choke ähnelt.
         /// </summary>
         internal static string E2807Text {
             get {
@@ -15748,7 +15748,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2807 ähnelt.
         /// </summary>
         internal static string E2807Title {
             get {
@@ -15757,7 +15757,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow by switched on machine or coolant flow is present by switched off machine ähnelt.
         /// </summary>
         internal static string E2811Description {
             get {
@@ -15766,7 +15766,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check coolant supply and flow rate sensor of the spindle. ähnelt.
         /// </summary>
         internal static string E2811Handling {
             get {
@@ -15775,7 +15775,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2811Internal ähnelt.
         /// </summary>
         internal static string E2811Internal {
             get {
@@ -15784,7 +15784,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow spindle right not OK ähnelt.
         /// </summary>
         internal static string E2811Text {
             get {
@@ -15793,7 +15793,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2811 ähnelt.
         /// </summary>
         internal static string E2811Title {
             get {
@@ -15802,7 +15802,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow by switched on machine or coolant flow is present by switched off machine ähnelt.
         /// </summary>
         internal static string E2812Description {
             get {
@@ -15811,7 +15811,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check coolant supply and flow rate sensor of the honing head. ähnelt.
         /// </summary>
         internal static string E2812Handling {
             get {
@@ -15820,7 +15820,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2812Internal ähnelt.
         /// </summary>
         internal static string E2812Internal {
             get {
@@ -15829,7 +15829,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow honing head not OK ähnelt.
         /// </summary>
         internal static string E2812Text {
             get {
@@ -15838,7 +15838,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2812 ähnelt.
         /// </summary>
         internal static string E2812Title {
             get {
@@ -15847,7 +15847,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow by switched on machine or coolant flow is present by switched off machine ähnelt.
         /// </summary>
         internal static string E2813Description {
             get {
@@ -15856,7 +15856,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check coolant supply and flow rate sensor of the spindle. ähnelt.
         /// </summary>
         internal static string E2813Handling {
             get {
@@ -15865,7 +15865,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2813Internal ähnelt.
         /// </summary>
         internal static string E2813Internal {
             get {
@@ -15874,7 +15874,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow spindle left not OK ähnelt.
         /// </summary>
         internal static string E2813Text {
             get {
@@ -15883,7 +15883,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2813 ähnelt.
         /// </summary>
         internal static string E2813Title {
             get {
@@ -15892,7 +15892,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow by switched on machine or coolant flow is present by switched off machine ähnelt.
         /// </summary>
         internal static string E2814Description {
             get {
@@ -15901,7 +15901,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check coolant supply and flow rate sensor of X1 axis. ähnelt.
         /// </summary>
         internal static string E2814Handling {
             get {
@@ -15910,7 +15910,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2814Internal ähnelt.
         /// </summary>
         internal static string E2814Internal {
             get {
@@ -15919,7 +15919,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow X1 axis not OK ähnelt.
         /// </summary>
         internal static string E2814Text {
             get {
@@ -15928,7 +15928,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2814 ähnelt.
         /// </summary>
         internal static string E2814Title {
             get {
@@ -15937,7 +15937,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow by switched on machine or coolant flow is present by switched off machine ähnelt.
         /// </summary>
         internal static string E2815Description {
             get {
@@ -15946,7 +15946,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check coolant supply and flow rate sensor of Z1 axis. ähnelt.
         /// </summary>
         internal static string E2815Handling {
             get {
@@ -15955,7 +15955,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2815Internal ähnelt.
         /// </summary>
         internal static string E2815Internal {
             get {
@@ -15964,7 +15964,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow Z1 axis not OK ähnelt.
         /// </summary>
         internal static string E2815Text {
             get {
@@ -15973,7 +15973,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2815 ähnelt.
         /// </summary>
         internal static string E2815Title {
             get {
@@ -15982,7 +15982,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Feedback external cooling system is missing ähnelt.
         /// </summary>
         internal static string E2816Description {
             get {
@@ -15991,7 +15991,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External cooling system not switched on or have an error ähnelt.
         /// </summary>
         internal static string E2816Handling {
             get {
@@ -16000,7 +16000,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2816Internal ähnelt.
         /// </summary>
         internal static string E2816Internal {
             get {
@@ -16009,7 +16009,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External cooling system not OK ähnelt.
         /// </summary>
         internal static string E2816Text {
             get {
@@ -16018,7 +16018,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2816 ähnelt.
         /// </summary>
         internal static string E2816Title {
             get {
@@ -16027,7 +16027,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow when machine switched on or coolant flow when machine switched off ähnelt.
         /// </summary>
         internal static string E2817Description {
             get {
@@ -16036,7 +16036,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check coolant supply and flow sensor of X2 axis. ähnelt.
         /// </summary>
         internal static string E2817Handling {
             get {
@@ -16045,7 +16045,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2817Internal ähnelt.
         /// </summary>
         internal static string E2817Internal {
             get {
@@ -16054,7 +16054,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow in X2 axis not OK ähnelt.
         /// </summary>
         internal static string E2817Text {
             get {
@@ -16063,7 +16063,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2817 ähnelt.
         /// </summary>
         internal static string E2817Title {
             get {
@@ -16072,7 +16072,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No coolant flow when machine switched on or coolant flow when machine switched off ähnelt.
         /// </summary>
         internal static string E2818Description {
             get {
@@ -16081,7 +16081,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check coolant supply and flow sensor of Z2 axis. ähnelt.
         /// </summary>
         internal static string E2818Handling {
             get {
@@ -16090,7 +16090,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2818Internal ähnelt.
         /// </summary>
         internal static string E2818Internal {
             get {
@@ -16099,7 +16099,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Coolant flow in Z2 axis not OK ähnelt.
         /// </summary>
         internal static string E2818Text {
             get {
@@ -16108,7 +16108,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2818 ähnelt.
         /// </summary>
         internal static string E2818Title {
             get {
@@ -16117,7 +16117,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lubricant tank is empty ähnelt.
         /// </summary>
         internal static string E2820Description {
             get {
@@ -16126,7 +16126,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Refill lubricant. ähnelt.
         /// </summary>
         internal static string E2820Handling {
             get {
@@ -16135,7 +16135,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2820Internal ähnelt.
         /// </summary>
         internal static string E2820Internal {
             get {
@@ -16144,7 +16144,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lubricant-level deficiency ähnelt.
         /// </summary>
         internal static string E2820Text {
             get {
@@ -16153,7 +16153,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2820 ähnelt.
         /// </summary>
         internal static string E2820Title {
             get {
@@ -16162,7 +16162,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The lubricant filter is dirty ähnelt.
         /// </summary>
         internal static string E2821Description {
             get {
@@ -16171,7 +16171,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Change lubricant filter or clean it. ähnelt.
         /// </summary>
         internal static string E2821Handling {
             get {
@@ -16180,7 +16180,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2821Internal ähnelt.
         /// </summary>
         internal static string E2821Internal {
             get {
@@ -16189,7 +16189,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Fault lubricant filter ähnelt.
         /// </summary>
         internal static string E2821Text {
             get {
@@ -16198,7 +16198,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2821 ähnelt.
         /// </summary>
         internal static string E2821Title {
             get {
@@ -16207,7 +16207,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The lubricant pressure must reach during the lubrication process within a set time the nominal value ähnelt.
         /// </summary>
         internal static string E2822Description {
             get {
@@ -16216,7 +16216,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check lubricant unit, if necessary ventig it. ähnelt.
         /// </summary>
         internal static string E2822Handling {
             get {
@@ -16225,7 +16225,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2822Internal ähnelt.
         /// </summary>
         internal static string E2822Internal {
             get {
@@ -16234,7 +16234,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lubricant pressure not reached ähnelt.
         /// </summary>
         internal static string E2822Text {
             get {
@@ -16243,7 +16243,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2822 ähnelt.
         /// </summary>
         internal static string E2822Title {
             get {
@@ -16252,7 +16252,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die The lubricant pressure must at the end of the lubrication process during the set time drop ähnelt.
         /// </summary>
         internal static string E2823Description {
             get {
@@ -16261,7 +16261,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check lubricant unit or vent system. ähnelt.
         /// </summary>
         internal static string E2823Handling {
             get {
@@ -16270,7 +16270,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2823Internal ähnelt.
         /// </summary>
         internal static string E2823Internal {
             get {
@@ -16279,7 +16279,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lubricant pressure not drop ähnelt.
         /// </summary>
         internal static string E2823Text {
             get {
@@ -16288,7 +16288,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2823 ähnelt.
         /// </summary>
         internal static string E2823Title {
             get {
@@ -16297,7 +16297,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Maximum life time of honing ring was reached ähnelt.
         /// </summary>
         internal static string E2824Description {
             get {
@@ -16306,7 +16306,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please change honing ring. ähnelt.
         /// </summary>
         internal static string E2824Handling {
             get {
@@ -16315,7 +16315,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2824Internal ähnelt.
         /// </summary>
         internal static string E2824Internal {
             get {
@@ -16324,7 +16324,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lifetime honingring reached ähnelt.
         /// </summary>
         internal static string E2824Text {
             get {
@@ -16333,7 +16333,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2824 ähnelt.
         /// </summary>
         internal static string E2824Title {
             get {
@@ -16342,7 +16342,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Oil tank is empty ähnelt.
         /// </summary>
         internal static string E2825Description {
             get {
@@ -16351,7 +16351,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Top-up oil. ähnelt.
         /// </summary>
         internal static string E2825Handling {
             get {
@@ -16360,7 +16360,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2825Internal ähnelt.
         /// </summary>
         internal static string E2825Internal {
             get {
@@ -16369,7 +16369,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Hydraulic unit spindle sleeve clamp - low level ähnelt.
         /// </summary>
         internal static string E2825Text {
             get {
@@ -16378,7 +16378,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2825 ähnelt.
         /// </summary>
         internal static string E2825Title {
             get {
@@ -16387,7 +16387,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check unit ähnelt.
         /// </summary>
         internal static string E2826Description {
             get {
@@ -16396,7 +16396,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Top-up oil or replace unit ähnelt.
         /// </summary>
         internal static string E2826Handling {
             get {
@@ -16405,7 +16405,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2826Internal ähnelt.
         /// </summary>
         internal static string E2826Internal {
             get {
@@ -16414,7 +16414,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Hydraulic unit spindle sleeve clamp - Fluid temperature too high ähnelt.
         /// </summary>
         internal static string E2826Text {
             get {
@@ -16423,7 +16423,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2826 ähnelt.
         /// </summary>
         internal static string E2826Title {
             get {
@@ -16432,7 +16432,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a conspicuous workpiece ähnelt.
         /// </summary>
         internal static string E2827Description {
             get {
@@ -16441,7 +16441,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Workpiece is discharged as NOK piece and must be checked. ähnelt.
         /// </summary>
         internal static string E2827Handling {
             get {
@@ -16450,7 +16450,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2827Internal ähnelt.
         /// </summary>
         internal static string E2827Internal {
             get {
@@ -16459,7 +16459,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Workpiece spindle: Vibration alarm C1 axis - Workpiece is discharged as NOK part ähnelt.
         /// </summary>
         internal static string E2827Text {
             get {
@@ -16468,7 +16468,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2827 ähnelt.
         /// </summary>
         internal static string E2827Title {
             get {
@@ -16477,7 +16477,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a conspicuous workpiece ähnelt.
         /// </summary>
         internal static string E2828Description {
             get {
@@ -16486,7 +16486,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Workpiece is discharged as NOK piece and must be checked. ähnelt.
         /// </summary>
         internal static string E2828Handling {
             get {
@@ -16495,7 +16495,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2828Internal ähnelt.
         /// </summary>
         internal static string E2828Internal {
             get {
@@ -16504,7 +16504,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Workpiece spindle: Vibration alarm C2 axis - Workpiece is discharged as NOK part ähnelt.
         /// </summary>
         internal static string E2828Text {
             get {
@@ -16513,7 +16513,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2828 ähnelt.
         /// </summary>
         internal static string E2828Title {
             get {
@@ -16522,7 +16522,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a conspicuous workpiece ähnelt.
         /// </summary>
         internal static string E2829Description {
             get {
@@ -16531,7 +16531,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Workpiece is discharged as NOK piece and must be checked. ähnelt.
         /// </summary>
         internal static string E2829Handling {
             get {
@@ -16540,7 +16540,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2829Internal ähnelt.
         /// </summary>
         internal static string E2829Internal {
             get {
@@ -16549,7 +16549,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Tailstock: Vibration alarm tailstock (sleeve) - Workpiece is discharged as NOK part ähnelt.
         /// </summary>
         internal static string E2829Text {
             get {
@@ -16558,7 +16558,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die 2829 ähnelt.
         /// </summary>
         internal static string E2829Title {
             get {
@@ -16567,7 +16567,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die External vibration analysis has detected a conspicuous workpiece ähnelt.
         /// </summary>
         internal static string E2830Description {
             get {
@@ -16576,7 +16576,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Workpiece is discharged as NOK piece and must be checked. ähnelt.
         /// </summary>
         internal static string E2830Handling {
             get {
@@ -16585,7 +16585,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2830Internal ähnelt.
         /// </summary>
         internal static string E2830Internal {
             get {
@@ -16594,7 +16594,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Sensor - Honing head: Vibration alarm B axis - Workpiece is discharged as NOK part ähnelt.
         /// </summary>
         internal static string E2830Text {
             get {
@@ -16603,7 +16603,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2830 ähnelt.
         /// </summary>
         internal static string E2830Title {
             get {
@@ -16612,7 +16612,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2850Description {
             get {
@@ -16621,7 +16621,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switchs. ähnelt.
         /// </summary>
         internal static string E2850Handling {
             get {
@@ -16630,7 +16630,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2850Internal ähnelt.
         /// </summary>
         internal static string E2850Internal {
             get {
@@ -16639,7 +16639,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring clamping device right is activated ähnelt.
         /// </summary>
         internal static string E2850Text {
             get {
@@ -16648,7 +16648,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2850 ähnelt.
         /// </summary>
         internal static string E2850Title {
             get {
@@ -16657,7 +16657,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2851Description {
             get {
@@ -16666,7 +16666,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2851Handling {
             get {
@@ -16675,7 +16675,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2851Internal ähnelt.
         /// </summary>
         internal static string E2851Internal {
             get {
@@ -16684,7 +16684,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring check unit right is activated ähnelt.
         /// </summary>
         internal static string E2851Text {
             get {
@@ -16693,7 +16693,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2851 ähnelt.
         /// </summary>
         internal static string E2851Title {
             get {
@@ -16702,7 +16702,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2852Description {
             get {
@@ -16711,7 +16711,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2852Handling {
             get {
@@ -16720,7 +16720,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2852Internal ähnelt.
         /// </summary>
         internal static string E2852Internal {
             get {
@@ -16729,7 +16729,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring clamping W-axis ähnelt.
         /// </summary>
         internal static string E2852Text {
             get {
@@ -16738,7 +16738,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2852 ähnelt.
         /// </summary>
         internal static string E2852Title {
             get {
@@ -16747,7 +16747,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2853Description {
             get {
@@ -16756,7 +16756,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2853Handling {
             get {
@@ -16765,7 +16765,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2853Internal ähnelt.
         /// </summary>
         internal static string E2853Internal {
             get {
@@ -16774,7 +16774,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring splash protection door unlock/lock ähnelt.
         /// </summary>
         internal static string E2853Text {
             get {
@@ -16783,7 +16783,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2853 ähnelt.
         /// </summary>
         internal static string E2853Title {
             get {
@@ -16792,7 +16792,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2854Description {
             get {
@@ -16801,7 +16801,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2854Handling {
             get {
@@ -16810,7 +16810,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2854Internal ähnelt.
         /// </summary>
         internal static string E2854Internal {
             get {
@@ -16819,7 +16819,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring splash protection door open/close ähnelt.
         /// </summary>
         internal static string E2854Text {
             get {
@@ -16828,7 +16828,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2854 ähnelt.
         /// </summary>
         internal static string E2854Title {
             get {
@@ -16837,7 +16837,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2855Description {
             get {
@@ -16846,7 +16846,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2855Handling {
             get {
@@ -16855,7 +16855,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2855Internal ähnelt.
         /// </summary>
         internal static string E2855Internal {
             get {
@@ -16864,7 +16864,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring protection door working area unlock/lock ähnelt.
         /// </summary>
         internal static string E2855Text {
             get {
@@ -16873,7 +16873,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2855 ähnelt.
         /// </summary>
         internal static string E2855Title {
             get {
@@ -16882,7 +16882,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2856Description {
             get {
@@ -16891,7 +16891,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2856Handling {
             get {
@@ -16900,7 +16900,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2856Internal ähnelt.
         /// </summary>
         internal static string E2856Internal {
             get {
@@ -16909,7 +16909,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring protection door machine room left unlock/lock ähnelt.
         /// </summary>
         internal static string E2856Text {
             get {
@@ -16918,7 +16918,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2856 ähnelt.
         /// </summary>
         internal static string E2856Title {
             get {
@@ -16927,7 +16927,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2857Description {
             get {
@@ -16936,7 +16936,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2857Handling {
             get {
@@ -16945,7 +16945,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2857Internal ähnelt.
         /// </summary>
         internal static string E2857Internal {
             get {
@@ -16954,7 +16954,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring protection door machine room right unlock/lock ähnelt.
         /// </summary>
         internal static string E2857Text {
             get {
@@ -16963,7 +16963,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2857 ähnelt.
         /// </summary>
         internal static string E2857Title {
             get {
@@ -16972,7 +16972,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2858Description {
             get {
@@ -16981,7 +16981,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2858Handling {
             get {
@@ -16990,7 +16990,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2858Internal ähnelt.
         /// </summary>
         internal static string E2858Internal {
             get {
@@ -16999,7 +16999,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring protection door loading room right unlock/lock ähnelt.
         /// </summary>
         internal static string E2858Text {
             get {
@@ -17008,7 +17008,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2858 ähnelt.
         /// </summary>
         internal static string E2858Title {
             get {
@@ -17017,7 +17017,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2859Description {
             get {
@@ -17026,7 +17026,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2859Handling {
             get {
@@ -17035,7 +17035,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2859Internal ähnelt.
         /// </summary>
         internal static string E2859Internal {
             get {
@@ -17044,7 +17044,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring protection door loading room front unlock/lock ähnelt.
         /// </summary>
         internal static string E2859Text {
             get {
@@ -17053,7 +17053,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2859 ähnelt.
         /// </summary>
         internal static string E2859Title {
             get {
@@ -17062,7 +17062,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the actice output ähnelt.
         /// </summary>
         internal static string E2860Description {
             get {
@@ -17071,7 +17071,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2860Handling {
             get {
@@ -17080,7 +17080,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2860Internal ähnelt.
         /// </summary>
         internal static string E2860Internal {
             get {
@@ -17089,7 +17089,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring quill before/back ähnelt.
         /// </summary>
         internal static string E2860Text {
             get {
@@ -17098,7 +17098,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2860 ähnelt.
         /// </summary>
         internal static string E2860Title {
             get {
@@ -17107,7 +17107,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2861Description {
             get {
@@ -17116,7 +17116,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switchs. ähnelt.
         /// </summary>
         internal static string E2861Handling {
             get {
@@ -17125,7 +17125,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2861Internal ähnelt.
         /// </summary>
         internal static string E2861Internal {
             get {
@@ -17134,7 +17134,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring clamping device left is activated ähnelt.
         /// </summary>
         internal static string E2861Text {
             get {
@@ -17143,7 +17143,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2861 ähnelt.
         /// </summary>
         internal static string E2861Title {
             get {
@@ -17152,7 +17152,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2862Description {
             get {
@@ -17161,7 +17161,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2862Handling {
             get {
@@ -17170,7 +17170,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2862Internal ähnelt.
         /// </summary>
         internal static string E2862Internal {
             get {
@@ -17179,7 +17179,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring check unit left is activated ähnelt.
         /// </summary>
         internal static string E2862Text {
             get {
@@ -17188,7 +17188,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2862 ähnelt.
         /// </summary>
         internal static string E2862Title {
             get {
@@ -17197,7 +17197,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2863Description {
             get {
@@ -17206,7 +17206,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2863Handling {
             get {
@@ -17215,7 +17215,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2863Internal ähnelt.
         /// </summary>
         internal static string E2863Internal {
             get {
@@ -17224,7 +17224,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring clamping device Y5-Axis is activated ähnelt.
         /// </summary>
         internal static string E2863Text {
             get {
@@ -17233,7 +17233,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2863 ähnelt.
         /// </summary>
         internal static string E2863Title {
             get {
@@ -17242,7 +17242,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die nputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2864Description {
             get {
@@ -17251,7 +17251,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2864Handling {
             get {
@@ -17260,7 +17260,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2864Internal ähnelt.
         /// </summary>
         internal static string E2864Internal {
             get {
@@ -17269,7 +17269,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring plain surface clamping device right ähnelt.
         /// </summary>
         internal static string E2864Text {
             get {
@@ -17278,7 +17278,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2864 ähnelt.
         /// </summary>
         internal static string E2864Title {
             get {
@@ -17287,7 +17287,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2865Description {
             get {
@@ -17296,7 +17296,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2865Handling {
             get {
@@ -17305,7 +17305,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2865Internal ähnelt.
         /// </summary>
         internal static string E2865Internal {
             get {
@@ -17314,7 +17314,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring plain surface clamping device left ähnelt.
         /// </summary>
         internal static string E2865Text {
             get {
@@ -17323,7 +17323,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2865 ähnelt.
         /// </summary>
         internal static string E2865Title {
             get {
@@ -17332,7 +17332,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match active output ähnelt.
         /// </summary>
         internal static string E2866Description {
             get {
@@ -17341,7 +17341,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check outputs and limit switch. ähnelt.
         /// </summary>
         internal static string E2866Handling {
             get {
@@ -17350,7 +17350,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2866Internal ähnelt.
         /// </summary>
         internal static string E2866Internal {
             get {
@@ -17359,7 +17359,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring turning station ähnelt.
         /// </summary>
         internal static string E2866Text {
             get {
@@ -17368,7 +17368,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2866 ähnelt.
         /// </summary>
         internal static string E2866Title {
             get {
@@ -17377,7 +17377,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match active output ähnelt.
         /// </summary>
         internal static string E2867Description {
             get {
@@ -17386,7 +17386,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check outputs and limit switch. ähnelt.
         /// </summary>
         internal static string E2867Handling {
             get {
@@ -17395,7 +17395,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2867Internal ähnelt.
         /// </summary>
         internal static string E2867Internal {
             get {
@@ -17404,7 +17404,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring gripper turning station ähnelt.
         /// </summary>
         internal static string E2867Text {
             get {
@@ -17413,7 +17413,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2867 ähnelt.
         /// </summary>
         internal static string E2867Title {
             get {
@@ -17422,7 +17422,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No flow at building water connection of the control cabinet cooler ähnelt.
         /// </summary>
         internal static string E2868Description {
             get {
@@ -17431,7 +17431,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check filter. ähnelt.
         /// </summary>
         internal static string E2868Handling {
             get {
@@ -17440,7 +17440,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2868Internal ähnelt.
         /// </summary>
         internal static string E2868Internal {
             get {
@@ -17449,7 +17449,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Hydac low flow rate building water system ähnelt.
         /// </summary>
         internal static string E2868Text {
             get {
@@ -17458,7 +17458,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2868 ähnelt.
         /// </summary>
         internal static string E2868Title {
             get {
@@ -17467,7 +17467,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die No flow in internal cycle ähnelt.
         /// </summary>
         internal static string E2869Description {
             get {
@@ -17476,7 +17476,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check pump. ähnelt.
         /// </summary>
         internal static string E2869Handling {
             get {
@@ -17485,7 +17485,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2869Internal ähnelt.
         /// </summary>
         internal static string E2869Internal {
             get {
@@ -17494,7 +17494,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Hydac low internal flow rate ähnelt.
         /// </summary>
         internal static string E2869Text {
             get {
@@ -17503,7 +17503,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2869 ähnelt.
         /// </summary>
         internal static string E2869Title {
             get {
@@ -17512,7 +17512,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Level in the tank of the Hydac control cabinet cooler is below the minimum ähnelt.
         /// </summary>
         internal static string E2870Description {
             get {
@@ -17521,7 +17521,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check fluid. ähnelt.
         /// </summary>
         internal static string E2870Handling {
             get {
@@ -17530,7 +17530,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2870Internal ähnelt.
         /// </summary>
         internal static string E2870Internal {
             get {
@@ -17539,7 +17539,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Hydac tank minimum alarm ähnelt.
         /// </summary>
         internal static string E2870Text {
             get {
@@ -17548,7 +17548,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2870 ähnelt.
         /// </summary>
         internal static string E2870Title {
             get {
@@ -17557,7 +17557,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2871Description {
             get {
@@ -17566,7 +17566,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2871Handling {
             get {
@@ -17575,7 +17575,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2871Internal ähnelt.
         /// </summary>
         internal static string E2871Internal {
             get {
@@ -17584,7 +17584,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring clamping device Z3-Axis is activated ähnelt.
         /// </summary>
         internal static string E2871Text {
             get {
@@ -17593,7 +17593,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2871 ähnelt.
         /// </summary>
         internal static string E2871Title {
             get {
@@ -17602,7 +17602,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Inputs do not match to the active output ähnelt.
         /// </summary>
         internal static string E2872Description {
             get {
@@ -17611,7 +17611,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check outputs and limit switches. ähnelt.
         /// </summary>
         internal static string E2872Handling {
             get {
@@ -17620,7 +17620,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2872Internal ähnelt.
         /// </summary>
         internal static string E2872Internal {
             get {
@@ -17629,7 +17629,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Limit switch pair monitoring clamping device Z4-Axis is activated ähnelt.
         /// </summary>
         internal static string E2872Text {
             get {
@@ -17638,7 +17638,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2872 ähnelt.
         /// </summary>
         internal static string E2872Title {
             get {
@@ -17647,7 +17647,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die During manual loading brake test Y5-axis will be done ähnelt.
         /// </summary>
         internal static string E2873Description {
             get {
@@ -17656,7 +17656,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please start &quot;Homepositon&quot; or start Automatic program or start brake test about HMI. ähnelt.
         /// </summary>
         internal static string E2873Handling {
             get {
@@ -17665,7 +17665,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2873Internal ähnelt.
         /// </summary>
         internal static string E2873Internal {
             get {
@@ -17674,7 +17674,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Manual loading: Brake test Y5-axis ähnelt.
         /// </summary>
         internal static string E2873Text {
             get {
@@ -17683,7 +17683,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2873 ähnelt.
         /// </summary>
         internal static string E2873Title {
             get {
@@ -17692,7 +17692,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lubrication gantry level low ähnelt.
         /// </summary>
         internal static string E2874Description {
             get {
@@ -17701,7 +17701,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please fill the lubrication system from gantry. ähnelt.
         /// </summary>
         internal static string E2874Handling {
             get {
@@ -17710,7 +17710,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2874Internal ähnelt.
         /// </summary>
         internal static string E2874Internal {
             get {
@@ -17719,7 +17719,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Lubrication gantry level low ähnelt.
         /// </summary>
         internal static string E2874Text {
             get {
@@ -17728,7 +17728,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2874 ähnelt.
         /// </summary>
         internal static string E2874Title {
             get {
@@ -17737,7 +17737,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Temperatur Lahntechnik cooling unit not ok ähnelt.
         /// </summary>
         internal static string E2875Description {
             get {
@@ -17746,7 +17746,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Please check the cooling unit and pipes. ähnelt.
         /// </summary>
         internal static string E2875Handling {
             get {
@@ -17755,7 +17755,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2875Internal ähnelt.
         /// </summary>
         internal static string E2875Internal {
             get {
@@ -17764,7 +17764,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Temperatur external cooling system Lahntechnik not OK-&gt; End of cycle ähnelt.
         /// </summary>
         internal static string E2875Text {
             get {
@@ -17773,7 +17773,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2875 ähnelt.
         /// </summary>
         internal static string E2875Title {
             get {
@@ -17782,7 +17782,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Cooling temperatur IO-Link too high ähnelt.
         /// </summary>
         internal static string E2876Description {
             get {
@@ -17791,7 +17791,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Check cooling unit and pipes. ähnelt.
         /// </summary>
         internal static string E2876Handling {
             get {
@@ -17800,7 +17800,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2876Internal ähnelt.
         /// </summary>
         internal static string E2876Internal {
             get {
@@ -17809,7 +17809,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Cooling temperatur too high ähnelt.
         /// </summary>
         internal static string E2876Text {
             get {
@@ -17818,7 +17818,7 @@ namespace GearErrorHelper.Resources.Strings {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die E2876 ähnelt.
         /// </summary>
         internal static string E2876Title {
             get {

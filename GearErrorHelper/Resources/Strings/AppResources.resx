@@ -9439,798 +9439,798 @@
     <value>E2562</value>
   </data>
   <data name="E2801Description" xml:space="preserve">
-    <value />
+    <value>Please have a look on the display of the cooling unit</value>
   </data>
   <data name="E2801Handling" xml:space="preserve">
-    <value />
+    <value>Fix the displayed error.</value>
   </data>
   <data name="E2801Internal" xml:space="preserve">
-    <value />
+    <value>E2801Internal</value>
   </data>
   <data name="E2801Text" xml:space="preserve">
-    <value />
+    <value>Fault cooling unit switch cabinet</value>
   </data>
   <data name="E2801Title" xml:space="preserve">
-    <value />
+    <value>E2801</value>
   </data>
   <data name="E2802Description" xml:space="preserve">
-    <value />
+    <value>The temperature of the switch cabinet have the max. set value exceeded</value>
   </data>
   <data name="E2802Handling" xml:space="preserve">
-    <value />
+    <value>Please check cooling unit and settings of it.</value>
   </data>
   <data name="E2802Internal" xml:space="preserve">
-    <value />
+    <value>E2802Internal</value>
   </data>
   <data name="E2802Text" xml:space="preserve">
-    <value />
+    <value>Overtemperature switch cabinet</value>
   </data>
   <data name="E2802Title" xml:space="preserve">
-    <value />
+    <value>E2802</value>
   </data>
   <data name="E2803Description" xml:space="preserve">
-    <value />
+    <value>One fuse in the switch cabinet tripped</value>
   </data>
   <data name="E2803Handling" xml:space="preserve">
-    <value />
+    <value>Cause resolve and switch on tripped safety fuse.</value>
   </data>
   <data name="E2803Internal" xml:space="preserve">
-    <value />
+    <value>E2803Internal</value>
   </data>
   <data name="E2803Text" xml:space="preserve">
-    <value />
+    <value>Fault fuse power sockets and lighting</value>
   </data>
   <data name="E2803Title" xml:space="preserve">
-    <value />
+    <value>E2803</value>
   </data>
   <data name="E2804Description" xml:space="preserve">
-    <value />
+    <value>The oil mist extractor reports a fault;The oil mist extractor was switched off</value>
   </data>
   <data name="E2804Handling" xml:space="preserve">
-    <value />
+    <value>Cause resolve and switch on the oil mist extractor.</value>
   </data>
   <data name="E2804Internal" xml:space="preserve">
-    <value />
+    <value>E20804Internal</value>
   </data>
   <data name="E2804Text" xml:space="preserve">
-    <value />
+    <value>Fault oil mist extractor</value>
   </data>
   <data name="E2804Title" xml:space="preserve">
-    <value />
+    <value>E2804</value>
   </data>
   <data name="E2805Description" xml:space="preserve">
-    <value />
+    <value>The oil mist extractor is switched off</value>
   </data>
   <data name="E2805Handling" xml:space="preserve">
-    <value />
+    <value>Please switch on the oil mist extractor.</value>
   </data>
   <data name="E2805Internal" xml:space="preserve">
-    <value />
+    <value>E2805Internal</value>
   </data>
   <data name="E2805Text" xml:space="preserve">
-    <value />
+    <value>The oil mist extractor is not switched on</value>
   </data>
   <data name="E2805Title" xml:space="preserve">
-    <value />
+    <value>E2805</value>
   </data>
   <data name="E2806Description" xml:space="preserve">
-    <value />
+    <value>The suplly module could overheat</value>
   </data>
   <data name="E2806Handling" xml:space="preserve">
-    <value />
+    <value>Cooling down HMV module. Check internal fan and switch cabinet cooling system. If necessary, replace HMV</value>
   </data>
   <data name="E2806Internal" xml:space="preserve">
-    <value />
+    <value>E2806Internal</value>
   </data>
   <data name="E2806Text" xml:space="preserve">
-    <value />
+    <value>Supply module HMV temperature pre-warning</value>
   </data>
   <data name="E2806Title" xml:space="preserve">
-    <value />
+    <value>E2806</value>
   </data>
   <data name="E2807Description" xml:space="preserve">
-    <value />
+    <value>The mains choke of the supply module HMV is overheated</value>
   </data>
   <data name="E2807Handling" xml:space="preserve">
-    <value />
+    <value>Cooling down the mains choke. Check switch cabinet cooling. If necessary, replace the mains choke</value>
   </data>
   <data name="E2807Internal" xml:space="preserve">
-    <value />
+    <value>E2807Internal</value>
   </data>
   <data name="E2807Text" xml:space="preserve">
-    <value />
+    <value>Overtemperature mains choke</value>
   </data>
   <data name="E2807Title" xml:space="preserve">
-    <value />
+    <value>E2807</value>
   </data>
   <data name="E2811Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow by switched on machine or coolant flow is present by switched off machine</value>
   </data>
   <data name="E2811Handling" xml:space="preserve">
-    <value />
+    <value>Please check coolant supply and flow rate sensor of the spindle.</value>
   </data>
   <data name="E2811Internal" xml:space="preserve">
-    <value />
+    <value>E2811Internal</value>
   </data>
   <data name="E2811Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow spindle right not OK</value>
   </data>
   <data name="E2811Title" xml:space="preserve">
-    <value />
+    <value>E2811</value>
   </data>
   <data name="E2812Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow by switched on machine or coolant flow is present by switched off machine</value>
   </data>
   <data name="E2812Handling" xml:space="preserve">
-    <value />
+    <value>Please check coolant supply and flow rate sensor of the honing head.</value>
   </data>
   <data name="E2812Internal" xml:space="preserve">
-    <value />
+    <value>E2812Internal</value>
   </data>
   <data name="E2812Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow honing head not OK</value>
   </data>
   <data name="E2812Title" xml:space="preserve">
-    <value />
+    <value>E2812</value>
   </data>
   <data name="E2813Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow by switched on machine or coolant flow is present by switched off machine</value>
   </data>
   <data name="E2813Handling" xml:space="preserve">
-    <value />
+    <value>Please check coolant supply and flow rate sensor of the spindle.</value>
   </data>
   <data name="E2813Internal" xml:space="preserve">
-    <value />
+    <value>E2813Internal</value>
   </data>
   <data name="E2813Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow spindle left not OK</value>
   </data>
   <data name="E2813Title" xml:space="preserve">
-    <value />
+    <value>E2813</value>
   </data>
   <data name="E2814Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow by switched on machine or coolant flow is present by switched off machine</value>
   </data>
   <data name="E2814Handling" xml:space="preserve">
-    <value />
+    <value>Please check coolant supply and flow rate sensor of X1 axis.</value>
   </data>
   <data name="E2814Internal" xml:space="preserve">
-    <value />
+    <value>E2814Internal</value>
   </data>
   <data name="E2814Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow X1 axis not OK</value>
   </data>
   <data name="E2814Title" xml:space="preserve">
-    <value />
+    <value>E2814</value>
   </data>
   <data name="E2815Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow by switched on machine or coolant flow is present by switched off machine</value>
   </data>
   <data name="E2815Handling" xml:space="preserve">
-    <value />
+    <value>Please check coolant supply and flow rate sensor of Z1 axis.</value>
   </data>
   <data name="E2815Internal" xml:space="preserve">
-    <value />
+    <value>E2815Internal</value>
   </data>
   <data name="E2815Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow Z1 axis not OK</value>
   </data>
   <data name="E2815Title" xml:space="preserve">
-    <value />
+    <value>E2815</value>
   </data>
   <data name="E2816Description" xml:space="preserve">
-    <value />
+    <value>Feedback external cooling system is missing</value>
   </data>
   <data name="E2816Handling" xml:space="preserve">
-    <value />
+    <value>External cooling system not switched on or have an error</value>
   </data>
   <data name="E2816Internal" xml:space="preserve">
-    <value />
+    <value>E2816Internal</value>
   </data>
   <data name="E2816Text" xml:space="preserve">
-    <value />
+    <value>External cooling system not OK</value>
   </data>
   <data name="E2816Title" xml:space="preserve">
-    <value />
+    <value>E2816</value>
   </data>
   <data name="E2817Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow when machine switched on or coolant flow when machine switched off</value>
   </data>
   <data name="E2817Handling" xml:space="preserve">
-    <value />
+    <value>Check coolant supply and flow sensor of X2 axis.</value>
   </data>
   <data name="E2817Internal" xml:space="preserve">
-    <value />
+    <value>E2817Internal</value>
   </data>
   <data name="E2817Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow in X2 axis not OK</value>
   </data>
   <data name="E2817Title" xml:space="preserve">
-    <value />
+    <value>E2817</value>
   </data>
   <data name="E2818Description" xml:space="preserve">
-    <value />
+    <value>No coolant flow when machine switched on or coolant flow when machine switched off</value>
   </data>
   <data name="E2818Handling" xml:space="preserve">
-    <value />
+    <value>Check coolant supply and flow sensor of Z2 axis.</value>
   </data>
   <data name="E2818Internal" xml:space="preserve">
-    <value />
+    <value>E2818Internal</value>
   </data>
   <data name="E2818Text" xml:space="preserve">
-    <value />
+    <value>Coolant flow in Z2 axis not OK</value>
   </data>
   <data name="E2818Title" xml:space="preserve">
-    <value />
+    <value>E2818</value>
   </data>
   <data name="E2820Description" xml:space="preserve">
-    <value />
+    <value>Lubricant tank is empty</value>
   </data>
   <data name="E2820Handling" xml:space="preserve">
-    <value />
+    <value>Refill lubricant.</value>
   </data>
   <data name="E2820Internal" xml:space="preserve">
-    <value />
+    <value>E2820Internal</value>
   </data>
   <data name="E2820Text" xml:space="preserve">
-    <value />
+    <value>Lubricant-level deficiency</value>
   </data>
   <data name="E2820Title" xml:space="preserve">
-    <value />
+    <value>E2820</value>
   </data>
   <data name="E2821Description" xml:space="preserve">
-    <value />
+    <value>The lubricant filter is dirty</value>
   </data>
   <data name="E2821Handling" xml:space="preserve">
-    <value />
+    <value>Change lubricant filter or clean it.</value>
   </data>
   <data name="E2821Internal" xml:space="preserve">
-    <value />
+    <value>E2821Internal</value>
   </data>
   <data name="E2821Text" xml:space="preserve">
-    <value />
+    <value>Fault lubricant filter</value>
   </data>
   <data name="E2821Title" xml:space="preserve">
-    <value />
+    <value>E2821</value>
   </data>
   <data name="E2822Description" xml:space="preserve">
-    <value />
+    <value>The lubricant pressure must reach during the lubrication process within a set time the nominal value</value>
   </data>
   <data name="E2822Handling" xml:space="preserve">
-    <value />
+    <value>Check lubricant unit, if necessary ventig it.</value>
   </data>
   <data name="E2822Internal" xml:space="preserve">
-    <value />
+    <value>E2822Internal</value>
   </data>
   <data name="E2822Text" xml:space="preserve">
-    <value />
+    <value>Lubricant pressure not reached</value>
   </data>
   <data name="E2822Title" xml:space="preserve">
-    <value />
+    <value>E2822</value>
   </data>
   <data name="E2823Description" xml:space="preserve">
-    <value />
+    <value>The lubricant pressure must at the end of the lubrication process during the set time drop</value>
   </data>
   <data name="E2823Handling" xml:space="preserve">
-    <value />
+    <value>Please check lubricant unit or vent system.</value>
   </data>
   <data name="E2823Internal" xml:space="preserve">
-    <value />
+    <value>E2823Internal</value>
   </data>
   <data name="E2823Text" xml:space="preserve">
-    <value />
+    <value>Lubricant pressure not drop</value>
   </data>
   <data name="E2823Title" xml:space="preserve">
-    <value />
+    <value>E2823</value>
   </data>
   <data name="E2824Description" xml:space="preserve">
-    <value />
+    <value>Maximum life time of honing ring was reached</value>
   </data>
   <data name="E2824Handling" xml:space="preserve">
-    <value />
+    <value>Please change honing ring.</value>
   </data>
   <data name="E2824Internal" xml:space="preserve">
-    <value />
+    <value>E2824Internal</value>
   </data>
   <data name="E2824Text" xml:space="preserve">
-    <value />
+    <value>Lifetime honingring reached</value>
   </data>
   <data name="E2824Title" xml:space="preserve">
-    <value />
+    <value>E2824</value>
   </data>
   <data name="E2825Description" xml:space="preserve">
-    <value />
+    <value>Oil tank is empty</value>
   </data>
   <data name="E2825Handling" xml:space="preserve">
-    <value />
+    <value>Top-up oil.</value>
   </data>
   <data name="E2825Internal" xml:space="preserve">
-    <value />
+    <value>E2825Internal</value>
   </data>
   <data name="E2825Text" xml:space="preserve">
-    <value />
+    <value>Hydraulic unit spindle sleeve clamp - low level</value>
   </data>
   <data name="E2825Title" xml:space="preserve">
-    <value />
+    <value>E2825</value>
   </data>
   <data name="E2826Description" xml:space="preserve">
-    <value />
+    <value>Check unit</value>
   </data>
   <data name="E2826Handling" xml:space="preserve">
-    <value />
+    <value>Top-up oil or replace unit</value>
   </data>
   <data name="E2826Internal" xml:space="preserve">
-    <value />
+    <value>E2826Internal</value>
   </data>
   <data name="E2826Text" xml:space="preserve">
-    <value />
+    <value>Hydraulic unit spindle sleeve clamp - Fluid temperature too high</value>
   </data>
   <data name="E2826Title" xml:space="preserve">
-    <value />
+    <value>E2826</value>
   </data>
   <data name="E2827Description" xml:space="preserve">
-    <value />
+    <value>External vibration analysis has detected a conspicuous workpiece</value>
   </data>
   <data name="E2827Handling" xml:space="preserve">
-    <value />
+    <value>Workpiece is discharged as NOK piece and must be checked.</value>
   </data>
   <data name="E2827Internal" xml:space="preserve">
-    <value />
+    <value>E2827Internal</value>
   </data>
   <data name="E2827Text" xml:space="preserve">
-    <value />
+    <value>Sensor - Workpiece spindle: Vibration alarm C1 axis - Workpiece is discharged as NOK part</value>
   </data>
   <data name="E2827Title" xml:space="preserve">
-    <value />
+    <value>E2827</value>
   </data>
   <data name="E2828Description" xml:space="preserve">
-    <value />
+    <value>External vibration analysis has detected a conspicuous workpiece</value>
   </data>
   <data name="E2828Handling" xml:space="preserve">
-    <value />
+    <value>Workpiece is discharged as NOK piece and must be checked.</value>
   </data>
   <data name="E2828Internal" xml:space="preserve">
-    <value />
+    <value>E2828Internal</value>
   </data>
   <data name="E2828Text" xml:space="preserve">
-    <value />
+    <value>Sensor - Workpiece spindle: Vibration alarm C2 axis - Workpiece is discharged as NOK part</value>
   </data>
   <data name="E2828Title" xml:space="preserve">
-    <value />
+    <value>E2828</value>
   </data>
   <data name="E2829Description" xml:space="preserve">
-    <value />
+    <value>External vibration analysis has detected a conspicuous workpiece</value>
   </data>
   <data name="E2829Handling" xml:space="preserve">
-    <value />
+    <value>Workpiece is discharged as NOK piece and must be checked.</value>
   </data>
   <data name="E2829Internal" xml:space="preserve">
-    <value />
+    <value>E2829Internal</value>
   </data>
   <data name="E2829Text" xml:space="preserve">
-    <value />
+    <value>Sensor - Tailstock: Vibration alarm tailstock (sleeve) - Workpiece is discharged as NOK part</value>
   </data>
   <data name="E2829Title" xml:space="preserve">
-    <value />
+    <value>2829</value>
   </data>
   <data name="E2830Description" xml:space="preserve">
-    <value />
+    <value>External vibration analysis has detected a conspicuous workpiece</value>
   </data>
   <data name="E2830Handling" xml:space="preserve">
-    <value />
+    <value>Workpiece is discharged as NOK piece and must be checked.</value>
   </data>
   <data name="E2830Internal" xml:space="preserve">
-    <value />
+    <value>E2830Internal</value>
   </data>
   <data name="E2830Text" xml:space="preserve">
-    <value />
+    <value>Sensor - Honing head: Vibration alarm B axis - Workpiece is discharged as NOK part</value>
   </data>
   <data name="E2830Title" xml:space="preserve">
-    <value />
+    <value>E2830</value>
   </data>
   <data name="E2850Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2850Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switchs.</value>
   </data>
   <data name="E2850Internal" xml:space="preserve">
-    <value />
+    <value>E2850Internal</value>
   </data>
   <data name="E2850Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring clamping device right is activated</value>
   </data>
   <data name="E2850Title" xml:space="preserve">
-    <value />
+    <value>E2850</value>
   </data>
   <data name="E2851Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2851Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2851Internal" xml:space="preserve">
-    <value />
+    <value>E2851Internal</value>
   </data>
   <data name="E2851Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring check unit right is activated</value>
   </data>
   <data name="E2851Title" xml:space="preserve">
-    <value />
+    <value>E2851</value>
   </data>
   <data name="E2852Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2852Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2852Internal" xml:space="preserve">
-    <value />
+    <value>E2852Internal</value>
   </data>
   <data name="E2852Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring clamping W-axis</value>
   </data>
   <data name="E2852Title" xml:space="preserve">
-    <value />
+    <value>E2852</value>
   </data>
   <data name="E2853Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2853Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2853Internal" xml:space="preserve">
-    <value />
+    <value>E2853Internal</value>
   </data>
   <data name="E2853Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring splash protection door unlock/lock</value>
   </data>
   <data name="E2853Title" xml:space="preserve">
-    <value />
+    <value>E2853</value>
   </data>
   <data name="E2854Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2854Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2854Internal" xml:space="preserve">
-    <value />
+    <value>E2854Internal</value>
   </data>
   <data name="E2854Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring splash protection door open/close</value>
   </data>
   <data name="E2854Title" xml:space="preserve">
-    <value />
+    <value>E2854</value>
   </data>
   <data name="E2855Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2855Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2855Internal" xml:space="preserve">
-    <value />
+    <value>E2855Internal</value>
   </data>
   <data name="E2855Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring protection door working area unlock/lock</value>
   </data>
   <data name="E2855Title" xml:space="preserve">
-    <value />
+    <value>E2855</value>
   </data>
   <data name="E2856Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2856Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2856Internal" xml:space="preserve">
-    <value />
+    <value>E2856Internal</value>
   </data>
   <data name="E2856Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring protection door machine room left unlock/lock</value>
   </data>
   <data name="E2856Title" xml:space="preserve">
-    <value />
+    <value>E2856</value>
   </data>
   <data name="E2857Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2857Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2857Internal" xml:space="preserve">
-    <value />
+    <value>E2857Internal</value>
   </data>
   <data name="E2857Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring protection door machine room right unlock/lock</value>
   </data>
   <data name="E2857Title" xml:space="preserve">
-    <value />
+    <value>E2857</value>
   </data>
   <data name="E2858Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2858Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2858Internal" xml:space="preserve">
-    <value />
+    <value>E2858Internal</value>
   </data>
   <data name="E2858Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring protection door loading room right unlock/lock</value>
   </data>
   <data name="E2858Title" xml:space="preserve">
-    <value />
+    <value>E2858</value>
   </data>
   <data name="E2859Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2859Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2859Internal" xml:space="preserve">
-    <value />
+    <value>E2859Internal</value>
   </data>
   <data name="E2859Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring protection door loading room front unlock/lock</value>
   </data>
   <data name="E2859Title" xml:space="preserve">
-    <value />
+    <value>E2859</value>
   </data>
   <data name="E2860Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the actice output</value>
   </data>
   <data name="E2860Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2860Internal" xml:space="preserve">
-    <value />
+    <value>E2860Internal</value>
   </data>
   <data name="E2860Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring quill before/back</value>
   </data>
   <data name="E2860Title" xml:space="preserve">
-    <value />
+    <value>E2860</value>
   </data>
   <data name="E2861Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2861Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switchs.</value>
   </data>
   <data name="E2861Internal" xml:space="preserve">
-    <value />
+    <value>E2861Internal</value>
   </data>
   <data name="E2861Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring clamping device left is activated</value>
   </data>
   <data name="E2861Title" xml:space="preserve">
-    <value />
+    <value>E2861</value>
   </data>
   <data name="E2862Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2862Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2862Internal" xml:space="preserve">
-    <value />
+    <value>E2862Internal</value>
   </data>
   <data name="E2862Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring check unit left is activated</value>
   </data>
   <data name="E2862Title" xml:space="preserve">
-    <value />
+    <value>E2862</value>
   </data>
   <data name="E2863Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2863Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2863Internal" xml:space="preserve">
-    <value />
+    <value>E2863Internal</value>
   </data>
   <data name="E2863Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring clamping device Y5-Axis is activated</value>
   </data>
   <data name="E2863Title" xml:space="preserve">
-    <value />
+    <value>E2863</value>
   </data>
   <data name="E2864Description" xml:space="preserve">
-    <value />
+    <value>nputs do not match to the active output</value>
   </data>
   <data name="E2864Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2864Internal" xml:space="preserve">
-    <value />
+    <value>E2864Internal</value>
   </data>
   <data name="E2864Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring plain surface clamping device right</value>
   </data>
   <data name="E2864Title" xml:space="preserve">
-    <value />
+    <value>E2864</value>
   </data>
   <data name="E2865Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2865Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2865Internal" xml:space="preserve">
-    <value />
+    <value>E2865Internal</value>
   </data>
   <data name="E2865Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring plain surface clamping device left</value>
   </data>
   <data name="E2865Title" xml:space="preserve">
-    <value />
+    <value>E2865</value>
   </data>
   <data name="E2866Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match active output</value>
   </data>
   <data name="E2866Handling" xml:space="preserve">
-    <value />
+    <value>Check outputs and limit switch.</value>
   </data>
   <data name="E2866Internal" xml:space="preserve">
-    <value />
+    <value>E2866Internal</value>
   </data>
   <data name="E2866Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring turning station</value>
   </data>
   <data name="E2866Title" xml:space="preserve">
-    <value />
+    <value>E2866</value>
   </data>
   <data name="E2867Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match active output</value>
   </data>
   <data name="E2867Handling" xml:space="preserve">
-    <value />
+    <value>Check outputs and limit switch.</value>
   </data>
   <data name="E2867Internal" xml:space="preserve">
-    <value />
+    <value>E2867Internal</value>
   </data>
   <data name="E2867Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring gripper turning station</value>
   </data>
   <data name="E2867Title" xml:space="preserve">
-    <value />
+    <value>E2867</value>
   </data>
   <data name="E2868Description" xml:space="preserve">
-    <value />
+    <value>No flow at building water connection of the control cabinet cooler</value>
   </data>
   <data name="E2868Handling" xml:space="preserve">
-    <value />
+    <value>Check filter.</value>
   </data>
   <data name="E2868Internal" xml:space="preserve">
-    <value />
+    <value>E2868Internal</value>
   </data>
   <data name="E2868Text" xml:space="preserve">
-    <value />
+    <value>Hydac low flow rate building water system</value>
   </data>
   <data name="E2868Title" xml:space="preserve">
-    <value />
+    <value>E2868</value>
   </data>
   <data name="E2869Description" xml:space="preserve">
-    <value />
+    <value>No flow in internal cycle</value>
   </data>
   <data name="E2869Handling" xml:space="preserve">
-    <value />
+    <value>Check pump.</value>
   </data>
   <data name="E2869Internal" xml:space="preserve">
-    <value />
+    <value>E2869Internal</value>
   </data>
   <data name="E2869Text" xml:space="preserve">
-    <value />
+    <value>Hydac low internal flow rate</value>
   </data>
   <data name="E2869Title" xml:space="preserve">
-    <value />
+    <value>E2869</value>
   </data>
   <data name="E2870Description" xml:space="preserve">
-    <value />
+    <value>Level in the tank of the Hydac control cabinet cooler is below the minimum</value>
   </data>
   <data name="E2870Handling" xml:space="preserve">
-    <value />
+    <value>Check fluid.</value>
   </data>
   <data name="E2870Internal" xml:space="preserve">
-    <value />
+    <value>E2870Internal</value>
   </data>
   <data name="E2870Text" xml:space="preserve">
-    <value />
+    <value>Hydac tank minimum alarm</value>
   </data>
   <data name="E2870Title" xml:space="preserve">
-    <value />
+    <value>E2870</value>
   </data>
   <data name="E2871Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2871Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2871Internal" xml:space="preserve">
-    <value />
+    <value>E2871Internal</value>
   </data>
   <data name="E2871Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring clamping device Z3-Axis is activated</value>
   </data>
   <data name="E2871Title" xml:space="preserve">
-    <value />
+    <value>E2871</value>
   </data>
   <data name="E2872Description" xml:space="preserve">
-    <value />
+    <value>Inputs do not match to the active output</value>
   </data>
   <data name="E2872Handling" xml:space="preserve">
-    <value />
+    <value>Please check outputs and limit switches.</value>
   </data>
   <data name="E2872Internal" xml:space="preserve">
-    <value />
+    <value>E2872Internal</value>
   </data>
   <data name="E2872Text" xml:space="preserve">
-    <value />
+    <value>Limit switch pair monitoring clamping device Z4-Axis is activated</value>
   </data>
   <data name="E2872Title" xml:space="preserve">
-    <value />
+    <value>E2872</value>
   </data>
   <data name="E2873Description" xml:space="preserve">
-    <value />
+    <value>During manual loading brake test Y5-axis will be done</value>
   </data>
   <data name="E2873Handling" xml:space="preserve">
-    <value />
+    <value>Please start "Homepositon" or start Automatic program or start brake test about HMI.</value>
   </data>
   <data name="E2873Internal" xml:space="preserve">
-    <value />
+    <value>E2873Internal</value>
   </data>
   <data name="E2873Text" xml:space="preserve">
-    <value />
+    <value>Manual loading: Brake test Y5-axis</value>
   </data>
   <data name="E2873Title" xml:space="preserve">
-    <value />
+    <value>E2873</value>
   </data>
   <data name="E2874Description" xml:space="preserve">
-    <value />
+    <value>Lubrication gantry level low</value>
   </data>
   <data name="E2874Handling" xml:space="preserve">
-    <value />
+    <value>Please fill the lubrication system from gantry.</value>
   </data>
   <data name="E2874Internal" xml:space="preserve">
-    <value />
+    <value>E2874Internal</value>
   </data>
   <data name="E2874Text" xml:space="preserve">
-    <value />
+    <value>Lubrication gantry level low</value>
   </data>
   <data name="E2874Title" xml:space="preserve">
-    <value />
+    <value>E2874</value>
   </data>
   <data name="E2875Description" xml:space="preserve">
-    <value />
+    <value>Temperatur Lahntechnik cooling unit not ok</value>
   </data>
   <data name="E2875Handling" xml:space="preserve">
-    <value />
+    <value>Please check the cooling unit and pipes.</value>
   </data>
   <data name="E2875Internal" xml:space="preserve">
-    <value />
+    <value>E2875Internal</value>
   </data>
   <data name="E2875Text" xml:space="preserve">
-    <value />
+    <value>Temperatur external cooling system Lahntechnik not OK-&gt; End of cycle</value>
   </data>
   <data name="E2875Title" xml:space="preserve">
-    <value />
+    <value>E2875</value>
   </data>
   <data name="E2876Description" xml:space="preserve">
-    <value />
+    <value>Cooling temperatur IO-Link too high</value>
   </data>
   <data name="E2876Handling" xml:space="preserve">
-    <value />
+    <value>Check cooling unit and pipes.</value>
   </data>
   <data name="E2876Internal" xml:space="preserve">
-    <value />
+    <value>E2876Internal</value>
   </data>
   <data name="E2876Text" xml:space="preserve">
-    <value />
+    <value>Cooling temperatur too high</value>
   </data>
   <data name="E2876Title" xml:space="preserve">
-    <value />
+    <value>E2876</value>
   </data>
 </root>
